@@ -8,11 +8,11 @@ Les trois langues que nous allons étudier sont le français, l'anglais et le ch
 
 Nous nous sommes mises d'accord pour choisir le mot **"argent"** pour notre projet. Nous avons choisi ce mot nous sommes intéressées de découvrir ses utilisations et ses emplois sur les pages web dans différentes langues.
 
-_-> Ce mot est-il majoritairement utilisé par des économistes ? Ou bien ces derniers emploient-ils des mots plus précis ? 
+_-> Ce mot est-il majoritairement utilisé par des économistes ? Ou bien ces derniers emploient-ils des mots plus précis ?_ 
 
--> Y a-t-il est sentiments qui gravitent autour du mot "argent" ? Lesquels ?
+_-> Y a-t-il est sentiments qui gravitent autour du mot "argent" ? Lesquels ?_
 
--> Comment la vision de l'argent diffère-t-elle d'un pays à l'autre ? (de plus, en français, ce mot a un homonyme)_
+_-> Comment la vision de l'argent diffère-t-elle d'un pays à l'autre ? (de plus, en français, ce mot a un homonyme)_
 
 
 
