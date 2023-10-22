@@ -15,4 +15,15 @@ _-> Y a-t-il est sentiments qui gravitent autour du mot "argent" ? Lesquels ?_
 _-> Comment la vision de l'argent diffère-t-elle d'un pays à l'autre ? (de plus, en français, ce mot a un homonyme)_
 
 
+## le français
+
+## l'anglais
+
+## le chinois
+
+- En chinois, la particule **"钱" (qián)** est souvent utilisée pour désigner l'argent, la monnaie ou la richesse matérielle en général. Toutefois, l'utilisation de cette particule seule ne capture pas toutes les nuances et les implications culturelles associées à la notion d'argent. Lorsqu'elle est combinée avec d'autres caractères, elle crée des termes qui évoquent des idées plus spécifiques ou des contextes particuliers.
+
+_-> Comment la combinaison de la particule "钱" (qián) avec d'autres caractères en chinois, tels que "金" (jīn) pour former "金钱" (jīnqián,argent) ou "钱币"(qiánbì, monnaie), reflète-t-elle les nuances culturelles et les valeurs associées à la notion d'argent dans la société chinoise contemporaine ?
+
+
 
