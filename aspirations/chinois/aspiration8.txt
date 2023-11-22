@@ -54,8 +54,8 @@
     var newsId=0;
 
     var itemId = '484363';
-    var signAna = 'bb850d6f2859a61e2c6294d1aa1c34e63fe8728f';
-    var signTime = '1700645135';
+    var signAna = '34dc8ee118a71f8eb7f654c2b4ac7a11a49eb161';
+    var signTime = '1700647989';
     var productId = 0;
     var channel = 'huxiu';
     var refer = '';
