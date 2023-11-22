@@ -1,0 +1,1843 @@
+﻿
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-GB">
+
+<head>
+
+<script type="text/javascript" async="async" src="/static/js/le-mtagconfig.js?_ffc=5249623851007387904"></script>
+<script type="text/javascript" async="async" src="/static/js/lp-gatracking.js?_ffc=5249623851007387904"></script>
+
+<script>
+    lpTag = window.lpTag || {}
+    lpTag.section = ["debt","en-gb"];
+</script>
+
+
+
+<script>
+    dataLayer = [{'GUID':'41bbff9e-1bb5-444a-adfd-33c733049e14','pageTemplate':'BetaContentPage','userRole':'ANONYMOUS','public':'True','language':'England','extent':'EWS'}];
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window, document, 'script', 'dataLayer', 'GTM-T5MB575');</script>
+<!-- End Google Tag Manager -->
+<meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	Get help with the cost of living - Citizens Advice
+</title><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2.0" /><meta name="cab-guid" content="41bbff9e-1bb5-444a-adfd-33c733049e14" /><meta name="cab-title" content="Get help with the cost of living" />
+
+<meta property="og:url" content="http://www.citizensadvice.org.uk/debt-and-money/get-help-with-the-cost-of-living/" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Get help with the cost of living" />
+<meta property="og:description" content="Check what extra help you could get if you&#39;re struggling with the cost of living - including the Cost of Living Payment scheme." />
+<meta property="og:image" content="http://www.citizensadvice.org.uk/Images/Public/socialmedia/CA.png" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@CitizensAdvice" />
+<meta name="twitter:title" content="Get help with the cost of living" />
+<meta name="twitter:description" content="Check what extra help you could get if you&#39;re struggling with the cost of living - including the Cost of Living Payment scheme." />
+<meta name="twitter:image" content="http://www.citizensadvice.org.uk/Images/Public/socialmedia/CA.png" />
+<meta name="cab-extent" content="EWS" /><meta name="msvalidate.01" content="B53C5C20449FC2233D3862B4DBEDFA3E" />
+<meta class="swiftype" content="advice" data-type="string" name="search_type_filter" />
+
+<meta class="swiftype" content="everything" data-type="string" name="search_type_filter" />
+
+<meta class="swiftype" content="england" data-type="string" name="audience_filter" />
+<link rel="canonical" href="https://www.citizensadvice.org.uk/debt-and-money/get-help-with-the-cost-of-living/" /><link rel="stylesheet" href="/Static/build/css/site.css?_ffc=5249623851927387904" /><link rel="shortcut icon" href="/static/layout/favicon.ico" /><link rel="apple-touch-icon" href="/static/images/apple-touch-icon.png" />
+
+    
+    <!--[if gt IE 7]><meta -->
+    <script>!function(e,o){var s=e.documentElement;s.className=s.className.replace(/\bno-js\b/,"js"),o.$=function(e){var s=o.$.q=o.$.q||[];if(s.push(e),"function"!=typeof e)throw new Error("jQuery not yet loaded")},/\beprivacy=3(;|$)/i.test(e.cookie)&&(s.className+=" hide-cookie-monster"),e.cookie="z=1; path=/",/(?:^| )z=1(?:;|$)/.test(e.cookie)?e.cookie="z=; expires="+new Date(0).toUTCString()+"; path=/":s.className=s.className+=" no-cookies",$.bind||e.write('<script src="/static/build/js/polyfills.js"><~script>'.replace("~","/"))}(document,window);</script>
+    <!--<![endif]-->
+    <!--[if lt IE 9]><script src="/static/build/js/ie9.js?_ffc=5249623851847387904"></script><![endif]-->
+    
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+(function(g,s,n,p){
+g('create','UA-8734782-39','auto');
+g('set','title','Get help with the cost of living');
+g('set','dimension1','41bbff9e-1bb5-444a-adfd-33c733049e14');
+g('set','dimension2','BetaContentPage');
+g('set','dimension3','ANONYMOUS');
+try{var d=JSON.parse(s.getItem(n));if(Date.now()<d[0]+20000)g('set','dimension4',d[1]);s.removeItem(n);}catch(e){}
+g('set','dimension5','True');
+g('set','dimension6','England');
+g('set','dimension7','EWS');
+try{var v=s.getItem(p);if(v!== null){g('set','dimension8', v);g('set','metric1', parseInt(v))};s.removeItem(p);}catch(e){}
+g('send','pageview');
+}(ga,window.sessionStorage,'data-track-zone', 'searchPosition'));
+if(!window._rollbarConfig)window.onerror=function(m,u,l){ga('send','event','Error',''+[m,u,l],location.href,{nonInteraction:1})};
+</script>
+    
+    
+    <style>
+        .well.tertiary {
+            background: #e7f3f5;
+            padding: .75em 1em;
+            padding: 12px 16px;
+            padding: .75rem 1rem;
+            margin: 12px 0;
+            margin: .75rem 0;
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .well.tertiary h5 {
+            width: 100%;
+        }
+
+        .well.tertiary ul {
+            list-style: none;
+            padding: 0;
+            box-sizing: border-box;
+            width: 48%;
+            margin: 0 1%;
+        }
+
+        @media screen and (max-width: 750px) {
+            .well.tertiary ul {
+                width: 100%;
+                flex: 1 0 100%;
+                margin: 0;
+            }
+        }
+    </style>
+    
+
+
+<meta name="keywords" content="cost of living" /><meta name="description" content="Check what extra help you could get if you&#39;re struggling with the cost of living - including the Cost of Living Payment scheme." /><meta name="cab-template" content="BetaContentPage" /><meta name="cab-id" content="63624" /><meta name="google-site-verification" content="G_YLKdZFN3JtUMLHXFvqerm8eMg1ISZgmZB92KjrXkM" /></head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5MB575" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!--[if IE 8]><div class="ie8"><![endif]-->
+
+    
+
+    <div class="skip-nav">
+        <a class="screenreader screenreader--focusable" href="#main-nav">Skip to navigation</a>
+        <a class="screenreader screenreader--focusable" href="#main">Skip to content</a>
+        <a class="screenreader screenreader--focusable" href="#footer">Skip to footer</a>
+    </div>
+
+    
+
+<div class="cookie-monster hide-no-cookies hide-no-js no-print" role="note">
+    <div class="cookie-monster__content">
+        <p>We use cookies to improve your experience of our website.&nbsp;<a href="/about-us/about-us1/citizens-advice-privacy-policy/how-we-use-cookies/">You can find out more or opt-out from some cookies</a>.</p>
+        <button type="button" class="button--blue cookie-monster__close" data-action="close">
+            I’m fine with cookies
+        </button>
+    </div>
+</div>
+
+    <header class="main-header">
+        
+
+
+<style>
+    .digi-header-top-notice-bar {
+        background-color: #fcbb69;
+        text-align:center;
+        color: #191926;
+    }
+
+    .digi-header-top-notice-bar p {
+         padding: 2px 2px 2px 2px;
+    }
+
+</style>
+
+ 
+
+        <div class="main-header__content">
+            <a href="/" class="main-header__logo">
+                <img onerror="this.onerror=null;this.src=&#39;/Static/images/logos/ca-logo_100px.svg.png&#39;;" src="/Static/images/logos/ca-logo_100px.svg" alt="Citizens Advice home" />
+                <img src="/static/images/logos/ca-logo-mobile.svg" class="main-header__img--mobile no-print wide" onerror="this.onerror=null;this.src=&#39;/static/images/logos/ca-logo-mobile.svg.png&#39;" alt="Citizens Advice" />
+            </a>
+
+            <div class="main-header__links" data-track-zone="top-bar">
+                <a class="main-header__menu-link js-toggle-menu" href="#footer">
+                    <i class="icon-menu" aria-hidden="true"></i>
+                    Menu
+                </a>
+
+                <nav class="main-header__top-nav">
+                    <a href="?lang=cy">Cymraeg</a>
+                    
+                        <a class="hide-offline main-header__login" href="/login/?redirect=false&amp;ReturnUrl=%2fdebt-and-money%2fget-help-with-the-cost-of-living%2f">
+                            <i aria-hidden="true" class="icon-key"></i>
+                            Sign in
+                        </a>
+                    
+                    
+                    
+                </nav>
+
+                
+                    <form action="/resources-and-tools/search-navigation-tools/Search/" role="search" class="main-header__search hide-offline">
+                        
+                        <label for="main-header__search__input" class="screenreader">
+                            Search</label>
+                        <input type="search" id="main-header__search__input" name="q" placeholder="" class="main-header__search__input" />
+                        <input type="hidden" name="c" value="TOP-PUBLIC" />
+                        <button type="submit" title="Search" class="main-header__search__submit">
+                            <i aria-hidden="true" class="icon-search icon--no-text"></i>
+                            <span class="screenreader">
+                                Search</span>
+                        </button>
+                    </form>
+                
+
+            </div>
+        </div>
+    </header>
+
+    
+
+<nav id="main-nav" class="main-nav" role="navigation" aria-label="Main navigation" data-track-zone="main-nav" tabindex="-1">
+	<ul class="nav-list-primary">
+        
+            <li class="top-item js-mega-menu">
+                <a href="/benefits/">Benefits</a>
+                <div class="mega-menu hide-no-js mega-menu--show-right">
+    <span class="mega-menu__arrow"></span>
+    <div class="mega-menu__left" data-track-zone="mega-menu-left">
+        
+            <h2 class="mega-menu__title"><strong><a href="/benefits/">Benefits</a></strong></h2>
+            <ul>
+        
+                <li><a href="/benefits/benefits-introduction/">Benefits - introduction</a></li>
+        
+                <li><a href="/benefits/universal-credit/">Universal Credit</a></li>
+        
+                <li><a href="/benefits/help-if-on-a-low-income/">Help on a low income</a></li>
+        
+                <li><a href="/benefits/sick-or-disabled-people-and-carers/">Sick or disabled people and carers</a></li>
+        
+                <li><a href="/benefits/child-benefit/">Child Benefit</a></li>
+        
+                <li><a href="/benefits/support-for-mortgage-interest-smi/">Support for mortgage interest (SMI)</a></li>
+        
+                <li><a href="/benefits/check-if-you-have-the-right-to-reside-for-benefits/">Check if you have the right to reside for benefits</a></li>
+        
+                <li><a href="/benefits/getting-benefits-if-youve-recently-moved-to-the-UK/">Getting benefits if you’ve recently moved to the UK</a></li>
+        
+                <li class="view-all"><a href="/benefits/">View all in Benefits</a></li>
+            </ul>
+        
+    </div>
+    <div class="mega-menu__right" data-track-zone="mega-menu-right">
+		
+            <h3 class="mega-menu__title"><strong>Top links</strong></h3>
+            <ul>
+            <li></li>
+        
+                <li><a href="/benefits/benefits-introduction/what-benefits-can-i-get/">Benefit calculators: what benefits can you get</a></li>
+        
+                <li><a href="/benefits/sick-or-disabled-people-and-carers/pip/before-claiming/check-you-are-eligible/">Check if you&#39;re eligible for PIP</a></li>
+        
+                <li><a href="/benefits/sick-or-disabled-people-and-carers/pip/before-claiming/how-much-you-get-and-how-long/">How much PIP you can get</a></li>
+        
+                <li><a href="/benefits/sick-or-disabled-people-and-carers/pip/help-with-your-claim/how-to-claim/">How to claim PIP</a></li>
+        
+                <li><a href="/benefits/sick-or-disabled-people-and-carers/pip/help-with-your-claim/fill-in-form-pip/">Check how to fill in your PIP claim form</a></li>
+        
+                <li><a href="/benefits/help-if-on-a-low-income/pension-credit/before-you-claim-pension-credit/check-if-you-can-get-pension-credit/">Check if you can get Pension Credit</a></li>
+        
+            </ul>
+        
+	    
+    </div>
+</div>
+            </li>
+        
+            <li class="top-item js-mega-menu">
+                <a href="/work/">Work</a>
+                <div class="mega-menu hide-no-js mega-menu--hide-left mega-menu--show-right">
+    <span class="mega-menu__arrow"></span>
+    
+    <div class="mega-menu__right" data-track-zone="mega-menu-right">
+		
+            <h3 class="mega-menu__title"><strong>Top links</strong></h3>
+            <ul>
+            <li></li>
+        
+                <li><a href="/work/resigning/your-notice-period-when-resigning/">Your notice period when resigning</a></li>
+        
+                <li><a href="/work/pay/problems-getting-paid/">Problems getting paid</a></li>
+        
+                <li><a href="/work/maternity-and-parental-rights/check-your-maternity-and-parental-rights/maternity-leave-and-pay/maternity-pay-what-youre-entitled-to/">Maternity pay - what you&#39;re entitled to</a></li>
+        
+                <li><a href="/work/redundancy/check-your-rights-if-youre-made-redundant/if-youre-being-made-redundant/redundancy-pay/">Check how much redundancy pay you can get</a></li>
+        
+                <li><a href="/work/grievance-meetings/Letter-to-raise-a-grievance-at-work/">Template letter to raise a grievance at work</a></li>
+        
+            </ul>
+        
+	    
+    </div>
+</div>
+            </li>
+        
+            <li class="top-item js-mega-menu">
+                <a href="/debt-and-money/">Debt and money</a>
+                <div class="mega-menu hide-no-js mega-menu--show-right">
+    <span class="mega-menu__arrow"></span>
+    <div class="mega-menu__left" data-track-zone="mega-menu-left">
+        
+            <h2 class="mega-menu__title"><strong><a href="/debt-and-money/">Debt and money</a></strong></h2>
+            <ul>
+        
+                <li><a href="/debt-and-money/get-help-with-the-cost-of-living/">Get help with the cost of living</a></li>
+        
+                <li><a href="/debt-and-money/help-with-debt/">Help with debt</a></li>
+        
+                <li><a href="/debt-and-money/using-a-food-bank/">Using a food bank</a></li>
+        
+                <li><a href="/debt-and-money/debt-solutions/">Debt solutions</a></li>
+        
+                <li><a href="/debt-and-money/budgeting1/">Budgeting</a></li>
+        
+                <li><a href="/debt-and-money/mortgage-problems/">Mortgage problems</a></li>
+        
+                <li><a href="/debt-and-money/rent-arrears/">Rent arrears</a></li>
+        
+                <li><a href="/debt-and-money/action-your-creditor-can-take/">Action your creditor can take</a></li>
+        
+                <li class="view-all"><a href="/debt-and-money/">View all in Debt and money</a></li>
+            </ul>
+        
+    </div>
+    <div class="mega-menu__right" data-track-zone="mega-menu-right">
+		
+            <h3 class="mega-menu__title"><strong>Top links</strong></h3>
+            <ul>
+            <li></li>
+        
+                <li><a href="/debt-and-money/help-with-debt/dealing-with-your-debts/check-if-you-have-to-pay-a-debt/">Check if you have to pay a debt</a></li>
+        
+                <li><a href="/debt-and-money/pensions/types-of-pension/state-pension/">State Pension</a></li>
+        
+                <li><a href="/debt-and-money/budgeting1/get-help-with-bills/">Get help with bills</a></li>
+        
+                <li><a href="/debt-and-money/action-your-creditor-can-take/bailiffs/stopping-bailiffs/stopping-bailiffs-at-your-door/">Stopping bailiffs at your door</a></li>
+        
+                <li><a href="/debt-and-money/banking/banking-security-and-fraud/">Banking – security and fraud</a></li>
+        
+            </ul>
+        
+	    
+    </div>
+</div>
+            </li>
+        
+            <li class="top-item js-mega-menu">
+                <a href="/consumer/">Consumer</a>
+                <div class="mega-menu hide-no-js mega-menu--hide-left mega-menu--show-right">
+    <span class="mega-menu__arrow"></span>
+    
+    <div class="mega-menu__right" data-track-zone="mega-menu-right">
+		
+            <h3 class="mega-menu__title"><strong>Top links</strong></h3>
+            <ul>
+            <li></li>
+        
+                <li><a href="/consumer/energy/energy-supply/">Your energy supply</a></li>
+        
+                <li><a href="/consumer/energy/energy-supply/get-help-paying-your-bills/grants-and-benefits-to-help-you-pay-your-energy-bills/">Grants and benefits to help you pay your energy bills</a></li>
+        
+                <li><a href="/consumer/energy/energy-supply/get-help-paying-your-bills/you-cant-afford-to-top-up-your-prepayment-meter/">You can&#39;t afford to top up your prepayment meter</a></li>
+        
+                <li><a href="/consumer/energy/energy-supply/your-energy-meter/how-to-read-your-smart-gas-meter/">How to read your smart gas meter</a></li>
+        
+                <li><a href="/consumer/scams/check-if-you-can-get-your-money-back-after-a-scam/">Check if you can get your money back after a scam</a></li>
+        
+                <li><a href="/consumer/get-more-help/report-to-trading-standards/">Report to Trading Standards</a></li>
+        
+                <li><a href="/consumer/get-more-help/if-you-need-more-help-about-a-consumer-issue/">Contact the consumer helpline</a></li>
+        
+            </ul>
+        
+	    <div class="mega-menu__promo" data-track-zone="mega-menu-promo">
+            
+			<div class="mega-menu-promo-block-content">
+                <a href="/consumer/" class="promoLink">View all</a>
+				<p></p>
+			</div>
+	    </div>
+    </div>
+</div>
+            </li>
+        
+            <li class="top-item js-mega-menu">
+                <a href="/housing/">Housing</a>
+                <div class="mega-menu hide-no-js">
+    <span class="mega-menu__arrow"></span>
+    <div class="mega-menu__left" data-track-zone="mega-menu-left">
+        
+            <h2 class="mega-menu__title"><strong><a href="/housing/">Housing</a></strong></h2>
+            <ul>
+        
+                <li><a href="/housing/renting-privately/">Renting privately</a></li>
+        
+                <li><a href="/housing/social-housing/">Renting from the council or a housing association</a></li>
+        
+                <li><a href="/housing/homelessness/">Homelessness </a></li>
+        
+                <li><a href="/housing/repairs-in-rented-housing/">Repairs in rented housing</a></li>
+        
+                <li><a href="/housing/renting-a-home/">Renting a home</a></li>
+        
+                <li><a href="/debt-and-money/mortgage-problems/">Mortgage problems</a></li>
+        
+                <li><a href="/debt-and-money/rent-arrears/eviction-for-rent-arrears-debt-and-money/">Eviction for rent arrears</a></li>
+        
+                <li><a href="/housing/discrimination-in-housing/">Discrimination in housing</a></li>
+        
+                <li class="view-all"><a href="/housing/">View all in Housing</a></li>
+            </ul>
+        
+    </div>
+    
+</div>
+            </li>
+        
+            <li class="top-item js-mega-menu">
+                <a href="/family/">Family</a>
+                <div class="mega-menu hide-no-js mega-menu--show-right">
+    <span class="mega-menu__arrow"></span>
+    <div class="mega-menu__left" data-track-zone="mega-menu-left">
+        
+            <h2 class="mega-menu__title"><strong><a href="/family/">Family</a></strong></h2>
+            <ul>
+        
+                <li><a href="/family/living-together-marriage-and-civil-partnership/">Living together, marriage and civil partnership</a></li>
+        
+                <li><a href="/family/how-to-separate1/">How to separate</a></li>
+        
+                <li><a href="/family/sorting-out-money/">Sorting out money</a></li>
+        
+                <li><a href="/family/making-agreements-about-your-children/">Making agreements about your children</a></li>
+        
+                <li><a href="/family/if-you-were-living-together/">If you were living together</a></li>
+        
+                <li><a href="/family/death-and-wills/">Death and wills</a></li>
+        
+                <li><a href="/family/gender-violence/">Gender violence</a></li>
+        
+                <li><a href="/family/children-and-young-people/">Children and young people</a></li>
+        
+                <li class="view-all"><a href="/family/">View all in Family</a></li>
+            </ul>
+        
+    </div>
+    <div class="mega-menu__right" data-track-zone="mega-menu-right">
+		
+            <h3 class="mega-menu__title"><strong>Top links</strong></h3>
+            <ul>
+            <li></li>
+        
+                <li><a href="/family/death-and-wills/wills/">Making a will</a></li>
+        
+                <li><a href="/health/get-advice-about-health-services/">Complaining about social care services</a></li>
+        
+                <li><a href="/family/looking-after-people/managing-affairs-for-someone-else/">What does it mean to have power of attorney?</a></li>
+        
+            </ul>
+        
+	    <div class="mega-menu__promo" data-track-zone="mega-menu-promo">
+            
+			<div class="mega-menu-promo-block-content">
+                <a href="/family/children-and-young-people/protecting-children/" class="promoLink">Child abuse - advice and support</a>
+				<p>Advice for people affected by child abuse.</p>
+			</div>
+	    </div>
+    </div>
+</div>
+            </li>
+        
+            <li class="top-item js-mega-menu">
+                <a href="/law-and-courts/">Law and courts</a>
+                <div class="mega-menu hide-no-js mega-menu--show-right">
+    <span class="mega-menu__arrow"></span>
+    <div class="mega-menu__left" data-track-zone="mega-menu-left">
+        
+            <h2 class="mega-menu__title"><strong><a href="/law-and-courts/">Law and courts</a></strong></h2>
+            <ul>
+        
+                <li><a href="/law-and-courts/legal-system/">Legal system</a></li>
+        
+                <li><a href="/law-and-courts/personal-injuries/">Claiming compensation for a personal injury</a></li>
+        
+                <li><a href="/law-and-courts/discrimination/">Discrimination</a></li>
+        
+                <li><a href="/law-and-courts/parking-tickets/">Parking tickets</a></li>
+        
+                <li><a href="/law-and-courts/civil-rights/">Civil rights</a></li>
+        
+                <li><a href="/law-and-courts/appealing-a-post-office-conviction/">Appealing a Post Office conviction</a></li>
+        
+                
+            </ul>
+        
+    </div>
+    <div class="mega-menu__right" data-track-zone="mega-menu-right">
+		
+            <h3 class="mega-menu__title"><strong>Top links</strong></h3>
+            <ul>
+            <li></li>
+        
+                <li><a href="/law-and-courts/legal-system/small-claims/making-a-small-claim/">Making a small claim</a></li>
+        
+                <li><a href="/family/gender-violence/rape-and-sexual-assault/">Help for victims of rape and sexual violence</a></li>
+        
+            </ul>
+        
+	    
+    </div>
+</div>
+            </li>
+        
+            <li class="top-item js-mega-menu">
+                <a href="/immigration/">Immigration</a>
+                <div class="mega-menu hide-no-js mega-menu--hide-left mega-menu--show-right">
+    <span class="mega-menu__arrow"></span>
+    
+    <div class="mega-menu__right" data-track-zone="mega-menu-right">
+		
+            <h3 class="mega-menu__title"><strong>Top links</strong></h3>
+            <ul>
+            <li></li>
+        
+                <li><a href="/immigration/staying-in-the-uk-after-brexit/staying-in-the-uk-if-youre-from-the-eu/">Applying to the EU Settlement Scheme</a></li>
+        
+                <li><a href="/immigration/staying-in-the-uk-after-brexit/bringing-family-to-live-in-the-uk-after-brexit/">Keeping your family in the UK after Brexit</a></li>
+        
+                <li><a href="/immigration/applying-for-British-citizenship/becoming-a-british-citizen/">Getting British citizenship</a></li>
+        
+                <li><a href="/immigration/getting-visas-for-family-members/check-if-your-partner-and-children-can-get-visas-in-the-uk/">Getting a visa for your spouse or partner</a></li>
+        
+                <li><a href="/immigration/getting-a-visitor-visa/getting-a-visitor-visa-for-friends-and-family/">Getting a visa for family and friends</a></li>
+        
+                <li><a href="/immigration/stay-in-uk/visas-after-a-divorce/">Staying in the UK after a divorce</a></li>
+        
+                <li><a href="/immigration/stay-in-uk/overstayed-visa/">If you&#39;ve overstayed your visa or leave</a></li>
+        
+                <li><a href="/immigration/living-in-the-uk-illegally/your-options-if-youre-in-the-uk-illegally/">If you&#39;re in the UK illegally</a></li>
+        
+                <li><a href="/immigration/asylum-and-refugees/after-you-get-refugee-status/">After you get refugee status</a></li>
+        
+            </ul>
+        
+	    <div class="mega-menu__promo" data-track-zone="mega-menu-promo">
+            
+			<div class="mega-menu-promo-block-content">
+                <a href="/immigration/" class="promoLink">View all in Immigration</a>
+				<p></p>
+			</div>
+	    </div>
+    </div>
+</div>
+            </li>
+        
+            <li class="top-item js-mega-menu">
+                <a href="/health/">Health</a>
+                <div class="mega-menu hide-no-js mega-menu--show-right">
+    <span class="mega-menu__arrow"></span>
+    <div class="mega-menu__left" data-track-zone="mega-menu-left">
+        
+            <h2 class="mega-menu__title"><strong><a href="/health/">Health</a></strong></h2>
+            <ul>
+        
+                <li><a href="/health/get-advice-about-health-services/">Get advice about health costs and services</a></li>
+        
+                
+            </ul>
+        
+    </div>
+    <div class="mega-menu__right" data-track-zone="mega-menu-right">
+		
+            <h3 class="mega-menu__title"><strong>Top links</strong></h3>
+            <ul>
+            <li></li>
+        
+                <li><a href="/health/get-advice-about-health-services/">Get advice about health services</a></li>
+        
+            </ul>
+        
+	    
+    </div>
+</div>
+            </li>
+        
+            <li class="top-item js-mega-menu">
+                <a href="/about-us/">More from us</a>
+                <div class="mega-menu hide-no-js mega-menu--show-right">
+    <span class="mega-menu__arrow"></span>
+    <div class="mega-menu__left" data-track-zone="mega-menu-left">
+        
+            <h2 class="mega-menu__title"><strong><a href="/about-us/">Learn more about Citizens Advice</a></strong></h2>
+            <ul>
+        
+                <li><a href="/about-us/about-us1/">About us</a></li>
+        
+                <li><a href="/about-us/our-work/">Our work</a></li>
+        
+                <li><a href="/about-us/job-and-voluntary-opportunities/">Work with us</a></li>
+        
+                <li><a href="/about-us/support-us/">Support us</a></li>
+        
+                <li><a href="/about-us/contact-us/contact-us/contact-us/">Contact us</a></li>
+        
+                <li><a href="/about-us/adviser-resources/">Adviser resources</a></li>
+        
+                
+            </ul>
+        
+    </div>
+    <div class="mega-menu__right" data-track-zone="mega-menu-right">
+		
+            <h3 class="mega-menu__title"><strong>Top links</strong></h3>
+            <ul>
+            <li></li>
+        
+                <li><a href="/about-us/contact-us/contact-us/contact-us/">Find your local Citizens Advice</a></li>
+        
+                <li><a href="/about-us/support-us/volunteering/">Volunteer with us</a></li>
+        
+                <li><a href="/about-us/job-and-voluntary-opportunities/">Jobs in our network</a></li>
+        
+                <li><a href="/about-us/about-us1/media/press-releases/">Press releases</a></li>
+        
+            </ul>
+        
+	    <div class="mega-menu__promo" data-track-zone="mega-menu-promo">
+            <img src="/Global/Public/Images/Silhouettes/heritageblue-mugs-200x200px.png" alt="" />
+			<div class="mega-menu-promo-block-content">
+                <a href="https://wearecitizensadvice.org.uk/" class="promoLink a-external" rel="external">Our blogs</a>
+				<p>Read what we&#39;re saying about a range of issues</p>
+			</div>
+	    </div>
+    </div>
+</div>
+            </li>
+        
+        <li class="nav-list-primary-more js-more-menu" style="display:none;">
+            <a href="#!">More<i aria-hidden="true" class="icon-down"></i></a>
+            <ul class="main-nav__more-links"></ul>
+        </li>
+    </ul>
+</nav>
+
+
+
+    <div class="main-container">
+        
+
+<nav role="navigation" class="main-breadcrumb" aria-label="Breadcrumb" data-track-zone="breadcrumb">
+
+    <div class="main-breadcrumb__content breadcrumb">
+        
+            <a href="/resources-and-tools/about-this-site/location/" class="breadcrumb__extent-link js-extent-link">
+                England
+                <i aria-disabled="true" class="icon-down"></i>
+            </a>
+            <div class="breadcrumb__extent-popup js-extent-popup hide hide-offline" data-track-zone="breadcrumb-extent-switcher">
+                <p><strong>This advice applies to England:</strong></p>
+                <ul class="arrow-list">
+                    <li><a href="/">England home
+                    </a></li>
+                </ul>
+                <p>Advice can vary depending on where you live.</p>
+                <p>Advice for other parts of the UK:</p>
+                <ul class="arrow-list">
+                    
+                            <li><a rel="alternate" href="/?lang=en-NIR">Northern Ireland home</a></li>
+                        
+                            <li><a rel="alternate" href="/?lang=en-SCT">Scotland home</a></li>
+                        
+                            <li><a rel="alternate" href="/?lang=en-WLS">Wales home</a></li>
+                        
+                </ul>
+
+            </div>
+        
+
+        
+
+        
+                
+                    <span class="breadcrumb__item">
+                        <i aria-hidden="true" class="icon-guillemet-right"></i>
+                        <a href="/debt-and-money/">Debt and money</a>
+                    </span>
+                
+            
+
+        
+            <span class="breadcrumb__item">
+                <i aria-hidden="true" class="icon-guillemet-right"></i>
+                <a>Get help with the cost of living</a>
+            </span>
+        
+    </div>
+
+</nav>
+
+
+        
+        
+
+
+<style>
+
+    /* MOBILE */
+    @media(max-width:599px) {
+
+        .section-notice-mobile {
+            display: block;
+        }
+        o-flag__media {
+            padding-right: 0;
+        }
+    }
+
+</style>
+
+
+
+
+
+        
+        
+
+    <div class="main-content">
+        
+        <main role="main" class="main-content__right" id="main" tabindex="-1">
+            
+
+    
+
+    <div class="title">
+        <h1 class="title__heading js-ref">
+            
+            <span class="title__title">Get help with the cost of living</span>
+        </h1>
+
+        <div id="RootPlaceHolder_RootPlaceHolder_SubHeading" class="title__subheading">
+            <span class="hide-old-designs">
+                This advice applies to
+                
+                    <a class="btn-secondary btn-small js-toggle-extent-dialog" href="/resources-and-tools/about-this-site/location/">
+                        England</a>
+                
+            </span>
+            <button class="toolbar-button a-social-print hide-no-js hide-old-designs" type="button" onclick="window.print();" data-track="Print-BC">
+                Print
+            </button>
+            
+            
+
+
+        </div>
+
+        
+    </div>
+
+    <div class="articleContent">
+        <div>
+	
+<p>If you don’t have enough money to live on, you might be able to get help to afford essentials like bills and food. This includes the Household Support Fund and cost of living payments.</p>
+
+
+<p>You should check if you can claim benefits - you might be able to do this even if you work, have savings or own a home.</p>
+<div class="callout--alert">
+<h2 id="h-if-you-owe-money-and-you-re-struggling-to-pay" class="js-ref">If you owe money and you're struggling to pay</h2>
+<p dir="ltr">You should speak to the organisations you owe money to – they might let you pay smaller amounts or take a break from payments.</p>
+<p dir="ltr">Don’t ignore bills or letters about money you owe.</p>
+
+<p>You can <a href="/debt-and-money/help-with-debt/dealing-with-your-debts/check-your-debt-options/">find out how to start dealing with your debts</a>.</p>
+
+
+</div>
+<h2 dir="ltr" id="h-check-what-benefits-you-can-get" class="js-ref">Check what benefits you can get</h2>
+<p dir="ltr">Lots of people miss out on benefits they’re entitled to - so it’s worth checking what you can get.&nbsp;</p>
+<p dir="ltr">Claiming benefits might also let you get access to other financial help like cost of living payments and discounts on energy and transport.</p>
+<p dir="ltr">You might be able to claim benefits or increase your current benefits if you’re:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">over 16 years old with a low income or no income</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">sick or disabled, including if you have a mental health condition</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">of State Pension age with a low income or no income</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">a carer</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">responsible for children</p>
+</li>
+</ul>
+<p><a href="/benefits/benefits-introduction/what-benefits-can-i-get/">Check what benefits you can get</a>.</p>
+
+<h3 dir="ltr" id="h-get-your-first-benefit-payment-early" class="js-ref">Get your first benefit payment early</h3>
+
+<p dir="ltr">When you apply for benefits, you might be able to get your first payment early while you’re waiting for either:</p>
+
+
+<ul>
+<li dir="ltr">a decision on your application</li>
+</ul>
+<ul>
+<li class="_mce_tagged_br" dir="ltr">your first payment</li>
+</ul>
+<p>This is called a 'short-term benefit advance'. You can get an advance for:</p>
+<ul>
+<li>Universal Credit</li>
+<li>Jobseeker’s Allowance (JSA)</li>
+</ul>
+<ul>
+<li class="_mce_tagged_br" dir="ltr">Employment and Support Allowance (ESA)</li>
+</ul>
+<ul>
+<li class="_mce_tagged_br" dir="ltr">Carer’s Allowance</li>
+</ul>
+<ul>
+<li class="_mce_tagged_br" dir="ltr">Pension Credit</li>
+</ul>
+<ul>
+<li class="_mce_tagged_br" dir="ltr">State Pension</li>
+</ul>
+
+<p dir="ltr">You’ll need to pay back the advance. The Department for Work and Pensions (DWP) will take an amount off your future payments until you've paid it back.&nbsp;For Universal Credit, you can spread the repayments over 24 months. For other benefits, you’ll usually repay your advance over 12 weeks.</p>
+<p dir="ltr">If you've applied for Universal Credit, you can <a href="/benefits/universal-credit/claiming/get-advance-payment/">check how to get a Universal Credit advance payment</a>.</p>
+<p dir="ltr">If you’ve applied for a different benefit, contact the benefits office that's dealing with your claim. You can find their contact details on any letter or email you’ve had from them.</p>
+<h2 dir="ltr" id="h-check-if-you-ll-get-a-cost-of-living-payment" class="js-ref">Check if you'll get a Cost of Living Payment</h2>
+<p>The government will send you a 'Cost of Living Payment' if you:</p>
+<ul>
+<li>get a benefit based on your income - for example, Universal Credit, Pension Credit, or tax credits</li>
+<li>get a disability benefit - for example, Personal Independence Payment</li>
+<li>are over State Pension age and get Winter Fuel Payments</li>
+</ul>
+<p dir="ltr">You’ll get 1 Cost of Living Payment for each type of benefit you get. For example, if you get Universal Credit, Personal Independence Payment, and Winter Fuel Payments, you’ll get 3 Cost of Living Payments.</p>
+<p dir="ltr">If you’re not claiming benefits yet, you should&nbsp;<a href="/benefits/benefits-introduction/what-benefits-can-i-get/">check if you can claim benefits</a>. It's worth starting a claim as soon as possible if you're eligible - this means you might be able to get Cost of Living Payments in the future.</p>
+<section class="revealable">
+<h3 dir="ltr" id="h-if-you-get-benefits-based-on-your-income" class="js-ref">If you get benefits based on your income</h3>
+<p dir="ltr">If you’re eligible, the government will send you a payment of £300 in autumn 2023 - you'll get this by 19 November.</p>
+<p>To get the £300 payment you must have:</p>
+<ul>
+<li>been entitled to a benefits payment on any day from 18 August to 17 September 2023</li>
+<li>started a successful claim for Universal Credit by 18 August</li>
+<li>started a successful claim for another income-based benefit by 17 September 2023</li>
+</ul>
+<p>The government will send you another payment of £299 during spring 2024 if you’re still eligible.</p>
+<p dir="ltr">The government have already given 3 Cost of Living Payments to people who get certain benefits.&nbsp;</p>
+<h4 dir="ltr" id="h-if-you-didn-t-get-the-last-cost-of-living-payment" class="js-ref">If you didn't get the last Cost of Living Payment</h4>
+<p dir="ltr">You should have got a payment of £301 by 17 May 2023 if you get any of the following benefits:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Universal Credit</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Pension Credit</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Working Tax Credit</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Child Tax Credit</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">income-based Jobseekers Allowance</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">income-related Employment and Support Allowance</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Income Support</p>
+</li>
+</ul>
+<p dir="ltr">You’ll have only got one £301 payment - even if you get more than 1 of these benefits.&nbsp;</p>
+<p dir="ltr">To get the latest payment you must have either:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">received a benefits payment at any point between&nbsp;5 April and 17 May 2023</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">started a successful benefit claim between 5 April and 17 May 2023</p>
+</li>
+</ul>
+<p>If you’re waiting for a decision on your benefits claim, you won’t get the Cost of Living Payment until your claim is successful.</p>
+<p>If your benefits are paid to someone else, like your landlord, you should still have got the Cost of Living Payment.</p>
+<p dir="ltr">If you think you should have received a Cost of Living Payment, you can <a href="https://secure.dwp.gov.uk/report-a-missing-cost-of-living-payment/welcome" rel="external" class="a-external">report a missing payment on GOV.UK</a>.</p>
+</section>
+<section class="revealable">
+<h3 id="h-if-you-get-a-disability-benefit" class="js-ref">If you get a disability benefit</h3>
+<p dir="ltr">The government gave a £150 Cost of Living Payment to people getting disability benefits between 20 June and 4 July 2023.</p>
+<p dir="ltr">You would have been eligible for this one-off payment if you get any of the following benefits:</p>
+
+<ul>
+<li dir="ltr">
+<p dir="ltr">Disability Living Allowance</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Personal Independence Payment</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Attendance Allowance</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Armed Forces Independence Payment</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Constant Attendance Allowance</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">War Pension Mobility Supplement</p>
+</li>
+</ul>
+
+
+<p dir="ltr">To get this payment you must have:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">been getting one of these benefits on 1 April 2023</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">applied for one of these benefits by 1 April 2023 - you won't get the payment until your claim is successful</p>
+</li>
+</ul>
+<h4 id="h-if-you-haven-t-received-a-previous-cost-of-living-payment" class="js-ref">If you haven't received a previous Cost of Living Payment</h4>
+<p>If you think you should have received a Cost of Living Payment, you can&nbsp;<a href="https://secure.dwp.gov.uk/report-a-missing-cost-of-living-payment/welcome" rel="external" class="a-external">report a missing payment on GOV.UK</a>.</p>
+</section>
+<section class="revealable">
+<h3 id="h-if-you-re-over-state-pension-age-and-get-winter-fuel-payments" class="js-ref">If you're over State Pension age and get Winter Fuel Payments</h3>
+<p dir="ltr">You'll either get a £300 or £150 Cost of Living Payment, depending on your situation. You'll get this at the same time as your usual Winter Fuel Payment from November 2023.</p>
+<p dir="ltr">You’ll get a £300 Cost of Living Payment if you live either:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">on your own&nbsp;</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">with people who don’t qualify for a Winter Fuel Payment</p>
+</li>
+</ul>
+<p dir="ltr">If you live with someone else who qualifies for the Winter Fuel Payment, the amount you’ll get depends on whether either of you get any of the following:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Pension Credit</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">income-related Employment Support Allowance</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">income-based Jobseeker's Allowance</p>
+</li>
+</ul>
+<p dir="ltr">If either you or the person you live with gets one of these benefits, you’ll both get £300 - as long as you’re not partners. If you’re partners, you’ll only get one £300 payment.</p>
+<p dir="ltr">If neither of you gets one of these benefits, you’ll both get £150.</p>
+<p dir="ltr">If you live in residential care and qualify for the Winter Fuel Payment, you'll get £150 unless you get any of these benefits.</p>
+<h4 dir="ltr" id="h-check-if-you-need-to-apply-for-winter-fuel-payments" class="js-ref">Check if you need to apply for Winter Fuel Payments</h4>
+<p dir="ltr">You're usually entitled to Winter Fuel Payments if you’re of State Pension age in the third week of September. The State Pension age is 66.</p>
+<p>You should start getting the Winter Fuel Payment automatically once you reach State Pension age. You might need to apply if you're in one of these situations:</p>
+<ul>
+<li>you don't get State Pension</li>
+<li>you don't get another benefit</li>
+<li>you live in the EU, Switzerland, Norway, Iceland or Liechtenstein</li>
+</ul>
+<p>You can&nbsp;<a href="https://www.gov.uk/winter-fuel-payment/how-to-claim" rel="external" class="a-external">find out how to apply for the Winter Fuel Payment on GOV.UK</a>.</p>
+</section>
+<h2 dir="ltr" id="h-get-help-with-your-energy-bills" class="js-ref">Get help with your energy bills</h2>
+<p dir="ltr">If you’re struggling to pay your energy bills or top up your prepayment meter, you might be able to get help - for example a fuel voucher or a grant from your energy supplier.</p>
+<p dir="ltr"><a href="/consumer/energy/energy-supply/get-help-paying-your-bills/grants-and-benefits-to-help-you-pay-your-energy-bills/">Check if you can get help to pay your energy bills</a>.</p>
+
+<p dir="ltr">You might be able to save money on your energy bills by switching to a different supplier, or to a different tariff with your current supplier. <a href="/consumer/energy/energy-supply/get-a-better-energy-deal/switching-energy-supplier/">Check if you can switch</a>.</p>
+
+
+
+
+<h3 dir="ltr" id="h-check-how-to-make-your-home-more-energy-efficient" class="js-ref">Check how to make your home more energy efficient</h3>
+<p>If your home is energy efficient, you’ll pay less to heat your home and it will stay warm for longer.</p>
+<p>It’s a good idea to look into making your home more energy efficient at any time of the year. This is because it can take a few months to sort things out - for example, to find someone who can do the work.</p>
+<p>You might be able to apply for help with the cost of:</p>
+<ul>
+<li>a new boiler</li>
+<li>boiler repairs</li>
+<li>loft or cavity wall insulation</li>
+<li>a heat pump</li>
+</ul>
+
+<p>Check if you can <a href="/consumer/energy/energy-supply/save-energy-at-home/get-help-with-the-cost-of-energy-efficiency/">get help with the cost of energy efficiency</a>.</p>
+
+
+<h3 id="h-if-you-need-somewhere-to-stay-warm" class="js-ref">If you need somewhere to stay warm</h3>
+
+<p>You can ask your local council if they have information about nearby ‘warm spaces’. These are public places that anyone can use to stay warm - for example a community space like a library. You can <a href="https://www.gov.uk/find-local-council" rel="external" class="a-external">find out how to contact your local council on GOV.UK</a>.</p>
+
+
+<h2 id="h-get-help-with-essential-costs" class="js-ref">Get help with essential costs</h2>
+
+<p dir="ltr">Your local council might help you pay for things like:</p>
+<ul>
+<li dir="ltr">your energy and water bills</li>
+<li dir="ltr">food</li>
+<li dir="ltr">essential items - for example, clothes or an oven</li>
+</ul>
+<p dir="ltr">This help is known as 'welfare assistance' or the ‘Household Support Fund’. Each council runs their own scheme.&nbsp;You’ll need to check if you can get support and what type of support you can get.</p>
+<p dir="ltr">Ask your local council if they run a welfare assistance or Household Support Fund scheme. You can&nbsp;<a href="https://www.gov.uk/find-local-council" rel="external" class="a-external">find out how to contact your local council on GOV.UK</a>.</p>
+<p dir="ltr">You don’t have to be getting benefits to get help from your local council. If you do get benefits, they won’t be affected if you start getting money from a welfare assistance or Household Support Fund scheme.</p>
+
+
+
+
+<p dir="ltr">There are also other things you can do if you’re struggling to afford essentials like rent or food.</p>
+<section class="revealable">
+<h3 dir="ltr" id="h-get-help-paying-for-rent-council-tax-and-other-bills" class="js-ref">Get help paying for rent, council tax and other bills</h3>
+<p dir="ltr">There are things you can do if you’re struggling to pay your rent and bills.</p>
+<p>You can <a href="/debt-and-money/budgeting1/get-help-with-bills/">check what help and support you can get with your rent and bills</a>.</p>
+</section>
+<section class="revealable">
+<h3 id="h-get-help-paying-for-food" class="js-ref">Get help paying for food</h3>
+
+<p dir="ltr">If you're struggling to pay for food, you might be able to get a referral to a food bank.</p>
+<p dir="ltr">You can <a href="/debt-and-money/using-a-food-bank/">find out how to get help from a food bank</a>.</p>
+<h4 dir="ltr" id="h-if-you-have-a-child-or-are-pregnant" class="js-ref">If you have a child or are pregnant</h4>
+<p dir="ltr">You might be able to get a Healthy Start card to help you buy certain types of milk, infant formula, fruit and vegetables.</p>
+<p dir="ltr">To get the Healthy Start card you must be at least 10 weeks pregnant or have a child under 4 years old. You must also be getting either:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Universal Credit - but only if your household earns £408 a month or less</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Income Support</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">income-based Jobseeker’s Allowance</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">income-related Employment and Support Allowance - but only if you're pregnant</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Pension Credit</p>
+</li>
+<li>Child Tax Credit - but only if your household earns £16,190 a year or less</li>
+</ul>
+<p dir="ltr">If you get Child Tax Credit, you can’t get the card if you also get Working Tax Credit - unless you get the ‘run-on’ payment. Working Tax Credit run-on is the payment you get for 4 weeks after you stop qualifying for Working Tax Credit.</p>
+<p dir="ltr">With the Healthy Start card you’ll get:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">£4.25 each week from week 10 of your pregnancy</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">£8.50 each week for children from birth to 1 year old</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">£4.25 each week for children between 1 and 4 years old</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">free vitamins&nbsp;</p>
+</li>
+</ul>
+<p dir="ltr">You can <a href="https://services.nhsbsa.nhs.uk/apply-for-healthy-start/" rel="external" class="a-external">apply for the Healthy Start scheme on the NHS website</a>.</p>
+
+
+</section>
+<section class="revealable">
+<h3 id="h-get-help-with-health-costs" class="js-ref">Get help with health costs</h3>
+
+<p dir="ltr">You might be able to get help paying for NHS charges, for example:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">prescriptions</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">dental treatment</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">sight tests, glasses and contact lenses</p>
+</li>
+<li>travel to NHS treatment</li>
+</ul>
+<p dir="ltr"><a href="https://www.nhsbsa.nhs.uk/check-if-youre-eligible-help" rel="external" class="a-external">Check if you can get help with health costs on the NHS website</a>.</p>
+<h4 dir="ltr" id="h-if-you-pay-for-regular-prescriptions" class="js-ref">If you pay for regular prescriptions</h4>
+<p dir="ltr">If you can’t get help to pay for your prescriptions, you might be able to save money by buying a prepayment certificate.&nbsp;</p>
+<p dir="ltr">You’ll pay a fixed price for either 3 or 12 months. This will cover the cost of all the prescriptions you need during that time.</p>
+<p dir="ltr">You can buy a prepayment certificate for unlimited prescriptions for:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">£31.25 for 3 months</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">£111.60 for 12 months - you can pay this in 10 instalments of £11.16</p>
+</li>
+</ul>
+<p dir="ltr">You can <a href="https://services.nhsbsa.nhs.uk/buy-prescription-prepayment-certificate/start" rel="external" class="a-external">buy a prepayment certificate on the NHS website</a>.</p>
+<h4 id="h-if-you-ve-been-prescribed-hormone-replacement-therapy-hrt-" class="js-ref">If you’ve been prescribed hormone replacement therapy (HRT)</h4>
+<p>If you already have a prepayment certificate for other medicines, it covers the cost of your HRT.</p>
+<p>If you only need a certificate for HRT, you might be able to save money. You can get an HRT prescription prepayment certificate -&nbsp; it costs £19.30 for 12 months.</p>
+<p>The certificate only covers certain HRT medicines. <a href="https://www.nhsbsa.nhs.uk/help-nhs-prescription-costs/nhs-hormone-replacement-therapy-prescription-prepayment-certificate-hrt-ppc/medicines-covered-hrt-ppc" rel="external" class="a-external">Check if your HRT medicine is covered on the NHS website</a>. If you have HRT medicines that aren’t covered, you’ll have to pay for them or buy a normal prepayment certificate.</p>
+<p>You can <a href="https://www.nhsbsa.nhs.uk/help-nhs-prescription-costs/nhs-hormone-replacement-therapy-prescription-prepayment-certificate-hrt-ppc" rel="external" class="a-external">buy an HRT prescription prepayment certificate on the NHS website</a>.</p>
+
+
+
+</section>
+
+<section class="revealable">
+<h3 id="h-get-help-with-your-energy-and-water-if-you-re-disabled" class="js-ref">Get help with your energy and water if you're disabled</h3>
+<p>If you're disabled, you might be able to get extra support with your energy and water. You can <a href="https://www.scope.org.uk/disability-energy-support/" rel="external" class="a-external">check how to get free advice about energy and water bills on the Scope website</a>.</p>
+</section>
+
+<section class="revealable">
+<h3 id="h-get-help-if-you-have-children-or-are-pregnant" class="js-ref">Get help if you have children or are pregnant</h3>
+<p dir="ltr">You might be able to get help if:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">your child is at school</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">your child is in childcare</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">you’re pregnant or you’ve recently had a baby</p>
+</li>
+</ul>
+<h4 dir="ltr" id="h-if-your-child-is-at-school" class="js-ref">If your child is at school</h4>
+<p dir="ltr">If you’re on a low income or claim certain benefits, you might be able to get help with the costs of sending your children to school.</p>
+<p dir="ltr">For example, you could get:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">free school meals</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">free transport to school</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">a grant to help to buy school clothes or uniforms</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">help with school trips</p>
+</li>
+</ul>
+
+<p><a href="/family/education/help-with-school-costs/">Find out more about getting help with school costs</a>.</p>
+
+
+<h4 dir="ltr" id="h-if-your-child-is-in-childcare-nbsp-" class="js-ref">If your child is in childcare&nbsp;</h4>
+<p dir="ltr">If you’re on a low income or claim certain benefits, you might be able to get help with childcare costs. For example:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">if you work and claim Universal Credit, you might be able to claim back up to 85% of your childcare costs - you could get up to £950.92 a month for 1 child under 17 or £1,630.15 for 2 or more children</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">if you have a 2 year old, you might be able to claim up to 15 hours of free childcare a week</p>
+</li>
+</ul>
+<p dir="ltr">If you work, you might be able to claim Tax-Free Childcare. This is a government scheme that helps parents with childcare costs like holiday clubs, childminders and nurseries. You can get up to:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">£2,000 a year for each child under 12</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">£4,000 a year for each disabled child under 17</p>
+</li>
+</ul>
+<p dir="ltr">You won’t be able to receive Child Tax Credit, Working Tax Credit, Universal Credit or childcare vouchers if you get Tax-Free Childcare. Work out which option is best for you before applying.</p>
+
+<p dir="ltr">If you have a 3 or 4 year old, you can get up to 570 free hours of early education or childcare a year. If you work, you might be able to claim more.</p>
+
+
+
+<p dir="ltr"><a href="https://www.childcarechoices.gov.uk/" rel="external" class="a-external">Check what help you’re eligible for on the UK government’s Childcare Choices website</a>.</p>
+
+<h4 dir="ltr" id="h-if-you-re-pregnant-or-have-a-baby" class="js-ref">If you’re pregnant or have a baby</h4>
+<p dir="ltr">You could get a one-off payment of £500 to help towards the costs of having a baby. You usually qualify if you get certain benefits and are having your first baby - you have to claim before your baby is 6 months old. <a href="https://www.gov.uk/sure-start-maternity-grant" rel="external" class="a-external">Find out how to apply for a Sure Start Maternity Grant on GOV.UK</a>.</p>
+
+
+<p dir="ltr">You might be able to get support from a local baby bank - these offer free essentials like nappies, toys, shoes and clothes.&nbsp;</p>
+<p dir="ltr">Some food banks also provide nappies, baby wipes and baby food.&nbsp;</p>
+<p dir="ltr">Search online to find your nearest baby bank or food bank - or speak to your midwife or health visitor.&nbsp;</p>
+<p dir="ltr"><a href="/work/maternity-and-parental-rights/check-your-maternity-and-parental-rights/">Find out more about maternity pay and parental rights</a>.</p>
+</section>
+<section class="revealable">
+<h3 id="h-get-help-with-travel-costs" class="js-ref">Get help with travel costs</h3>
+<p dir="ltr">Contact your local council to check if they offer free or discounted travel - for example, if you’re:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">in education</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">on a work placement</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">unemployed and looking for work</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">a veteran</p>
+</li>
+</ul>
+<p dir="ltr">You can <a href="https://www.gov.uk/find-local-council" rel="external" class="a-external">find your local council on GOV.UK</a>.</p>
+
+<p dir="ltr">If you’re over State Pension age, you can get free bus travel.&nbsp;<a href="https://www.gov.uk/apply-for-elderly-person-bus-pass" rel="external" class="a-external">Apply for an older person's bus pass on GOV.UK</a>.</p>
+
+
+
+<p dir="ltr">If you’re 60 or over and live in London, you can get free travel on London’s transport services. You can <a href="https://tfl.gov.uk/fares/free-and-discounted-travel/60-plus-oyster-photocard" rel="external" class="a-external">apply for a 60+ London Oyster photocard on the TFL website</a>.</p>
+
+
+<p dir="ltr">If you’re disabled, you might be able to apply for a bus pass or railcard. You can&nbsp;<a href="/benefits/sick-or-disabled-people-and-carers/help-for-disabled-travellers1/help-with-transport-costs/help-with-the-cost-of-transport-if-youre-disabled/">check if you can get help with the cost of transport</a>.</p>
+
+
+</section>
+
+<section class="revealable">
+<h3 id="h-get-help-with-pets" class="js-ref">Get help with pets</h3>
+<p dir="ltr">If you’re using a food bank, you might be able to ask for some things, like pet food. Check with your local food bank if they’re able to help.</p>
+<p dir="ltr">You can also check if there’s a pet food bank in your area. Ask your local vet or pet shop, or search online for 'pet food bank' and your local town.</p>
+<p dir="ltr">You might be able to find free pet food collection points at your local supermarket, pet store or animal charity.</p>
+
+<h4 dir="ltr" id="h-get-help-with-vet-care" class="js-ref">Get help with vet care</h4>
+
+<p dir="ltr">You might be eligible for free or reduced vet care from Blue Cross if you:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">get certain means-tested benefits</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">live close to one of their hospitals or clinics</p>
+</li>
+</ul>
+<p dir="ltr"><a href="https://www.bluecross.org.uk/veterinary" rel="external" class="a-external">Check if you can get free or reduced vet care on the Blue Cross website</a>.</p>
+<p dir="ltr">You also might be able to get free or reduced vet care from charities such as&nbsp;RSPCA and PDSA.</p>
+<p dir="ltr"><a href="https://www.rspca.org.uk/whatwedo/yourlocal" rel="external" class="a-external">Check if you can get free or reduced vet care on the RSPCA website</a>.</p>
+<p><a href="https://www.pdsa.org.uk/pet-help-and-advice/eligibility" rel="external" class="a-external">Check if you can get free or reduced vet care on the PDSA website</a>.</p>
+
+
+<h4 id="h-get-help-with-vet-bills" class="js-ref">Get help with vet bills</h4>
+<p dir="ltr">If you’re struggling to pay your vet bills, talk to your vet about payment options - like reducing the bill or setting up a payment plan.</p>
+<p dir="ltr">If you can’t set up an affordable payment plan, you should <a href="/about-us/contact-us/contact-us/contact-us/">get debt advice</a>. Your vet might decide to stop treating your pet if you owe money.&nbsp;</p>
+</section>
+<h2 dir="ltr" id="h-work-out-your-budget" class="js-ref">Work out your budget</h2>
+<p dir="ltr">You should use a budgeting tool to help you understand:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">what money you've got coming in and what you have going out</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">where you might be able to cut costs</p>
+</li>
+</ul>
+<p dir="ltr">You can <a href="/debt-and-money/budgeting1/work-out-your-budget/">use a budgeting tool</a>.</p>
+<h2 dir="ltr" id="h-apply-for-a-charitable-grant" class="js-ref">Apply for a charitable grant</h2>
+<p dir="ltr">You might be able to get extra money from a charity to help with living costs. Some of these charitable grants are open to everyone. Others might be available based on your situation, for example:</p>
+<ul>
+<li dir="ltr">if you have a disability or health condition</li>
+<li dir="ltr">your age</li>
+<li dir="ltr">your previous or current job</li>
+</ul>
+<p dir="ltr">You can <a href="https://grants-search.turn2us.org.uk/" rel="external" class="a-external">check what help you can get from local and national charities on the Turn2us website</a>. You’ll need to know your postcode.</p>
+<h2 dir="ltr" id="h-if-you-re-over-55-and-have-a-personal-pension" class="js-ref">If you’re over 55 and have a personal pension</h2>
+<p dir="ltr">You might be able to take some money from your pension savings to help pay for essential costs or to pay off your debts.</p>
+<p dir="ltr">You should think about whether taking money from your pension is the best financial decision for you. Taking money from your pension will mean you have less income when you retire. If you’re getting benefits, taking money from your pension could affect your claim.</p>
+<p dir="ltr">You can <a href="https://www.pensionwise.gov.uk/en" rel="external" class="a-external">get free guidance on your pension options from Pension Wise</a>. They’ll explain the different options so you can decide which is best for you.</p>
+<p dir="ltr">You should also get financial advice before taking any money from your pension savings - you’ll have to pay.&nbsp;</p>
+<p>You can&nbsp;<a href="/debt-and-money/getting-financial-advice/">check how to find a financial adviser</a> - they can tell you which option is best for you.</p>
+<h2 dir="ltr" id="h-if-you-re-finding-things-difficult" class="js-ref">If you’re finding things difficult</h2>
+<p dir="ltr">Your mental health is as important as your physical health. You should talk to your GP if your money problems are affecting your mental health.&nbsp;</p>
+
+<p dir="ltr">You can <a href="https://www.mind.org.uk/information-support/guides-to-support-and-services/seeking-help-for-a-mental-health-problem/where-to-start/" rel="external" class="a-external">find other ways to get help with your mental health on the Mind website</a>.</p>
+
+
+<h3 dir="ltr" id="h-if-you-need-to-speak-to-someone-nbsp-" class="js-ref">If you need to speak to someone&nbsp;</h3>
+<p>You can speak to a trained volunteer at organisations like Samaritans or Shout.</p>
+<h4 dir="ltr" id="h-samaritans" class="js-ref">Samaritans</h4>
+<p dir="ltr">Helpline: 116 123 (Monday to Sunday at any time)</p>
+<p dir="ltr">Welsh Language Line: 0808 164 0123 (Monday to Sunday 7pm to 11pm)</p>
+<p dir="ltr">Calls to Samaritans are free.</p>
+<p dir="ltr">You can <a href="https://www.samaritans.org/how-we-can-help/contact-samaritan/" rel="external" class="a-external">find other ways to get in touch with Samaritans on their website</a>.</p>
+<h4 dir="ltr" id="h-shout" class="js-ref">Shout</h4>
+<p>You can also text 'SHOUT' to 85258 to start a conversation with a trained Shout volunteer. Texts are free, anonymous and confidential from anywhere in the UK.</p>
+<h3 dir="ltr" id="h-if-you-think-it-s-an-emergency" class="js-ref">If you think it's an emergency</h3>
+<p>If you think your life or someone else’s is at risk, you should call 999 or go to A&amp;E if you can.</p>
+
+<p dir="ltr">You can also <a href="https://www.mind.org.uk/need-urgent-help/finding-out-what-support-is-out-there/" rel="external" class="a-external">find a list of urgent mental health services on the Mind website</a>.</p>
+
+
+</div>
+    </div>
+
+    
+    
+
+<aside>
+    <h2 class="screenreader">
+        Additional feedback
+    </h2>
+    <div><div class="callout--alert">
+<h3>Help us improve our website</h3>
+<p><a href="https://www.research.net/r/PZ7TFCQ?p=/debt-and-money/get-help-with-the-cost-of-living/" target="_blank" rel="external" class="a-external">Take 3 minutes to tell us if you found what you needed on our website.</a>&nbsp;Your feedback will help us give people the information they need.</p>
+</div></div>
+</aside>
+
+    
+
+<style>
+    .message-text-submit 
+    {
+        font-weight: 700;
+    }
+
+    .safehouse
+    {
+        border: 0; 
+        clip: rect(1px, 1px, 1px, 1px); 
+        clip-path: inset(50%); 
+        height: 1px; 
+        overflow: hidden; 
+        padding: 0; 
+        position: absolute; 
+        width: 1px; 
+        white-space: nowrap; 
+    }
+
+</style>
+<!-- CUSTOM FEATURE START -->
+            
+  <form id="feedbackForm__container" data="63624">
+
+      <input type="hidden" id="hidFeedbackPageId" value="63624" />
+      <div class="feedbackForm__questions">
+          <fieldset>
+              <legend>Did this advice help?</legend>
+              <div>
+                  <label for="feedbackFormYes" class="radio radio--block">
+                      <input id="feedbackFormYes" name="didAdviceHelp" type="radio" value="yes" />
+                      Yes
+                  </label>
+
+                  <label for="feedbackFormNo" class="radio radio--block">
+                      <input id="feedbackFormNo" name="didAdviceHelp" type="radio" value="no" />
+                      No
+                  </label>
+              </div>
+          </fieldset>
+      </div>
+
+      <div class="feedbackForm__responses">
+            <label for="TxtFieldName" class="block bold mb-2 safehouse" aria-hidden="true">Leave this name field blank</label>
+            <input ID="TxtFieldName" type="text" class="safehouse" tabindex="-1" aria-hidden="true" autocomplete="txt-name-false" />
+
+            <label for="TxtFieldEmailAddress" class="block bold mb-2 safehouse" aria-hidden="true">Leave this address field blank</label>
+            <input ID="TxtFieldEmailAddress" type="text" class="safehouse" tabindex="-1" aria-hidden="true" autocomplete="txt-email-address-false" />
+
+            <input type="hidden" id="TymerForForm" value="22/11/2023 09:53:34" />
+
+          <legend>Why wasn't this advice helpful?</legend>
+
+          <fieldset>
+              <div>
+                  <label for="feedbackFormNotRelevant" class="radio">
+                      <input id="feedbackFormNotRelevant" name="whyNotHelpful" type="radio" value="notRelevant" />
+                      It isn't relevant to my situation
+                  </label>
+              </div>
+              <div>
+                  <label for="feedbackFormNotEnoughDetail" class="radio">
+                      <input id="feedbackFormNotEnoughDetail" name="whyNotHelpful" type="radio" value="notEnoughDetail" />
+                      It doesn't have enough detail
+                  </label>
+              </div>
+              <div>
+                  <label for="feedbackFormCantWorkOutNextSteps" class="radio">
+                      <input id="feedbackFormCantWorkOutNextSteps" name="whyNotHelpful" type="radio" value="cantWorkOutNextSteps" />
+                      I can't work out what I should do next
+                  </label>
+              </div>
+              <div>
+                  <label for="feedbackFormDontUnderstand" class="radio">
+                      <input id="feedbackFormDontUnderstand" name="whyNotHelpful" type="radio" value="dontUnderstand" />
+                      I don't understand
+                  </label>
+              </div>
+          </fieldset>
+
+          <fieldset>
+          
+              <p class="message-text-submit">Please tell us more about why our advice didn't help.</p>
+
+              <label for="feedbackFormMessage">We can't reply, so if you need help with a problem <a href="/about-us/contact-us/contact-us/contact-us/">find out how you can get advice from us.</a></label>
+              <textarea id="feedbackFormMessage" name="furtherDetails" maxlength="3000"></textarea>
+              <div id="feedbackFormMessageError" class="invalid is-hidden">You've reached the <strong>3000</strong> character limit.</div>
+          </fieldset>
+
+          <fieldset>
+              <button id="js-feedbackFormBtn--submit" type="submit" class="btn tick-button-icon">Submit</button>
+          </fieldset>
+      </div>
+
+      <div class="feedbackForm__message">
+          <legend>Did this advice help?</legend>
+          <h4><i class="i i--pad-r-sm i--tick" aria-hidden="true"></i><span>Thank you, your feedback has been submitted.</span> </h4>
+      </div>
+  </form>
+    
+        <div class="c-content-metaData">
+            <span class="page-info info-reviewed">    
+                <strong>Page last reviewed:</strong> 30 October 2023
+            </span>
+        </div>
+    
+
+
+  
+        </main>
+
+        
+
+        
+        
+            
+            
+
+<style>
+
+    #right-hand-side-column-section-notice {
+        padding : 16px 16px 1px 16px !important;
+        background-color : #fff0d3; 
+        /*background-color : #fee4ce;*/
+        color: #191926;
+        border: 0 !important;
+    }
+
+    /*tweak for donation bottom banner 
+    .callout--alert-no-border-left {
+        border-left: none !important;
+    }*/
+
+</style>
+
+
+            
+
+<style>
+
+    #right-hand-side-column-section-notice {
+        padding : 16px 16px 1px 16px !important;
+        background-color : #fff0d3; 
+        /*background-color : #fee4ce;*/
+        color: #191926;
+        border: 0 !important;
+    }
+
+    /*tweak for donation bottom banner 
+    .callout--alert-no-border-left {
+        border-left: none !important;
+    }*/
+
+</style>
+
+
+
+        <h2 class="screenreader">
+            Additional feedback
+        </h2>
+
+        <aside id="right-hand-side-column-section-notice" class="section-nav">
+
+             <h3>Help us improve our website</h3>
+<p><a href="https://www.research.net/r/PZ7TFCQ?p=/debt-and-money/get-help-with-the-cost-of-living/" target="_blank" rel="external" class="a-external">Take 3 minutes to tell us if you found what you needed on our website.</a>&nbsp;Your feedback will help us give people the information they need.</p>
+           
+        </aside>
+
+    
+
+ 
+            
+
+<nav class="section-nav js-section-nav" data-track-zone="section-nav">
+    <div class="section-nav__heading">
+        <a href="#!" aria-controls="section-nav-list" aria-expanded="false">In this section</a>
+    </div>
+
+    <ul id="section-nav-list" tabindex="-1">
+        <li>
+            <a class="section-nav__parent" href="/debt-and-money/">Debt and money</a>
+            
+                    <ul>
+                
+                    <li>
+                        
+                            <a class="section-nav__child">
+                                Get help with the cost of living
+                            </a>
+                        
+                        
+                    </li>
+                
+                    <li>
+                        
+                        
+                            <a class="section-nav__child" href="/debt-and-money/help-with-debt/">Help with debt</a>
+                        
+                    </li>
+                
+                    <li>
+                        
+                        
+                            <a class="section-nav__child" href="/debt-and-money/using-a-food-bank/">Using a food bank</a>
+                        
+                    </li>
+                
+                    <li>
+                        
+                        
+                            <a class="section-nav__child" href="/debt-and-money/debt-solutions/">Debt solutions</a>
+                        
+                    </li>
+                
+                    <li>
+                        
+                        
+                            <a class="section-nav__child" href="/debt-and-money/budgeting1/">Budgeting</a>
+                        
+                    </li>
+                
+                    <li>
+                        
+                        
+                            <a class="section-nav__child" href="/debt-and-money/mortgage-problems/">Mortgage problems</a>
+                        
+                    </li>
+                
+                    <li>
+                        
+                        
+                            <a class="section-nav__child" href="/debt-and-money/rent-arrears/">Rent arrears</a>
+                        
+                    </li>
+                
+                    <li>
+                        
+                        
+                            <a class="section-nav__child" href="/debt-and-money/action-your-creditor-can-take/">Action your creditor can take</a>
+                        
+                    </li>
+                
+                    <li>
+                        
+                        
+                            <a class="section-nav__child" href="/debt-and-money/borrowing-money/">Borrowing money</a>
+                        
+                    </li>
+                
+                    <li>
+                        
+                        
+                            <a class="section-nav__child" href="/debt-and-money/banking/">Banking</a>
+                        
+                    </li>
+                
+                    <li>
+                        
+                        
+                            <a class="section-nav__child" href="/debt-and-money/pensions/">Pensions</a>
+                        
+                    </li>
+                
+                    <li>
+                        
+                        
+                            <a class="section-nav__child" href="/debt-and-money/getting-financial-advice/">Getting financial advice</a>
+                        
+                    </li>
+                
+                    <li>
+                        
+                        
+                            <a class="section-nav__child" href="/debt-and-money/sample-letters-to-creditors/">Sample letters to creditors</a>
+                        
+                    </li>
+                
+                    <li>
+                        
+                        
+                            <a class="section-nav__child" href="/debt-and-money/gambling-problems/">Gambling problems</a>
+                        
+                    </li>
+                
+                    <li>
+                        
+                        
+                            <a class="section-nav__child" href="/debt-and-money/getting-tax-advice/">Getting tax advice</a>
+                        
+                    </li>
+                
+                    </ul>
+                
+        </li>
+
+        
+    </ul>
+</nav>
+
+            
+
+        
+        
+        
+
+        
+
+        
+<div id="lp-chat-sticky"></div>
+    </div>
+
+    
+
+<div class="share-bar__outer hide-offline hide-no-js">
+    <nav class="share-bar js-make-sticky" aria-label="Sharing options">			
+        
+            <a class="share-bar__link--twitter js-twitter" href="https://twitter.com/share?url=" data-track="Twitter" rel="external">
+                <i class="icon-twitter" aria-hidden="true"></i>
+                <span>Share on Twitter</span>
+            </a>
+        
+	    
+            <a class="share-bar__link--facebook js-facebook" href="https://www.facebook.com/sharer/sharer.php?u=" data-track="Facebook" rel="external">
+                <i class="icon-facebook" aria-hidden="true"></i>
+                <span>Share on Facebook</span>
+            </a>
+	    
+	    
+	    
+            <a class="share-bar__link--print" href="javascript:window.print();" data-track="Print">
+                <i class="icon-print" aria-hidden="true"></i>
+                <span>Print this page</span>
+            </a>
+	    
+	    
+        
+        
+        
+    </nav>
+</div>
+
+
+<script id="template-email-page" type="text/x-template" data-title="Email a link to this page" data-subject="From Citizens Advice" data-introduction="I thought you might be interested in this link from Citizens Advice:" data-thank-you="Your message has been sent." data-close="Close">
+    <p>
+        <i class="icon-email" aria-hidden="false"></i>
+        <a target="_blank" href="{mailto}" class="track mailLink" data-service="Native email" data-track-service="Native email">
+            Send from your own account</a>
+        or:
+    </p>
+
+    <form class="form" autocomplete="off">
+        <p class="highlight--error js-error" style="display:none">Please check the form for errors and try again.</p>
+        <input type="hidden" name="Language" value="en-GB">
+        <input type="hidden" name="PageId" value="63624">
+        <input type="hidden" name="QueryString" value="">
+        <label class="form__row" for="email-page-email">
+            To email address (required)
+            <input type="email" id="email-page-email" name="Email" required title="Please complete this field." autocomplete="off" />
+        </label>
+        <label class="form__row" for="email-page-name">
+            Your name (required)
+            <input type="text" id="email-page-name" name="Name" required pattern="^[ 'a-zA-Z0-9\-\xC0-\uffff]*$" title="Please use letters and spaces only" maxlength="35" autocomplete="off" />
+        </label>
+        <button type="submit" class="form__button-row button--big">Send email</button>
+    </form>
+
+</script>
+
+<div class="popup-background no-print hide-offline" style="display:none;">
+
+    <div id="RootPlaceHolder_ShareBar_divPopup" class="popup_feedback popup_content" style="display:none;" role="dialog" tabindex="-1">
+        <a role="button" class="popup__close" data-action="close" href="#!">
+            <i class="icon-cross" aria-hidden="true"></i>Close
+		</a>
+        <div id="RootPlaceHolder_ShareBar_plcPopup" role="form">
+
+</div>
+    </div>
+
+</div>
+
+
+    </div>
+
+    
+    
+
+<footer id="footer" role="contentinfo" class="main-footer" data-track-zone="footer" tabindex="-1">
+    <div class="main-footer__content flex-row js-equal-height"><div class="main-footer__box col-md-3 col-sm-6">
+	
+<h2>Advice</h2>
+
+
+
+  <ul class="li--arrow">
+
+    <li><a href="/benefits/">Benefits</a></li>
+
+    <li><a href="/work/">Work</a></li>
+
+    <li><a href="/debt-and-money/">Debt and money</a></li>
+
+    <li><a href="/consumer/">Consumer</a></li>
+
+    <li><a href="/family/">Family</a></li>
+
+    <li><a href="/housing/">Housing</a></li>
+
+    <li><a href="/law-and-courts/">Law and courts</a></li>
+
+    <li><a href="/immigration/">Immigration</a></li>
+
+    <li><a href="/health/">Health</a></li>
+
+  </ul>
+
+
+
+</div><div class="main-footer__box col-md-3 col-sm-6">
+	
+<h2>Resources and tools</h2>
+
+
+
+  <ul class="li--arrow">
+
+    <li><a href="/about-us/adviser-resources/">Adviser resources</a></li>
+
+    <li><a href="/about-us/our-work/our-prevention-work/education/">Education resources</a></li>
+
+    <li><a href="/resources-and-tools/search-navigation-tools/Search/">Site search</a></li>
+
+    <li><a href="/resources-and-tools/search-navigation-tools/a-to-z-of-advice/">A to Z of advice</a></li>
+
+  </ul>
+
+
+
+</div><div class="main-footer__box col-md-3 col-sm-6">
+	
+<h2>More from us</h2>
+
+
+
+  <ul class="li--arrow">
+
+    <li><a href="/about-us/">About us</a></li>
+
+    <li><a href="/about-us/contact-us/contact-us/contact-us/">Contact us</a></li>
+
+    <li><a href="/about-us/support-us/">Support us</a></li>
+
+    <li><a href="/about-us/our-work/annual-reports/">Annual reports</a></li>
+
+    <li><a href="/about-us/contact-us/contact-us/make-a-complaint-about-us/">Complaints</a></li>
+
+    <li><a href="/about-us/about-us1/media/">Media</a></li>
+
+    <li><a href="/about-us/about-us1/modern-slavery-statement/">Modern slavery statement</a></li>
+
+    <li><a href="/about-us/our-work/policy/">Policy research</a></li>
+
+    <li><a href="/about-us/support-us/volunteering/">Volunteering</a></li>
+
+    <li><a href="/about-us/job-and-voluntary-opportunities/">Jobs</a></li>
+
+  </ul>
+
+
+
+</div><div class="flex-column col-md-3 col-sm-6">
+	<div class="flex-row js-equal-height"><div class="main-footer__box">
+		
+<h2>About this site</h2>
+
+
+
+  <ul class="li--arrow">
+
+    <li><a href="/resources-and-tools/about-this-site/accessibility/">Accessibility statement</a></li>
+
+    <li><a href="/resources-and-tools/about-this-site/terms-and-conditions/">Terms and conditions</a></li>
+
+    <li><a href="/about-us/about-us1/citizens-advice-privacy-policy/">Privacy and cookies</a></li>
+
+  </ul>
+
+
+
+	</div></div>
+
+
+</div><div class="main-footer__box main-footer__box--copyright">
+	
+
+
+<div>
+		<p><img src="/Global/Logos/brand/ca-logo_100px.svg.png" alt="Citizens Advice" width="100" height="100" /> Copyright ©2023 Citizens Advice. All rights reserved.<br /> Citizens Advice is an operating name of the National Association of Citizens Advice Bureaux. Registered charity number 279057<br /> VAT number 726 0202 76 Company limited by guarantee. Registered number 01436945 England<br /> Registered office: Citizens Advice, 3rd Floor North, 200 Aldersgate, London, EC1A 4HD</p>
+	</div>
+
+
+
+</div></div> 
+</footer>
+
+    
+
+    
+    <!--[if gt IE 7]><i -->
+    <script src="/static/build/js/core.js?_ffc=5249623852087387904"></script>
+    
+    <!--<![endif]-->
+    
+
+    
+    
+    
+    
+        <script src="/static-src/js/generatetoc.js?_ffc=5249623851007387904"></script>
+    
+
+
+    <!--[if IE 8]></div><![endif]-->
+
+    
+
+    
+
+<script id="js-extent-dialog" type="text/x-template" data-title="Where in the UK do you live?"> 
+	<div>
+	<p>The law can vary in different parts of the UK.</p>
+</div>
+    <ul class="extent-selection">
+        
+                <li><a class="btn btn-small" rel="alternate" href="?lang=en-GB">England</a></li>
+            
+                <li><a class="btn btn-small" rel="alternate" href="?lang=en-NIR">Northern Ireland</a></li>
+            
+                <li><a class="btn btn-small" rel="alternate" href="?lang=en-SCT">Scotland</a></li>
+            
+                <li><a class="btn btn-small" rel="alternate" href="?lang=en-WLS">Wales</a></li>
+            
+    </ul>
+</script>
+    
+
+    <input type="hidden" value="False" name="astat" />
+
+    
+
+</body>
+</html>

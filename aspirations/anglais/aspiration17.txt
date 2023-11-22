@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html lang="en-US" class="html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_large html_header_sticky html_header_shrinking html_header_transparency html_mobile_menu_phone html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_minimal_header html_elegant-blog html_modern-blog html_av-submenu-hidden html_av-submenu-display-click html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone html_entry_id_11696 av-cookies-no-cookie-consent ">
+<head>
+
+<meta charset="UTF-8" />
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+<script>var et_site_url='https://www.ebf.eu';var et_post_id='11696';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v20.0 (Yoast SEO v20.0) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>EUROPEAN MONEY WEEK - EBF</title>
+	<meta name="description" content="European Money Week is an annual initiative, aligned with OECD&#039;s Global Money Week. It involves young people in more than 35 European countries, with activities ranging from classroom teaching sessions, seminars and conferences and of course the European Money Quiz. All activities seek to improve financial literacy through better financial education. European Money Week is an integral part of EBF’s mission to promote financial literacy in Europe through events, publications and partnerships." />
+	<link rel="canonical" href="https://www.ebf.eu/europeanmoneyweek/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="EUROPEAN MONEY WEEK" />
+	<meta property="og:description" content="European Money Week is an annual initiative, aligned with OECD&#039;s Global Money Week. It involves young people in more than 35 European countries, with activities ranging from classroom teaching sessions, seminars and conferences and of course the European Money Quiz. All activities seek to improve financial literacy through better financial education. European Money Week is an integral part of EBF’s mission to promote financial literacy in Europe through events, publications and partnerships." />
+	<meta property="og:url" content="https://www.ebf.eu/europeanmoneyweek/" />
+	<meta property="og:site_name" content="EBF" />
+	<meta property="article:modified_time" content="2023-02-14T10:07:42+00:00" />
+	<meta property="og:image" content="https://www.ebf.eu/wp-content/uploads/2016/12/EBF-European-Money-Quiz-Trophy-852x1030.jpg" />
+	<meta property="og:image:width" content="852" />
+	<meta property="og:image:height" content="1030" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@EBFeu" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="6 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.ebf.eu/europeanmoneyweek/","url":"https://www.ebf.eu/europeanmoneyweek/","name":"EUROPEAN MONEY WEEK - EBF","isPartOf":{"@id":"https://www.ebf.eu/#website"},"primaryImageOfPage":{"@id":"https://www.ebf.eu/europeanmoneyweek/#primaryimage"},"image":{"@id":"https://www.ebf.eu/europeanmoneyweek/#primaryimage"},"thumbnailUrl":"https://www.ebf.eu/wp-content/uploads/2016/12/EBF-European-Money-Quiz-Trophy.jpg","datePublished":"2017-10-16T09:23:52+00:00","dateModified":"2023-02-14T10:07:42+00:00","description":"European Money Week is an annual initiative, aligned with OECD's Global Money Week. It involves young people in more than 35 European countries, with activities ranging from classroom teaching sessions, seminars and conferences and of course the European Money Quiz. All activities seek to improve financial literacy through better financial education. European Money Week is an integral part of EBF’s mission to promote financial literacy in Europe through events, publications and partnerships.","breadcrumb":{"@id":"https://www.ebf.eu/europeanmoneyweek/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.ebf.eu/europeanmoneyweek/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.ebf.eu/europeanmoneyweek/#primaryimage","url":"https://www.ebf.eu/wp-content/uploads/2016/12/EBF-European-Money-Quiz-Trophy.jpg","contentUrl":"https://www.ebf.eu/wp-content/uploads/2016/12/EBF-European-Money-Quiz-Trophy.jpg","width":2537,"height":3067},{"@type":"BreadcrumbList","@id":"https://www.ebf.eu/europeanmoneyweek/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.ebf.eu/"},{"@type":"ListItem","position":2,"name":"EUROPEAN MONEY WEEK"}]},{"@type":"WebSite","@id":"https://www.ebf.eu/#website","url":"https://www.ebf.eu/","name":"EBF","description":"European Banking Federation","publisher":{"@id":"https://www.ebf.eu/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.ebf.eu/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.ebf.eu/#organization","name":"EBF","url":"https://www.ebf.eu/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.ebf.eu/#/schema/logo/image/","url":"https://ebf.lemoncom.net/wp-content/uploads/2016/09/EBF-Main-e1495454692981.png","contentUrl":"https://ebf.lemoncom.net/wp-content/uploads/2016/09/EBF-Main-e1495454692981.png","width":50,"height":39,"caption":"EBF"},"image":{"@id":"https://www.ebf.eu/#/schema/logo/image/"},"sameAs":["http://www.linkedin.com/company/european-banking-federation","https://www.youtube.com/user/EuropeanBanks","https://twitter.com/EBFeu"]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link href='https://fonts.gstatic.com' crossorigin='' rel='preconnect' />
+<link rel='preconnect' href='https://fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="EBF &raquo; Feed" href="https://www.ebf.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="EBF &raquo; Comments Feed" href="https://www.ebf.eu/comments/feed/" />
+<link rel='stylesheet' id='wphb-1-css' href='https://www.ebf.eu/wp-content/uploads/hummingbird-assets/b0cf07685ea9b38d04d03a05652a9045.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.ebf.eu/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.ebf.eu/wp-includes/css/classic-themes.min.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wphb-2-css' href='https://www.ebf.eu/wp-content/uploads/hummingbird-assets/a024ed7da284527791d143dea0bc4cb7.css' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-widget-css-css' href='https://www.ebf.eu/wp-content/uploads/hummingbird-assets/c7ba1952cc7ccc32abdd291b24d8e45c.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-dynamic-css' href='https://www.ebf.eu/wp-content/uploads/hummingbird-assets/7b0a40f1fb43939d6978d8acbc1e1b36.css' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-custom-css' href='https://www.ebf.eu/wp-content/uploads/hummingbird-assets/aab5b829c26078196bf31fa5022ce40c.css' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-style-css' href='https://www.ebf.eu/wp-content/uploads/hummingbird-assets/d85c8937dc751a0365c21a4966555ec3.css' type='text/css' media='all' />
+<link rel='stylesheet' id='awesome-gallery-css' href='https://www.ebf.eu/wp-content/uploads/hummingbird-assets/f7173b34201886212eeb034c15307929.css' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-single-post-11696-css' href='https://www.ebf.eu/wp-content/uploads/hummingbird-assets/63cfbbe0949abc7cf882e791d9f39539.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.ebf.eu/wp-content/uploads/hummingbird-assets/ea5bd6f01e52a80f7cde10ae224d1957.js' id='wphb-3-js'></script>
+<script type='text/javascript' id='wphb-3-js-after'>
+
+	  var windWidth=jQuery( window ).width();
+	  //alert(windWidth);
+	  var animateWidth;
+	  var defaultAnimateWidth;	jQuery(document).ready(function() { 
+	animateWidth="55";
+    defaultAnimateWidth= animateWidth-10;
+	animateHeight="49";
+	defaultAnimateHeight= animateHeight-2;jQuery("div.csbwfsbtns a").hover(function(){
+  jQuery(this).animate({width:animateWidth});
+  },function(){
+    jQuery(this).stop( true, true ).animate({width:defaultAnimateWidth});
+  });jQuery("div.csbwfs-show").hide();
+  jQuery("div.csbwfs-show a").click(function(){
+    jQuery("div#csbwfs-social-inner").show(500);
+     jQuery("div.csbwfs-show").hide(500);
+    jQuery("div.csbwfs-hide").show(500);
+    csbwfsSetCookie("csbwfs_show_hide_status","active","1");
+  });
+  
+  jQuery("div.csbwfs-hide a").click(function(){
+     jQuery("div.csbwfs-show").show(500);
+      jQuery("div.csbwfs-hide").hide(500);
+     jQuery("div#csbwfs-social-inner").hide(500);
+     csbwfsSetCookie("csbwfs_show_hide_status","in_active","1");
+  });var button_status=csbwfsGetCookie("csbwfs_show_hide_status");
+    if (button_status =="in_active") {
+      jQuery("div.csbwfs-show").show();
+      jQuery("div.csbwfs-hide").hide();
+     jQuery("div#csbwfs-social-inner").hide();
+    } else {
+      jQuery("div#csbwfs-social-inner").show();
+     jQuery("div.csbwfs-show").hide();
+    jQuery("div.csbwfs-hide").show();
+    }});
+ csbwfsCheckCookie();function csbwfsSetCookie(cname,cvalue,exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+    var expires = "expires=" + d.toGMTString();
+    document.cookie = cname+"="+cvalue+"; "+expires;
+}
+
+function csbwfsGetCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1);
+        if (c.indexOf(name) != -1) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
+
+function csbwfsCheckCookie() {
+	var hideshowhide = "yes"
+    var button_status=csbwfsGetCookie("csbwfs_show_hide_status");
+    if (button_status != "") {
+        
+    } else {
+        csbwfsSetCookie("csbwfs_show_hide_status", "active",1);
+    }
+    if(hideshowhide=="yes")
+    {
+    csbwfsSetCookie("csbwfs_show_hide_status", "active",0);
+    }
+}
+</script>
+<script type='text/javascript' id='wphb-4-js-before'>
+{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/www.ebf.eu\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/www.ebf.eu\/wp-json\/wordpress-popular-posts","ID":11696,"token":"45784a42ff","lang":0,"debug":0}
+</script>
+<script type='text/javascript' src='https://www.ebf.eu/wp-content/uploads/hummingbird-assets/79b9f37a4c93809eb26a6a4b0343d9e4.js' id='wphb-4-js'></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-223176054-3' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["www.ebf.eu"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-223176054-3", {"anonymize_ip":true});
+gtag("config", "G-ZVR4896HWL");
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://www.ebf.eu/wp-json/" /><link rel="alternate" type="application/json" href="https://www.ebf.eu/wp-json/wp/v2/pages/11696" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ebf.eu/xmlrpc.php?rsd" />
+<link rel="alternate" type="application/json+oembed" href="https://www.ebf.eu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ebf.eu%2Feuropeanmoneyweek%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.ebf.eu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ebf.eu%2Feuropeanmoneyweek%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.92.0" /><link rel="preload" href="https://www.ebf.eu/wp-content/plugins/bloom-4/core/admin/fonts/modules.ttf" as="font" crossorigin="anonymous">            <style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-placeholder,.wpp-widget-block-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+            <link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="EBF RSS2 Feed" href="https://www.ebf.eu/feed/" />
+<link rel="pingback" href="https://www.ebf.eu/xmlrpc.php" />
+<!--[if lt IE 9]><script src="https://www.ebf.eu/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+<link rel="icon" href="https://www.ebf.eu/wp-content/uploads/2016/09/favicon-ebf.png" type="image/png">
+
+<!-- Google Tag Manager snippet added by Site Kit -->
+<script type="text/javascript">
+			( function( w, d, s, l, i ) {
+				w[l] = w[l] || [];
+				w[l].push( {'gtm.start': new Date().getTime(), event: 'gtm.js'} );
+				var f = d.getElementsByTagName( s )[0],
+					j = d.createElement( s ), dl = l != 'dataLayer' ? '&l=' + l : '';
+				j.async = true;
+				j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore( j, f );
+			} )( window, document, 'script', 'dataLayer', 'GTM-59K2DWN' );
+			
+</script>
+
+<!-- End Google Tag Manager snippet added by Site Kit -->
+		<style type="text/css" id="wp-custom-css">
+			.et_bloom_locked_form {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.et_bloom .et_bloom_optin .et_bloom_border_solid{
+	border: 6px solid #3f6993!important;
+	box-shadow: 0px 8px 25px rgb(0 0 0 / 50%);
+}
+
+#top #header.header-scrolled .av-main-nav > li > a .avia-menu-text {
+    color: #3f6993 !important;
+}
+.html_av-overlay-side #top #wrap_all .av-burger-overlay-scroll #av-burger-menu-ul a{color:#3f6993;}
+
+.html_av-overlay-side-classic #top .av-burger-overlay li li .avia-bullet, .html_av-overlay-side.av-burger-overlay-active #top .av-hamburger-inner, .html_av-overlay-side.av-burger-overlay-active #top .av-hamburger-inner::before, .html_av-overlay-side.av-burger-overlay-active #top .av-hamburger-inner::after {
+	background-color: #3f6993;}
+
+.html_av-overlay-side.av-burger-overlay-active #top #wrap_all #header .menu-item-search-dropdown a {
+    color: #3f6993;
+}
+.header-scrolled-full #menu-item-search a{
+color: #3f6993!important;
+}
+
+#top #wrap_all .av_header_transparency .main_menu ul:first-child > li > a{
+	color:white;
+}
+
+.et_bloom .et_bloom_form_content input, .et_bloom .et_bloom_form_content select, .et_bloom .et_bloom_form_content button {
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px!important;
+    font-weight: 400!important;
+}		</style>
+		<style type='text/css'>
+@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal; font-display: auto;
+src: url('https://www.ebf.eu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff2') format('woff2'),
+url('https://www.ebf.eu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff') format('woff'),
+url('https://www.ebf.eu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf') format('truetype'), 
+url('https://www.ebf.eu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg#entypo-fontello') format('svg'),
+url('https://www.ebf.eu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot'),
+url('https://www.ebf.eu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?#iefix') format('embedded-opentype');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+</style>
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 4.8.6.2
+Installed: enfold
+AviaFramework Version: 5.0
+AviaBuilder Version: 4.8
+aviaElementManager Version: 1.0.1
+- - - - - - - - - - -
+ChildTheme: Enfold Child
+ChildTheme Version: 1.0
+ChildTheme Installed: enfold
+
+ML:256-PU:90-PLA:38
+WP:6.1.4
+Compress: CSS:disabled - JS:disabled
+Updates: enabled - token has changed and not verified
+PLAu:36
+--><script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+	<!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nzaw6');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+</head>
+
+
+
+
+<body data-rsssl=1 id="top" class="page-template-default page page-id-11696 page-parent stretched helvetica-neue-websave helvetica_neue  et_bloom avia-responsive-images-support" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+	
+	<div id='wrap_all'>
+
+	
+<header id='header' class='all_colors header_color light_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_large av_header_sticky av_header_shrinking av_header_stretch_disabled av_mobile_menu_phone av_header_transparency av_header_searchicon av_header_unstick_top_disabled av_minimal_header av_bottom_nav_disabled  av_header_border_disabled'  role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+		<div  id='header_main' class='container_wrap container_wrap_logo'>
+	
+        <div class='container av-logo-container'><div class='inner-container'><span class='logo'><a href='https://www.ebf.eu/'><img src="https://www.ebf.eu/wp-content/uploads/2016/08/logo-ebf.png" height="100" width="300" alt='EBF' title='' /></a></span><nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul id="avia-menu" class="menu av-main-nav"><li id="menu-item-17437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-1"><a href="https://www.ebf.eu/about-us/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">ABOUT US</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-79592" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.ebf.eu/about-us/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Exco and Board</span></a></li>
+	<li id="menu-item-76319" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.ebf.eu/about-us/ebf-team/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Meet the team</span></a></li>
+</ul>
+</li>
+<li id="menu-item-196" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current_page_ancestor menu-item-has-children menu-item-top-level menu-item-top-level-2"><a href="https://www.ebf.eu/priorities/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">PRIORITIES</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-14082" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.ebf.eu/priorities/prudential-policy-and-supervision/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">PRUDENTIAL POLICY &#038; SUPERVISION</span></a></li>
+	<li id="menu-item-10385" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.ebf.eu/priorities/innovation-cybersecurity/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">INNOVATION &#038; CYBERSECURITY</span></a></li>
+	<li id="menu-item-21990" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.ebf.eu/priorities/financing-growth/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">FINANCING SUSTAINABLE GROWTH</span></a></li>
+	<li id="menu-item-29985" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children"><a href="https://www.ebf.eu/priorities/financial-education/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">FINANCIAL EDUCATION</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-33290" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11696 current_page_item"><a href="https://www.ebf.eu/europeanmoneyweek/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">EUROPEAN MONEY WEEK</span></a></li>
+		<li id="menu-item-77179" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.ebf.eu/priorities/financial-education/european-money-quiz/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">EUROPEAN MONEY QUIZ</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-22172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-3"><a href="https://www.ebf.eu/themes/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">THEMES</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-10973" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-top-level menu-item-top-level-4"><a href="/facts-and-figures-2021/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">FACTS &#038; FIGURES</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-10972" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/facts_and_figures/country-by-country-overview/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">COUNTRY-BY-COUNTRY OVERVIEW</span></a></li>
+	<li id="menu-item-19332" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.ebf.eu/previous-editions/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">PREVIOUS EDITIONS</span></a></li>
+</ul>
+</li>
+<li id="menu-item-281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5"><a href="https://www.ebf.eu/mediacentre/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">MEDIACENTRE</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-7050" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-6"><a href="https://www.ebf.eu/ebf-events/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">EVENTS</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-41237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-7"><a href="https://www.ebf.eu/ebf-knowledge-partnerships/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">EBF Knowledge Partnerships</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-43508" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.ebf.eu/ebf-knowledge-partnerships/ebf-sas-knowledge-partnership/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">EBF and SaS Partnership</span></a></li>
+	<li id="menu-item-41199" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.ebf.eu/ebf-sp-global-market-intelligence-knowledge-partnership/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">EBF and S&#038;P Global Partnership</span></a></li>
+	<li id="menu-item-45300" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.ebf.eu/ebf-knowledge-partnerships/ebf-deloitte-partnership/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">EBF and Deloitte Partnership</span></a></li>
+	<li id="menu-item-41201" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.ebf.eu/ebf-and-ey-knowledge-partnership/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">EBF and EY Partnership</span></a></li>
+</ul>
+</li>
+<li id="menu-item-45397" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-top-level menu-item-top-level-8"><a href="https://www.ebf.eu/ebf-media-centre/eubanksforukraine/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">EU Banks for Ukraine</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special"><a aria-label="Search" href="?s=" rel="nofollow" data-avia-search-tooltip="
+
+&lt;form role=&quot;search&quot; action=&quot;https://www.ebf.eu/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' /&gt;
+		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
+			&lt;/div&gt;
+&lt;/form&gt;
+" aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Search</span></a></li><li class="av-burger-menu-main menu-item-avia-special ">
+	        			<a href="#" aria-label="Menu" aria-hidden="false">
+							<span class="av-hamburger av-hamburger--spin av-js-hamburger">
+								<span class="av-hamburger-box">
+						          <span class="av-hamburger-inner"></span>
+						          <strong>Menu</strong>
+								</span>
+							</span>
+							<span class="avia_hidden_link_text">Menu</span>
+						</a>
+	        		   </li></ul></div></nav></div> </div> 
+		<!-- end container_wrap-->
+		</div>
+		<div class='header_bg'></div>
+
+<!-- end header -->
+</header>
+		
+	<div id='main' class='all_colors' data-scroll-offset='116'>
+
+	<div id='layer_slider_1'  class='avia-layerslider main_color avia-shadow  avia-builder-el-0  el_before_av_section  avia-builder-el-first  container_wrap fullsize'  style='height: 361px;'  ><div id="layerslider_142_1dokwsiqdysch" class="ls-wp-container fitvidsignore" style="width:100%;height:360px;margin:0 auto;margin-bottom: 0px;"><div class="ls-slide" data-ls="duration:3500;transition2d:5;timeshift:50;"><img width="1375" height="400" src="https://www.ebf.eu/wp-content/uploads/2017/12/test.jpg" class="ls-bg" alt="" decoding="async" srcset="https://www.ebf.eu/wp-content/uploads/2017/12/test.jpg 1375w, https://www.ebf.eu/wp-content/uploads/2017/12/test-300x87.jpg 300w, https://www.ebf.eu/wp-content/uploads/2017/12/test-768x223.jpg 768w, https://www.ebf.eu/wp-content/uploads/2017/12/test-1030x300.jpg 1030w, https://www.ebf.eu/wp-content/uploads/2017/12/test-705x205.jpg 705w, https://www.ebf.eu/wp-content/uploads/2017/12/test-450x131.jpg 450w, https://www.ebf.eu/wp-content/uploads/2017/12/test-800x233.jpg 800w" sizes="(max-width: 1375px) 100vw, 1375px" /><img width="243" height="243" src="https://www.ebf.eu/wp-content/uploads/2017/12/losange-orange-e1513692416440.png" class="ls-l" alt="" decoding="async" style="width:;height:;padding-top:;padding-right:;padding-bottom:;padding-left:;border-top:;border-right:;border-bottom:;border-left:;font-family:;font-size:;line-height:;color:;background:;border-radius:;top:79px;left:243px;" data-ls="offsetxin:580;durationin:2200;offsetxout:-80;durationout:400;parallaxlevel:0;"><img width="243" height="243" src="https://www.ebf.eu/wp-content/uploads/2017/12/losange-verte-e1513692516633.png" class="ls-l" alt="" decoding="async" style="width:;height:;padding-top:;padding-right:;padding-bottom:;padding-left:;border-top:;border-right:;border-bottom:;border-left:;font-family:;font-size:;line-height:;color:;background:;border-radius:;top:67px;left:157px;" data-ls="offsetxin:-1000;durationin:2200;offsetxout:-80;durationout:400;parallaxlevel:0;"><img width="243" height="243" src="https://www.ebf.eu/wp-content/uploads/2017/12/losange-rose-e1513692631947.png" class="ls-l" alt="" decoding="async" style="width:;height:;padding-top:;padding-right:;padding-bottom:;padding-left:;border-top:;border-right:;border-bottom:;border-left:;font-family:;font-size:;line-height:;color:;background:;border-radius:;top:68px;left:672px;" data-ls="offsetxin:1580;durationin:1800;offsetxout:-80;durationout:400;parallaxlevel:0;"><img width="400" height="400" src="https://www.ebf.eu/wp-content/uploads/2017/12/losange-blanche-1.png" class="ls-l" alt="" decoding="async" srcset="https://www.ebf.eu/wp-content/uploads/2017/12/losange-blanche-1.png 400w, https://www.ebf.eu/wp-content/uploads/2017/12/losange-blanche-1-80x80.png 80w, https://www.ebf.eu/wp-content/uploads/2017/12/losange-blanche-1-300x300.png 300w, https://www.ebf.eu/wp-content/uploads/2017/12/losange-blanche-1-36x36.png 36w, https://www.ebf.eu/wp-content/uploads/2017/12/losange-blanche-1-180x180.png 180w, https://www.ebf.eu/wp-content/uploads/2017/12/losange-blanche-1-120x120.png 120w" sizes="(max-width: 400px) 100vw, 400px" style="width:;height:;padding-top:;padding-right:;padding-bottom:;padding-left:;border-top:;border-right:;border-bottom:;border-left:;font-family:;font-size:;line-height:;color:;background:;border-radius:;top:3px;left:365px;" data-ls="offsetxin:-580;durationin:1800;offsetxout:-80;durationout:400;parallaxlevel:0;"><img width="200" height="137" src="https://www.ebf.eu/wp-content/uploads/2018/01/EMW-smaller.png" class="ls-l" alt="" decoding="async" style="width:;height:;padding-top:;padding-right:;padding-bottom:;padding-left:;border-top:;border-right:;border-bottom:;border-left:;font-family:;font-size:;line-height:;color:;background:;border-radius:;top:120px;left:451px;" data-ls="offsetxin:-580;durationin:1800;offsetxout:-80;durationout:400;parallaxlevel:0;"></div></div></div>
+<div id='av_section_1'  class='avia-section av-mgmvxn4-f5c83ce546b8a6ff7f574bf7b61bd250 main_color avia-section-large avia-no-border-styling  avia-builder-el-1  el_after_av_layerslider  el_before_av_section  avia-full-stretch avia-bg-style-scroll  container_wrap fullsize'  data-section-bg-repeat='stretch'><div class='container av-section-cont-open' ><div class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-11696'><div class='entry-content-wrapper clearfix'>
+
+<style type="text/css" data-created_by="avia_inline_auto" id="style-css-av-26n4ots-b1f6e195edb20a56696ba5230790f866">
+#top .av-special-heading.av-26n4ots-b1f6e195edb20a56696ba5230790f866{
+padding-bottom:5px;
+color:#ffffff;
+font-size:45px;
+}
+.av-special-heading.av-26n4ots-b1f6e195edb20a56696ba5230790f866 .special-heading-inner-border{
+border-color:#ffffff;
+}
+.av-special-heading.av-26n4ots-b1f6e195edb20a56696ba5230790f866 .av-subheading{
+font-size:10px;
+}
+</style>
+<div  class='av-special-heading av-26n4ots-b1f6e195edb20a56696ba5230790f866 av-special-heading-h1 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-2  el_before_av_hr  avia-builder-el-first  av-inherit-size '><h1 class='av-special-heading-tag '  itemprop="headline"  >EUROPEAN MONEY WEEK </p>
+<h2><span style="color:#ffffff;"> </h1><div class='av_custom_color av-subheading av-subheading_below '><h2><span style="color:#ffffff;">All around Europe</span></h2>
+<h3><span style="color:#ffffff;"> 20-25 March 2023</span></h3>
+</div><div class='special-heading-border'><div class='special-heading-inner-border'></div></div></div>
+<div  class='hr av-lgfws8g-62f9e2a2b5a59ec0e27149ecb39a4f2d hr-invisible  avia-builder-el-3  el_after_av_heading  avia-builder-el-last  '><span class='hr-inner '><span class="hr-inner-style"></span></span></div>
+</div></div></div><!-- close content main div --></div></div><div id='emwgradiantorangepinkdiagonal1'  class='avia-section av-l1yns40-51393b10301e363116ab571f5d449d9f main_color avia-section-default avia-no-shadow  avia-builder-el-4  el_after_av_section  el_before_av_section  avia-bg-style-parallax av-section-color-overlay-active  container_wrap fullsize'  ><div class='av-section-color-overlay-wrap'><div class="av-section-color-overlay"></div><div class='container av-section-cont-open' ><div class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-11696'><div class='entry-content-wrapper clearfix'>
+<div  class='av-special-heading av-kks8u28-6eb249d3c01249a17a5538c306304760 av-special-heading-h1 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-5  el_before_av_one_full  avia-builder-el-first  av-inherit-size '><h1 class='av-special-heading-tag '  itemprop="headline"  >WHAT IS EUROPEAN MONEY WEEK?</h1><div class='special-heading-border'><div class='special-heading-inner-border'></div></div></div>
+<div class='flex_column av-k3u5yhc-dd09dc59b9876bfed2dd81f4db1507c7 av_one_full  avia-builder-el-6  el_after_av_heading  el_before_av_one_half  first flex_column_div av-zero-column-padding '   ><section class="av_textblock_section "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock  av_inherit_color '  style='font-size:22px; color:#ffffff; '  itemprop="text" ><p><span style="color: #ffffff;">Starting on <strong>Monday 20 March 2023</strong>, European Money Week will celebrate financial education and raise awareness about money and personal finances. Throughout this week, many financial education events will be organized across Europe by national banking associations and the European Banking Federation.</span></p>
+<p><span style="color: #ffffff;">European Money Week is an annual initiative, aligned with OECD&#8217;s <a href="https://globalmoneyweek.org" target="_blank" rel="noopener">Global Money Week</a>. It involves young people in more than 35 European countries, with activities ranging from classroom teaching sessions, seminars and conferences and of course the <a href="https://www.ebf.eu/europeanmoneyquiz/" target="_blank" rel="noopener">European Money Quiz</a>. All activities seek to improve financial literacy through better financial education. European Money Week is an integral part of EBF’s mission to promote financial literacy in Europe through events, publications and partnerships.</span></p>
+<ul>
+<li><a href="https://ebf.eu/priorities/financial-education/">Read more about financial education at the EBF</a></li>
+<li><a href="https://www.ebf.eu/events/financialliteracy2020seminar/">Watch the replay of the EBF online seminar for the European Money Week 2020: &#8220;Building Financial Resilience in Turbulent Times: Financial Literacy in the 2020s&#8221;</a></li>
+</ul>
+</div></section></div><div class='flex_column av-j5xgwvk-a132ca1ac4c6741dae81ac949c3b5985 av_one_half  avia-builder-el-8  el_after_av_one_full  el_before_av_one_half  first flex_column_div av-zero-column-padding column-top-margin'   ><div  class='avia-button-wrap avia-button-left  avia-builder-el-9  avia-builder-el-no-sibling ' ><a href='https://www.ebf.eu/europeanmoneyweek/activities'  class='avia-button av-ihyldu8-7ab951ed9a75411a369ef0ea3c95b808 avia-icon_select-yes-left-icon avia-size-x-large avia-position-left ' ><span class='avia_button_icon avia_button_icon_left' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class='avia_iconbox_title' >OVERVIEW NATIONAL ACTIVITIES</span></a></div></div><div class='flex_column av-iamjn1s-e53dd27f569058e93436cf7d517df536 av_one_half  avia-builder-el-10  el_after_av_one_half  el_before_av_hr  flex_column_div av-zero-column-padding column-top-margin'   ><div  class='avia-button-wrap avia-button-right  avia-builder-el-11  avia-builder-el-no-sibling ' ><a href='https://tockify.com/tkf2/submitEvent/df4c08155e21492eb205d2d208194c62'  class='avia-button av-hpughg0-6a5404542643fe4670cfd86a090002f7 avia-icon_select-yes-left-icon avia-size-x-large avia-position-right ' ><span class='avia_button_icon avia_button_icon_left' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class='avia_iconbox_title' >SUBMIT YOUR EVENT HERE</span></a></div></div><div  class='hr av-hda5h68-111d785a5f209c1c0495ee676f99d0f1 hr-invisible  avia-builder-el-12  el_after_av_one_half  el_before_av_one_half  '><span class='hr-inner '><span class="hr-inner-style"></span></span></div>
+<div class='flex_column av-gtvf5m8-0e6bda43d9d09688661ce87438d8b7e5 av_one_half  avia-builder-el-13  el_after_av_hr  el_before_av_one_half  first flex_column_div av-zero-column-padding '   ><span  class="av_font_icon av-gd8csq8-50a54b21f29466db9468505bd8c1e157 avia_animate_when_visible av-icon-style- avia-icon-pos-right avia-icon-animate "><a href='https://twitter.com/search?q=%23EuropeanMoneyWeek&src=typd'   class='av-icon-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' ></a></span></div><div class='flex_column av-ftwwd00-793b93ecee23a998d69ee80adb298c2f av_one_half  avia-builder-el-15  el_after_av_one_half  avia-builder-el-last  flex_column_div av-zero-column-padding '   ><span  class="av_font_icon av-ffnia28-b2699cd8bd0fdb9944b7f38e230c87f0 avia_animate_when_visible av-icon-style- avia-icon-pos-left avia-icon-animate "><a href='https://www.facebook.com/EuropeanMoneyWeek/'   class='av-icon-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' ></a></span></div></div></div></div><!-- close content main div --></div></div></div><div id='emwgradiantorangepinkdiagonal1'  class='avia-section av-ey2g2j4-87be7b18cc382713321c16d2841ab19a main_color avia-section-default avia-no-shadow  avia-builder-el-17  el_after_av_section  el_before_av_section  avia-bg-style-scroll av-section-color-overlay-active  container_wrap fullsize'  ><div class='av-section-color-overlay-wrap'><div class="av-section-color-overlay"></div><div class='container av-section-cont-open' ><div class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-11696'><div class='entry-content-wrapper clearfix'>
+<div  class='av-special-heading av-ecqngsw-bbcbed6467cb8bc9166d76506e644957 av-special-heading-h1 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-18  el_before_av_magazine  avia-builder-el-first  av-inherit-size '><h1 class='av-special-heading-tag '  itemprop="headline"  >LATEST FROM THE EUROPEAN MONEY WEEK</h1><div class='special-heading-border'><div class='special-heading-inner-border'></div></div></div>
+<div  id="1"  class='av-magazine   avia-builder-el-19  el_after_av_heading  avia-builder-el-last   av-magazine-hero-left av-magazine-top-bar-active av-magazine-tabs-active' ><div class='av-magazine-top-bar ' ></div><div class='av-magazine-group sort_all'><div class='av-magazine-hero first flex_column av_one_half '><article class='av-magazine-entry av-magazine-entry-id-80979 av-magazine-format-standard av-magazine-type-post av-magazine-entry-1 av-magazine-entry-big '  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='av-magazine-thumbnail'><a href='https://www.ebf.eu/ebf-media-centre/updates/the-european-money-quiz-back-in-brussels-to-boost-financial-literacy/' title='Link to: The European Money Quiz back in Brussels to boost financial literacy' class='av-magazine-thumbnail-link '><img width="710" height="375" src="https://www.ebf.eu/wp-content/uploads/2022/05/emq-white-bg-710x375.png" class="wp-image-45174 avia-img-lazy-loading-45174 attachment-magazine size-magazine wp-post-image" alt="" decoding="async" loading="lazy" /></a></div><div class='av-magazine-content-wrap'><header class='entry-content-header'><time class='av-magazine-time updated'  itemprop="dateModified" datetime="2023-05-15T09:12:49+00:00" >15 May 2023</time><h3 class='av-magazine-title entry-title '  itemprop="headline" ><a href='https://www.ebf.eu/ebf-media-centre/updates/the-european-money-quiz-back-in-brussels-to-boost-financial-literacy/' title='Link to: The European Money Quiz back in Brussels to boost financial literacy'>The European Money Quiz back in Brussels to boost financial literacy</a></h3></header><div class='av-magazine-content entry-content'  itemprop="text" >
+
+
+</div></div><footer class='entry-footer'></footer></article></div><div class='av-magazine-sideshow flex_column av_one_half '><article class='av-magazine-entry av-magazine-entry-id-45168 av-magazine-format-standard av-magazine-type-post av-magazine-entry-2 av-magazine-entry-small '  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='av-magazine-thumbnail'><a href='https://www.ebf.eu/ebf-media-centre/updates/european-money-quiz-2022-winners/' title='Link to: Teenagers play the European Money Quiz to supercharge their financial skills &#8211; EBF PRESS RELEASE' class='av-magazine-thumbnail-link '><img width="80" height="80" src="https://www.ebf.eu/wp-content/uploads/2022/05/emq-white-bg-80x80.png" class="wp-image-45174 avia-img-lazy-loading-45174 attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.ebf.eu/wp-content/uploads/2022/05/emq-white-bg-80x80.png 80w, https://www.ebf.eu/wp-content/uploads/2022/05/emq-white-bg-36x36.png 36w, https://www.ebf.eu/wp-content/uploads/2022/05/emq-white-bg-180x180.png 180w" sizes="(max-width: 80px) 100vw, 80px" /></a></div><div class='av-magazine-content-wrap'><header class='entry-content-header'><time class='av-magazine-time updated'  itemprop="dateModified" datetime="2022-05-10T11:49:43+00:00" >10 May 2022</time><h3 class='av-magazine-title entry-title '  itemprop="headline" ><a href='https://www.ebf.eu/ebf-media-centre/updates/european-money-quiz-2022-winners/' title='Link to: Teenagers play the European Money Quiz to supercharge their financial skills &#8211; EBF PRESS RELEASE'>Teenagers play the European Money Quiz to supercharge their financial skills &#8211; EBF PRESS RELEASE</a></h3></header></div><footer class='entry-footer'></footer></article><article class='av-magazine-entry av-magazine-entry-id-41165 av-magazine-format-standard av-magazine-type-post av-magazine-entry-3 av-magazine-entry-small '  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='av-magazine-thumbnail'><a href='https://www.ebf.eu/financial-education/european-money-quiz-brings-together-50-000-european-students/' title='Link to: European Money Quiz brings together 50 000 European students' class='av-magazine-thumbnail-link '><img width="80" height="80" src="https://www.ebf.eu/wp-content/uploads/2021/04/EMQ-finals-2021-press-release-image-80x80.png" class="wp-image-41172 avia-img-lazy-loading-41172 attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.ebf.eu/wp-content/uploads/2021/04/EMQ-finals-2021-press-release-image-80x80.png 80w, https://www.ebf.eu/wp-content/uploads/2021/04/EMQ-finals-2021-press-release-image-36x36.png 36w, https://www.ebf.eu/wp-content/uploads/2021/04/EMQ-finals-2021-press-release-image-180x180.png 180w, https://www.ebf.eu/wp-content/uploads/2021/04/EMQ-finals-2021-press-release-image-120x120.png 120w, https://www.ebf.eu/wp-content/uploads/2021/04/EMQ-finals-2021-press-release-image-450x450.png 450w" sizes="(max-width: 80px) 100vw, 80px" /></a></div><div class='av-magazine-content-wrap'><header class='entry-content-header'><time class='av-magazine-time updated'  itemprop="dateModified" datetime="2021-04-21T09:51:12+00:00" >21 April 2021</time><h3 class='av-magazine-title entry-title '  itemprop="headline" ><a href='https://www.ebf.eu/financial-education/european-money-quiz-brings-together-50-000-european-students/' title='Link to: European Money Quiz brings together 50 000 European students'>European Money Quiz brings together 50 000 European students</a></h3></header></div><footer class='entry-footer'></footer></article><article class='av-magazine-entry av-magazine-entry-id-40495 av-magazine-format-standard av-magazine-type-post av-magazine-entry-4 av-magazine-entry-small '  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='av-magazine-thumbnail'><a href='https://www.ebf.eu/ebf-media-centre/a-golden-key-and-not-a-silver-bullet-addressing-the-gender-gap-in-financial-literacy-as-part-of-a-broader-strategy-for-economic-empowerment/' title='Link to: A golden key, and not a silver bullet: addressing the gender gap in financial literacy as part of a broader strategy for economic empowerment' class='av-magazine-thumbnail-link '><img width="80" height="80" src="https://www.ebf.eu/wp-content/uploads/2021/03/Burcak-article-EBF-diversity-inclusion-80x80.jpeg" class="wp-image-40493 avia-img-lazy-loading-40493 attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.ebf.eu/wp-content/uploads/2021/03/Burcak-article-EBF-diversity-inclusion-80x80.jpeg 80w, https://www.ebf.eu/wp-content/uploads/2021/03/Burcak-article-EBF-diversity-inclusion-36x36.jpeg 36w, https://www.ebf.eu/wp-content/uploads/2021/03/Burcak-article-EBF-diversity-inclusion-180x180.jpeg 180w, https://www.ebf.eu/wp-content/uploads/2021/03/Burcak-article-EBF-diversity-inclusion-120x120.jpeg 120w, https://www.ebf.eu/wp-content/uploads/2021/03/Burcak-article-EBF-diversity-inclusion-450x450.jpeg 450w" sizes="(max-width: 80px) 100vw, 80px" /></a></div><div class='av-magazine-content-wrap'><header class='entry-content-header'><time class='av-magazine-time updated'  itemprop="dateModified" datetime="2021-03-03T12:03:15+00:00" >3 March 2021</time><h3 class='av-magazine-title entry-title '  itemprop="headline" ><a href='https://www.ebf.eu/ebf-media-centre/a-golden-key-and-not-a-silver-bullet-addressing-the-gender-gap-in-financial-literacy-as-part-of-a-broader-strategy-for-economic-empowerment/' title='Link to: A golden key, and not a silver bullet: addressing the gender gap in financial literacy as part of a broader strategy for economic empowerment'>A golden key, and not a silver bullet: addressing the gender gap in financial literacy as part of a broader strategy for economic empowerment</a></h3></header></div><footer class='entry-footer'></footer></article><article class='av-magazine-entry av-magazine-entry-id-40362 av-magazine-format-standard av-magazine-type-post av-magazine-entry-5 av-magazine-entry-small '  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='av-magazine-thumbnail'><a href='https://www.ebf.eu/events/financial-literacy-for-young-europeans/' title='Link to: DAY 3: Financial literacy for young Europeans _#CountingEveryoneIn' class='av-magazine-thumbnail-link '><img width="80" height="80" src="https://www.ebf.eu/wp-content/uploads/2021/03/Youngsters-Social-media-banner-80x80.jpg" class="wp-image-40482 avia-img-lazy-loading-40482 attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.ebf.eu/wp-content/uploads/2021/03/Youngsters-Social-media-banner-80x80.jpg 80w, https://www.ebf.eu/wp-content/uploads/2021/03/Youngsters-Social-media-banner-36x36.jpg 36w, https://www.ebf.eu/wp-content/uploads/2021/03/Youngsters-Social-media-banner-180x180.jpg 180w, https://www.ebf.eu/wp-content/uploads/2021/03/Youngsters-Social-media-banner-120x120.jpg 120w, https://www.ebf.eu/wp-content/uploads/2021/03/Youngsters-Social-media-banner-450x450.jpg 450w" sizes="(max-width: 80px) 100vw, 80px" /></a></div><div class='av-magazine-content-wrap'><header class='entry-content-header'><time class='av-magazine-time updated'  itemprop="dateModified" datetime="2021-02-26T17:23:29+00:00" >26 February 2021</time><h3 class='av-magazine-title entry-title '  itemprop="headline" ><a href='https://www.ebf.eu/events/financial-literacy-for-young-europeans/' title='Link to: DAY 3: Financial literacy for young Europeans _#CountingEveryoneIn'>DAY 3: Financial literacy for young Europeans _#CountingEveryoneIn</a></h3></header></div><footer class='entry-footer'></footer></article></div></div></div>
+</p>
+</div></div></div><!-- close content main div --></div></div></div><div id='av_section_4'  class='avia-section av-dj7m06o-b05e4b68a5f9ff9a369f01053e2fe2f1 main_color avia-section-large avia-no-border-styling  avia-builder-el-20  el_after_av_section  el_before_av_section  avia-bg-style-scroll  container_wrap fullsize'  data-section-bg-repeat='no-repeat'><div class='container av-section-cont-open' ><div class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-11696'><div class='entry-content-wrapper clearfix'>
+<div  class='av-special-heading av-d83a50w-823f56d7d2a8ef8119be96a8274c6244 av-special-heading-h1 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-21  el_before_av_hr  avia-builder-el-first  av-inherit-size '><h1 class='av-special-heading-tag '  itemprop="headline"  >EUROPEAN MONEY QUIZ</h1><div class='special-heading-border'><div class='special-heading-inner-border'></div></div></div>
+<div  class='hr av-cixnor4-ab2713e0cddfac3fa0f45ee1e282b25c hr-invisible  avia-builder-el-22  el_after_av_heading  el_before_av_three_fifth  '><span class='hr-inner '><span class="hr-inner-style"></span></span></div>
+<div class='flex_column av-ca4bnbk-e047d9cc12415e36692d1f814a64caa2 av_three_fifth  avia-builder-el-23  el_after_av_hr  el_before_av_two_fifth  first flex_column_div av-zero-column-padding '   ><section class="av_textblock_section "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock  av_inherit_color '  style='font-size:19px; color:#ffffff; '  itemprop="text" ><p>The European Money Quiz is a new initiative for 13-15-year-olds. Teenagers across 28 European countries play against each other. First, there will be a national selection between classrooms, with a live quiz where thousands of classrooms can directly play against each other. In most countries, these contests will be played in March, during or around European Money Week. Then, the winners of these national selections will be invited to travel to Brussels for the European Money Quiz finals.</p>
+<p><strong><a href="https://www.ebf.eu/europeanmoneyquiz/" target="_blank" rel="noopener">PARTICIPATE TO THE EUROPEAN MONEY QUIZ</a></strong></p>
+</div></section></div><div class='flex_column av-bfre84w-522f0414fb34835cf167a98fee472417 av_two_fifth  avia-builder-el-25  el_after_av_three_fifth  avia-builder-el-last  flex_column_div av-zero-column-padding '   ><section class="av_textblock_section "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock  '  style='font-size:20px; '  itemprop="text" ><p><a href="https://play.kahoot.it/#/" target="_blank" rel="noopener" data-wp-editing="1"><img decoding="async" class="aligncenter wp-image-12724 size-medium" src="https://www.ebf.eu/wp-content/uploads/2017/10/Kahoot_full_logo_white-300x103.png" alt="" width="300" height="103" srcset="https://www.ebf.eu/wp-content/uploads/2017/10/Kahoot_full_logo_white-300x103.png 300w, https://www.ebf.eu/wp-content/uploads/2017/10/Kahoot_full_logo_white-768x264.png 768w, https://www.ebf.eu/wp-content/uploads/2017/10/Kahoot_full_logo_white-1030x355.png 1030w, https://www.ebf.eu/wp-content/uploads/2017/10/Kahoot_full_logo_white-705x243.png 705w, https://www.ebf.eu/wp-content/uploads/2017/10/Kahoot_full_logo_white-450x155.png 450w, https://www.ebf.eu/wp-content/uploads/2017/10/Kahoot_full_logo_white-800x275.png 800w, https://www.ebf.eu/wp-content/uploads/2017/10/Kahoot_full_logo_white.png 1063w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+</div></section>
+<div  class='hr av-af9gp74-afd4b98716027e0a40902180ee8e821c hr-invisible  avia-builder-el-27  el_after_av_textblock  el_before_av_button  '><span class='hr-inner '><span class="hr-inner-style"></span></span></div>
+<div  class='avia-button-wrap avia-button-center  avia-builder-el-28  el_after_av_hr  avia-builder-el-last ' ><a href='https://www.ebf.eu/europeanmoneyquiz/practice/finalquestions-previous-editions/'  class='avia-button av-9p2idao-c9beece4d1dee207b4fe8b6d62ff0aa9 avia-icon_select-yes-left-icon avia-size-x-large avia-position-center ' ><span class='avia_button_icon avia_button_icon_left' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class='avia_iconbox_title' >PLAY NOW!<BR> PRACTICE ONLINE!</span></a></div></div>
+
+</div></div></div><!-- close content main div --></div></div><div id='emwgradiantorange'  class='avia-section av-9ihyunk-621aab551c07750b615141fe018585f6 main_color avia-section-large avia-no-border-styling  avia-builder-el-29  el_after_av_section  el_before_av_section  avia-bg-style-scroll av-section-color-overlay-active  container_wrap fullsize'  ><div class='av-section-color-overlay-wrap'><div class="av-section-color-overlay"></div><div class='container av-section-cont-open' ><div class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-11696'><div class='entry-content-wrapper clearfix'>
+<div  class='av-special-heading av-92tm2c0-c09c7b6d0c7ab84c835254aa3a8a5cdf av-special-heading-h1 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-30  el_before_av_hr  avia-builder-el-first  av-inherit-size '><h1 class='av-special-heading-tag '  itemprop="headline"  >GLOBAL MONEY WEEK</h1><div class='special-heading-border'><div class='special-heading-inner-border'></div></div></div>
+<div  class='hr av-8d5tw40-4137a3755766f0c12e5ca189ae9c2da8 hr-invisible  avia-builder-el-31  el_after_av_heading  el_before_av_one_fourth  '><span class='hr-inner '><span class="hr-inner-style"></span></span></div>
+<div class='flex_column av-82m3mhc-5119a35889457170d34846b4fbea3d28 av_one_fourth  avia-builder-el-32  el_after_av_hr  el_before_av_one_fourth  first flex_column_div av-zero-column-padding '   ><section class="av_textblock_section "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock  '   itemprop="text" ><p><a href="http://www.oecd.org/" target="_blank" rel="noopener"><img decoding="async" loading="lazy" class="alignnone wp-image-29959 size-full" src="https://www.ebf.eu/wp-content/uploads/2019/10/3.png" alt="" width="500" height="192" srcset="https://www.ebf.eu/wp-content/uploads/2019/10/3.png 500w, https://www.ebf.eu/wp-content/uploads/2019/10/3-300x115.png 300w, https://www.ebf.eu/wp-content/uploads/2019/10/3-450x173.png 450w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+</div></section></div><div class='flex_column av-709femo-4a048d6ee77991112d9c6a127bf7045e av_one_fourth  avia-builder-el-34  el_after_av_one_fourth  el_before_av_one_half  flex_column_div av-zero-column-padding '   ><section class="av_textblock_section "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock  '   itemprop="text" ><p><a href="https://www.globalmoneyweek.org/about/gmw-faqs.html" target="_blank" rel="noopener"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-16634" src="https://www.ebf.eu/wp-content/uploads/2017/10/GMW-logo-orange-300x212.png" alt="" width="300" height="212" srcset="https://www.ebf.eu/wp-content/uploads/2017/10/GMW-logo-orange-300x212.png 300w, https://www.ebf.eu/wp-content/uploads/2017/10/GMW-logo-orange-768x543.png 768w, https://www.ebf.eu/wp-content/uploads/2017/10/GMW-logo-orange-1030x728.png 1030w, https://www.ebf.eu/wp-content/uploads/2017/10/GMW-logo-orange-1500x1061.png 1500w, https://www.ebf.eu/wp-content/uploads/2017/10/GMW-logo-orange-260x185.png 260w, https://www.ebf.eu/wp-content/uploads/2017/10/GMW-logo-orange-705x499.png 705w, https://www.ebf.eu/wp-content/uploads/2017/10/GMW-logo-orange-450x318.png 450w, https://www.ebf.eu/wp-content/uploads/2017/10/GMW-logo-orange-800x566.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+</div></section></div><div class='flex_column av-66tntu8-159e4e53221c59e3b8702a8692a10b1f av_one_half  avia-builder-el-36  el_after_av_one_fourth  avia-builder-el-last  flex_column_div av-zero-column-padding '   ><section class="av_textblock_section "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock  av_inherit_color '  style='font-size:22px; color:#ffffff; '  itemprop="text" ><p>European Money Week has been planned to coincide with Global Money Week. This annual initiative is developed and organized by the OECD International Network on Financial Education (OECD/INFE).</p>
+</div></section></div>
+
+</div></div></div><!-- close content main div --></div></div></div><div id='av_section_6'  class='avia-section av-inj28g-6fe1fa60dff1aad36d4f9e9552672a25 main_color avia-section-default avia-no-border-styling  avia-builder-el-38  el_after_av_section  avia-builder-el-last  avia-full-contain avia-bg-style-fixed av-section-color-overlay-active  container_wrap fullsize'  data-section-bg-repeat='contain'><div class='av-section-color-overlay-wrap'><div class="av-section-color-overlay"></div><div class='container av-section-cont-open' ><div class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-11696'><div class='entry-content-wrapper clearfix'>
+<div  class='av-special-heading av-4xbfhow-0a9fd82becb70b4dca1443eda59017f4 av-special-heading-h1 custom-color-heading blockquote modern-quote modern-centered  avia-builder-el-39  el_before_av_one_half  avia-builder-el-first  av-inherit-size '><h1 class='av-special-heading-tag '  itemprop="headline"  >FOLLOW US ON TWITTER AND FACEBOOK!</h1><div class='special-heading-border'><div class='special-heading-inner-border'></div></div></div>
+<div class='flex_column av-49dqtv4-4ee59451ba046a2a890b081bfc6bdfb2 av_one_half  avia-builder-el-40  el_after_av_heading  el_before_av_one_half  first flex_column_div av-zero-column-padding '   ><div  class='avia-builder-widget-area clearfix  avia-builder-el-41  avia-builder-el-no-sibling '><div id="custom-twitter-feeds-widget-3" class="widget clearfix widget_custom-twitter-feeds-widget"><!-- Custom Twitter Feeds by Smash Balloon -->
+<!--style="' . $feed_options['width'] . $feed_options['height'] . $feed_options['bgcolor'] . '"-->
+<div id="ctf" class=" ctf ctf-type-usertimeline ctf-feed-72626611  ctf-styles ctf-list ctf-regular-style"   data-ctfshortcode="{&quot;screenname&quot;:&quot;MoneyQuizEurope&quot;,&quot;num&quot;:&quot;3&quot;}"   data-ctfdisablelinks="false" data-ctflinktextcolor="#ee741e" data-header-size="small" data-feedid="72626611" data-postid="11696"  data-ctf-flags="gdpr" data-ctfintents="1"  data-ctfneeded="2">
+	
+<!-- style="' . $feed_options['headerbgcolor'] . '"-->
+<div class="ctf-header  ctf-no-bio" >
+	<a href="https://twitter.com//" target="_blank" rel="noopener noreferrer" title="@" class="ctf-header-link">
+		<div class="ctf-header-text">
+			<!-- style="' . $feed_options['headertextcolor'] . '"-->
+			<p class="ctf-header-user">
+				<span class="ctf-header-name">MoneyQuizEurope</span>
+                <span class="ctf-verified"></span>
+				<span class="ctf-header-follow"><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" aria-label="twitter logo" data-fa-processed="" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg> Follow</span>
+			</p>
+
+           			</div>
+
+		<div class="ctf-header-img">
+			<div class="ctf-header-img-hover"><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" aria-label="twitter logo" data-fa-processed="" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></div>
+							<span data-avatar="" data-alt="" style="display: none;">Avatar</span>
+					</div>
+	</a>
+</div>
+    <div class="ctf-tweets">
+   		
+<!--style="' . $feed_options['tweetbgcolor'] . '"' -->
+<div  class="ctf-item ctf-author- ctf-new"  id="" >
+
+	
+	<div class="ctf-author-box">
+		<div class="ctf-author-box-link">
+	        									<!--style="' . $feed_options['authortextsize'] . $feed_options['authortextweight'] . $feed_options['textcolor'] . '"-->
+					<a href="https://twitter.com/" class="ctf-author-avatar" target="_blank" rel="noopener noreferrer">
+													<span data-avatar="" data-alt="">Avatar</span>
+											</a>
+				
+									<!--style="' . $feed_options['authortextsize'] . $feed_options['authortextweight'] . $feed_options['textcolor'] . '"-->
+					<a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" class="ctf-author-name"></a>
+										<!--style="' . $feed_options['authortextsize'] . $feed_options['authortextweight'] . $feed_options['textcolor'] . '"-->
+					<a href="https://twitter.com/" class="ctf-author-screenname" target="_blank" rel="noopener noreferrer">@</a>
+					<span class="ctf-screename-sep">&middot;</span>
+					        
+							<div class="ctf-tweet-meta" >
+					<!--style="' . $feed_options['datetextsize'] . $feed_options['datetextweight'] . $feed_options['textcolor'] . '"-->
+					<a href="https://twitter.com//status/" class="ctf-tweet-date" target="_blank" rel="noopener noreferrer">now</a>
+				</div>
+					</div>
+	    			<!--style="' . $feed_options['logosize'] . $feed_options['logocolor'] . '"-->
+			<div class="ctf-corner-logo" >
+				<svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" aria-label="twitter logo" data-fa-processed="" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>			</div>
+		
+	</div>
+	<div class="ctf-tweet-content">
+		                <p class="ctf-tweet-text">
+                                                        </p>
+                        	</div>
+
+		
+	<div class="ctf-tweet-actions" >
+		
+		<!--style="' . $feed_options['iconsize'] . $feed_options['iconcolor'] . '"-->
+		<a href="https://twitter.com/intent/tweet?in_reply_to=&#038;related=" class="ctf-reply" target="_blank" rel="noopener noreferrer">
+			<svg class="svg-inline--fa fa-w-16" viewBox="0 0 24 24" aria-label="reply" role="img" xmlns="http://www.w3.org/2000/svg"><g><path fill="currentColor" d="M14.046 2.242l-4.148-.01h-.002c-4.374 0-7.8 3.427-7.8 7.802 0 4.098 3.186 7.206 7.465 7.37v3.828c0 .108.044.286.12.403.142.225.384.347.632.347.138 0 .277-.038.402-.118.264-.168 6.473-4.14 8.088-5.506 1.902-1.61 3.04-3.97 3.043-6.312v-.017c-.006-4.367-3.43-7.787-7.8-7.788zm3.787 12.972c-1.134.96-4.862 3.405-6.772 4.643V16.67c0-.414-.335-.75-.75-.75h-.396c-3.66 0-6.318-2.476-6.318-5.886 0-3.534 2.768-6.302 6.3-6.302l4.147.01h.002c3.532 0 6.3 2.766 6.302 6.296-.003 1.91-.942 3.844-2.514 5.176z"></path></g></svg>			<span class="ctf-screenreader">Reply on Twitter </span>
+		</a>
+
+		<!--style="' . $feed_options['iconsize'] . $feed_options['iconcolor'] . '"-->
+		<a href="https://twitter.com/intent/retweet?tweet_id=&#038;related=" class="ctf-retweet" target="_blank" rel="noopener noreferrer"><svg class="svg-inline--fa fa-w-16" viewBox="0 0 24 24" aria-hidden="true" aria-label="retweet" role="img"><path fill="currentColor" d="M23.77 15.67c-.292-.293-.767-.293-1.06 0l-2.22 2.22V7.65c0-2.068-1.683-3.75-3.75-3.75h-5.85c-.414 0-.75.336-.75.75s.336.75.75.75h5.85c1.24 0 2.25 1.01 2.25 2.25v10.24l-2.22-2.22c-.293-.293-.768-.293-1.06 0s-.294.768 0 1.06l3.5 3.5c.145.147.337.22.53.22s.383-.072.53-.22l3.5-3.5c.294-.292.294-.767 0-1.06zm-10.66 3.28H7.26c-1.24 0-2.25-1.01-2.25-2.25V6.46l2.22 2.22c.148.147.34.22.532.22s.384-.073.53-.22c.293-.293.293-.768 0-1.06l-3.5-3.5c-.293-.294-.768-.294-1.06 0l-3.5 3.5c-.294.292-.294.767 0 1.06s.767.293 1.06 0l2.22-2.22V16.7c0 2.068 1.683 3.75 3.75 3.75h5.85c.414 0 .75-.336.75-.75s-.337-.75-.75-.75z"></path></svg>			<span class="ctf-screenreader">Retweet on Twitter </span>
+			<span class="ctf-action-count ctf-retweet-count"></span>
+		</a>
+
+		<!--style="' . $feed_options['iconsize'] . $feed_options['iconcolor'] . '"-->
+		<a href="https://twitter.com/intent/like?tweet_id=&#038;related=" class="ctf-like" target="_blank" rel="nofollow noopener noreferrer">
+			<svg class="svg-inline--fa fa-w-16" viewBox="0 0 24 24" aria-hidden="true" aria-label="like" role="img" xmlns="http://www.w3.org/2000/svg"><g><path fill="currentColor" d="M12 21.638h-.014C9.403 21.59 1.95 14.856 1.95 8.478c0-3.064 2.525-5.754 5.403-5.754 2.29 0 3.83 1.58 4.646 2.73.814-1.148 2.354-2.73 4.645-2.73 2.88 0 5.404 2.69 5.404 5.755 0 6.376-7.454 13.11-10.037 13.157H12zM7.354 4.225c-2.08 0-3.903 1.988-3.903 4.255 0 5.74 7.034 11.596 8.55 11.658 1.518-.062 8.55-5.917 8.55-11.658 0-2.267-1.823-4.255-3.903-4.255-2.528 0-3.94 2.936-3.952 2.965-.23.562-1.156.562-1.387 0-.014-.03-1.425-2.965-3.954-2.965z"></path></g></svg>			<span class="ctf-screenreader">Like on Twitter </span>
+			<span class="ctf-action-count ctf-favorite-count"></span>
+		</a>
+		
+					<a href="https://twitter.com//status/" class="ctf-twitterlink" target="_blank" rel="nofollow noopener noreferrer">
+				<span >Twitter</span>
+				<span class="ctf-screenreader"></span>
+			</a>
+			</div>
+</div>    </div>
+    
+	<!-- style="' . $feed_options['buttoncolor'] . $feed_options['buttontextcolor'] . '"-->
+    <a href="javascript:void(0);" id="ctf-more" class="ctf-more" ><span>Load More...</span></a>
+
+
+</div>
+
+
+</div></div></div><div class='flex_column av-3ceqx3k-304b2159aaa6cc49f00b3c12e1821db3 av_one_half  avia-builder-el-42  el_after_av_one_half  el_before_av_hr  flex_column_div av-zero-column-padding '   ><div  class='hr av-36keh2o-8eea81fddb7949f429f1b87e7845689e hr-invisible  avia-builder-el-43  el_before_av_codeblock  avia-builder-el-first  '><span class='hr-inner '><span class="hr-inner-style"></span></span></div>
+<section class="avia_codeblock_section  avia_code_block_0"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_codeblock '  itemprop="text" ><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FEuropeanMoneyWeek%2F&tabs&width=570&height=214&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="570" height="214" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></div></section></div><div  class='hr av-1d5tdv4-eb271360f2169a9461d267093c61f663 hr-default  avia-builder-el-45  el_after_av_one_half  el_before_av_button  '><span class='hr-inner '><span class="hr-inner-style"></span></span></div>
+<div  class='avia-button-wrap avia-button-center  avia-builder-el-46  el_after_av_hr  avia-builder-el-last ' ><a href='https://www.ebf.eu/priorities/financial-education/'  class='avia-button av-n8v4xc-e863fa30618262917447d3c3f413fade avia-icon_select-yes-left-icon avia-size-large avia-position-center ' ><span class='avia_button_icon avia_button_icon_left' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class='avia_iconbox_title' >Click here to go back to the Financial Education homepage</span></a></div>
+
+</div></div></div><!-- close content main div --> <!-- section close by builder template --></div>		</div><!--end builder template--></div><!-- close default .container_wrap element -->						<div class='container_wrap footer_color' id='footer'>
+
+					<div class='container'>
+
+						<div class='flex_column av_one_fourth  first el_before_av_one_fourth'><section id="text-2" class="widget clearfix widget_text"><h3 class="widgettitle">European Banking Federation</h3>			<div class="textwidget"><p>The European Banking Federation is the voice of the European banking sector, bringing together national banking associations from across Europe. The federation is committed to a thriving European economy that is underpinned by a stable, secure and inclusive financial ecosystem, and to a flourishing society where financing is available to fund the dreams of citizens, businesses and innovators everywhere.</p>
+</div>
+		<span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '><section id="text-3" class="widget clearfix widget_text"><h3 class="widgettitle">Contact</h3>			<div class="textwidget"><p><strong>Brussels office:</strong><br />
+56 Avenue des Arts<br />
+B-1000 Brussels<br />
++32 2 508 37 11</p>
+<p><strong>Frankfurt office:</strong><br />
+Weissfrauenstrasse 12-16<br />
+D-60311 Frankfurt am Main<br />
++49 69 17509942</p>
+<p><strong>Email</strong>:<br />
+<a href="mailto:mediacentre@ebf.eu">mediacentre@ebf.eu</a></p>
+</div>
+		<span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '>
+		<section id="recent-posts-3" class="widget clearfix widget_recent_entries">
+		<h3 class="widgettitle">Recent Posts</h3>
+		<ul>
+											<li>
+					<a href="https://www.ebf.eu/ebf-media-centre/joint-industry-statement-calls-for-removing-sovereignty-requirements-from-european-cybersecurity-certification-scheme-for-cloud-services-eucs/">Joint industry statement calls for removing sovereignty requirements from European Cybersecurity Certification Scheme for Cloud Services (EUCS)</a>
+									</li>
+											<li>
+					<a href="https://www.ebf.eu/ebf-media-centre/ecsas-call-for-clarity-on-the-application-of-sca-obligations-to-payments-under-eidas-2-0/">ECSAs call for clarity on the application of SCA obligations to payments under eIDAS 2.0</a>
+									</li>
+											<li>
+					<a href="https://www.ebf.eu/ebf-media-centre/european-banking-federation-response-to-european-commission-have-your-say-consultation-on-financial-data-access-framework-proposal/">EBF response to European Commission &#8216;Have Your Say&#8217; Consultation on Financial Data Access Framework proposal</a>
+									</li>
+					</ul>
+
+		<span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '><section id="media_image-3" class="widget clearfix widget_media_image"><h3 class="widgettitle">EU Banks for Ukraine</h3><a href="https://www.eubanksforukraine.com/"><img width="373" height="100" src="https://www.ebf.eu/wp-content/uploads/2022/06/eubanksforukraine100px.png" class="avia-img-lazy-loading-45375 image wp-image-45375  attachment-full size-full" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://www.ebf.eu/wp-content/uploads/2022/06/eubanksforukraine100px.png 373w, https://www.ebf.eu/wp-content/uploads/2022/06/eubanksforukraine100px-300x80.png 300w" sizes="(max-width: 373px) 100vw, 373px" /></a><span class="seperator extralight-border"></span></section></div>
+
+					</div>
+
+
+				<!-- ####### END FOOTER CONTAINER ####### -->
+				</div>
+
+	
+
+
+			
+
+						
+						
+			
+			
+
+				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+                    <div class='container' style="min-height:115px !important;">
+<img style="position:absolute; left:0px; bottom:0px;" src="/wp-content/uploads/2016/08/ebf-bottom-logo.png">
+                       
+
+                        <ul class='noLightbox social_bookmarks icon_count_3'><li class='social_bookmarks_twitter av-social-link-twitter social_icon_1'><a target="_blank" aria-label="Link to Twitter" href='http://twitter.com/EBFeu' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Twitter' rel="noopener"><span class='avia_hidden_link_text'>Twitter</span></a></li><li class='social_bookmarks_linkedin av-social-link-linkedin social_icon_2'><a target="_blank" aria-label="Link to LinkedIn" href='http://www.linkedin.com/company/european-banking-federation-ebf-' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='LinkedIn' rel="noopener"><span class='avia_hidden_link_text'>LinkedIn</span></a></li><li class='social_bookmarks_vimeo av-social-link-vimeo social_icon_3'><a target="_blank" aria-label="Link to Vimeo" href='https://vimeo.com/europeanbanking' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Vimeo' rel="noopener"><span class='avia_hidden_link_text'>Vimeo</span></a></li></ul>                         <span class='copyright' style="float:right;">© 2022 European Banking Federation. <a href="https://www.ebf.eu/privacy-policy/">Privacy policy</a>. <a href="https://www.ebf.eu/cookie-policy/">Cookies policy</a>.</span>
+
+                    </div>
+
+	            <!-- ####### END SOCKET CONTAINER ####### -->
+				</footer>
+
+
+					<!-- end main -->
+		</div>
+		
+		<!-- end wrap_all --></div>
+
+<div id="csbwfs-delaydiv"><div class="csbwfs-social-widget"  id="csbwfs-left" title="Share This With Your Friends"  style="top:60%;left:0;"><div id="csbwfs-social-inner"><div class="csbwfs-sbutton csbwfsbtns"><div id="csbwfs-tw" class="csbwfs-tw"><a href="javascript:" onclick="window.open('//twitter.com/share?url=https://www.ebf.eu/europeanmoneyweek/&text=EUROPEAN%20MONEY%20WEEK%20-%20EBF','_blank','width=800,height=300')" title="Share On Twitter" ><i class="csbwfs_twitter"></i></a></div></div><div class="csbwfs-sbutton csbwfsbtns"><div id="csbwfs-li" class="csbwfs-li"><a href="javascript:" onclick="javascript:window.open('//www.linkedin.com/cws/share?mini=true&url=https://www.ebf.eu/europeanmoneyweek/','','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=800');return false;" title="Share On Linkedin" ><i class="csbwfs_linkedin"></i></a></div></div><div class="csbwfs-sbutton csbwfsbtns"><div id="csbwfs-ml" class="csbwfs-ml"><a href="mailto:?subject=EUROPEAN%20MONEY%20WEEK%20-%20EBF&body=https://www.ebf.eu/europeanmoneyweek/" title="Contact us"  ><i class="csbwfs_mail"></i></a></div></div></div></div></div>			<script type="text/javascript">function showhide_toggle(e,t,r,g){var a=jQuery("#"+e+"-link-"+t),s=jQuery("a",a),i=jQuery("#"+e+"-content-"+t),l=jQuery("#"+e+"-toggle-"+t);a.toggleClass("sh-show sh-hide"),i.toggleClass("sh-show sh-hide").toggle(),"true"===s.attr("aria-expanded")?s.attr("aria-expanded","false"):s.attr("aria-expanded","true"),l.text()===r?(l.text(g),a.trigger("sh-link:more")):(l.text(r),a.trigger("sh-link:less")),a.trigger("sh-link:toggle")}</script>
+	
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://www.ebf.eu/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://www.ebf.eu/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://www.ebf.eu/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ 		<!-- Google Tag Manager (noscript) snippet added by Site Kit -->
+		<noscript>
+			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-59K2DWN" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) snippet added by Site Kit -->
+		<style type="text/css" data-ctf-style="72626611">.ctf-feed-72626611 .ctf-more{color:#ee741e!important;}.ctf-feed-72626611 .ctf-author-name{font-size:16px!important;}.ctf-feed-72626611 .ctf-tweet-text, .ctf-feed-72626611 .ctf-quoted-tweet-text{font-size:14px!important;}.ctf-feed-72626611 .ctf-tweet-actions a{color:#ee741e!important;}.ctf-feed-72626611 .ctf-tweet-text a{color:#ee741e!important;}.ctf-feed-72626611.ctf-regular-style .ctf-item, .ctf-feed-72626611 .ctf-header{border-bottom:1px solid #ddd!important;}.ctf-feed-72626611 .ctf-item{background-color:#ffffff!important;}.ctf-feed-72626611 .ctf-retweet-text, .ctf-feed-72626611 .ctf-author-box-link, .ctf-feed-72626611 .ctf-author-avatar, .ctf-feed-72626611 .ctf-author-name, .ctf-feed-72626611 .ctf-author-screenname{font-size:16px!important;}.ctf-feed-72626611 .ctf-header-user, .ctf-feed-72626611 .ctf-header-bio, .ctf-feed-72626611 .ctf-header-no-bio{color:#ee741e!important;}.ctf-feed-72626611{width:100%!important;}</style><style type="text/css" data-ctf-style="627796774">.ctf-feed-627796774 .ctf-more{color:#ee741e!important;}.ctf-feed-627796774 .ctf-author-name{font-size:16px!important;}.ctf-feed-627796774 .ctf-tweet-text, .ctf-feed-627796774 .ctf-quoted-tweet-text{font-size:14px!important;}.ctf-feed-627796774 .ctf-tweet-actions a{color:#ee741e!important;}.ctf-feed-627796774 .ctf-tweet-text a{color:#ee741e!important;}.ctf-feed-627796774.ctf-regular-style .ctf-item, .ctf-feed-627796774 .ctf-header{border-bottom:1px solid #ddd!important;}.ctf-feed-627796774 .ctf-item{background-color:#ffffff!important;}.ctf-feed-627796774 .ctf-retweet-text, .ctf-feed-627796774 .ctf-author-box-link, .ctf-feed-627796774 .ctf-author-avatar, .ctf-feed-627796774 .ctf-author-name, .ctf-feed-627796774 .ctf-author-screenname{font-size:16px!important;}.ctf-feed-627796774 .ctf-header-user, .ctf-feed-627796774 .ctf-header-bio, .ctf-feed-627796774 .ctf-header-no-bio{color:#ee741e!important;}.ctf-feed-627796774{width:100%!important;}</style><link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C700&#038;ver=1.3.12" /><link rel='stylesheet' id='et-gf-open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C700&#038;ver=1.3.12' type='text/css' media='print' onload='this.media=&#34;all&#34;' />
+<script type='text/javascript' id='wphb-5-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.11.8","fixGSAP":"1"};;;var ctf = {"ajax_url":"https:\/\/www.ebf.eu\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ebf.eu/wp-content/uploads/hummingbird-assets/90bc55646ac9a1c539ff14b1ca851807.js' id='wphb-5-js'></script>
+<script type='text/javascript' id='wphb-5-js-after'>
+jQuery(function() { _initLayerSlider( '#layerslider_142_1dokwsiqdysch', {sliderVersion: '', responsiveUnder: 1140, layersContainer: 1140, hideUnder: 0, hideOver: 100000, pauseOnHover: 1, forceCycles: false, shuffleSlideshow: true, skin: 'fullwidth', skinsPath: 'https://www.ebf.eu/wp-content/themes/enfold/config-layerslider/LayerSlider/assets/static/layerslider/skins/', type: 'fullwidth', showCircleTimer: false}); });
+</script>
+
+<script type='text/javascript'>
+			
+	(function($) {
+					
+			/*	check if google analytics tracking is disabled by user setting via cookie - or user must opt in.	*/
+					
+			var analytics_code = "<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https:\/\/www.google-analytics.com\/analytics.js','ga');\n\n  ga('create', 'UA-101184438-1', 'auto');\n  ga('send', 'pageview');\n\n<\/script>".replace(/\"/g, '"' );
+			var html = document.getElementsByTagName('html')[0];
+
+			$('html').on( 'avia-cookie-settings-changed', function(e) 
+			{
+					var cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;
+					var allow_continue = true;
+					var silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;
+					var script_loaded = $( 'script.google_analytics_scripts' );
+
+					if( cookie_check && ! silent_accept_cookie )
+					{
+						if( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )
+						{
+							allow_continue = false;
+						}
+						else
+						{
+							if( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )
+							{
+								allow_continue = false;
+							}
+							else if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )
+							{
+								allow_continue = false;
+							}
+							else if( document.cookie.match(/aviaPrivacyGoogleTrackingDisabled/) )
+							{
+								allow_continue = false;
+							}
+						}
+					}
+
+					if( ! allow_continue )
+					{ 
+//						window['ga-disable-UA-101184438-1'] = true;
+						if( script_loaded.length > 0 )
+						{
+							script_loaded.remove();
+						}
+					}
+					else
+					{
+						if( script_loaded.length == 0 )
+						{
+							$('head').append( analytics_code );
+						}
+					}
+			});
+			
+			$('html').trigger( 'avia-cookie-settings-changed' );
+						
+	})( jQuery );
+				
+</script><a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Scroll to top</span></a>
+
+<div id="fb-root"></div>
+
+</body>
+</html>

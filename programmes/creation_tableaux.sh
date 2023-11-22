@@ -13,6 +13,11 @@ if [ ! -f "$URLS" ]; then
 fi
 
 LANGUE=$2
+LANGUE_ATTENDUE="anglais|francais|chinois"
+if [[ ! $LANGUE =~ $LANGUE_ATTENDUE ]]; then
+    echo "La langue doit etre anglais, francais ou chinois."
+    exit
+fi
 
 OUTPUT_FILE="../tableaux/tableau_${LANGUE}.html"
 echo "<html>
