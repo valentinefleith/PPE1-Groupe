@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-if [[ $# -ne 1 ]]; then
-    echo "On attend exactement un argument pour le script."
+if [[ $# -ne 2 ]]; then
+	echo "Usage : ./creation_tableaux.sh /chemin/vers/urls.txt nom_langue(francais, anglais, chinois)"
     exit
 fi
 
@@ -12,7 +12,9 @@ if [ ! -f "$URLS" ]; then
     exit
 fi
 
-OUTPUT_FILE="../tableaux/tableau_chinois.html"
+LANGUE=$2
+
+OUTPUT_FILE="../tableaux/tableau_${LANGUE}.html"
 echo "<html>
 <head>
     <meta charset=\"UTF-8\">
@@ -43,6 +45,7 @@ while read -r URL; do
 				<td>$lineno</td><td>$URL</td><td>$response</td><td>$encoding</td>
 		</tr>" >> $OUTPUT_FILE
     lineno=$(expr $lineno + 1)
+	echo "OK"
 done < "$URLS"
 echo "            </table>
         </div>
