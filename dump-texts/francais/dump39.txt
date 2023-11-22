@@ -1,0 +1,16 @@
+   IFRAME:
+   [1]//assets.queue-it.net/fnacdarty/userdata/back-queueit.html?c=fnacdar
+   ty&e=frprdfnaccom&q=00000000-0000-0000-0000-000000000000&cid=fr-FR
+
+   Choisir la langue :
+   FR PRD FNAC.COM Black-Friday
+   En raison d'un nombre important de connexions, nous vous proposons de
+   patienter pour accéder à nos offres.
+   Restez sur cette page, celle-ci va bientôt se rafraîchir et vous
+   pourrez accéder au site.
+
+   (BUTTON) ID de file d'attente 00000000-0000-0000-0000-000000000000
+
+References
+
+   1. https://assets.queue-it.net/fnacdarty/userdata/back-queueit.html?c=fnacdarty&e=frprdfnaccom&q=00000000-0000-0000-0000-000000000000&cid=fr-FR

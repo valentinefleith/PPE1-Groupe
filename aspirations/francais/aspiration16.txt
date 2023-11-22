@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <title>Argent (groupe) — Wikipédia</title>
 <script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-typography-survey-disabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )frwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],
-"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgRequestId":"57f654ed-d2b9-4ebe-bd68-e38680ff091b","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Argent_(groupe)","wgTitle":"Argent (groupe)","wgCurRevisionId":205342576,"wgRevisionId":205342576,"wgArticleId":2919909,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Article utilisant une Infobox","Page utilisant P1728","Page utilisant P4208","Page utilisant P4104","Page utilisant P1953","Page utilisant P3192","Page utilisant P434","Page utilisant P5882","Page utilisant P5404","Page utilisant P3478","Page utilisant P3040","Page pointant vers des bases externes","Page pointant vers des bases relatives à la musique","Portail:Rock/Articles liés","Portail:Musique/Articles liés","Portail:Angleterre/Articles liés",
+"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgRequestId":"ad067640-65b4-4966-9925-9a82573d4a64","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Argent_(groupe)","wgTitle":"Argent (groupe)","wgCurRevisionId":205342576,"wgRevisionId":205342576,"wgArticleId":2919909,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Article utilisant une Infobox","Page utilisant P1728","Page utilisant P4208","Page utilisant P4104","Page utilisant P1953","Page utilisant P3192","Page utilisant P434","Page utilisant P5882","Page utilisant P5404","Page utilisant P3478","Page utilisant P3040","Page pointant vers des bases externes","Page pointant vers des bases relatives à la musique","Portail:Rock/Articles liés","Portail:Musique/Articles liés","Portail:Angleterre/Articles liés",
 "Portail:Royaume-Uni/Articles liés","Portail:Europe/Articles liés","Groupe anglais de rock progressif","Groupe anglais de hard rock","Groupe de rock symphonique","Groupe musical britannique des années 1970","Artiste d'Epic Records","Groupe musical formé en 1968","Groupe musical séparé en 1976","Groupe musical reformé en 2010","Groupe musical séparé en 2010","Groupe musical reformé en 2012","Groupe musical séparé en 2012","Groupe musical reformé en 2013","Groupe musical séparé en 2013"],"wgPageViewLanguage":"fr","wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Argent_(groupe)","wgRelevantArticleId":2919909,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},
 "wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":5000,"wgULSCurrentAutonym":"français","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q2301367","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready",
 "skins.vector.styles":"ready","skins.vector.icons":"ready","skins.vector.zebra.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ArchiveLinks","ext.gadget.Wdsearch","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession"];</script>
@@ -682,13 +682,13 @@
 <ul id="bandeau-portail" class="bandeau-portail"><li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><span class="noviewer" typeof="mw:File"><a href="/wiki/Portail:Rock" title="Portail du rock"><img alt="icône décorative" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Crystal_Clear_app_kguitar.png/24px-Crystal_Clear_app_kguitar.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Crystal_Clear_app_kguitar.png/36px-Crystal_Clear_app_kguitar.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Crystal_Clear_app_kguitar.png/48px-Crystal_Clear_app_kguitar.png 2x" data-file-width="128" data-file-height="128" /></a></span></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Rock" title="Portail:Rock">Portail du rock</a></span> </span></li> <li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><span class="mw-image-border noviewer" typeof="mw:File"><a href="/wiki/Portail:Angleterre" title="Portail de l’Angleterre"><img alt="icône décorative" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/37px-Flag_of_England.svg.png" decoding="async" width="37" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/55px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/74px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></span></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Angleterre" title="Portail:Angleterre">Portail de l’Angleterre</a></span> </span></li>                   </ul>
 <!-- 
 NewPP limit report
-Parsed by mw1370
-Cached time: 20231122091233
+Parsed by mw‐web.eqiad.main‐799dcb64c6‐hv5qf
+Cached time: 20231122102514
 Cache expiry: 1814400
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.429 seconds
-Real time usage: 0.604 seconds
+CPU time usage: 0.355 seconds
+Real time usage: 0.547 seconds
 Preprocessor visited node count: 1768/1000000
 Post‐expand include size: 22924/2097152 bytes
 Template argument size: 4149/2097152 bytes
@@ -696,25 +696,25 @@ Highest expansion depth: 15/100
 Expensive parser function count: 9/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 1967/5000000 bytes
-Lua time usage: 0.327/10.000 seconds
-Lua memory usage: 7016782/52428800 bytes
+Lua time usage: 0.260/10.000 seconds
+Lua memory usage: 7017080/52428800 bytes
 Number of Wikibase entities loaded: 32/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  568.383      1 -total
- 66.24%  376.523      1 Modèle:Bases_musique
- 10.67%   60.632      1 Modèle:Références
-  9.26%   52.647      1 Modèle:Infobox_Musique_(artiste)
-  5.07%   28.791      1 Modèle:Voir_homonymes
-  4.81%   27.365      1 Modèle:Méta_bandeau_de_note
-  4.81%   27.355      1 Modèle:Lien_archive
-  4.66%   26.484      1 Modèle:Lien_web
-  4.64%   26.369      1 Modèle:Infobox_V3/Début
-  4.51%   25.652      1 Modèle:Méta_bandeau
+100.00%  510.799      1 -total
+ 65.40%  334.044      1 Modèle:Bases_musique
+ 10.59%   54.112      1 Modèle:Références
+  9.08%   46.369      1 Modèle:Infobox_Musique_(artiste)
+  5.71%   29.143      1 Modèle:Voir_homonymes
+  5.34%   27.283      1 Modèle:Méta_bandeau_de_note
+  4.99%   25.513      1 Modèle:Méta_bandeau
+  4.90%   25.028      1 Modèle:Portail
+  4.83%   24.647      1 Modèle:Lien_archive
+  4.59%   23.451      1 Modèle:Lien_web
 -->
 
-<!-- Saved in parser cache with key frwiki:pcache:idhash:2919909-0!canonical and timestamp 20231122091232 and revision id 205342576. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key frwiki:pcache:idhash:2919909-0!canonical and timestamp 20231122102513 and revision id 205342576. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
 <div class="printfooter" data-nosnippet="">Ce document provient de «&#160;<a dir="ltr" href="https://fr.wikipedia.org/w/index.php?title=Argent_(groupe)&amp;oldid=205342576">https://fr.wikipedia.org/w/index.php?title=Argent_(groupe)&amp;oldid=205342576</a>&#160;».</div></div>
@@ -765,7 +765,7 @@ Wikipedia® est une marque déposée de la <a href="https://wikimediafoundation.
 </li>
 	</ul>
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1370","wgBackendResponseTime":749,"wgPageParseReport":{"limitreport":{"cputime":"0.429","walltime":"0.604","ppvisitednodes":{"value":1768,"limit":1000000},"postexpandincludesize":{"value":22924,"limit":2097152},"templateargumentsize":{"value":4149,"limit":2097152},"expansiondepth":{"value":15,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1967,"limit":5000000},"entityaccesscount":{"value":32,"limit":400},"timingprofile":["100.00%  568.383      1 -total"," 66.24%  376.523      1 Modèle:Bases_musique"," 10.67%   60.632      1 Modèle:Références","  9.26%   52.647      1 Modèle:Infobox_Musique_(artiste)","  5.07%   28.791      1 Modèle:Voir_homonymes","  4.81%   27.365      1 Modèle:Méta_bandeau_de_note","  4.81%   27.355      1 Modèle:Lien_archive","  4.66%   26.484      1 Modèle:Lien_web","  4.64%   26.369      1 Modèle:Infobox_V3/Début","  4.51%   25.652      1 Modèle:Méta_bandeau"]},"scribunto":{"limitreport-timeusage":{"value":"0.327","limit":"10.000"},"limitreport-memusage":{"value":7016782,"limit":52428800}},"cachereport":{"origin":"mw1370","timestamp":"20231122091233","ttl":1814400,"transientcontent":false}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-799dcb64c6-hv5qf","wgBackendResponseTime":687,"wgPageParseReport":{"limitreport":{"cputime":"0.355","walltime":"0.547","ppvisitednodes":{"value":1768,"limit":1000000},"postexpandincludesize":{"value":22924,"limit":2097152},"templateargumentsize":{"value":4149,"limit":2097152},"expansiondepth":{"value":15,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1967,"limit":5000000},"entityaccesscount":{"value":32,"limit":400},"timingprofile":["100.00%  510.799      1 -total"," 65.40%  334.044      1 Modèle:Bases_musique"," 10.59%   54.112      1 Modèle:Références","  9.08%   46.369      1 Modèle:Infobox_Musique_(artiste)","  5.71%   29.143      1 Modèle:Voir_homonymes","  5.34%   27.283      1 Modèle:Méta_bandeau_de_note","  4.99%   25.513      1 Modèle:Méta_bandeau","  4.90%   25.028      1 Modèle:Portail","  4.83%   24.647      1 Modèle:Lien_archive","  4.59%   23.451      1 Modèle:Lien_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.260","limit":"10.000"},"limitreport-memusage":{"value":7017080,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-799dcb64c6-hv5qf","timestamp":"20231122102514","ttl":1814400,"transientcontent":false}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Argent (groupe)","url":"https:\/\/fr.wikipedia.org\/wiki\/Argent_(groupe)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2301367","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2301367","author":{"@type":"Organization","name":"Contributeurs aux projets Wikimedia"},"publisher":{"@type":"Organization","name":"Fondation Wikimedia, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-04-17T00:00:46Z","dateModified":"2023-06-20T21:20:25Z","headline":"groupe de musique britannique"}</script>
 </body>
 </html>

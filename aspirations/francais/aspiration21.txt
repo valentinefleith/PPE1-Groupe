@@ -300,7 +300,7 @@
 		</div>
 	</div>
 	<!--  Scripts-->
-	<script defer src="biblio/global-min.js?version=202311221031"></script>
+	<script defer src="biblio/global-min.js?version=202311221125"></script>
 
 
 </body>

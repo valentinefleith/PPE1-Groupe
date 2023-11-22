@@ -173,7 +173,7 @@
 					<td class="stats stickybg">
 						106 Replies
 						<br />
-						132199 Views
+						132200 Views
 					</td>
 					<td class="lastpost stickybg2">
 						<a href="https://forum.mrmoneymustache.com/taxes/the-mustache-tax-guide-(u-s-version)/100/#msg3151200"><img src="https://forum.mrmoneymustache.com/Themes/default/images/icons/last_post.gif" alt="Last post" title="Last post" /></a>
@@ -277,7 +277,7 @@
 					<td class="stats windowbg">
 						8 Replies
 						<br />
-						459 Views
+						460 Views
 					</td>
 					<td class="lastpost windowbg2">
 						<a href="https://forum.mrmoneymustache.com/taxes/we-adopted-a-baby!-now-i-have-tax-credit-questions/#msg3202063"><img src="https://forum.mrmoneymustache.com/Themes/default/images/icons/last_post.gif" alt="Last post" title="Last post" /></a>
@@ -303,7 +303,7 @@
 					<td class="stats windowbg">
 						0 Replies
 						<br />
-						94 Views
+						97 Views
 					</td>
 					<td class="lastpost windowbg2">
 						<a href="https://forum.mrmoneymustache.com/taxes/spousal-partnership-vs-sole-proprietorship/#msg3201211"><img src="https://forum.mrmoneymustache.com/Themes/default/images/icons/last_post.gif" alt="Last post" title="Last post" /></a>
@@ -329,7 +329,7 @@
 					<td class="stats windowbg">
 						4 Replies
 						<br />
-						364 Views
+						366 Views
 					</td>
 					<td class="lastpost windowbg2">
 						<a href="https://forum.mrmoneymustache.com/taxes/healthcare-gov-might-sign-you-up-for-medicaid-unexpectedly/#msg3201200"><img src="https://forum.mrmoneymustache.com/Themes/default/images/icons/last_post.gif" alt="Last post" title="Last post" /></a>
@@ -641,7 +641,7 @@
 					<td class="stats windowbg">
 						7 Replies
 						<br />
-						724 Views
+						725 Views
 					</td>
 					<td class="lastpost windowbg2">
 						<a href="https://forum.mrmoneymustache.com/taxes/irs-direct-file/#msg3192830"><img src="https://forum.mrmoneymustache.com/Themes/default/images/icons/last_post.gif" alt="Last post" title="Last post" /></a>
@@ -1549,8 +1549,16 @@
 		setInnerHTML(cur_subject_div, '<a href="https://forum.mrmoneymustache.com/index.php?topic=' + cur_topic_id + '.0">' + subject + '<' +'/a>');
 	}
 
-// ]]></script><a href="https://www.cardratings.com/advisors/mrmoneymustache?src=636824" target="_blank"><img src="https://www.mrmoneymustache.com/wp-content/uploads/2022/07/credit-cards-recommends-728.jpg" width="728" height="90" border="0" />
-</a>
+// ]]></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-22884927-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-22884927-1');
+</script>
+
 		</div>
 	</div></div>
 	<div id="footer_section"><div class="frame">

@@ -1,0 +1,379 @@
+   #[1]Actualités Vidal
+
+   [2]VIDAL
+     [3]Médicaments
+          + [4]Par nom de gamme
+          + Par nom de spécialité
+          + [5]Par substance active
+          + [6]Par laboratoire
+          + Par domaine thérapeutique
+          + Par classe ATC
+          + Par indication
+          + Analyse d'ordonnance
+          + Calculateurs et convertisseurs
+          + [7]Bien utiliser ses médicaments
+          + [8]Actualités
+     [9]DM & Parapharmacie
+          + [10]Par nom commercial
+          + [11]Par fabricant & distributeur
+          + Par domaine d'utilisation
+          + [12]Phytothérapie
+          + [13]Compléments alimentaires
+          + [14]Bien utiliser ses produits de parapharmacie
+          + [15]Actualités
+     [16]Maladies
+          + VIDAL Recos
+          + [17]Maladies de A à Z
+          + [18]Maladies chez l'adulte
+          + [19]Maladies chez l'enfant
+          + [20]Maux et maladies de la grossesse
+          + [21]J'ai mal à
+          + [22]Mon enfant a
+          + [23]Actualités COVID-19
+     [24]Santé des patients
+          + [25]Maladies de A à Z
+          + [26]Agir pour ma santé
+          + [27]Examens, tests et analyses
+          + [28]Médecine thermale
+          + [29]SantéBD
+          + [30]Grossesse
+          + [31]Enfants
+          + [32]Voyage
+          + [33]Nutrition
+          + [34]Sport
+          + [35]Actualités
+     [36]Prise en charge médicale
+          + Recherche par nom de médicament
+          + [37]Recherche par nom de produit de parapharmacie
+          + Calculateurs et convertisseurs
+          + VIDAL Recos
+          + VIDAL Live
+          + [38]Médicosport-Santé
+          + [39]Médecine thermale
+          + [40]Patient en situation de handicap
+          + Gestes techniques
+          + Produits toxiques
+          + [41]Infos pratiques professionnelles
+          + Rein / GPR
+          + [42]Actualités
+          + [43]eFormations médicales
+          + Études cliniques et épidémiologique
+     Qui sommes-nous ?
+
+   search search close close
+     * [icon-user-connection.png]
+          + S'inscrire
+          + Se connecter
+
+   Veuillez saisir au moins 3 caractères pour votre recherche.
+   (BUTTON) [icon-search-white.png] Rechercher
+   (BUTTON)
+     *
+     * [44]Médicaments
+     * [45]Substances
+     * Argent
+
+Substance active argent
+
+   [46]Email
+
+   À propos de la substance
+     * [47]Gammes
+
+   [48]Fiche DCI VIDAL
+     * [49]Synthèse
+     * [50]INDICATIONS ET MODALITÉS D'ADMINISTRATION
+          + [51]Indications
+          + [52]Posologie
+          + [53]Modalités d'administration du traitement
+     * [54]INFORMATIONS RELATIVES À LA SÉCURITÉ DU PATIENT
+          + [55]Contre-indications
+          + [56]Précautions
+          + [57]Interactions médicamenteuses
+          + [58]Grossesse et allaitement
+          + [59]Mesures à associer au traitement
+     * [60]Voir aussi les substances
+          + [61]Argent nitrate
+
+   À propos de Argent
+   Mise à jour : 16 janvier 2013
+   Gammes contenant la substance
+     * [62]GRANIONS D'ARGENT
+     * [63]OLIGOSOL CUIVRE-OR-ARGENT
+
+   Fiche DCI Vidal
+   [______________________________________________________________________
+   _____________________________...]
+   Mise à jour : 24 Octobre 2023
+
+   Les fiches DCI Vidal constituent une base de connaissances
+   pharmacologiques et thérapeutiques, proposée aux professionnels de
+   santé, en complément des documents réglementaires publiés.
+
+   [64]+ Lire la politique éditoriale des Fiches DCI VIDAL
+
+Argent (nitrate) 0,64 mg/2 ml (0,32 mg/ml) solution buvable
+
+   ATC Risque sur la grossesse et l'allaitement Dopant Vigilance
+   A - VOIES DIGESTIVES ET METABOLISME
+   A12 - SUPPLEMENTS MINERAUX
+   A12C - AUTRES SUPPLEMENTS MINERAUX
+   A12CX - AUTRES ELEMENTS MINERAUX
+               Grossesse (mois)     Allaitement
+           1 2 3 4 5 6 7 8 9
+   Risques II                       II
+
+   II Précaution
+
+INDICATIONS ET MODALITÉS D'ADMINISTRATION
+
+   ARGENT (nitrate) 0,64 mg/2 ml sol buv
+
+Indications
+
+   Ce médicament est indiqué dans les cas suivants :
+     * Aphte, modificateur de terrain (au cours d'un)
+     * Etat grippal, modificateur de terrain (au cours de l')
+     * Infection ORL, modificateur de terrain (au cours de l')
+
+Posologie
+
+Unité de prise
+
+   ml
+     * argent (nitrate) : 0.64 mg/2 ml
+
+Modalités d'administration
+
+     * Voie orale
+     * Administrer la solution diluée dans de l'eau
+     * Administrer à distance du repas
+
+Posologie
+
+   Patient à partir de 15 an(s)
+     * Patient quel que soit le poids
+     * Aphte, modificateur de terrain (au cours d'un) - Etat grippal,
+       modificateur de terrain (au cours de l') - Infection ORL,
+       modificateur de terrain (au cours de l')
+     * Posologie standard
+     * 2 ml 2 à 3 fois par jour
+
+Modalités d'administration du traitement
+
+     * Administrer à distance du repas
+     * Réservé à l'adulte
+
+INFORMATIONS RELATIVES À LA SÉCURITÉ DU PATIENT
+
+   ARGENT (nitrate) 0,64 mg/2 ml sol buv
+   Niveau de risque : X Critique III Haut II Modéré I Bas
+
+Contre-indications
+
+   X Critique
+
+Niveau de gravité : Contre-indication absolue
+
+     * Hypersensibilité à l'un des composants
+
+Précautions
+
+   II Modéré
+
+Niveau de gravité : Précautions
+
+     * [65]Allaitement
+     * Enfant de moins de 15 ans
+     * [66]Grossesse
+
+Interactions médicamenteuses
+
+   III Haut
+
+Niveau de gravité : Association déconseillée
+
+   Médicaments administrés par voie orale + Topiques gastro-intestinaux,
+   antiacides et adsorbants
+   Risques et mécanismes Diminution de l'absorption de certains autres
+   médicaments ingérés simultanément.
+   Conduite à tenir Prendre les topiques ou antiacides, adsorbants à
+   distance de ces substances (plus de 2 heures, si possible).
+   II Modéré
+
+Niveau de gravité : Précaution d'emploi
+
+   Médicaments administrés par voie orale + Colestipol
+
+   Médicaments administrés par voie orale + Résines chélatrices
+   Risques et mécanismes La prise de résine chélatrice peut diminuer
+   l'absorption intestinale et, potentiellement, l'efficacité d'autres
+   médicaments pris simultanément.
+   Conduite à tenir D'une façon générale, la prise de la résine doit se
+   faire à distance de celle des autres médicaments, en respectant un
+   intervalle de plus de 2 heures, si possible.
+   I Bas
+
+Niveau de gravité : A prendre en compte
+
+   Médicaments administrés par voie orale + Laxatifs (type macrogol)
+   Risques et mécanismes Avec les laxatifs, notamment en vue
+   d'explorations endoscopiques : risque de diminution de l'efficacité du
+   médicament administré avec le laxatif.
+   Conduite à tenir Eviter la prise d'autres médicaments pendant et après
+   l'ingestion dans un délai d'au moins 2 h après la prise du laxatif,
+   voire jusqu'à la réalisation de l'examen.
+
+Grossesse et allaitement
+
+   Contre-indications et précautions d'emploi
+               Grossesse (mois)     Allaitement
+           1 2 3 4 5 6 7 8 9
+   Risques II                       II
+
+   II Précaution
+
+Mesures à associer au traitement
+
+     * Administrer la solution diluée dans de l'eau
+     * Traitement ne dispensant pas du traitement spécifique de la maladie
+
+Voir aussi les substances
+
+Argent nitrate
+
+Chimie
+
+   IUPAC NITRATE D'ARGENT
+
+   VIDAL
+   [67]icon_fb [68]icon_twitter [69]icon_linkedin [70]icon_instagram
+   Espace produit
+     * [71]Boutique
+     * [72]VIDAL Expert
+     * [73]VIDAL Hoptimal
+     * [74]eVIDAL
+     * [75]VIDAL Mobile
+     * [76]VIDAL widget
+     * [77]VIDAL Sécurisation
+     * [78]VIDAL e-Services
+
+   Espace institutionnel
+     * [79]VIDAL France
+     * [80]VIDAL Group
+     * [81]Carrières
+
+   Service client
+     * [82]Contact
+     * Aide
+
+   Espace partenaires
+     * Devenir partenaire
+     * [83]VIDAL sur votre site
+     * [84]logo-esante VIDAL est signataire de la charte de la E-SANTÉ
+
+   Vidal Mobile
+   [85]google-play-badge [86]application-iphone
+
+   [87]Presse - [88]CGU - [89]Données personnelles - [90]Politique cookies
+   - [91]Mentions légales - Contact webmaster
+   Fréquentation certifiée par [92]l'ACPM/OJD |Copyright 2023 Vidal
+
+References
+
+   Visible links:
+   1. https://www.vidal.fr/rss.xml
+   2. https://www.vidal.fr/medicaments/substances/argent-381.html
+   3. https://www.vidal.fr/medicaments.html
+   4. https://www.vidal.fr/medicaments/gammes/liste-a.html
+   5. https://www.vidal.fr/medicaments/substances/liste-a.html
+   6. https://www.vidal.fr/medicaments/laboratoires/liste-a.html
+   7. https://www.vidal.fr/medicaments/utilisation.html
+   8. https://www.vidal.fr/actualites/medicaments.html
+   9. https://www.vidal.fr/parapharmacie.html
+  10. https://www.vidal.fr/parapharmacie/liste-a.html
+  11. https://www.vidal.fr/parapharmacie/societes/liste-a.html
+  12. https://www.vidal.fr/parapharmacie/phytotherapie-plantes.html
+  13. https://www.vidal.fr/parapharmacie/complements-alimentaires.html
+  14. https://www.vidal.fr/parapharmacie/utilisation.html
+  15. https://www.vidal.fr/actualites/parapharmacie.html
+  16. https://www.vidal.fr/maladies.html
+  17. https://www.vidal.fr/maladies/a-z.html
+  18. https://www.vidal.fr/maladies/chez-adulte.html
+  19. https://www.vidal.fr/maladies/chez-les-enfants.html
+  20. https://www.vidal.fr/sante/grossesse/maladies-grossesse.html
+  21. https://www.vidal.fr/maladies/j-ai-mal-a.html
+  22. https://www.vidal.fr/maladies/mon-enfant-a-mal.html
+  23. https://www.vidal.fr/actualites/covid-19.html
+  24. https://www.vidal.fr/sante.html
+  25. https://www.vidal.fr/maladies/a-z.html
+  26. https://www.vidal.fr/agir-pour-ma-sante.html
+  27. https://www.vidal.fr/sante/examens-tests-analyses-medicales.html
+  28. https://www.vidal.fr/sante/medecine-thermale.html
+  29. https://www.vidal.fr/sante/sante-bd.html
+  30. https://www.vidal.fr/sante/grossesse.html
+  31. https://www.vidal.fr/sante/enfants.html
+  32. https://www.vidal.fr/sante/voyage.html
+  33. https://www.vidal.fr/sante/nutrition.html
+  34. https://www.vidal.fr/sante/sport.html
+  35. https://www.vidal.fr/actualites/sante.html
+  36. https://www.vidal.fr/prise-charge-medicale.html
+  37. https://www.vidal.fr/parapharmacie/liste-a.html
+  38. https://www.vidal.fr/sante/sport/infos-sport-medicosport-sante/
+  39. https://www.vidal.fr/sante/medecine-thermale.html
+  40. https://www.vidal.fr/prise-charge-medicale/handiconnect.html
+  41. https://www.vidal.fr/infos-pratiques/pharmacovigilance-definition-et-modalites-de-declaration-id10431.html
+  42. https://www.vidal.fr/actualites.html
+  43. https://campus.vidal.fr/
+  44. https://www.vidal.fr/medicaments.html
+  45. https://www.vidal.fr/medicaments/substances/liste-a.html
+  46. mailto:?Subject=Argent : substance active à effet thérapeutique - VIDAL&Body=https://www.vidal.fr/medicaments/substances/argent-381.html
+  47. https://www.vidal.fr/medicaments/substances/argent-381.html#substance_gatherings
+  48. https://www.vidal.fr/medicaments/substances/argent-381.html#dci_overall
+  49. https://www.vidal.fr/medicaments/substances/argent-381.html#synthese
+  50. https://www.vidal.fr/medicaments/substances/argent-381.html#uses-administration
+  51. https://www.vidal.fr/medicaments/substances/argent-381.html#ind
+  52. https://www.vidal.fr/medicaments/substances/argent-381.html#dos
+  53. https://www.vidal.fr/medicaments/substances/argent-381.html#Modalitsdadministrationdutraitement
+  54. https://www.vidal.fr/medicaments/substances/argent-381.html#patient-safety-information
+  55. https://www.vidal.fr/medicaments/substances/argent-381.html#con
+  56. https://www.vidal.fr/medicaments/substances/argent-381.html#prec
+  57. https://www.vidal.fr/medicaments/substances/argent-381.html#int
+  58. https://www.vidal.fr/medicaments/substances/argent-381.html#prla
+  59. https://www.vidal.fr/medicaments/substances/argent-381.html#Mesuresassocierautraitement
+  60. https://www.vidal.fr/medicaments/substances/argent-381.html#voir-aussi-les-substances
+  61. https://www.vidal.fr/medicaments/substances/argent-381.html#argentnitrate
+  62. https://www.vidal.fr/medicaments/gammes/granions-d-argent-19222.html
+  63. https://www.vidal.fr/medicaments/gammes/oligosol-cuivre-or-argent-99068.html
+  64. https://www.vidal.fr/regle-editoriale-dci-fr.html
+  65. https://www.vidal.fr/medicaments/substances/argent-381.html#prla
+  66. https://www.vidal.fr/medicaments/substances/argent-381.html#prla
+  67. https://www.facebook.com/VIDALfrance
+  68. https://twitter.com/VidalActus
+  69. https://www.linkedin.com/company/vidal/posts/?feedView=all&viewAsMember=true
+  70. https://www.instagram.com/vidal_france/
+  71. https://www.vidal.fr/boutique/
+  72. https://www.vidalfrance.com/solutions/vidal-expert
+  73. https://www.vidalfrance.com/solutions/vidal-hoptimal
+  74. https://www.vidalfrance.com/solutions/evidal
+  75. https://www.vidalfrance.com/solutions/vidal-mobile
+  76. https://www.vidal.fr/widget.html
+  77. https://www.vidalfrance.com/solutions/vidal-securisation
+  78. https://www.vidalfrance.com/solutions/vidal-e-services
+  79. http://www.vidalfrance.com/
+  80. http://www.vidal-group.net/
+  81. http://www.vidalfrance.com/carriere/
+  82. https://www.vidalfrance.com/contact
+  83. https://www.vidal.fr/module-vidal.html
+  84. https://esante.gouv.fr/actualites/319-industriels-de-la-e-sante-signataires-de-la-charte-engage-pour-la-e-sante
+  85. https://play.google.com/store/apps/details?id=com.mobicrea.vidal
+  86. https://apps.apple.com/fr/app/vidal-mobile/id512171778
+  87. https://www.vidalfrance.com/actualites/
+  88. https://www.vidal.fr/cgu.html
+  89. https://www.vidal.fr/donnees-personnelles.html
+  90. https://www.vidal.fr/politique-cookies.html
+  91. https://www.vidal.fr/mentions-legales.html
+  92. https://www.acpm.fr/Support-Numerique/site/vidal-fr
+
+   Hidden links:
+  94. https://www.vidal.fr/medicaments/substances/argent-381.html

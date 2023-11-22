@@ -1126,6 +1126,202 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <ul class="block-list"  data-item-per-page="5">
                     <li class="block-list-item" >
                 
+<a data-id="4063503" class="card card-lined color-default" href="https://www.20minutes.fr/faits_divers/4063503-20231122-aisne-endormie-voiture-reveillee-homme-masturbe" >
+    
+    <figure class="media " role="group">
+            <div class="media-wrap">
+            <img class="b-lazy" width="120" height="78"
+                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
+                                        data-src="https://img.20mn.fr/ol0yvc2MSJCMsdqiz5ZszA/120x78_une-moto-de-la-gendarmerie-nationale-illustration"
+                                    data-srcset="https://img.20mn.fr/ol0yvc2MSJCMsdqiz5ZszA/120x78_une-moto-de-la-gendarmerie-nationale-illustration 120w"
+                    sizes="7.5em"
+                                            alt="Les gendarmes du peloton d&#039;autoroute de Laon ont pu interpeller l&#039;exhibitionniste (illustration)."
+         />
+
+    </div>
+
+            
+            </figure>
+
+    <div class="teaser">
+        <p class="teaser-headline">
+            <time datetime="2023-11-22T11:05:08+01:00">11:05</time> |                             Agression
+                    </p>
+        <p class="teaser-title">Endormie dans sa voiture, elle est réveillée par un homme qui se masturbe</p>
+    </div>
+</a>
+
+            </li>
+                    <li class="block-list-item" >
+                
+<a data-id="4063509" class="card card-lined color-planet" href="https://www.20minutes.fr/planete/animaux/4063509-20231122-producteurs-porcs-reclament-milliards-agrandir-moderniser" >
+    
+    <figure class="media " role="group">
+            <div class="media-wrap">
+            <img class="b-lazy" width="120" height="78"
+                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
+                                        data-src="https://img.20mn.fr/aY3phDHbRdud6NZaXYUNUw/120x78_illustration-elevage-porcs-bretagne"
+                                    data-srcset="https://img.20mn.fr/aY3phDHbRdud6NZaXYUNUw/120x78_illustration-elevage-porcs-bretagne 120w"
+                    sizes="7.5em"
+                                            alt="Illustration d&#039;un élevage de porcs, ici en Bretagne. "
+         />
+
+    </div>
+
+            
+            </figure>
+
+    <div class="teaser">
+        <p class="teaser-headline">
+            <time datetime="2023-11-22T11:05:02+01:00">11:05</time> |                             GROIN GROIN
+                    </p>
+        <p class="teaser-title">Les producteurs de porcs réclament des milliards pour s’agrandir</p>
+    </div>
+</a>
+
+            </li>
+                    <li class="block-list-item" >
+                
+<a data-id="4063280" class="card card-lined color-default" href="https://www.20minutes.fr/tempo/food/4063280-20231122-plats-traditionnels-thanksgiving" >
+    
+    <figure class="media " role="group">
+            <div class="media-wrap">
+            <img class="b-lazy" width="120" height="78"
+                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
+                                        data-src="https://img.20mn.fr/krKneD2ZQNGM2zh_KXS3zik/120x78_repas-de-thanksgiving"
+                                    data-srcset="https://img.20mn.fr/krKneD2ZQNGM2zh_KXS3zik/120x78_repas-de-thanksgiving 120w"
+                    sizes="7.5em"
+                                            alt="Repas de Thanksgiving"
+         />
+
+    </div>
+
+            
+            </figure>
+
+    <div class="teaser">
+        <p class="teaser-headline">
+            <time datetime="2023-11-22T11:02:36+01:00">11:02</time> |                             Thanksgiving
+                    </p>
+        <p class="teaser-title">Quels sont les plats traditionnels de Thanksgiving ? </p>
+    </div>
+</a>
+
+            </li>
+                    <li class="block-list-item" >
+                
+<a data-id="4062788" class="card card-lined color-default" href="https://www.20minutes.fr/voyage/4062788-20231122-visiter-paris-10-sites-incontournables-dont-lasse" >
+    
+    <figure class="media " role="group">
+            <div class="media-wrap">
+            <img class="b-lazy" width="120" height="78"
+                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
+                                        data-src="https://img.20mn.fr/QawcFx5cSLmX4WG_S5JJWCk/120x78_tour-eiffel"
+                                    data-srcset="https://img.20mn.fr/QawcFx5cSLmX4WG_S5JJWCk/120x78_tour-eiffel 120w"
+                    sizes="7.5em"
+                                            alt="Tour Eiffel"
+         />
+
+    </div>
+
+            
+            </figure>
+
+    <div class="teaser">
+        <p class="teaser-headline">
+            <time datetime="2023-11-22T11:02:36+01:00">11:02</time> |                             CAPITALE
+                    </p>
+        <p class="teaser-title">Que visiter à Paris ? Les incontournables pour un séjour touristique réussi</p>
+    </div>
+</a>
+
+            </li>
+                    <li class="block-list-item" >
+                
+<a data-id="4063053" class="card card-lined color-economy" href="https://www.20minutes.fr/economie/4063053-20231122-passoires-thermiques-comment-lutter-contre-deperditions-chaleur-logement" >
+    
+    <figure class="media " role="group">
+            <div class="media-wrap">
+            <img class="b-lazy" width="120" height="78"
+                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
+                                        data-src="https://img.20mn.fr/dgCeahy4RlqEcZKfM8DUwCk/120x78_bien-isoler-son-logement-ne-procure-que-des-avantages-un-meilleur-confort-thermique-une-facture-de-chauffage-moins-elevee-et-moins-d-emissions-de-gaz-a-effet-de-serre"
+                                    data-srcset="https://img.20mn.fr/dgCeahy4RlqEcZKfM8DUwCk/120x78_bien-isoler-son-logement-ne-procure-que-des-avantages-un-meilleur-confort-thermique-une-facture-de-chauffage-moins-elevee-et-moins-d-emissions-de-gaz-a-effet-de-serre 120w"
+                    sizes="7.5em"
+                                            alt="Bien isoler son logement ne procure que des avantages : un meilleur confort thermique, une facture de chauffage moins élevée et moins d&#039;émissions de gaz à effet de serre"
+         />
+
+    </div>
+
+            
+            </figure>
+
+    <div class="teaser">
+        <p class="teaser-headline">
+            <time datetime="2023-11-22T10:47:36+01:00">10:47</time> |                             ÉNERGIE
+                    </p>
+        <p class="teaser-title">Comment lutter contre les déperditions de chaleur dans votre logement</p>
+    </div>
+</a>
+
+            </li>
+                    <li class="block-list-item"  aria-hidden="true">
+                
+<a data-id="4063497" class="card card-lined color-hightech" href="https://www.20minutes.fr/high-tech/by-the-web/4063497-20231122-intelligence-artificielle-plus-plus-adolescentes-americaines-victimes-faux-nus" >
+    
+    <figure class="media " role="group">
+            <div class="media-wrap">
+            <img class="b-lazy" width="120" height="78"
+                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
+                                        data-src="https://img.20mn.fr/DtcXxkTIRZqmqyffD162wyk/120x78_avec-la-popularisation-de-l-intelligence-artificielle-ia-il-est-devenu-plus-facile-de-fabriquer-ces-montages-photo-ou-video-et-de-les-rendre-hyperrealistes-ouvrant-la-voie-a-leur-utilisation-a-des-fins-de-harcelement-ou-d-humiliation-photo-d-illustration"
+                                    data-srcset="https://img.20mn.fr/DtcXxkTIRZqmqyffD162wyk/120x78_avec-la-popularisation-de-l-intelligence-artificielle-ia-il-est-devenu-plus-facile-de-fabriquer-ces-montages-photo-ou-video-et-de-les-rendre-hyperrealistes-ouvrant-la-voie-a-leur-utilisation-a-des-fins-de-harcelement-ou-d-humiliation-photo-d-illustration 120w"
+                    sizes="7.5em"
+                                            alt="Avec la popularisation de l’intelligence artificielle (IA), il est devenu plus facile de fabriquer ces montages photo ou vidéo et de les rendre hyperréalistes, ouvrant la voie à leur utilisation à des fins de harcèlement ou d’humiliation (illustration)."
+         />
+
+    </div>
+
+            
+            </figure>
+
+    <div class="teaser">
+        <p class="teaser-headline">
+            <time datetime="2023-11-22T10:39:15+01:00">10:39</time> |                             Dérives
+                    </p>
+        <p class="teaser-title">De plus en plus d’ados américaines victimes de faux nus créés par IA</p>
+    </div>
+</a>
+
+            </li>
+                    <li class="block-list-item"  aria-hidden="true">
+                
+<a data-id="4063502" class="card card-lined color-default" href="https://www.20minutes.fr/justice/4063502-20231122-aix-provence-100-000-euros-amende-avoir-vendu-produit-mortel-taupes-autorisation" >
+    
+    <figure class="media " role="group">
+            <div class="media-wrap">
+            <img class="b-lazy" width="120" height="78"
+                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
+                                        data-src="https://img.20mn.fr/R7tFwtfKQTmC4XuhG_NHOik/120x78_mole-talpa-europaea-making-mole-hill-and-damaging-beautiful-lawn-and-flower-garden"
+                                    data-srcset="https://img.20mn.fr/R7tFwtfKQTmC4XuhG_NHOik/120x78_mole-talpa-europaea-making-mole-hill-and-damaging-beautiful-lawn-and-flower-garden 120w"
+                    sizes="7.5em"
+                                            alt="Pyragric commercialisait dans les jardineries des fusées antitaupes contenant du soufre trituré et du nitrate de baryum dont la combustion dégage du dioxyde de soufre, un gaz mortel pour ces animaux. (Photo d&#039;illustration)"
+         />
+
+    </div>
+
+            
+            </figure>
+
+    <div class="teaser">
+        <p class="teaser-headline">
+            <time datetime="2023-11-22T10:35:06+01:00">10:35</time> |                             ANIMAUX
+                    </p>
+        <p class="teaser-title">Un homme condamné pour avoir vendu un produit mortel pour les taupes</p>
+    </div>
+</a>
+
+            </li>
+                    <li class="block-list-item"  aria-hidden="true">
+                
 <a data-id="4063496" class="card card-lined color-default" href="https://www.20minutes.fr/societe/4063496-20231122-maine-loire-ile-privee-33-hectares-loire-mise-vente" >
     
     <figure class="media " role="group">
@@ -1152,7 +1348,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </a>
 
             </li>
-                    <li class="block-list-item" >
+                    <li class="block-list-item"  aria-hidden="true">
                 
 <a data-id="4063495" class="card card-lined color-default" href="https://www.20minutes.fr/paris/4063495-20231122-centaine-personnes-evacuees-campement-parisien" >
     
@@ -1180,7 +1376,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </a>
 
             </li>
-                    <li class="block-list-item" >
+                    <li class="block-list-item"  aria-hidden="true">
                 
 <a data-id="4062096" class="card card-lined color-economy" href="https://www.20minutes.fr/economie/4062096-20231122-gaston-lagaffe-survivrait-vraie-entreprise-rh-syndicaliste-patronne-repondent" >
     
@@ -1208,7 +1404,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </a>
 
             </li>
-                    <li class="block-list-item" >
+                    <li class="block-list-item"  aria-hidden="true">
                 
 <a data-id="4063492" class="card card-lined color-entertainment" href="https://www.20minutes.fr/arts-stars/medias/4063492-20231122-medias-moins-deux-francais-dix-depensent-argent-informer" >
     
@@ -1236,7 +1432,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </a>
 
             </li>
-                    <li class="block-list-item" >
+                    <li class="block-list-item"  aria-hidden="true">
                 
 <a data-id="4063493" class="card card-lined color-default" href="https://www.20minutes.fr/faits_divers/4063493-20231122-nantes-pieton-decede-percute-ter-reze" >
     
@@ -1629,202 +1825,6 @@ Des légumes sur l&#039;étal d&#039;un marché"
 </a>
 
             </li>
-                    <li class="block-list-item"  aria-hidden="true">
-                
-<a data-id="4063487" class="card card-lined color-planet" href="https://www.20minutes.fr/planete/4063487-20231122-maine-loire-confederation-paysanne-porte-plainte-contre-ferme-entierement-dediee-solaire" >
-    
-    <figure class="media " role="group">
-            <div class="media-wrap">
-            <img class="b-lazy" width="120" height="78"
-                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
-                                        data-src="https://img.20mn.fr/OZ7cYGbmRr-sBPCmwG46HCk/120x78_ferme-solaire-nord-loire-photo-illustration"
-                                    data-srcset="https://img.20mn.fr/OZ7cYGbmRr-sBPCmwG46HCk/120x78_ferme-solaire-nord-loire-photo-illustration 120w"
-                    sizes="7.5em"
-                                            alt="Illustration d&#039;une ferme solaire dans le nord du département de la Loire. "
-         />
-
-    </div>
-
-            
-            </figure>
-
-    <div class="teaser">
-        <p class="teaser-headline">
-            <time datetime="2023-11-22T08:45:13+01:00">08:45</time> |                             AGRICULTURE
-                    </p>
-        <p class="teaser-title">Une plainte déposée contre une ferme entièrement dédiée au solaire</p>
-    </div>
-</a>
-
-            </li>
-                    <li class="block-list-item"  aria-hidden="true">
-                
-<a data-id="4063486" class="card card-lined color-sport" href="https://www.20minutes.fr/sport/football/4063486-20231122-bresil-argentine-affrontements-eclatent-tribunes-messi-denonce-violences-policieres" >
-    
-    <figure class="media " role="group">
-            <div class="media-wrap">
-            <img class="b-lazy" width="120" height="78"
-                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
-                                        data-src="https://img.20mn.fr/5mVaT_o3RK2Kurs89J4Y6Ck/120x78_fans-of-argentina-clash-with-brazilian-police-before-the-start-of-the-2026-fifa-world-cup-south-american-qualification-football-match-between-brazil-and-argentina-at-maracana-stadium-in-rio-de-janeiro-brazil-on-november-21-2023-photo-by-daniel-ramalho-afp"
-                                    data-srcset="https://img.20mn.fr/5mVaT_o3RK2Kurs89J4Y6Ck/120x78_fans-of-argentina-clash-with-brazilian-police-before-the-start-of-the-2026-fifa-world-cup-south-american-qualification-football-match-between-brazil-and-argentina-at-maracana-stadium-in-rio-de-janeiro-brazil-on-november-21-2023-photo-by-daniel-ramalho-afp 120w"
-                    sizes="7.5em"
-                                            alt="Des affrontements ont eu lieu au Maracana avant le match Brésil-Argentine entre supporters des deux camps et la police locale. "
-         />
-
-    </div>
-
-            
-            </figure>
-
-    <div class="teaser">
-        <p class="teaser-headline">
-            <time datetime="2023-11-22T08:31:09+01:00">08:31</time> |                             CHAOS
-                    </p>
-        <p class="teaser-title">Lionel Messi dénonce des violences policières lors de Brésil-Argentine</p>
-    </div>
-</a>
-
-            </li>
-                    <li class="block-list-item"  aria-hidden="true">
-                
-<a data-id="4063485" class="card card-lined color-default" href="https://www.20minutes.fr/faits_divers/4063485-20231122-finistere-stele-memoire-simone-veil-descellee-brisee-deux" >
-    
-    <figure class="media " role="group">
-            <div class="media-wrap">
-            <img class="b-lazy" width="120" height="78"
-                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
-                                        data-src="https://img.20mn.fr/WQMCxuJmTAOTz3efpReTGyk/120x78_topshot-this-photo-handout-on-november-21-2023-by-the-municipal-police-of-lesneven-northwestern-france-shows-a-broken-piece-from-a-memorial-stele-in-honor-of-late-french-politician-and-holocaust-survivor-simone-veil-after-it-was-degraded-in-the-center-of-this-town-of-around-7-000-inhabitants-in-the-finistere-department-the-stele-was-unsealed-and-broken-into-two-pieces-probably-over-the-weekend-the-prefecture-said-photo-by-stringer-lesneven-municipal-police-afp-restricted-to-editorial-use-mandatory-credit-afp-photo-lesneven-municipal-police-handout-no-marketing-no-advertising-campaigns-distributed-as-a-service-to-clients"
-                                    data-srcset="https://img.20mn.fr/WQMCxuJmTAOTz3efpReTGyk/120x78_topshot-this-photo-handout-on-november-21-2023-by-the-municipal-police-of-lesneven-northwestern-france-shows-a-broken-piece-from-a-memorial-stele-in-honor-of-late-french-politician-and-holocaust-survivor-simone-veil-after-it-was-degraded-in-the-center-of-this-town-of-around-7-000-inhabitants-in-the-finistere-department-the-stele-was-unsealed-and-broken-into-two-pieces-probably-over-the-weekend-the-prefecture-said-photo-by-stringer-lesneven-municipal-police-afp-restricted-to-editorial-use-mandatory-credit-afp-photo-lesneven-municipal-police-handout-no-marketing-no-advertising-campaigns-distributed-as-a-service-to-clients 120w"
-                    sizes="7.5em"
-                                            alt="La stèle érigée en mémoire de Simone Veil à Lesneven (Finistère) a été descellée et brisée en deux. "
-         />
-
-    </div>
-
-            
-            </figure>
-
-    <div class="teaser">
-        <p class="teaser-headline">
-            <time datetime="2023-11-22T08:17:36+01:00">08:17</time> |                             VANDALISME
-                    </p>
-        <p class="teaser-title">Une stèle en mémoire de Simone Veil brisée en deux dans le Finistère</p>
-    </div>
-</a>
-
-            </li>
-                    <li class="block-list-item"  aria-hidden="true">
-                
-<a data-id="4063352" class="card card-lined color-economy" href="https://www.20minutes.fr/economie/auto/4063352-20231122-deja-retouches-hyundai-tucson" >
-    
-    <figure class="media " role="group">
-            <div class="media-wrap">
-            <img class="b-lazy" width="120" height="78"
-                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
-                                        data-src="https://img.20mn.fr/RVU6qh-2RzuDThzuOouW1ik/120x78_hyundai-tucson-2024"
-                                    data-srcset="https://img.20mn.fr/RVU6qh-2RzuDThzuOouW1ik/120x78_hyundai-tucson-2024 120w"
-                    sizes="7.5em"
-                                            alt="Hyundai Tucson 2024"
-         />
-
-    </div>
-
-            
-            </figure>
-
-    <div class="teaser">
-        <p class="teaser-headline">
-            <time datetime="2023-11-22T08:12:36+01:00">08:12</time> |                             Auto
-                    </p>
-        <p class="teaser-title">Déjà des retouches pour le Hyundai Tucson</p>
-    </div>
-</a>
-
-            </li>
-                    <li class="block-list-item"  aria-hidden="true">
-                
-<a data-id="4057890" class="card card-lined color-planet" href="https://www.20minutes.fr/planete/environnement/4057890-20231122-dechets-ameliorer-tri-bureau-cedre-lance-fresque-mesure" >
-    
-    <figure class="media " role="group">
-            <div class="media-wrap">
-            <img class="b-lazy" width="120" height="78"
-                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
-                                        data-src="https://img.20mn.fr/6vWJ25-wRjKLdCPYtWyCoSk/120x78_photo-des-fresqueurs-lors-de-l-atelier-de-la-fresque-des-dechets-tertiaires-chez-cedre-a-argenteuil"
-                                    data-srcset="https://img.20mn.fr/6vWJ25-wRjKLdCPYtWyCoSk/120x78_photo-des-fresqueurs-lors-de-l-atelier-de-la-fresque-des-dechets-tertiaires-chez-cedre-a-argenteuil 120w"
-                    sizes="7.5em"
-                                            alt="Photo des « fresqueurs » lors de l&#039;atelier de la fresque des déchets tertiaires chez Cèdre, à Argenteuil. "
-         />
-
-    </div>
-
-            
-            </figure>
-
-    <div class="teaser">
-        <p class="teaser-headline">
-            <time datetime="2023-11-22T08:02:36+01:00">08:02</time> |                             Serious game
-                    </p>
-        <p class="teaser-title">Pour améliorer le tri des déchets au bureau, Cèdre lance une fresque dédiée</p>
-    </div>
-</a>
-
-            </li>
-                    <li class="block-list-item"  aria-hidden="true">
-                
-<a data-id="4062498" class="card card-lined color-sport" href="https://www.20minutes.fr/sport/basketball/nba/4062498-20231122-nba-bilal-coulibaly-plein-conte-fees-championnat-espoirs-wizards-moins-an" >
-    
-    <figure class="media " role="group">
-            <div class="media-wrap">
-            <img class="b-lazy" width="120" height="78"
-                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
-                                        data-src="https://img.20mn.fr/2dI0D4KjRIuZCSFHUuBYZyk/120x78_washington-wizards-guard-bilal-coulibaly-0-dunks-over-milwaukee-bucks-forward-bobby-portis-9-during-the-first-half-of-an-nba-basketball-game-monday-nov-20-2023-in-washington-ap-photo-mark-schiefelbein-vzn120-23325097687415-2311210350"
-                                    data-srcset="https://img.20mn.fr/2dI0D4KjRIuZCSFHUuBYZyk/120x78_washington-wizards-guard-bilal-coulibaly-0-dunks-over-milwaukee-bucks-forward-bobby-portis-9-during-the-first-half-of-an-nba-basketball-game-monday-nov-20-2023-in-washington-ap-photo-mark-schiefelbein-vzn120-23325097687415-2311210350 120w"
-                    sizes="7.5em"
-                                            alt="Bilal Coulibaly claque un dunk, lundi soir, sous le regard de la superstar des Bucks Giannis Antetokoumpo, qui a salué la performance du jeune Français après la rencontre.  "
-         />
-
-    </div>
-
-            
-            </figure>
-
-    <div class="teaser">
-        <p class="teaser-headline">
-            <time datetime="2023-11-22T08:02:36+01:00">08:02</time> |                             BASKET
-                    </p>
-        <p class="teaser-title">Bilal Coulibaly en plein « conte de fées », du championnat Espoirs à la NBA</p>
-    </div>
-</a>
-
-            </li>
-                    <li class="block-list-item"  aria-hidden="true">
-                
-<a data-id="4063230" class="card card-lined color-planet" href="https://www.20minutes.fr/planete/environnement/4063230-20231122-comment-plus-beau-village-drome-fait-accepter-huit-eoliennes-habitants" >
-    
-    <figure class="media " role="group">
-            <div class="media-wrap">
-            <img class="b-lazy" width="120" height="78"
-                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
-                                        data-src="https://img.20mn.fr/Qgyll-kqSD2M1c_oQQUhayk/120x78_le-parc-eolien-de-marsanne-va-etre-renouvele-d-ici-2025-pour-produire-plus-d-energie"
-                                    data-srcset="https://img.20mn.fr/Qgyll-kqSD2M1c_oQQUhayk/120x78_le-parc-eolien-de-marsanne-va-etre-renouvele-d-ici-2025-pour-produire-plus-d-energie 120w"
-                    sizes="7.5em"
-                                            alt="Le parc éolien de Marsanne, installé en 2008, va être renouvelé d&#039;ici 2025 pour produire plus d&#039;énergie avec des infrastructures « plus performantes », une centaine d&#039;habitants du territoire ont décidé d&#039;investir et de participer à ce projet (Illustration)"
-         />
-
-    </div>
-
-            
-            </figure>
-
-    <div class="teaser">
-        <p class="teaser-headline">
-            <time datetime="2023-11-22T08:02:36+01:00">08:02</time> |                             PRÉCURSEUR
-                    </p>
-        <p class="teaser-title">Comment « le plus beau village de la Drôme » a fait accepter ses éoliennes</p>
-    </div>
-</a>
-
-            </li>
             </ul>
             <div class="block-footer">
                                 <a class="linkIcon float-left" href="https://www.20minutes.fr/actus">
@@ -1874,7 +1874,7 @@ Des légumes sur l&#039;étal d&#039;un marché"
                             <span class="mediadata-rank">1</span>
                 <span class="mediadata-score mediadata-score-read">
                                             <svg aria-hidden="true" class="bigger" height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-view"></use></svg>
-                                        74 308
+                                        80 808
                 </span>
                     </div>
     
@@ -1892,16 +1892,16 @@ Des légumes sur l&#039;étal d&#039;un marché"
             </li>
                     <li class="block-list-item" >
                 
-<a data-id="4063409" class="card  color-default" href="https://www.20minutes.fr/faits_divers/4063409-20231121-mort-thomas-crepol-comment-gendarmes-identifie-localise-suspects" >
+<a data-id="4063444" class="card  color-sport" href="https://www.20minutes.fr/sport/football/4063444-20231121-grece-france-but-double-poteau-coman-fin-match" >
     
     <figure class="media " role="group">
             <div class="media-wrap">
             <img class="b-lazy" width="120" height="78"
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
-                                        data-src="https://img.20mn.fr/7iUje-YfQv6Ljp6VcZt11w/120x78_illustration-du-gign"
-                                    data-srcset="https://img.20mn.fr/7iUje-YfQv6Ljp6VcZt11w/120x78_illustration-du-gign 120w"
+                                        data-src="https://img.20mn.fr/JmzA0TioSjKSkWBGC7x21ik/120x78_comment-ca-y-a-pas-but-monsieur-l-arbitre"
+                                    data-srcset="https://img.20mn.fr/JmzA0TioSjKSkWBGC7x21ik/120x78_comment-ca-y-a-pas-but-monsieur-l-arbitre 120w"
                     sizes="7.5em"
-                                            alt="Une cinquantaine de militaires du GIGN ont été mobilisés pour interpeller les suspects du meurtre de Thomas près de Toulouse. (Illustration)"
+                                            alt="COMMENT CA Y A PAS BUT MONSIEUR L&#039;ARBITRE?"
          />
 
     </div>
@@ -1910,7 +1910,7 @@ Des légumes sur l&#039;étal d&#039;un marché"
                             <span class="mediadata-rank">2</span>
                 <span class="mediadata-score mediadata-score-read">
                                             <svg aria-hidden="true" class="bigger" height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-view"></use></svg>
-                                        71 784
+                                        80 591
                 </span>
                     </div>
     
@@ -1919,9 +1919,9 @@ Des légumes sur l&#039;étal d&#039;un marché"
 
     <div class="teaser">
         <p class="teaser-headline">
-            <time datetime="2023-11-21T17:50:36+01:00">21/11/23</time> |                             enquête
+            <time datetime="2023-11-21T23:03:09+01:00">21/11/23</time> |                             FOOTBALL
                     </p>
-        <p class="teaser-title">Comment les gendarmes ont identifié les suspects du meurtre de Thomas ?</p>
+        <p class="teaser-title">Y avait-il but sur le double poteau de Coman en fin de match ?</p>
     </div>
 </a>
 
@@ -1946,7 +1946,7 @@ Des légumes sur l&#039;étal d&#039;un marché"
                             <span class="mediadata-rank">3</span>
                 <span class="mediadata-score mediadata-score-read">
                                             <svg aria-hidden="true" class="bigger" height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-view"></use></svg>
-                                        69 739
+                                        80 372
                 </span>
                     </div>
     
@@ -1958,6 +1958,42 @@ Des légumes sur l&#039;étal d&#039;un marché"
             <time datetime="2023-11-20T14:26:39+01:00">20/11/23</time> |                             SOURIEZ !
                     </p>
         <p class="teaser-title">Les 30 candidates au concours de Miss France 2024</p>
+    </div>
+</a>
+
+            </li>
+                    <li class="block-list-item" >
+                
+<a data-id="4063409" class="card  color-default" href="https://www.20minutes.fr/faits_divers/4063409-20231121-mort-thomas-crepol-comment-gendarmes-identifie-localise-suspects" >
+    
+    <figure class="media " role="group">
+            <div class="media-wrap">
+            <img class="b-lazy" width="120" height="78"
+                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
+                                        data-src="https://img.20mn.fr/7iUje-YfQv6Ljp6VcZt11w/120x78_illustration-du-gign"
+                                    data-srcset="https://img.20mn.fr/7iUje-YfQv6Ljp6VcZt11w/120x78_illustration-du-gign 120w"
+                    sizes="7.5em"
+                                            alt="Une cinquantaine de militaires du GIGN ont été mobilisés pour interpeller les suspects du meurtre de Thomas près de Toulouse. (Illustration)"
+         />
+
+    </div>
+
+                                        <div class="mediadata">
+                            <span class="mediadata-rank">4</span>
+                <span class="mediadata-score mediadata-score-read">
+                                            <svg aria-hidden="true" class="bigger" height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-view"></use></svg>
+                                        78 597
+                </span>
+                    </div>
+    
+    
+            </figure>
+
+    <div class="teaser">
+        <p class="teaser-headline">
+            <time datetime="2023-11-21T17:50:36+01:00">21/11/23</time> |                             enquête
+                    </p>
+        <p class="teaser-title">Comment les gendarmes ont identifié les suspects du meurtre de Thomas ?</p>
     </div>
 </a>
 
@@ -1979,10 +2015,10 @@ Des légumes sur l&#039;étal d&#039;un marché"
     </div>
 
                                         <div class="mediadata">
-                            <span class="mediadata-rank">4</span>
+                            <span class="mediadata-rank">5</span>
                 <span class="mediadata-score mediadata-score-read">
                                             <svg aria-hidden="true" class="bigger" height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-view"></use></svg>
-                                        67 671
+                                        74 847
                 </span>
                     </div>
     
@@ -1998,42 +2034,6 @@ Des légumes sur l&#039;étal d&#039;un marché"
 </a>
 
             </li>
-                    <li class="block-list-item" >
-                
-<a data-id="4063444" class="card  color-sport" href="https://www.20minutes.fr/sport/football/4063444-20231121-grece-france-but-double-poteau-coman-fin-match" >
-    
-    <figure class="media " role="group">
-            <div class="media-wrap">
-            <img class="b-lazy" width="120" height="78"
-                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
-                                        data-src="https://img.20mn.fr/JmzA0TioSjKSkWBGC7x21ik/120x78_comment-ca-y-a-pas-but-monsieur-l-arbitre"
-                                    data-srcset="https://img.20mn.fr/JmzA0TioSjKSkWBGC7x21ik/120x78_comment-ca-y-a-pas-but-monsieur-l-arbitre 120w"
-                    sizes="7.5em"
-                                            alt="COMMENT CA Y A PAS BUT MONSIEUR L&#039;ARBITRE?"
-         />
-
-    </div>
-
-                                        <div class="mediadata">
-                            <span class="mediadata-rank">5</span>
-                <span class="mediadata-score mediadata-score-read">
-                                            <svg aria-hidden="true" class="bigger" height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-view"></use></svg>
-                                        66 931
-                </span>
-                    </div>
-    
-    
-            </figure>
-
-    <div class="teaser">
-        <p class="teaser-headline">
-            <time datetime="2023-11-21T23:03:09+01:00">21/11/23</time> |                             FOOTBALL
-                    </p>
-        <p class="teaser-title">Y avait-il but sur le double poteau de Coman en fin de match ?</p>
-    </div>
-</a>
-
-            </li>
                     <li class="block-list-item"  aria-hidden="true">
                 
 <a data-id="4063480" class="card  color-default" href="https://www.20minutes.fr/monde/israel/4063480-20231122-guerre-hamas-israel-direct-biden-extraordinairement-satisfait-accord-otages" >
@@ -2042,10 +2042,10 @@ Des légumes sur l&#039;étal d&#039;un marché"
             <div class="media-wrap">
             <img class="b-lazy" width="120" height="78"
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
-                                        data-src="https://img.20mn.fr/BogN_Hx4SqyeEdE9xGNvhik/120x78_people-walk-past-a-billboard-bearing-a-message-addressed-to-french-president-emanuel-macron-in-tel-aviv-on-november-21-2023-demanding-the-release-of-israelis-held-hostage-in-gaza-since-the-october-7-attack-by-hamas-militants-amid-ongoing-battles-between-israel-and-the-palestinian-armed-group-photo-by-ahmad-gharabli-afp"
-                                    data-srcset="https://img.20mn.fr/BogN_Hx4SqyeEdE9xGNvhik/120x78_people-walk-past-a-billboard-bearing-a-message-addressed-to-french-president-emanuel-macron-in-tel-aviv-on-november-21-2023-demanding-the-release-of-israelis-held-hostage-in-gaza-since-the-october-7-attack-by-hamas-militants-amid-ongoing-battles-between-israel-and-the-palestinian-armed-group-photo-by-ahmad-gharabli-afp 120w"
+                                        data-src="https://img.20mn.fr/QAEIbZ9lRjmXmVi5nb3faCk/120x78_french-president-emmanuel-macron-adjusts-his-tie-as-he-waits-for-ivory-coast-s-president-alassane-dramane-ouattara-ado-for-a-work-lunch-meeting-at-the-elysee-presidential-palace-in-paris-france-21-11-2023-le-president-francais-emmanuel-macron-recoit-son-homologue-ivoirien-alassane-dramane-ouattara-ado-pour-un-dejeune-de-travail-au-palais-de-l-elysee-a-paris-france-21-11-23-jee-pdtado-03-credit-j-e-e-sipa-2311212349"
+                                    data-srcset="https://img.20mn.fr/QAEIbZ9lRjmXmVi5nb3faCk/120x78_french-president-emmanuel-macron-adjusts-his-tie-as-he-waits-for-ivory-coast-s-president-alassane-dramane-ouattara-ado-for-a-work-lunch-meeting-at-the-elysee-presidential-palace-in-paris-france-21-11-2023-le-president-francais-emmanuel-macron-recoit-son-homologue-ivoirien-alassane-dramane-ouattara-ado-pour-un-dejeune-de-travail-au-palais-de-l-elysee-a-paris-france-21-11-23-jee-pdtado-03-credit-j-e-e-sipa-2311212349 120w"
                     sizes="7.5em"
-                                            alt="Des gens passent devant un panneau publicitaire portant un message adressé au président français Emmanuel Macron à Tel Aviv le 21 novembre 2023, exigeant la libération des Israéliens retenus en otages à Gaza depuis l&#039;attaque du 7 octobre par des militants du Hamas. "
+                                            alt="Le président français souhaite poursuivre les discussions entre Israël et le Hamas."
          />
 
     </div>
@@ -2054,7 +2054,7 @@ Des légumes sur l&#039;étal d&#039;un marché"
                             <span class="mediadata-rank">6</span>
                 <span class="mediadata-score mediadata-score-read">
                                             <svg aria-hidden="true" class="bigger" height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-view"></use></svg>
-                                        36 383
+                                        40 088
                 </span>
                     </div>
     
@@ -2065,7 +2065,7 @@ Des légumes sur l&#039;étal d&#039;un marché"
         <p class="teaser-headline">
             <time datetime="2023-11-22T06:43:17+01:00">06:43</time> |                             LIVE
                     </p>
-        <p class="teaser-title">Guerre Hamas – Israël EN DIRECT : La France « salue » le travail du Qatar…</p>
+        <p class="teaser-title">Guerre Hamas – Israël EN DIRECT : Emmanuel Macron dit œuvrer « sans…</p>
     </div>
 </a>
 
@@ -2090,7 +2090,7 @@ Des légumes sur l&#039;étal d&#039;un marché"
                             <span class="mediadata-rank">7</span>
                 <span class="mediadata-score mediadata-score-read">
                                             <svg aria-hidden="true" class="bigger" height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-view"></use></svg>
-                                        31 809
+                                        33 560
                 </span>
                     </div>
     
@@ -2102,42 +2102,6 @@ Des légumes sur l&#039;étal d&#039;un marché"
             <time datetime="2023-11-21T18:39:31+01:00">21/11/23</time> |                             bataille judiciaire
                     </p>
         <p class="teaser-title">Sébastien Cauet visé par une plainte pour viols, dont un sur une mineure</p>
-    </div>
-</a>
-
-            </li>
-                    <li class="block-list-item"  aria-hidden="true">
-                
-<a data-id="4063439" class="card  color-default" href="https://www.20minutes.fr/monde/etats-unis/4063439-20231122-assassinat-kennedy-cia-fbi-cache-pu-sauver-jfk" >
-    
-    <figure class="media " role="group">
-            <div class="media-wrap">
-            <img class="b-lazy" width="120" height="78"
-                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
-                                        data-src="https://img.20mn.fr/xHpJG5m_RlmQj7yNT3GAGCk/120x78_file-president-john-f-kennedy-waves-from-his-car-in-a-motorcade-approximately-one-minute-before-he-was-shot-nov-22-1963-in-dallas-riding-with-president-kennedy-are-first-lady-jacqueline-kennedy-right-nellie-connally-second-from-left-and-her-husband-texas-gov-john-connally-far-left-the-60th-anniversary-of-president-kennedy-s-assassination-marked-on-wednesday-nov-22-2023-finds-his-family-and-the-country-at-a-moment-many-would-not-have-imagined-in-jfk-s-lifetime-ap-photo-jim-altgens-file-nyss807-23323704126616-file-photo-2311210611"
-                                    data-srcset="https://img.20mn.fr/xHpJG5m_RlmQj7yNT3GAGCk/120x78_file-president-john-f-kennedy-waves-from-his-car-in-a-motorcade-approximately-one-minute-before-he-was-shot-nov-22-1963-in-dallas-riding-with-president-kennedy-are-first-lady-jacqueline-kennedy-right-nellie-connally-second-from-left-and-her-husband-texas-gov-john-connally-far-left-the-60th-anniversary-of-president-kennedy-s-assassination-marked-on-wednesday-nov-22-2023-finds-his-family-and-the-country-at-a-moment-many-would-not-have-imagined-in-jfk-s-lifetime-ap-photo-jim-altgens-file-nyss807-23323704126616-file-photo-2311210611 120w"
-                    sizes="7.5em"
-                                            alt="Le président américain John F. Kennedy et son épouse Jackie, assis derrière le gouverneur du Texas John Connally, une minute avant le drame de Dallas, le 22 novembre 1963."
-         />
-
-    </div>
-
-                                        <div class="mediadata">
-                            <span class="mediadata-rank">8</span>
-                <span class="mediadata-score mediadata-score-read">
-                                            <svg aria-hidden="true" class="bigger" height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-view"></use></svg>
-                                        22 161
-                </span>
-                    </div>
-    
-    
-            </figure>
-
-    <div class="teaser">
-        <p class="teaser-headline">
-            <time datetime="2023-11-22T07:27:36+01:00">07:27</time> |                             INTERVIEW
-                    </p>
-        <p class="teaser-title">« La CIA et le FBI ont caché qu’ils auraient pu sauver Kennedy »</p>
     </div>
 </a>
 
@@ -2159,10 +2123,10 @@ Des légumes sur l&#039;étal d&#039;un marché"
     </div>
 
                                         <div class="mediadata">
-                            <span class="mediadata-rank">9</span>
+                            <span class="mediadata-rank">8</span>
                 <span class="mediadata-score mediadata-score-read">
                                             <svg aria-hidden="true" class="bigger" height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-view"></use></svg>
-                                        20 179
+                                        28 706
                 </span>
                     </div>
     
@@ -2180,25 +2144,25 @@ Des légumes sur l&#039;étal d&#039;un marché"
             </li>
                     <li class="block-list-item"  aria-hidden="true">
                 
-<a data-id="4063423" class="card  color-default" href="https://www.20minutes.fr/societe/4063423-20231121-vendee-sables-habitants-votent-contre-poumon-vert-garder-parking-gris" >
+<a data-id="4063439" class="card  color-default" href="https://www.20minutes.fr/monde/etats-unis/4063439-20231122-assassinat-kennedy-cia-fbi-cache-pu-sauver-jfk" >
     
     <figure class="media " role="group">
             <div class="media-wrap">
             <img class="b-lazy" width="120" height="78"
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
-                                        data-src="https://img.20mn.fr/NyuZjc2lSCe-tHSmkpEr5yk/120x78_le-cours-louis-guedon-aux-sables-d-olonne-devait-faire-l-objet-d-un-verdissement-mais-les-habitants-ont-vote-contre"
-                                    data-srcset="https://img.20mn.fr/NyuZjc2lSCe-tHSmkpEr5yk/120x78_le-cours-louis-guedon-aux-sables-d-olonne-devait-faire-l-objet-d-un-verdissement-mais-les-habitants-ont-vote-contre 120w"
+                                        data-src="https://img.20mn.fr/xHpJG5m_RlmQj7yNT3GAGCk/120x78_file-president-john-f-kennedy-waves-from-his-car-in-a-motorcade-approximately-one-minute-before-he-was-shot-nov-22-1963-in-dallas-riding-with-president-kennedy-are-first-lady-jacqueline-kennedy-right-nellie-connally-second-from-left-and-her-husband-texas-gov-john-connally-far-left-the-60th-anniversary-of-president-kennedy-s-assassination-marked-on-wednesday-nov-22-2023-finds-his-family-and-the-country-at-a-moment-many-would-not-have-imagined-in-jfk-s-lifetime-ap-photo-jim-altgens-file-nyss807-23323704126616-file-photo-2311210611"
+                                    data-srcset="https://img.20mn.fr/xHpJG5m_RlmQj7yNT3GAGCk/120x78_file-president-john-f-kennedy-waves-from-his-car-in-a-motorcade-approximately-one-minute-before-he-was-shot-nov-22-1963-in-dallas-riding-with-president-kennedy-are-first-lady-jacqueline-kennedy-right-nellie-connally-second-from-left-and-her-husband-texas-gov-john-connally-far-left-the-60th-anniversary-of-president-kennedy-s-assassination-marked-on-wednesday-nov-22-2023-finds-his-family-and-the-country-at-a-moment-many-would-not-have-imagined-in-jfk-s-lifetime-ap-photo-jim-altgens-file-nyss807-23323704126616-file-photo-2311210611 120w"
                     sizes="7.5em"
-                                            alt="Le cours Louis-Guédon aux Sables-d&#039;Olonne devait faire l&#039;objet d&#039;un verdissement. Mais les habitants ont voté « contre »"
+                                            alt="Le président américain John F. Kennedy et son épouse Jackie, assis derrière le gouverneur du Texas John Connally, une minute avant le drame de Dallas, le 22 novembre 1963."
          />
 
     </div>
 
                                         <div class="mediadata">
-                            <span class="mediadata-rank">10</span>
+                            <span class="mediadata-rank">9</span>
                 <span class="mediadata-score mediadata-score-read">
                                             <svg aria-hidden="true" class="bigger" height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-view"></use></svg>
-                                        19 967
+                                        27 814
                 </span>
                     </div>
     
@@ -2207,9 +2171,45 @@ Des légumes sur l&#039;étal d&#039;un marché"
 
     <div class="teaser">
         <p class="teaser-headline">
-            <time datetime="2023-11-21T20:10:44+01:00">21/11/23</time> |                             CONSULTATION
+            <time datetime="2023-11-22T07:27:36+01:00">07:27</time> |                             INTERVIEW
                     </p>
-        <p class="teaser-title">De la verdure plutôt qu’un parking ? En Vendée, les habitants votent contre</p>
+        <p class="teaser-title">« La CIA et le FBI ont caché qu’ils auraient pu sauver Kennedy »</p>
+    </div>
+</a>
+
+            </li>
+                    <li class="block-list-item"  aria-hidden="true">
+                
+<a data-id="4063413" class="card  color-default" href="https://www.20minutes.fr/monde/ukraine/4063413-20231121-guerre-ukraine-allemagne-degaine-aide-1-3-milliard-bataille-dniepr-poursuit" >
+    
+    <figure class="media " role="group">
+            <div class="media-wrap">
+            <img class="b-lazy" width="120" height="78"
+                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
+                                        data-src="https://img.20mn.fr/CEzBfYeTTQ6cF89AP_6TNSk/120x78_a-group-of-ukrainian-marines-sail-from-the-riverbank-of-dnipro-at-the-frontline-near-kherson-ukraine-saturday-oct-14-2023-ap-photo-alex-babenko-xab106-23292573871809-2310191815"
+                                    data-srcset="https://img.20mn.fr/CEzBfYeTTQ6cF89AP_6TNSk/120x78_a-group-of-ukrainian-marines-sail-from-the-riverbank-of-dnipro-at-the-frontline-near-kherson-ukraine-saturday-oct-14-2023-ap-photo-alex-babenko-xab106-23292573871809-2310191815 120w"
+                    sizes="7.5em"
+                                            alt="Un groupe de marines ukrainiens naviguent depuis les rives du Dnipro, sur la ligne de front près de Kherson, en Ukraine, le samedi 14 octobre 2023."
+         />
+
+    </div>
+
+                                        <div class="mediadata">
+                            <span class="mediadata-rank">10</span>
+                <span class="mediadata-score mediadata-score-read">
+                                            <svg aria-hidden="true" class="bigger" height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-view"></use></svg>
+                                        21 881
+                </span>
+                    </div>
+    
+    
+            </figure>
+
+    <div class="teaser">
+        <p class="teaser-headline">
+            <time datetime="2023-11-21T19:17:36+01:00">21/11/23</time> |                             Récap
+                    </p>
+        <p class="teaser-title">La bataille du Dniepr se poursuit au 636e jour de guerre</p>
     </div>
 </a>
 
@@ -2263,7 +2263,7 @@ Des légumes sur l&#039;étal d&#039;un marché"
                             <span class="mediadata-rank">1</span>
                 <span class="mediadata-score mediadata-score-shares">
                                             <svg aria-hidden="true"  height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-social"></use></svg>
-                                        663
+                                        750
                 </span>
                     </div>
     
@@ -2353,42 +2353,6 @@ Des légumes sur l&#039;étal d&#039;un marché"
             </li>
                     <li class="block-list-item" >
                 
-<a data-id="4062720" class="card  color-planet" href="https://www.20minutes.fr/planete/environnement/4062720-20231121-normandie-cool-bus-ramassage-scolaire-comme-autres" >
-    
-    <figure class="media " role="group">
-            <div class="media-wrap">
-            <img class="b-lazy" width="120" height="78"
-                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
-                                        data-src="https://img.20mn.fr/NoQ7DyzzSgOTDHhYZK8mvyk/120x78_2023-09-rentree-s-cool-bus-le-vaudreuil"
-                                    data-srcset="https://img.20mn.fr/NoQ7DyzzSgOTDHhYZK8mvyk/120x78_2023-09-rentree-s-cool-bus-le-vaudreuil 120w"
-                    sizes="7.5em"
-                                            alt="2023-09 : Rentrée S&#039;Cool bus Le Vaudreuil."
-         />
-
-    </div>
-
-                                        <div class="mediadata">
-                            <span class="mediadata-rank">4</span>
-                <span class="mediadata-score mediadata-score-shares">
-                                            <svg aria-hidden="true"  height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-social"></use></svg>
-                                        160
-                </span>
-                    </div>
-    
-    
-            </figure>
-
-    <div class="teaser">
-        <p class="teaser-headline">
-            <time datetime="2023-11-21T11:07:36+01:00">21/11/23</time> |                             enfants
-                    </p>
-        <p class="teaser-title">Le S’Cool Bus, un ramassage scolaire pas comme les autres</p>
-    </div>
-</a>
-
-            </li>
-                    <li class="block-list-item" >
-                
 <a data-id="4063348" class="card  color-default" href="https://www.20minutes.fr/faits_divers/4063348-20231121-mort-thomas-crepol-sept-personnes-interpellees-annonce-darmanin" >
     
     <figure class="media " role="group">
@@ -2404,7 +2368,7 @@ Des légumes sur l&#039;étal d&#039;un marché"
     </div>
 
                                         <div class="mediadata">
-                            <span class="mediadata-rank">5</span>
+                            <span class="mediadata-rank">4</span>
                 <span class="mediadata-score mediadata-score-shares">
                                             <svg aria-hidden="true"  height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-social"></use></svg>
                                         146
@@ -2423,7 +2387,7 @@ Des légumes sur l&#039;étal d&#039;un marché"
 </a>
 
             </li>
-                    <li class="block-list-item"  aria-hidden="true">
+                    <li class="block-list-item" >
                 
 <a data-id="4063338" class="card  color-default" href="https://www.20minutes.fr/societe/4063338-20231121-isere-maire-refuse-marier-algerien-situation-irreguliere-femme-francaise" >
     
@@ -2440,7 +2404,7 @@ Des légumes sur l&#039;étal d&#039;un marché"
     </div>
 
                                         <div class="mediadata">
-                            <span class="mediadata-rank">6</span>
+                            <span class="mediadata-rank">5</span>
                 <span class="mediadata-score mediadata-score-shares">
                                             <svg aria-hidden="true"  height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-social"></use></svg>
                                         132
@@ -2476,7 +2440,7 @@ Des légumes sur l&#039;étal d&#039;un marché"
     </div>
 
                                         <div class="mediadata">
-                            <span class="mediadata-rank">7</span>
+                            <span class="mediadata-rank">6</span>
                 <span class="mediadata-score mediadata-score-shares">
                                             <svg aria-hidden="true"  height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-social"></use></svg>
                                         132
@@ -2512,10 +2476,10 @@ Des légumes sur l&#039;étal d&#039;un marché"
     </div>
 
                                         <div class="mediadata">
-                            <span class="mediadata-rank">8</span>
+                            <span class="mediadata-rank">7</span>
                 <span class="mediadata-score mediadata-score-shares">
                                             <svg aria-hidden="true"  height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-social"></use></svg>
-                                        116
+                                        122
                 </span>
                     </div>
     
@@ -2548,10 +2512,10 @@ Des légumes sur l&#039;étal d&#039;un marché"
     </div>
 
                                         <div class="mediadata">
-                            <span class="mediadata-rank">9</span>
+                            <span class="mediadata-rank">8</span>
                 <span class="mediadata-score mediadata-score-shares">
                                             <svg aria-hidden="true"  height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-social"></use></svg>
-                                        105
+                                        112
                 </span>
                     </div>
     
@@ -2569,25 +2533,25 @@ Des légumes sur l&#039;étal d&#039;un marché"
             </li>
                     <li class="block-list-item"  aria-hidden="true">
                 
-<a data-id="4063319" class="card  color-default" href="https://www.20minutes.fr/faits_divers/4063319-20231121-ardennes-injectent-air-comprime-rectum-collegue-homme-grievement-blesse" >
+<a data-id="4063412" class="card  color-sport" href="https://www.20minutes.fr/sport/football/4063412-20231121-calendriers-surcharges-furieux-apres-blessure-vinicius-camavinga-ancelotti-va-pousser-coup-gueule" >
     
     <figure class="media " role="group">
             <div class="media-wrap">
             <img class="b-lazy" width="120" height="78"
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
-                                        data-src="https://img.20mn.fr/f9gar-YmQTKrpsA4a1kMpSk/120x78_l-incident-s-est-produit-sur-le-site-de-l-entreprise-afs-basee-a-sedan-illustration"
-                                    data-srcset="https://img.20mn.fr/f9gar-YmQTKrpsA4a1kMpSk/120x78_l-incident-s-est-produit-sur-le-site-de-l-entreprise-afs-basee-a-sedan-illustration 120w"
+                                        data-src="https://img.20mn.fr/F05u-yS-SSCBx2iikRJfgik/120x78_real-madrid-s-vinicius-junior-celebrates-with-real-madrid-s-head-coach-carlo-ancelotti-right-after-scoring-his-side-s-third-goal-during-the-spanish-la-liga-soccer-match-between-real-madrid-and-valencia-at-the-santiago-bernabeu-stadium-in-madrid-spain-saturday-nov-11-2023-ap-photo-jose-breton-xpag136-23315775878795-2311112236"
+                                    data-srcset="https://img.20mn.fr/F05u-yS-SSCBx2iikRJfgik/120x78_real-madrid-s-vinicius-junior-celebrates-with-real-madrid-s-head-coach-carlo-ancelotti-right-after-scoring-his-side-s-third-goal-during-the-spanish-la-liga-soccer-match-between-real-madrid-and-valencia-at-the-santiago-bernabeu-stadium-in-madrid-spain-saturday-nov-11-2023-ap-photo-jose-breton-xpag136-23315775878795-2311112236 120w"
                     sizes="7.5em"
-                                            alt="L&#039;incident s&#039;est produit sur le site de l’entreprise AFS basée à Sedan. (illustration)"
+                                            alt="Carlo Ancelotti en meneur de fronde contre les calendriers surchargés. "
          />
 
     </div>
 
                                         <div class="mediadata">
-                            <span class="mediadata-rank">10</span>
+                            <span class="mediadata-rank">9</span>
                 <span class="mediadata-score mediadata-score-shares">
                                             <svg aria-hidden="true"  height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-social"></use></svg>
-                                        101
+                                        107
                 </span>
                     </div>
     
@@ -2596,9 +2560,45 @@ Des légumes sur l&#039;étal d&#039;un marché"
 
     <div class="teaser">
         <p class="teaser-headline">
-            <time datetime="2023-11-21T12:40:51+01:00">21/11/23</time> |                             Violence
+            <time datetime="2023-11-21T17:16:52+01:00">21/11/23</time> |                             FOOTBALL
                     </p>
-        <p class="teaser-title">Il porte plainte contre ses collègues après une blessure grave au rectum</p>
+        <p class="teaser-title">Ancelotti va pousser une gueulante après les blessures de Vinicius et Camavinga</p>
+    </div>
+</a>
+
+            </li>
+                    <li class="block-list-item"  aria-hidden="true">
+                
+<a data-id="4063438" class="card  color-entertainment" href="https://www.20minutes.fr/arts-stars/culture/4063438-20231121-interview-exhumee-bbc-leve-partie-mystere-identite-banksy" >
+    
+    <figure class="media " role="group">
+            <div class="media-wrap">
+            <img class="b-lazy" width="120" height="78"
+                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='120'%20height='78'%3E%3C/svg%3E"
+                                        data-src="https://img.20mn.fr/3z3vQr7ITmGhMSTvG3VyLik/120x78_mandatory-credit-photo-by-simon-chapman-lnp-shutterstock-14223656e-bristol-uk-a-blue-plaque-dedicated-to-street-artists-banksy-has-appeared-above-a-shop-on-stokes-croft-next-to-the-mild-mild-west-mural-one-of-banksy-s-earlier-works-done-in-1999-about-the-rave-scene-and-the-police-response-to-it-it-it-not-known-who-installed-the-plaque-which-has-been-done-as-an-english-heritage-blue-plaque-which-commemorates-notable-people-in-history-and-public-life-usually-with-a-historical-figure-s-occupation-and-where-they-lived-the-plaque-describes-banksy-as-a-prankster-who-lived-here-and-there-with-dates-as-19-20-blue-plaque-for-banksy-bristol-uk-20-nov-2023-shutterstock-editorial-blue-plaque-for-banksy-bristol-14223656e-2311201750"
+                                    data-srcset="https://img.20mn.fr/3z3vQr7ITmGhMSTvG3VyLik/120x78_mandatory-credit-photo-by-simon-chapman-lnp-shutterstock-14223656e-bristol-uk-a-blue-plaque-dedicated-to-street-artists-banksy-has-appeared-above-a-shop-on-stokes-croft-next-to-the-mild-mild-west-mural-one-of-banksy-s-earlier-works-done-in-1999-about-the-rave-scene-and-the-police-response-to-it-it-it-not-known-who-installed-the-plaque-which-has-been-done-as-an-english-heritage-blue-plaque-which-commemorates-notable-people-in-history-and-public-life-usually-with-a-historical-figure-s-occupation-and-where-they-lived-the-plaque-describes-banksy-as-a-prankster-who-lived-here-and-there-with-dates-as-19-20-blue-plaque-for-banksy-bristol-uk-20-nov-2023-shutterstock-editorial-blue-plaque-for-banksy-bristol-14223656e-2311201750 120w"
+                    sizes="7.5em"
+                                            alt="La peinture murale « The Mild Mild West », l&#039;une des premières œuvres de Banksy réalisée en 1999. "
+         />
+
+    </div>
+
+                                        <div class="mediadata">
+                            <span class="mediadata-rank">10</span>
+                <span class="mediadata-score mediadata-score-shares">
+                                            <svg aria-hidden="true"  height="27" width="27"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-social"></use></svg>
+                                        105
+                </span>
+                    </div>
+    
+    
+            </figure>
+
+    <div class="teaser">
+        <p class="teaser-headline">
+            <time datetime="2023-11-21T20:34:27+01:00">21/11/23</time> |                             art de rue
+                    </p>
+        <p class="teaser-title">Une partie du mystère sur l’identité de Banksy levée</p>
     </div>
 </a>
 
@@ -2667,7 +2667,7 @@ Des légumes sur l&#039;étal d&#039;un marché"
             <div class="counterbar-left">
                                                         <span class="counterbar-item datetime"><svg aria-hidden="true"  height="12" width="12"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-clock2"></use></svg>21/11/23</span>                                                                                <span class="counterbar-item">
                             <span data-url-encrypted="L2FydGljbGUvNDA2MzI3Ni9jb21tZW50YWlyZXM=" data-custom-share="/justice/4063276-20231121-strasbourg-homme-termine-prison-avoir-tente-voler-blesser-escort-girl#comments-container" class="js-comments-link">
-                                <svg aria-hidden="true"  height="12" width="12"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-comments"></use></svg><abbr title="14" aria-label="14">14</abbr>
+                                <svg aria-hidden="true"  height="12" width="12"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-comments"></use></svg><abbr title="16" aria-label="16">16</abbr>
                                 <span class="mask"> commentaires</span>
                             </span>
                         </span>

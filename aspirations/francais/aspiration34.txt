@@ -911,9 +911,9 @@ POPIN
                 <i class="fa fa-lightbulb-o"></i>&nbsp;Conseil de lecture<br>
                     
 <div class="conseil-lecture  conseil-lecture-container-footer ouvrage couverture-hover">
-  <a href="https://www.seuil.com/ouvrage/l-hecatombe-invisible-matthieu-lepine/9782021517385">
+  <a href="https://www.seuil.com/ouvrage/techno-luttes-nicolas-celnik/9782021507737">
     <img class="loader" src="https://www.seuil.com/themes/seuil/images/ajax-loader.gif" alt="Veuilleur patienter" title="veuillez-patienter" style="display: none" />
-    <img src="https://ref.lamartinieregroupe.com/media/9782021517385/petite/151738_couverture_Hres_0.jpg" title="L&#039;Hécatombe invisible" alt="L&#039;Hécatombe invisible" class="couverture" />
+    <img src="https://ref.lamartinieregroupe.com/media/9782021507737/petite/150773_couverture_Hres_0.jpg" title="Techno-luttes" alt="Techno-luttes" class="couverture" />
   </a>
   </div>
 <script>
@@ -1075,11 +1075,11 @@ Popin connexion espace pro
           <details id="captcha" class="captcha js-form-wrapper form-wrapper" open="open">
   <summary role="button" aria-controls="captcha" aria-expanded="true" aria-pressed="true">CAPTCHA</summary>
   This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.
-  <input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="34333826" />
-<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="j9DZ3DKvvCySzg_vxlBV7EmrlfreBzo7FlmjwujGh5k" />
+  <input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="34338429" />
+<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="NGsp8ueKDqfhNjhj6rWtuf9umJeM9McWEPipFyEDCjY" />
 <div class="js-form-item form-item js-form-type-textfield form-item-captcha-response js-form-item-captcha-response">
       <label for="edit-captcha-response" class="js-form-required form-required">Math question</label>
-        <span class="field-prefix">1 + 6 =</span>
+        <span class="field-prefix">4 + 2 =</span>
       <input autocomplete="off" data-drupal-selector="edit-captcha-response" aria-describedby="edit-captcha-response--description" type="text" id="edit-captcha-response" name="captcha_response" value="" size="4" maxlength="2" class="form-text required" required="required" aria-required="true" />
 
             <div id="edit-captcha-response--description" class="description">
@@ -1098,7 +1098,7 @@ Popin connexion espace pro
         <input data-drupal-selector="edit-register-compte-pro-form" type="hidden" name="form_id" value="register_compte_pro_form" />
 
         
-        <input autocomplete="off" data-drupal-selector="form-f-gesyowk6e2iwvju9wanw4riw965fcizxommaajiso" type="hidden" name="form_build_id" value="form-f-GESYoWk6E2iwVJu9WaNW4Riw965fcizxoMMaAJIso" />
+        <input autocomplete="off" data-drupal-selector="form-lvligziyqk0tru5xxqaxop55n61sjc793800ffgw47s" type="hidden" name="form_build_id" value="form-lVligziYQK0tRU5XxQaXOp55n61sJc793800fFGw47s" />
 
     </form>
 

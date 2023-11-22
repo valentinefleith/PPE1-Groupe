@@ -1,0 +1,1432 @@
+   #[1]L’Élémentarium » Flux [2]L’Élémentarium » Flux des commentaires
+   [3]alternate [4]alternate
+
+   [5]
+   L’Élémentarium
+   ____________________ Submit
+   [6]
+   1
+   H
+   Hydrogène
+   [7]
+   2
+   He
+   Hélium
+   [8]
+   3
+   Li
+   Lithium
+   [9]
+   4
+   Be
+   Béryllium
+   [10]
+   5
+   B
+   Bore
+   [11]
+   6
+   C
+   Carbone
+   [12]
+   7
+   N
+   Azote
+   [13]
+   8
+   O
+   Oxygène
+   [14]
+   9
+   F
+   Fluor
+   [15]
+   10
+   Ne
+   Néon
+   [16]
+   11
+   Na
+   Sodium
+   [17]
+   12
+   Mg
+   Magnésium
+   [18]
+   13
+   Al
+   Aluminium
+   [19]
+   14
+   Si
+   Silicium
+   [20]
+   15
+   P
+   Phosphore
+   [21]
+   16
+   S
+   Soufre
+   [22]
+   17
+   Cl
+   Chlore
+   [23]
+   18
+   Ar
+   Argon
+   [24]
+   19
+   K
+   Potassium
+   [25]
+   20
+   Ca
+   Calcium
+   [26]
+   21
+   Sc
+   Scandium
+   [27]
+   22
+   Ti
+   Titane
+   [28]
+   23
+   V
+   Vanadium
+   [29]
+   24
+   Cr
+   Chrome
+   [30]
+   25
+   Mn
+   Manganèse
+   [31]
+   26
+   Fe
+   Fer
+   [32]
+   27
+   Co
+   Cobalt
+   [33]
+   28
+   Ni
+   Nickel
+   [34]
+   29
+   Cu
+   Cuivre
+   [35]
+   30
+   Zn
+   Zinc
+   [36]
+   31
+   Ga
+   Gallium
+   [37]
+   32
+   Ge
+   Germanium
+   [38]
+   33
+   As
+   Arsenic
+   [39]
+   34
+   Se
+   Sélénium
+   [40]
+   35
+   Br
+   Brome
+   [41]
+   36
+   Kr
+   Krypton
+   [42]
+   37
+   Rb
+   Rubidium
+   [43]
+   38
+   Sr
+   Strontium
+   [44]
+   39
+   Y
+   Yttrium
+   [45]
+   40
+   Zr
+   Zirconium
+   [46]
+   41
+   Nb
+   Niobium
+   [47]
+   42
+   Mo
+   Molybdène
+   [48]
+   43
+   Tc
+   Technétium
+   [49]
+   44
+   Ru
+   Ruthénium
+   [50]
+   45
+   Rh
+   Rhodium
+   [51]
+   46
+   Pd
+   Palladium
+   [52]
+   47
+   Ag
+   Argent
+   [53]
+   48
+   Cd
+   Cadmium
+   [54]
+   49
+   In
+   Indium
+   [55]
+   50
+   Sn
+   Étain
+   [56]
+   51
+   Sb
+   Antimoine
+   [57]
+   52
+   Te
+   Tellure
+   [58]
+   53
+   I
+   Iode
+   [59]
+   54
+   Xe
+   Xénon
+   [60]
+   55
+   Cs
+   Césium
+   [61]
+   56
+   Ba
+   Baryum
+   La-Lu
+   Lanthanides
+   [62]
+   72
+   Hf
+   Hafnium
+   [63]
+   73
+   Ta
+   Tantale
+   [64]
+   74
+   W
+   Tungstène
+   [65]
+   75
+   Re
+   Rhénium
+   [66]
+   76
+   Os
+   Osmium
+   [67]
+   77
+   Ir
+   Iridium
+   [68]
+   78
+   Pt
+   Platine
+   [69]
+   79
+   Au
+   Or
+   [70]
+   80
+   Hg
+   Mercure
+   [71]
+   81
+   Tl
+   Thallium
+   [72]
+   82
+   Pb
+   Plomb
+   [73]
+   83
+   Bi
+   Bismuth
+   [74]
+   84
+   Po
+   Polonium
+   [75]
+   85
+   At
+   Astate
+   [76]
+   86
+   Rn
+   Radon
+   [77]
+   87
+   Fr
+   Francium
+   [78]
+   88
+   Ra
+   Radium
+   Ac-Lr
+   Actinides
+   [79]
+   104
+   Rf
+   Rutherfordium
+   [80]
+   105
+   Db
+   Dubnium
+   [81]
+   106
+   Sg
+   Seaborgium
+   [82]
+   107
+   Bh
+   Bohrium
+   [83]
+   108
+   Hs
+   Hassium
+   [84]
+   109
+   Mt
+   Meitnérium
+   [85]
+   110
+   Ds
+   Darmstadtium
+   [86]
+   111
+   Rg
+   Roentgenium
+   [87]
+   112
+   Cn
+   Copernicium
+   [88]
+   113
+   Nh
+   Nihonium
+   [89]
+   114
+   Fl
+   Flérovium
+   [90]
+   115
+   Mc
+   Moscovium
+   [91]
+   116
+   Lv
+   Livermorium
+   [92]
+   117
+   Ts
+   Tennesse
+   [93]
+   118
+   Og
+   Oganesson
+   [94]
+   57
+   La
+   Lanthane
+   [95]
+   58
+   Ce
+   Cérium
+   [96]
+   59
+   Pr
+   Praséodyme
+   [97]
+   60
+   Nd
+   Néodyme
+   [98]
+   61
+   Pm
+   Prométhium
+   [99]
+   62
+   Sm
+   Samarium
+   [100]
+   63
+   Eu
+   Europium
+   [101]
+   64
+   Gd
+   Gadolinium
+   [102]
+   65
+   Tb
+   Terbium
+   [103]
+   66
+   Dy
+   Dysprosium
+   [104]
+   67
+   Ho
+   Holmium
+   [105]
+   68
+   Er
+   Erbium
+   [106]
+   69
+   Tm
+   Thulium
+   [107]
+   70
+   Yb
+   Ytterbium
+   [108]
+   71
+   Lu
+   Lutétium
+   [109]
+   89
+   Ac
+   Actinium
+   [110]
+   90
+   Th
+   Thorium
+   [111]
+   91
+   Pa
+   Protactinium
+   [112]
+   92
+   U
+   Uranium
+   [113]
+   93
+   Np
+   Neptunium
+   [114]
+   94
+   Pu
+   Plutonium
+   [115]
+   95
+   Am
+   Américium
+   [116]
+   96
+   Cm
+   Curium
+   [117]
+   97
+   Bk
+   Berkélium
+   [118]
+   98
+   Cf
+   Californium
+   [119]
+   99
+   Es
+   Einsteinium
+   [120]
+   100
+   Fm
+   Fermium
+   [121]
+   101
+   Md
+   Mendélévium
+   [122]
+   102
+   No
+   Nobélium
+   [123]
+   103
+   Lr
+   Lawrencium
+   Légende
+     * Halogènes
+     * Métaux alcalino-terreux
+     * Actinides
+     * Gaz nobles
+     * Métaux de transition
+     * Autres
+     * Métaux alcalins
+     * Lanthanides
+
+   Tableau périodique
+
+Argent
+
+   (BUTTON)
+
+     * [124]Partager sur Twitter
+     * [125]Partager sur Facebook
+     * [126]Partager sur LinkedIn
+
+   [127]Imprimer la page
+   [128]Envoyer l’adresse à un ami
+
+   [129]
+   47
+   Ag
+   Argent
+
+   Du latin argentum, signifiant blanc et brillant, l’argent est le
+   premier métal à être associé à la richesse. Peu réactif, il est l’un
+   des rares métaux qui se trouve à l’état élémentaire dans la nature.
+   L’une des formes minérales de l’iodure d’argent a une structure
+   cristalline similaire à celle de la glace. Ces cristaux peuvent être
+   largués par des avions au dessus de nuages pour amorcer la congélation
+   de la vapeur d’eau, qui finit par tomber sous forme de pluie et permet
+   ainsi d’irriguer des terres agricoles asséchées. Ils permettent
+   également la formation d’un grand nombre de petits cristaux de glace
+   qui fondront avant d’atteindre le sol et d’éviter ainsi les chutes de
+   grêle.
+
+Données physico-chimiques
+
+Données atomiques
+
+   Numéro atomique Masse atomique Configuration électronique Structure
+   cristalline Rayon métallique pour la coordinence 12
+   47 107,87 g.mol^-1 [Kr] 4d^9 5s^2 cubique à faces centrées de paramètre
+   a = 0,4086 nm 144,5 pm
+
+Données physiques
+
+   Masse volumique Dureté Température de fusion Température d’ébullition
+   Conductibilité électrique Conductibilité thermique Solubilité dans
+   l’eau
+   10,5 g.cm^-3 2,5 961,93°C 2 212°C 63.10^6 S.m^-1 429 W.m^-1.K^-1
+   insoluble
+
+Données chimiques
+
+   Électronégativité de Pauling pK[a] : AgOH/AgO^– pK[a] : Ag[(aq)]^+
+   /AgOH
+   1,93 12,1 11,7
+
+   Potentiels standards :
+   Ag^+ + e = Ag[(s)]                            E° = 0,80 V
+   Ag^2+ + e = Ag^+                              E° = 2,00 V
+   Ag[2]O[3(s)] + H[2]O + 2e = 2AgO[(s)] + 2OH^– E° = 0,74 V
+   Ag[2]O[(s)] + 2H^+ + 2e = 2Ag[(s)] + H[2]O    E° = 1,17 V
+   Ag[2]O[(s)] + H[2]O + 2e = 2Ag[(s)] + 2OH^–   E° = 0,34 V
+   Ag[2]O[3(s) ]+ 2H^+ + 2e = 2AgO[(s)] + H[2]O  E° = 1,71 V
+   Ag[2]O[3(s) ]+ 6H^+ + 4e = 2Ag^+ + 3H[2]O     E° = 1,76 V
+   2AgO[(s)] + 2H^+ + 2e = Ag[2]O[(s)] + H[2]O   E° = 1,40 V
+   2AgO[(s)] + H[2]O + 2e = Ag[2]O[(s)] + 2OH^–  E° = 0,60 V
+
+   Produits de solubilité :
+   AgCN        pKs = 15,9
+   AgSCN       pKs = 12
+   Ag[2]CO[3]  pKs = 11,1
+   Ag[2]S      pKs = 49,2
+   Ag[2]SO[4]  pKs = 4,8
+   Ag[3]PO[4]  pKs = 16
+   AgCl        pKs = 9,7
+   AgBr        pKs = 12,3
+   AgI         pKs = 16,1
+   AgIO[3]     pKs = 7,5
+   Ag[2]CrO[4] pKs = 11,9
+
+Données thermodynamiques
+
+   Argent cristallisé :
+     * Entropie molaire standard à 298,15 K : S° = 42,55 J.K^-1mol^-1
+     * Capacité thermique molaire sous pression constante à 298,15 K : Cp°
+       = 25,4 J.K^-1mol^-1
+     * Enthalpie molaire standard de fusion à la température de fusion :
+       11,3 kJ.mol^-1
+     * Enthalpie molaire standard d’ébullition à la température
+       d’ébullition : 254,1 kJ.mol^-1
+
+   Argent gazeux :
+     * Enthalpie molaire standard de formation à 298,15 K :
+       284,9 kJ.mol^-1
+     * Enthalpie libre molaire standard de formation à 298,15 K :
+       245,8 kJ.mol^-1
+     * Entropie molaire standard à 298,15 K : S° = 172,9 J.K^-1mol^-1
+     * Capacité thermique molaire sous pression constante à 298,15 K : Cp°
+       = 20,8 J.K^-1mol^-1
+
+Données industrielles
+
+Matières premières
+
+   La teneur moyenne de l’écorce terrestre est de 0,075 ppm ou g/t.
+
+   Les teneurs des minerais exploités varient, en général, de quelques
+   dizaines à quelques centaines de g/t. Dans ses minerais, l’argent est
+   souvent associé, dans des sulfures, au [130]cuivre, au [131]plomb, au
+   [132]zinc ainsi que parfois au [133]bismuth et à l’[134]antimoine. Il
+   accompagne toujours l’[135]or dans ses gisements.
+
+   En 2022, 30,2 % de la production minière mondiale d’argent provient de
+   mines de plomb-zinc, 25,8 % de mines de cuivre et 15,7 % de mines d’or.
+   27,8 % seulement de la production provient de mines extrayant
+   principalement l’argent.
+
+   Par exemple, en 2022, [136]Codelco (Chili), premier producteur mondial
+   de cuivre, avec 1,553 million de t, a produit également comme
+   co-produit de l’exploitation du cuivre, 20 498 t de molybdène, 671 t
+   d’argent et 2,2 t d’or.
+
+Productions minières
+
+Production minière d’argent
+
+   En tonnes d'argent contenu, en 2022, sur un total mondial de 25 578 t.
+   Source : The Silver Institute
+   Les valeurs données traditionnellement en millions d’onces troy ont été
+   converties en tonnes avec 1 once troy = 31,103477 g.
+
+   CAPTION: en tonnes d’argent contenu, sur un total mondial de 25 586 t
+
+   Mexique 6 196 Russie     1 278
+   Chine   3 477 Bolivie    1 204
+   Pérou   3 328 Australie  1 197
+   Pologne 1 319 États-Unis 1 008
+   Chili   1 303 Argentine  961
+
+   Source : The Silver Institute
+
+   Au total, jusqu’en 2020, il a été extrait du sol, dans le monde, 1,68
+   million de t d’argent dont 62 % depuis 1940.
+
+   Principales mines d’argent exploitées : d’après leur production de
+   2022.
+
+   CAPTION: en tonnes d’argent contenu
+
+   [137]KGHM (Pologne) 1 316 [138]San Juliàn (Mexique) 443
+   [139]Peñasquito (Mexique) 865 [140]Fresnillo (Mexique) 423
+   [141]Dukat (Russie) 569 [142]Cannington (Australie), en 2021-22 402
+   [143]Antamina (Pérou) 557 [144]San Cristobal (Bolivie), en 2021 376
+   [145]Sindesar Khurd (Inde), en 2021-22 551 [146]Saucito (Mexique) 373
+
+   Sources : The Silver Institute et rapport des sociétés
+     * [147]KGHM exploite 3 mines souterraines dans le sud-ouest de la
+       Pologne, à Lubin, Polkowice-Sieroszowice et Rudna.
+     * La mine de [148]Peñasquito, dans l’État de Zacatecas, au Mexique,
+       est exploitée, à ciel ouvert, par [149]Newmont. La mine est
+       constituée de deux excavations Peñasco et Chili Colorado. En 2022,
+       la production a été de 865 t d’argent, 17,6 t d’or, 172 821 t de
+       zinc et 81 194 t de plomb. Les réserves prouvées et probables, en
+       2022, sont de 316 millions de t renfermant 0,79 % de Zn, 0,32 % de
+       Pb, 34 g/t de Ag et 0,53 g/t de Au.
+     * La mine souterraine de [150]Dukat, exploitée par [151]Polymetal,
+       est située dans la région de Magadan, en Sibérie orientale. Son
+       exploitation a débuté en 2000 et devrait durer jusqu’en 2028. 2,523
+       millions de t de minerai ont été extraites en 2022 avec une teneur
+       de 301 g/t de Ag. La production a été de 569 t d’argent et 1,960 t
+       d’or. Les réserves prouvées et probables sont de 4,67 millions de t
+       de minerai renfermant 185 g/t de Ag et 0,3 g/t d’or.
+     * La mine de zinc d’[152]Antamina, au Pérou, est détenue par
+       [153]Glencore à 33,75 %, [154]BHP-Billiton à 33,75 %, [155]Teck à
+       22,5 % et Mitsubishi Corporation à 10 %. Elle est située dans la
+       cordillère des Andes entre 4 200 et 4 700 m d’altitude, dans la
+       province de Huari. Le minerai, extrait à ciel ouvert, est concentré
+       puis mis en suspension dans l’eau et envoyé à l’aide d’un
+       minéralduc de 302 km de longueur jusqu’au port de Punta Lobitos
+       situé près de Port Huarmey afin d’être exporté. Le minéralduc de 21
+       à 25 cm de diamètre est enfoui à 1 m de profondeur. Le trajet dure
+       environ 50 h, avec une capacité de 2,5 millions de t/an. Les
+       réserves prouvées et probables sont, fin 2022, de 283 millions de t
+       avec 0,74 % de Zn, 0,94 % de Cu, 0,03 % de Mo et 10,0 g/t de Ag,
+       ainsi que du plomb et du bismuth. En 2022, la production a été de
+       451 900 t de Cu, 427 600 t de Zn, 3 130 t de molybdène, 3 260 de
+       plomb et 557 t d’argent. La production a débuté en 2001 et devrait
+       se poursuivre jusqu’en 2026.
+     * La mine souterraine de [156]Sindesar Khurd, au Rajasthan, en Inde,
+       est exploitée par [157]Hindustan Zinc, groupe détenu à 64,9 % par
+       [158]Vedanta et 29,5 % par l’État indien. En 2021-22, l’extraction
+       de 5,2 millions de t de minerai a donné 166 000 t de zinc, 97 000 t
+       de plomb et 551 t d’argent. Les réserves sont de 45,4 millions de t
+       renfermant 3,0 % de Zn, 2,0 % de Pb et 100 g/t de Ag.
+     * La mine souterraine de [159]San Juliàn, dans l’État de Chihuahua,
+       au Mexique, est exploitée par [160]Fresnillo, en 2 phases. La
+       première, depuis mi-2016, concerne des veines de minerai renfermant
+       des réserves prouvées et probables, fin 2021, de 5,310 millions de
+       t avec 244 g/t de Ag et 1,72 g/t de Au, la deuxième, depuis début
+       2017, s’intéresse au minerai disséminé avec des réserves de 6,338
+       millions de t avec 162 g/t de Ag, 0,09 g/t de Au, 0,47 % de Pb et
+       1,16 % de Zn. En 2022, la production totale a été de 443 t de Ag,
+       1,453 t de Au, 17 487 t de Zn et 7 105 t de Pb.
+     * La mine souterraine, à 650 m de profondeur, de [161]Cannington,
+       dans le Queensland, en Australie, est exploitée par [162]South32
+       (ex [163]BHP-Billiton). Le gisement, découvert en 1990, a commencé
+       à produire des concentrés de plomb et de zinc en 1997. Au 30 juin
+       2021, les réserves prouvées et probables sont de 17 millions de t
+       de minerai contenant 5,26 % de Pb, 3,07 % de Zn et 176 g/t de Ag.
+       Le minerai, avec, en 2021-22, 2,618 millions de t traitées sur
+       place par flottation, donne des concentrés transportés par route
+       sur 187 km puis par voie ferrée sur 750 km jusqu’au port de
+       Townville à l’aide de convois de 45 wagons transportant 3 000 t.
+       Les concentrés de plomb contiennent 3 kg de Ag par tonne de
+       concentré, ceux de zinc, 250 g/t. En 2021-22, la production a été
+       de 120 600 t de plomb, 64 500 t de zinc et 402 t d’argent. La durée
+       de vie de la mine est estimée, au 30 juin 2021, à 9 ans.
+     * La mine souterraine de [164]Saucito, dans l’État de Zacatecas, au
+       Mexique, exploitée par le groupe mexicain [165]Fresnillo, a traité,
+       en 2022, 2,286 millions de t de minerai titrant 201 g/t de Ag, 1,40
+       g/t de Au, 1,01 % de Pb et 1,78 % de Zn et a produit 28 415 t de
+       zinc, 17 816 t de plomb, 373 t d’argent et 2,29 t d’or.
+       L’exploitation de cette mine a débuté en 2011. Les réserves
+       prouvées et probables sont, mi 2021, de 13,224 millions de t
+       contenant 3,41 % de Zn, 1,17 % de Pb, 234 g/t de Ag et 0,72 g/t
+       d’or.
+     * La mine souterraine de [166]Fresnillo, exploitée par le groupe
+       mexicain [167]Fresnillo, a produit, en 2022, 43 343 t de zinc, 21
+       756 t de plomb, 423 t d’argent et 1,071 t d’or à partir du
+       traitement de 2,462 millions de t d’un minerai titrant 189 g/t de
+       Ag, 0,61 g/t de Au, 1,05 % de Pb et 2,38 % de Zn. L’exploitation de
+       cette mine se poursuit depuis 1554. Les réserves prouvées et
+       probables sont, mi 2021, de 13,224 millions de t contenant 3,41 %
+       de Zn, 1,17 % de Pb, 234 g/t de Ag et 0,72 g/t d’or.
+     * La mine de [168]Greens Creek, en Alaska, est exploitée par
+       [169]Hecla Mining. En 2022, la production a été de 19 500 t de Pb,
+       52 300 t de Zn, 302 t de Ag et 1,5 t de Au. Les réserves prouvées
+       et probables sont de 10,7 millions de t renfermant 2,5 % de Pb, 6,5
+       % de Zn, 339 g/t de Ag et 2,8 g/t de Au.
+
+   Commerce international de minerais et de leurs concentrés : en 2022.
+
+   Principaux pays exportateurs : sur un total de 693 173 t.
+
+   CAPTION: en milliers de t
+
+   Pérou    443 Bolivie  14
+   Mongolie 104 Pays Bas 14
+   Cuba     58  Belgique 8
+   Russie   29  Maroc    7
+
+   Source : ITC
+
+   Les exportations du Pérou sont destinées à 97 % à la Chine.
+
+   Principaux pays importateurs : sur un total de 1,611 million de t.
+
+   CAPTION: en milliers de t
+
+   Chine        1 432 Belgique   7
+   Corée du Sud 45    Kazakhstan 6
+   Japon        25    Espagne    4
+   Bulgarie     9     Allemagne  3
+
+   Source : ITC
+
+   Les importations chinoises proviennent à 39 % du Pérou, 18 % du
+   Mexique, 8 % de Bolivie, 7 % de Mongolie.
+
+   Principaux producteurs : en 2022.
+
+   CAPTION: en tonnes d’argent contenu
+
+   [170]Fresnillo Plc (Mexique)     1 670 [171]Codelco (Chili)              671
+   [172]KGHM Polska Miedz (Pologne) 1 327 [173]Polymetal (Russie)           653
+   [174]Newmont (États-Unis)        865   [175]Southern Copper (Mexique)    577
+   [176]Glencore (Suisse)           739   [177]Pan American Silver (Canada) 575
+   [178]Hindustan Zinc (Inde)       694   [179]Volcan (Pérou)               445
+
+   Sources : The Silver Institute et rapports des sociétés
+     * [180]Fresnillo PLC, contrôlée par le groupe [181]Peñoles, exploite,
+       au Mexique, des mines d’argent (Fresnillo, Saucito et San Juliàn,
+       voir ci-dessus) et d’or (Ciénega, Herradura et Noche Buena). En
+       2022, la mine souterraine d’or de Ciénega a produit 5 387 t de
+       zinc, 3 518 t de plomb, 146 t d’argent et 1,165 t d’or. Celles, à
+       ciel ouvert, de Herradura, 24,1 t d’argent et 10,9 t d’or et de
+       Noche Buena, 0,622 t d’argent et 2,5 t d’or. Les coproductions ont
+       été, en 2022, de 99 153 t de zinc, 52 950 t de plomb et 19,8 t
+       d’or.
+     * [182]KGHM exploite 3 mines souterraines dans le sud-ouest de la
+       Pologne, à Lubin, Polkowice-Sieroszowice et Rudna. En 2021, a
+       extrait 30,0 millions de t de minerai contenant 1,495 % de Cu et
+       50,7 g/t de Ag et produit de 578 000 t de cuivre (dont 391 000 t
+       contenues dans le minerai extrait), 30 000 t de plomb, 1 332 t
+       d’argent, 3,011 t d’or, platine et palladium et en 2016, 81,7 t de
+       sélénium et 8,9 t de rhénium. Le gisement, découvert en 1957, est
+       situé entre 600 et 1380 m de profondeur et occupe une surface de
+       550 km^2. La production a commencé en 1968. Fin 2014, les réserves
+       prouvées et probables étaient pour Lubin de 339 millions de t de
+       minerai renfermant 0,95 % de Cu et 40 g/t de Ag, pour
+       Polkowice-Sieroszowice de 431 millions de t de minerai renfermant
+       1,83 % de Cu et 45 g/t de Ag et pour Rudna de 378 millions de t de
+       minerai renfermant 1,68 % de Cu et 51 g/t de Ag. KGHM exploite
+       également des mines au Canada, aux États-Unis et au Chili avec, en
+       2022, une production de 147 000 t de cuivre, 1 315 t de molybdène,
+       2 100 t de nickel, 36,9 t d’argent, 2,808 t d’or, platine et
+       palladium.
+     * [183]Glencore (Suisse), coproduit de l’argent dans de nombreux
+       pays.
+          + Dans des mines de cuivre :
+               o au Chili, à Collahuasi détenue à 44 %, avec, en 2022, 104
+                 t de Ag,
+               o au Pérou à Antamina détenue à 33,75 % avec, en 2022, 154
+                 t de Ag et Antapaccay avec, en 2022, 38 t de Ag,
+               o en Australie, à Cobar, avec 13,9 t d’argent contenu dans
+                 des concentrés.
+          + Dans des mines de zinc :
+               o au Kazakhstan, par sa filiale Kazzink détenue à 69,7 %,
+                 avec 84,6 t de métal,
+               o en Australie, à Mount Isa et Mac Arthur River avec 191,2
+                 t contenues dans des concentrés et sosu,
+               o au Canada, à Kidd, avec 41,9 t contenues dans des
+                 concentrés,
+               o en Argentine à Aguilar, au Pérou à Los Quenuales, en
+                 Bolivie à Sinchi Wayra, avec 104 t d’argent contenu dans
+                 des concentrés.
+          + Dans des mines de nickel, au Canada, à Sudbury et Raglan, avec
+            6 t de métal.
+     * [184]Pan American Silver, société canadienne, exploite des mines
+       d’argent et d’or. En février 2019, a acquis les mines d’or de Tahoe
+       Resources (Shahuindo, La Arena, Timmins et Bell Creek).
+          + Mines d’argent :
+               o la mine souterraine de Colorada, dans l’État de
+                 Zacatecas, au Mexique, a produit, en 2022, 184,7 t de Ag,
+                 0,102 t de Au, 10 020 t de Zn, 5 650 t de Pb et 10 t de
+                 Cu. Les réserves prouvées et probables sont de 10
+                 millions de t renfermant 317 g/t de Ag, 0,20 g/t de Au,
+                 1,99 % de Zn et 1,12 % de Pb,
+               o la mine souterraine et à ciel ouvert de Dolores, dans
+                 l’État de Chihuahua, au Mexique, a produit 69,7 t de Ag
+                 et 4,26 t de Au avec des réserves prouvées et probables
+                 de 17 millions de t renfermant 20 g/t de Ag et 0,57 g/t
+                 de Au,
+               o la mine souterraine de Huaron, dans la province de Pasco,
+                 au Pérou, a produit 113,8 t de Ag, 0,028 t de Au, 16 430
+                 t de Zn, 11 440 t de Pb et 4 300 t de Cu. Les réserves
+                 prouvées et probables sont de 11 millions de t renfermant
+                 168 g/t de Ag, 2,97 % de Zn, 1,55 % de Pb et 0,45 % de
+                 Cu,
+               o la mine souterraine de Marococha, détenue à 92,3 %, dans
+                 la province de Yauli, au Pérou, a produit 10,1 t de Ag,
+                 0,03 t de Au, 2 670 t de Zn, 730 t de Pb et 470 t de Cu.
+                 En février 2022, la production a été suspendue.
+               o la mine souterraine de San Vicente, en Bolivie, détenue à
+                 95 %, a produit 78,6 t de Ag, 0,003 t de Au, 9 510 t de
+                 Zn, 890 t de Pb et 480 t de Cu. Les réserves prouvées et
+                 probables sont de 1,7 million de t renfermant 314 g/t de
+                 Ag, 3,55 % de Zn, 0,29 % de Pb et 0,25 % de Cu,
+               o la mine souterraine de Manantial Espejo, en Argentine, a
+                 produit 107,7 t de Ag et 0,827 t de Au. Les réserves
+                 prouvées et probables sont de 0,4 million de t renfermant
+                 250 g/t de Ag et 2,35 g/t de Au.
+          + Mines d’or :
+               o la mine à ciel ouvert de Shahuindo, au Pérou, a produit
+                 8,1 t de Ag et 4,7 t d’or. Les réserves prouvées et
+                 probables sont de 104,2 millions de t renfermant 7 g/t de
+                 Ag et 0,47 g/t de Au,
+               o la mine à ciel ouvert de La Arena, au Pérou, a produit
+                 1,17 t de Ag et 3,1 t de Au. Les réserves prouvées et
+                 probables sont de 42,3 millions de t renfermant 0,38 g/t
+                 de Au,
+               o la mine de Timmins, au Canada, dans l’Ontario, a produit
+                 0,48 t de Ag et 4,2 t de Au. Les réserves prouvées et
+                 probables sont de 5,4 millions de t renfermant 2,69 g/t
+                 de Au.
+
+Réserves minières d’argent
+
+   En milliers de t d'argent contenu, en 2022, sur un total mondial de 550
+   000 t. Source : USGS
+
+   CAPTION: en milliers de t de Ag contenu, sur un total mondial de 550
+   000 t
+
+   Pérou     98 Mexique    37
+   Australie 92 Chili      26
+   Chine     71 États-Unis 23
+   Pologne   65 Bolivie    22
+   Russie    45 Inde       7
+
+   Source : USGS
+
+Métallurgie
+
+   L’extraction de l’argent contenu dans les minerais dépend du type de
+   minerai exploité.
+
+   Dans le cas de l’argent contenu dans des minerais de Pb-Zn, l’argent se
+   retrouve dans les concentrés de plomb et de zinc et est récupéré lors
+   des opérations métallurgiques de traitement de ces concentrés. Il en
+   est de même pour l’argent contenu dans des minerais sulfurés de cuivre.
+     * Lors des opérations de purification du [185]plomb, à l’état
+       liquide, l’ajout de [186]zinc (procédé Parkes) se traduit par une
+       dissolution préférentielle de l’argent, du cuivre et de l’or dans
+       le zinc avec, en particulier, formation de l’alliage Ag[2]Zn[3]
+       solide qui est récupéré à la surface du bain liquide. Le zinc est
+       ensuite éliminé par chauffage sous vide puis recyclé. Les diverses
+       impuretés sont oxydées à chaud à l’air et ainsi éliminées. Il reste
+       un alliage Ag-Au (doré) qui est traité par électrolyse à anode
+       soluble. Le doré est placé à l’anode, la cathode est en [187]acier
+       inoxydable ou en argent, l’électrolyte est une solution aqueuse de
+       nitrate d’argent et de cuivre en présence d’[188]acide nitrique.
+       Les cristaux d’argent se déposent sur la cathode d’où ils sont
+       récupérés périodiquement, lavés puis fondus et enfin l’argent est
+       coulé en lingots. Les impuretés contenues (Au, Pd, Pt…) restent
+       insolubles et forment des boues anodiques qui sont traitées pour
+       récupérer les métaux contenus.
+     * Lors du traitement hydrométallurgique du [189]zinc, l’argent reste
+       insoluble, avec le plomb, lors de l’opération de lixiviation dans
+       l’[190]acide sulfurique. Ces résidus insolubles sont ensuite
+       traités selon les techniques de la métallurgie du plomb (voir
+       ci-dessus).
+     * L’argent contenu dans les minerais de [191]cuivre se retrouve, lors
+       des opérations métallurgiques, dans le blister qui est ensuite
+       purifié selon le procédé à anode soluble. L’argent et l’or,
+       insolubles, se retrouvent dans les boues anodiques qui après
+       purification donnent par fusion un doré qui est traité par
+       électrolyse (voir ci-dessus).
+     * Dans le cas de l’argent contenu dans des minerais d’[192]or,
+       l’argent est extrait, avec l’or, par cyanuration (voir le chapitre
+       or). Ensuite, au contraire des minerais pauvres en argent pour
+       lesquels l’or est récupéré par adsorption sur du [193]charbon
+       actif, l’argent s’adsorbant mal, la solution de lixiviation est
+       traitée par cémentation à l’aide de poudre de [194]zinc (procédé
+       Merrill-Crowe). L’argent et l’or se retrouvent sur les particules
+       de zinc et le cément ainsi obtenu est traité par un mélange
+       d’[195]acide chlorhydrique et de [196]peroxyde d’hydrogène. L’or et
+       le zinc passent en solution et l’argent, précipitant sous forme de
+       AgCl, est récupéré.
+
+Recyclage, stocks et commerce international
+
+Production d’argent recyclé
+
+   En tonnes, en 2022, sur un total mondial de 5 618 t. Source : The
+   Silver Institute
+
+   CAPTION: en tonnes, sur un total mondial de 5 618 t
+
+   États-Unis 1 389 Japon                 282
+   Chine      1 079 Italie                142
+   Inde       480   Royaume Uni           135
+   Russie     351   Corée du Sud, en 2019 137
+   Allemagne  307   France                99
+
+   Source : The Silver Institute
+
+   Le recyclage représente, en 2022, 14,5 % de la consommation mondiale.
+
+   En 2022, l’argent recyclé provient à 55,1 % du secteur industriel, 19,1
+   % de bijoux, 13,5 % de l’argenterie, 10,2 % de la photographie, 2,0 %
+   de monnaies.
+
+   Recyclage en photographie :
+
+   Les films et papiers émulsionnés vierges contiennent de 0,5 à 3,5 % de
+   Ag, après exposition et développement : de 2 à 15 g/kg de film. Un
+   fixateur usé contient de 4 à 7 g d’Ag/L.
+   Lors du développement, l’argent se répartit, pour de la photographie
+   noir et blanc, moitié-moitié entre le film et le fixateur. Dans le cas
+   de la couleur, l’argent passe à 99 % dans le fixateur.
+
+   Récupération de l’argent :
+     * Des films et papiers : par brûlage ou par lavage des supports en
+       polyester à l’aide d’une solution bouillante de soude dans
+       l’éthanol. 95 % de l’argent contenu est ainsi récupéré.
+     * Du fixateur : par électrolyse, en continu, au cours de la fixation.
+       Ag se dépose à la cathode. En radiographie, la récupération est de
+       l’ordre de 2,5 g par m^2 d’émulsion fixée soit pour 100
+       clichés/jour, 7 kg d’Ag par an. Parallèlement à la récupération de
+       l’argent, de 50 à 80 % du fixateur est régénéré.
+
+   Stocks :
+
+   Fin 2018, les stocks gouvernementaux sont estimés à 2 771 t. Par
+   exemple, en 2021, aux États-Unis, le stock gouvernemental est de 498 t,
+   celui des industries de 60 t et celui du COMEX, bourse d’échange de New
+   York, de 11 064 t.
+
+   L’argent stocké par les particuliers, en Inde, est de 60 000 à
+   160 000 t. Dans ce pays, il est traditionnel d’offrir, en cadeau de
+   mariage, de l’argent.
+
+   Commerce international de l’argent brut : en 2022.
+
+   Principaux pays exportateurs :
+
+   CAPTION: en tonnes
+
+   Royaume Uni 11 952 Corée du Sud 3 220
+   Japon       6 473  Allemagne    3 011
+   Hong Kong   5 052  États-Unis   2 334
+   Chine       3 949  Suisse       2 315
+   Belgique    3 290  Pologne      1 948
+
+   Source : ITC
+
+   Les exportations du Royaume Uni sont destinées à 48 % à l’Inde, 20 % au
+   Canada, 11 % à la Suisse, 9 % à la Turquie.
+
+   Principaux pays importateurs :
+
+   CAPTION: en tonnes
+
+   Inde        9 584 Chine     3 174
+   États-Unis  7 389 Allemagne 2 369
+   Hong Kong   3 746 Japon     2 112
+   Canada      3 610 Turquie   2 065
+   Royaume Uni 3 351 Suisse    1 654
+
+   Source ITC
+
+   Les importations indiennes proviennent à 50 % du Royaume Uni, 24 % de
+   Hong Kong, 9 % de Chine, 3 % de Russie.
+
+Situation française
+
+   Production : la production minière est nulle depuis l’arrêt de
+   l’exploitation des mines d’or du Bourneix (87) en 2002 et de Salsigne
+   (11) en 2004.
+   Le recyclage a porté sur 99 t, en 2022.
+
+   Commerce extérieur : en 2022.
+   Minerai :
+     * Exportations : 22 t vers le Brésil à 73 %, les Pays Bas à 27 %.
+     * Importations : 73 t des Pays Bas à 74 %, d’Allemagne à 26 %.
+
+   Argent colloïdal :
+     * Exportations : 59 t vers les Pays Bas à 56 %, la Pologne à 20 %, le
+       Mexique à 11 %, l’Allemagne à 10 %.
+     * Importations : 12 t d’Allemagne à 64 %, des États-Unis à 22 %, des
+       Pays Bas à 13 %.
+
+   Nitrate d’argent :
+     * Exportations : 377 t vers l’Inde à 59 %, l’Algérie à 18 %,
+       l’Indonésie à 10 %.
+     * Importations : 60 t du Royaume Uni à 45 %, de Belgique à 25 %,
+       d’Allemagne à 10 %.
+
+   Argent en poudre :
+     * Exportations : 153 t vers la Corée du Sud à 44 %, le Canada à 23 %,
+       les États-Unis à 12 %, le Mexique à 7 %.
+     * Importations : 122 t des États-Unis à 62 %, de Suisse à 32 %, de
+       République tchèque à 4 %.
+
+   Argent brut, hors poudre :
+     * Exportations : 43 t vers la Suisse à 40 %, l’Italie à 31 %,
+       l’Allemagne à 16 %, l’Algérie à 10 %.
+     * Importations : 361 t d’Allemagne à 45 %, de Suisse à 31 %, d’Italie
+       à 16 %, de Belgique à 3 %.
+
+Utilisations
+
+   Consommations : en 2021, dans le monde : 32 627 t, dont dans l’Union
+   européenne, en 2018 : 4 004 t.
+
+Secteurs d’utilisation de l’argent
+
+   En 2022, dans le monde. Source : The Silver Institute
+   Monde
+   2022 France
+   2018 Monde
+   2022 France
+   2018
+   Industrie 44,8 % 49,8 % Investissements physiques 26,8 % 40,3 %
+   Bijouterie 18,8 % 10,5 % Argenterie 5,9 % 0,7 %
+
+   Source : The Silver Institute
+
+   La consommation industrielle mondiale concerne à 66,7 %, l’électricité
+   et l’électronique, à 25,2 % le photovoltaïque, à 8,8 % la brasure, à
+   4,9 % la photographie. En France, la part des industries électriques et
+   électroniques est de 76,1 %, celle de la brasure de 7,3 %.
+   Par exemple, l’industrie automobile a consommé, en 2018, 1 611 t.
+     * Contacts électriques : l’argent utilisé dans ce domaine est le plus
+       souvent mélangé à de l’oxyde de [197]cadmium CdO ou, de plus en
+       plus, à de l’oxyde d’[198]étain SnO[2] afin d’absorber l’énergie de
+       l’arc électrique et diminuer les forces de soudure des contacts. Le
+       mélange est préparé soit par oxydation interne (par diffusion de
+       [199]O[2]) dans un alliage Ag-Cd, soit par métallurgie des poudres,
+       soit par réduction et coprécipitation à partir d’une solution.
+       Les écrans plasma de plus de 42 pouces contiennent plus de 30 g
+       d’argent.
+     * Photovoltaïque : plus de 90 % des cellules photovoltaïques
+       renferment de l’argent sous forme d’une couche mince permettant
+       d’extraire le courant de la cellule. La consommation mondiale dans
+       ce secteur a été, en 2022, de 4 365 t, représentant 15 % du coût de
+       revient des panneaux photovoltaïques.
+     * Catalyseur, sous forme d’oxyde d’argent, pour la production
+       d’[200]oxyde d’éthylène et de [201]formaldéhyde. La consommation
+       mondiale destinée à la production d’oxyde d’éthylène est, en 2018,
+       de 169 t, avec un total de 5 048 t immobilisées dans les unités de
+       production d’oxyde d’éthylène. En 2018, les États-Unis ont consommé
+       pour la production d’oxyde d’éthylène 102 t d’argent, la Chine, 36
+       t, le Mexique 10 t, l’Arabie Saoudite, 9 t…
+     * Photographie et radiographie : une once d’argent (31,1035 g) permet
+       de réaliser 5 000 photographies couleur d’un format standard.
+       Toutefois, face à la concurrence de la photographie numérique, la
+       consommation dans ce secteur est en diminution constante (27 % des
+       utilisations en 1995). Le maximum de consommation dans ce secteur a
+       été atteint en 2000 avec 4,5 milliards de films et 1,76 milliard de
+       m^2 de papier. En 2003, dans le monde, les ventes d’appareils
+       numériques (hors téléphones portables) ont dépassé celles des
+       appareils traditionnels, argentiques (hors appareils jetables). En
+       2022, la consommation dans ce secteur a été de 855 t.
+
+   Utilisations diverses :
+     * Bactéricide et algicide, l’argent est employé dans la purification
+       de l’eau. Son action bactéricide est telle que les solutions
+       contenant des ions Ag^+ ne doivent pas être rejetées dans les
+       circuits d’eaux usées car leur présence empêche le fonctionnement
+       des stations d’épuration. On assiste au développement de
+       l’utilisation de pansements imprégnés aux sels d’argent.
+     * Batteries à l’oxyde d’argent.
+     * Élaboration de miroirs : bien que des miroirs soient fabriqués par
+       dépôt sous vide en phase vapeur de divers métaux ([202]Al…), le
+       principe de leur fabrication repose toujours sur le procédé
+       traditionnel utilisé depuis la moitié du XIX^ème siècle. En
+       solution aqueuse de nitrate d’argent, les ions Ag^+, complexés par
+       l’[203]ammoniac, sont réduits par du [204]formaldéhyde, de
+       l’hydrazine, du glucose ou du tartrate double de sodium et de
+       potassium (sel de Rochelle). Le procédé a été amélioré en
+       pulvérisant sur la surface du miroir une solution de chlorure
+       d’[205]étain qui après rinçage et séchage laisse, adsorbés, à la
+       surface du verre des ions Sn^2+ qui ont pour fonction d’initier la
+       réduction des ions Ag^+ en de nombreux points afin de créer un
+       grand nombre de germes de cristallisation de l’argent qui ainsi
+       pourra former une couche continue exempte de défauts. Enfin une
+       fine couche de [206]cuivre est déposée selon le même procédé de
+       réduction d’une solution de sel de cuivre. Le cuivre joue le rôle
+       d’anode sacrificielle afin de protéger l’argent de la corrosion.
+     * Amalgames dentaires : ils sont obtenus par trituration (mélange) à
+       froid d’une poudre (par exemple : Ag : 70 %, Sn : 25 %, Cu : 4 %,
+       Zn : 1 %) avec du mercure (voir le chapitre [207]mercure).
+     * En Inde, l’argent est considéré comme étant aphrodisiaque et bon
+       pour la santé. Il est souvent incorporé sous forme de fines
+       feuilles d’argent dans des sandwichs et bonbons ou le tabac. En
+       moyenne, la consommation, dans ce secteur, est de 30 mg
+       d’Ag/indien/an.
+
+Bibliographie
+
+     * Pierre Blazy et Yves Jehanne, Recyclage des métaux précieux,
+       Techniques de l’Ingénieur, 2002.
+     * Jean-Louis Vignes et Yves Jehanne, [208]L’hydrométallurgie, BUP
+       n°857 (1), vol. 97 (2003) 1290.
+     * Pierre Blazy et El-Aïd Jdid, Techniques de l’Ingénieur, 2006.
+     * World Silver Survey, [209]The Silver Institute, 1400 I. Street, NW
+       Ste 550, Washington, D.C., 20005, États-Unis.
+     * [210]Refinitiv, 3 Times Square, New York, NY 10036, Etats-Unis.
+     * W.C. Butterman, H.E. Hilliard, [211]Silver, Mineral commodity
+       profiles, USGS, 2004.
+
+Archives
+
+   [212]Argent 2019
+
+   [213]Argent 2015
+
+   [214]Argent 2014
+
+   [215]Argent 2012
+
+   [216]Argent 1996
+
+   [217]Argent 1992
+     * [218]Partager sur Twitter
+     * [219]Partager sur Facebook
+     * [220]Partager sur LinkedIn
+
+À propos du site
+
+     * [221]Notre démarche
+     * [222]Équipe éditoriale
+     * [223]Nous contacter
+
+Liens utiles
+
+     * [224]France Chimie
+     * [225]La Société Chimique de France
+     * [226]Ministère de l'Éducation
+
+Archives
+
+     * [227]Plan du site
+     * [228]Crédits
+     * [229]Mentions légales
+
+   Action financée dans le cadre de la convention de coopération entre
+   l’OPCA DEFi et les Ministères en charge de l’Education Nationale et de
+   l’Enseignement Supérieur.
+   ×
+   En poursuivant votre navigation sur ce site, vous acceptez
+   l’utilisation de cookies conformément à notre politique de données
+   personnelles. [230]En savoir plus..
+
+References
+
+   Visible links:
+   1. https://lelementarium.fr/feed/
+   2. https://lelementarium.fr/comments/feed/
+   3. https://lelementarium.fr/wp-json/oembed/1.0/embed?url=https://lelementarium.fr/element-fiche/argent/
+   4. https://lelementarium.fr/wp-json/oembed/1.0/embed?url=https://lelementarium.fr/element-fiche/argent/&format=xml
+   5. https://lelementarium.fr/
+   6. https://lelementarium.fr/element/hydrogene/
+   7. https://lelementarium.fr/element/helium/
+   8. https://lelementarium.fr/element/lithium/
+   9. https://lelementarium.fr/element/beryllium/
+  10. https://lelementarium.fr/element/bore/
+  11. https://lelementarium.fr/element/carbone/
+  12. https://lelementarium.fr/element/azote/
+  13. https://lelementarium.fr/element/oxygene/
+  14. https://lelementarium.fr/element/fluor/
+  15. https://lelementarium.fr/element/neon/
+  16. https://lelementarium.fr/element/sodium/
+  17. https://lelementarium.fr/element/magnesium/
+  18. https://lelementarium.fr/element/aluminium/
+  19. https://lelementarium.fr/element/silicium/
+  20. https://lelementarium.fr/element/phosphore/
+  21. https://lelementarium.fr/element/soufre/
+  22. https://lelementarium.fr/element/chlore/
+  23. https://lelementarium.fr/element/argon/
+  24. https://lelementarium.fr/element/potassium/
+  25. https://lelementarium.fr/element/calcium/
+  26. https://lelementarium.fr/element/scandium/
+  27. https://lelementarium.fr/element/titane/
+  28. https://lelementarium.fr/element/vanadium/
+  29. https://lelementarium.fr/element/chrome/
+  30. https://lelementarium.fr/element/manganese/
+  31. https://lelementarium.fr/element/fer/
+  32. https://lelementarium.fr/element/cobalt/
+  33. https://lelementarium.fr/element/nickel/
+  34. https://lelementarium.fr/element/cuivre/
+  35. https://lelementarium.fr/element/zinc/
+  36. https://lelementarium.fr/element/gallium/
+  37. https://lelementarium.fr/element/germanium/
+  38. https://lelementarium.fr/element/arsenic/
+  39. https://lelementarium.fr/element/selenium/
+  40. https://lelementarium.fr/element/brome/
+  41. https://lelementarium.fr/element/krypton/
+  42. https://lelementarium.fr/element/rubidium/
+  43. https://lelementarium.fr/element/strontium/
+  44. https://lelementarium.fr/element/yttrium/
+  45. https://lelementarium.fr/element/zirconium/
+  46. https://lelementarium.fr/element/niobium/
+  47. https://lelementarium.fr/element/molybdene/
+  48. https://lelementarium.fr/element/technetium/
+  49. https://lelementarium.fr/element/ruthenium/
+  50. https://lelementarium.fr/element/rhodium/
+  51. https://lelementarium.fr/element/palladium/
+  52. https://lelementarium.fr/element/argent/
+  53. https://lelementarium.fr/element/cadmium/
+  54. https://lelementarium.fr/element/indium/
+  55. https://lelementarium.fr/element/etain/
+  56. https://lelementarium.fr/element/antimoine/
+  57. https://lelementarium.fr/element/tellure/
+  58. https://lelementarium.fr/element/iode/
+  59. https://lelementarium.fr/element/xenon/
+  60. https://lelementarium.fr/element/cesium/
+  61. https://lelementarium.fr/element/baryum/
+  62. https://lelementarium.fr/element/hafnium/
+  63. https://lelementarium.fr/element/tantale/
+  64. https://lelementarium.fr/element/tungstene/
+  65. https://lelementarium.fr/element/rhenium/
+  66. https://lelementarium.fr/element/osmium/
+  67. https://lelementarium.fr/element/iridium/
+  68. https://lelementarium.fr/element/platine/
+  69. https://lelementarium.fr/element/or/
+  70. https://lelementarium.fr/element/mercure/
+  71. https://lelementarium.fr/element/thallium/
+  72. https://lelementarium.fr/element/plomb/
+  73. https://lelementarium.fr/element/bismuth/
+  74. https://lelementarium.fr/element/polonium/
+  75. https://lelementarium.fr/element/astate/
+  76. https://lelementarium.fr/element/radon/
+  77. https://lelementarium.fr/element/francium/
+  78. https://lelementarium.fr/element/radium/
+  79. https://lelementarium.fr/element/rutherfordium/
+  80. https://lelementarium.fr/element/dubnium/
+  81. https://lelementarium.fr/element/seaborgium/
+  82. https://lelementarium.fr/element/bohrium/
+  83. https://lelementarium.fr/element/hassium/
+  84. https://lelementarium.fr/element/meitnerium/
+  85. https://lelementarium.fr/element/darmstadtium/
+  86. https://lelementarium.fr/element/roentgenium/
+  87. https://lelementarium.fr/element/copernicium/
+  88. https://lelementarium.fr/element/nihonium/
+  89. https://lelementarium.fr/element/flerovium/
+  90. https://lelementarium.fr/element/moscovium/
+  91. https://lelementarium.fr/element/livermorium/
+  92. https://lelementarium.fr/element/tennesse/
+  93. https://lelementarium.fr/element/oganesson/
+  94. https://lelementarium.fr/element/lanthane/
+  95. https://lelementarium.fr/element/cerium/
+  96. https://lelementarium.fr/element/praseodyme/
+  97. https://lelementarium.fr/element/neodyme/
+  98. https://lelementarium.fr/element/promethium/
+  99. https://lelementarium.fr/element/samarium/
+ 100. https://lelementarium.fr/element/europium/
+ 101. https://lelementarium.fr/element/gadolinium/
+ 102. https://lelementarium.fr/element/terbium/
+ 103. https://lelementarium.fr/element/dysprosium/
+ 104. https://lelementarium.fr/element/holmium/
+ 105. https://lelementarium.fr/element/erbium/
+ 106. https://lelementarium.fr/element/thulium/
+ 107. https://lelementarium.fr/element/ytterbium/
+ 108. https://lelementarium.fr/element/lutetium/
+ 109. https://lelementarium.fr/element/actinium/
+ 110. https://lelementarium.fr/element/thorium/
+ 111. https://lelementarium.fr/element/protactinium/
+ 112. https://lelementarium.fr/element/uranium/
+ 113. https://lelementarium.fr/element/neptunium/
+ 114. https://lelementarium.fr/element/plutonium/
+ 115. https://lelementarium.fr/element/americium/
+ 116. https://lelementarium.fr/element/curium/
+ 117. https://lelementarium.fr/element/berkelium/
+ 118. https://lelementarium.fr/element/californium/
+ 119. https://lelementarium.fr/element/einsteinium/
+ 120. https://lelementarium.fr/element/fermium/
+ 121. https://lelementarium.fr/element/mendelevium/
+ 122. https://lelementarium.fr/element/nobelium/
+ 123. https://lelementarium.fr/element/lawrencium/
+ 124. https://twitter.com/intent/tweet?url=http://lelementarium.fr/element-fiche/argent/&text=Argent - L’Élémentarium
+ 125. https://www.facebook.com/sharer/sharer.php?u=http://lelementarium.fr/element-fiche/argent/
+ 126. http://www.linkedin.com/shareArticle?mini=true&url=http://lelementarium.fr/element-fiche/argent/&title=Argent - L’Élémentarium
+ 127. javascript:;
+ 128. mailto:?subject=Regardez le site web du CSF&body=https://lelementarium.fr/element-fiche/argent/
+ 129. https://lelementarium.fr/element/argent/
+ 130. https://lelementarium.fr/element-fiche/cuivre/
+ 131. https://lelementarium.fr/element-fiche/plomb/
+ 132. https://lelementarium.fr/element-fiche/zinc/
+ 133. https://lelementarium.fr/element-fiche/bismuth/
+ 134. https://lelementarium.fr/element-fiche/antimoine/
+ 135. https://lelementarium.fr/element-fiche/or/
+ 136. https://www.codelco.com/
+ 137. http://www.kghm.pl/index.dhtml?&lang=en
+ 138. http://www.fresnilloplc.com/where-we-do-it/all-operations/
+ 139. https://www.newmont.com/operations-and-projects/global-presence/north-america/penasquito-mexico/default.aspx
+ 140. http://www.fresnilloplc.com/
+ 141. https://www.polymetalinternational.com/en/assets/where-we-operate/dukat-hub/
+ 142. https://www.south32.net/our-business/australia/cannington
+ 143. https://www.antamina.com/
+ 144. https://www.minerasancristobal.com/v3/en/
+ 145. https://www.hzlindia.com/bussiness/operations/mines/sindesar-khurd/
+ 146. http://www.fresnilloplc.com/what-we-do/mines-in-operation/saucito/
+ 147. http://www.kghm.pl/index.dhtml?&lang=en
+ 148. https://www.newmont.com/operations-and-projects/global-presence/north-america/penasquito-mexico/default.aspx
+ 149. https://www.newmont.com/home/default.aspx
+ 150. https://www.polymetalinternational.com/en/assets/where-we-operate/dukat-hub/
+ 151. http://www.polymetalinternational.com/
+ 152. http://www.antamina.com/en/index.php
+ 153. https://www.glencore.com/
+ 154. https://www.bhp.com/
+ 155. https://www.teck.com/
+ 156. https://www.hzlindia.com/bussiness/operations/mines/sindesar-khurd/
+ 157. https://www.hzlindia.com/
+ 158. https://www.vedantalimited.com/Pages/Home.aspx
+ 159. http://www.fresnilloplc.com/what-we-do/mines-in-operation/san-julian-phase-i-and-ii/
+ 160. http://www.fresnilloplc.com/
+ 161. https://www.south32.net/our-business/australia/cannington
+ 162. https://www.south32.net/
+ 163. http://www.bhpbilliton.com/
+ 164. http://www.fresnilloplc.com/what-we-do/mines-in-operation/saucito/
+ 165. http://www.fresnilloplc.com/
+ 166. http://www.fresnilloplc.com/what-we-do/mines-in-operation/fresnillo/
+ 167. http://www.fresnilloplc.com/
+ 168. https://www.hecla-mining.com/greens-creek/
+ 169. https://www.hecla-mining.com/
+ 170. http://www.fresnilloplc.com/
+ 171. https://www.codelco.com/
+ 172. http://www.kghm.pl/index.dhtml?&lang=en
+ 173. http://www.polymetalinternational.com/
+ 174. https://newmont.com/
+ 175. https://southerncoppercorp.com/
+ 176. http://www.glencore.com/
+ 177. https://www.panamericansilver.com/
+ 178. https://www.hzlindia.com/
+ 179. https://www.volcan.com.pe/en/
+ 180. http://www.fresnilloplc.com/
+ 181. http://www.penoles.com.mx/wPortal/faces/oracle/webcenter/portalapp/pages/home.jspx;jsessionid=JdL7VKFDR75LMZzhlCnyVkQpkmpjQ8h4G3g2vW8zbhC2yJs2MGj2!1983562992?_afrLoop=1057135743008370&_afrWindowMode=0&_afrWindowId=cookie-agreed#@?_afrWindowId=cookie-agreed&_afrLoop=1057135743008370&_afrWindowMode=0&_adf.ctrl-state=10f389f88s_4
+ 182. http://www.kghm.pl/index.dhtml?&lang=en
+ 183. http://www.glencore.com/
+ 184. https://www.panamericansilver.com/
+ 185. https://lelementarium.fr/element-fiche/plomb/
+ 186. https://lelementarium.fr/element-fiche/zinc/
+ 187. https://lelementarium.fr/product/aciers-inoxydables/
+ 188. https://lelementarium.fr/product/acide-nitrique/
+ 189. https://lelementarium.fr/element-fiche/zinc/
+ 190. https://lelementarium.fr/product/acide-sulfurique/
+ 191. https://lelementarium.fr/element-fiche/cuivre/
+ 192. https://lelementarium.fr/element-fiche/or/
+ 193. https://lelementarium.fr/product/charbon-actif/
+ 194. https://lelementarium.fr/element-fiche/zinc/
+ 195. https://lelementarium.fr/product/acide-chlorhydrique/
+ 196. https://lelementarium.fr/product/peroxyde-dhydrogene/
+ 197. https://lelementarium.fr/element-fiche/cadmium/
+ 198. https://lelementarium.fr/element-fiche/etain/
+ 199. https://lelementarium.fr/product/dioxygene/
+ 200. https://lelementarium.fr/product/oxyde-dethylene-ethyleneglycol/
+ 201. https://lelementarium.fr/product/formaldehyde/
+ 202. https://lelementarium.fr/element-fiche/aluminium/
+ 203. https://lelementarium.fr/product/ammoniac/
+ 204. https://lelementarium.fr/product/formaldehyde/
+ 205. https://lelementarium.fr/element-fiche/etain/
+ 206. https://lelementarium.fr/element-fiche/cuivre/
+ 207. https://lelementarium.fr/element-fiche/mercure/
+ 208. http://bupdoc.udppc.asso.fr/consultation/article-bup.php?ID_fiche=14690
+ 209. http://www.silverinstitute.org/
+ 210. https://solutions.refinitiv.com/MetalsResearch
+ 211. http://pubs.usgs.gov/of/2004/1251/2004-1251.pdf
+ 212. https://lelementarium.fr/wp-content/uploads/2018/06/Argent-2019.pdf
+ 213. https://lelementarium.fr/wp-content/uploads/2018/06/Argent-2015.pdf
+ 214. https://lelementarium.fr/wp-content/uploads/2018/06/Argent-2014.pdf
+ 215. https://lelementarium.fr/wp-content/uploads/2018/06/Argent-2012.pdf
+ 216. https://lelementarium.fr/wp-content/uploads/2018/06/Argent-1996.pdf
+ 217. https://lelementarium.fr/wp-content/uploads/2018/06/Argent-1992.pdf
+ 218. https://twitter.com/home?status=
+ 219. https://www.facebook.com/sharer/sharer.php?u=
+ 220. http://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source=
+ 221. https://lelementarium.fr/notre-demarche/
+ 222. https://lelementarium.fr/equipe-editoriale/
+ 223. https://lelementarium.fr/contactez-nous/
+ 224. http://www.francechimie.fr/
+ 225. http://www.societechimiquedefrance.fr/
+ 226. http://www.education.gouv.fr/
+ 227. https://lelementarium.fr/plan-du-site/
+ 228. https://lelementarium.fr/credits/
+ 229. https://lelementarium.fr/mentions-legales/
+ 230. https://lelementarium.fr/cookies/
+
+   Hidden links:
+ 232. javascript:;
+ 233. javascript:;

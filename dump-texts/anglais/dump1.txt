@@ -1,0 +1,922 @@
+
+
+   IFRAME: [1]//www.googletagmanager.com/ns.html?id=GTM-5P3SZGS
+
+   (BUTTON)
+     * [2]Investing
+          + [3]Stocks
+          + [4]Bonds
+          + [5]ETFs
+          + [6]Options and Derivatives
+          + [7]Commodities
+          + [8]Trading
+          + [9]FinTech and Automated Investing
+          + [10]Brokers
+          + [11]Fundamental Analysis
+          + [12]Technical Analysis
+          + [13]Markets
+          + [14]View All
+     * [15]Simulator
+          + [16]Login / Portfolio
+          + [17]Trade
+          + [18]Research
+          + [19]My Games
+          + [20]Leaderboard
+     * [21]Banking
+          + [22]Savings Accounts
+          + [23]Certificates of Deposit (CDs)
+          + [24]Money Market Accounts
+          + [25]Checking Accounts
+          + [26]View All
+     * [27]Personal Finance
+          + [28]Budgeting and Saving
+          + [29]Personal Loans
+          + [30]Insurance
+          + [31]Mortgages
+          + [32]Credit and Debt
+          + [33]Student Loans
+          + [34]Taxes
+          + [35]Credit Cards
+          + [36]Financial Literacy
+          + [37]Retirement
+          + [38]View All
+     * [39]News
+          + [40]Markets
+          + [41]Companies
+          + [42]Earnings
+          + [43]CD Rates
+          + [44]Mortgage Rates
+          + [45]Economy
+          + [46]Government
+          + [47]Crypto
+          + [48]ETFs
+          + [49]Personal Finance
+          + [50]View All
+     * [51]Reviews
+          + [52]Best Online Brokers
+          + [53]Best Savings Rates
+          + [54]Best CD Rates
+          + [55]Best Life Insurance
+          + [56]Best Personal Loans
+          + [57]Best Mortgage Rates
+          + [58]Best Money Market Accounts
+          + [59]Best Auto Loan Rates
+          + [60]Best Credit Repair Companies
+          + [61]Best Credit Cards
+          + [62]View All
+     * [63]Academy
+          + [64]Investing for Beginners
+          + [65]Trading for Beginners
+          + [66]Become a Day Trader
+          + [67]Technical Analysis
+          + [68]All Investing Courses
+          + [69]All Trading Courses
+          + [70]View All
+
+   [71]Trade
+     * (BUTTON)
+       Search ____________________ (BUTTON) Search (BUTTON)
+       Please fill out this field. (BUTTON)
+
+   Search ____________________ (BUTTON) Search
+   Please fill out this field. (BUTTON)
+     * [72]Investing
+       (BUTTON) Investing
+          + [73]Stocks
+          + [74]Bonds
+          + [75]ETFs
+          + [76]Options and Derivatives
+          + [77]Commodities
+          + [78]Trading
+          + [79]FinTech and Automated Investing
+          + [80]Brokers
+          + [81]Fundamental Analysis
+          + [82]Technical Analysis
+          + [83]Markets
+          + [84]View All
+     * [85]Simulator
+       (BUTTON) Simulator
+          + [86]Login / Portfolio
+          + [87]Trade
+          + [88]Research
+          + [89]My Games
+          + [90]Leaderboard
+     * [91]Banking
+       (BUTTON) Banking
+          + [92]Savings Accounts
+          + [93]Certificates of Deposit (CDs)
+          + [94]Money Market Accounts
+          + [95]Checking Accounts
+          + [96]View All
+     * [97]Personal Finance
+       (BUTTON) Personal Finance
+          + [98]Budgeting and Saving
+          + [99]Personal Loans
+          + [100]Insurance
+          + [101]Mortgages
+          + [102]Credit and Debt
+          + [103]Student Loans
+          + [104]Taxes
+          + [105]Credit Cards
+          + [106]Financial Literacy
+          + [107]Retirement
+          + [108]View All
+     * [109]News
+       (BUTTON) News
+          + [110]Markets
+          + [111]Companies
+          + [112]Earnings
+          + [113]CD Rates
+          + [114]Mortgage Rates
+          + [115]Economy
+          + [116]Government
+          + [117]Crypto
+          + [118]ETFs
+          + [119]Personal Finance
+          + [120]View All
+     * [121]Reviews
+       (BUTTON) Reviews
+          + [122]Best Online Brokers
+          + [123]Best Savings Rates
+          + [124]Best CD Rates
+          + [125]Best Life Insurance
+          + [126]Best Personal Loans
+          + [127]Best Mortgage Rates
+          + [128]Best Money Market Accounts
+          + [129]Best Auto Loan Rates
+          + [130]Best Credit Repair Companies
+          + [131]Best Credit Cards
+          + [132]View All
+     * [133]Academy
+       (BUTTON) Academy
+          + [134]Investing for Beginners
+          + [135]Trading for Beginners
+          + [136]Become a Day Trader
+          + [137]Technical Analysis
+          + [138]All Investing Courses
+          + [139]All Trading Courses
+          + [140]View All
+     * [141]Economy
+       (BUTTON) Economy
+          + [142]Government and Policy
+          + [143]Monetary Policy
+          + [144]Fiscal Policy
+          + [145]Economics
+          + [146]View All
+     * [147]Financial Terms
+     * [148]Newsletter
+     * [149]About Us
+
+   Follow Us
+     *
+     *
+     *
+     *
+     *
+     *
+
+   IFRAME: [150]about:blank
+
+   Table of Contents
+   (BUTTON) Expand
+   Table of Contents
+     * [151]Medium of Exchange
+     * [152]Impressions Create Everything
+     * [153]How Is Money Measured?
+     * [154]Active Money
+     * [155]How Money Is Created
+     * [156]The History of American Money
+     * [157]The Bottom Line
+
+     * [158]Economy
+     * [159]Economics
+
+What Is Money? Definition, History, Types, and Creation
+
+   By
+   [160]The Investopedia Team
+   Investopedia logo Investopedia logo
+   [161]Full Bio
+     *
+     *
+
+   Investopedia contributors come from a range of backgrounds, and over 24
+   years there have been thousands of expert writers and editors who have
+   contributed.
+   Learn about our [162]editorial policies
+   Updated November 30, 2022
+   Reviewed by [163]Caitlin Clarke
+   Fact checked by [164]Jiwon Ma
+
+   Trending Videos
+
+   Money is any item or medium of exchange that is accepted by people for
+   the payment of goods and services, as well as the repayment of loans.
+   Money makes the world go 'round. Economies rely on money to facilitate
+   transactions and to power financial growth. Typically, it is economists
+   who define money, where it comes from, and what it's worth. Here are
+   the multifaceted characteristics of money.
+
+Key Takeaways
+
+     * Money is a medium of exchange; it allows people and businesses to
+       obtain what they need to live and thrive.
+     * Bartering was one way that people exchanged goods for other goods
+       before money was created.
+     * Like gold and other precious metals, money has worth because for
+       most people it represents something valuable.
+     * Fiat money is government-issued currency that is not backed by a
+       physical commodity but by the stability of the issuing government.
+     * Above all, money is a unit of account - a socially accepted
+       standard unit with which things are priced.
+
+Medium of Exchange
+
+   Before the development of a [165]medium of exchange—that is,
+   money—people would barter to obtain the goods and services they needed.
+   Two individuals, each possessing some goods the other wanted, would
+   enter into an agreement to trade.
+
+   Early forms of bartering, however, do not provide the transferability
+   and divisibility that makes trading efficient. For instance, if someone
+   has cows but needs bananas, they must find someone who not only has
+   bananas but also the desire for meat. What if that individual finds
+   someone who has the need for meat but no bananas and can only offer
+   potatoes? To get meat, that person must find someone who has bananas
+   and wants potatoes, and so on.
+
+   The lack of transferability of bartering for goods is tiring,
+   confusing, and inefficient. But that is not where the problems end;
+   even if the person finds someone with whom to trade meat for bananas,
+   they may not consider a bunch of bananas to be worth a whole cow. Such
+   a trade requires coming to an agreement and devising a way to determine
+   how many bananas are worth certain parts of the cow.
+
+   [166]Commodity money solved these problems. Commodity money is a type
+   of good that functions as currency. In the 17th and early 18th
+   centuries, for example, American colonists used beaver pelts and dried
+   corn in transactions. Possessing generally accepted values, these
+   commodities were used to buy and sell other things. The commodities
+   used for trade had certain characteristics: they were widely desired
+   and, therefore, valuable, but they were also durable, portable, and
+   easily stored.
+
+   Another, more advanced example of commodity money is a precious metal
+   such as gold. For centuries, gold was used to back paper currency—up
+   until the 1970s. In the case of the U.S. dollar, for example, this
+   meant that foreign governments were able to take their dollars and
+   exchange them at a specified rate for gold with the U.S. Federal
+   Reserve. What's interesting is that, unlike the beaver pelts and dried
+   corn (which can be used for clothing and food, respectively), gold is
+   precious purely because people want it. It is not necessarily
+   useful—you can't eat gold, and it won't keep you warm at night, but the
+   majority of people think it is beautiful, and they know others think it
+   is beautiful. So, gold is something that has worth. Gold, therefore,
+   serves as a physical token of wealth based on people's perceptions.
+
+   This relationship between money and gold provides insight into how
+   money gains its value—as a representation of something valuable.
+
+Impressions Create Everything
+
+   The second type of money is [167]fiat money, which does not require
+   backing by a physical commodity. Instead, the value of fiat currencies
+   is set by supply and demand and people's faith in its worth. Fiat money
+   developed because gold was a scarce resource, and rapidly growing
+   economies growing couldn't always mine enough to back their currency
+   supply requirements. For a booming economy, the need for gold to give
+   money value is extremely inefficient, especially when its value is
+   really created by people's perceptions.
+
+   Fiat money becomes the token of people's perception of worth, the basis
+   for why money is created. An economy that is growing is apparently
+   succeeding in producing other things that are valuable to itself and
+   other economies. The stronger the economy, the stronger its money will
+   be perceived (and sought after) and vice versa. However, people's
+   perceptions must be supported by an economy that can produce the
+   products and services that people want.
+
+   For example, in 1971, the U.S. dollar was taken off the gold
+   standard—the dollar was no longer redeemable in gold, and the price of
+   gold was no longer fixed to any dollar amount. This meant that it was
+   now possible to create more paper money than there was gold to back it;
+   the health of the U.S. economy backed the dollar's value. If the
+   economy stalls, the value of the U.S. dollar will drop both
+   domestically through inflation and internationally through currency
+   exchange rates. The implosion of the U.S. economy would plunge the
+   world into a financial dark age, so many other countries and entities
+   are working tirelessly to ensure that never happens.
+
+   Today, the value of money (not just the dollar, but most currencies) is
+   decided purely by its [168]purchasing power, as dictated by inflation.
+   That is why simply printing new money will not create wealth for a
+   country. Money is created by a kind of a perpetual interaction between
+   real, tangible things, our desire for them, and our abstract faith in
+   what has value. Money is valuable because we want it, but we want it
+   only because it can get us a desired product or service.
+
+How Is Money Measured?
+
+   But exactly how much money is out there, and what forms does it take?
+   Economists and investors ask this question to determine whether there
+   is inflation or deflation. Money is separated into three categories so
+   that it is more discernible for measurement purposes:
+     * [169]M1 – This category of money includes all physical
+       denominations of coins and currency; demand deposits, which are
+       checking accounts and NOW accounts; and travelers' checks. This
+       category of money is the narrowest of the three, and is essentially
+       the money used to buy things and make payments (see the "active
+       money" section below).
+     * [170]M2 – With broader criteria, this category adds all the money
+       found in M1 to all time-related deposits, savings accounts
+       deposits, and non-institutional money market funds. This category
+       represents money that can be readily transferred into cash.
+     * [171]M3 – The broadest class of money, M3 combines all money found
+       in the M2 definition and adds to it all large time deposits,
+       institutional money market funds, short-term repurchase agreements,
+       along with other larger liquid assets. M3 indicates a country's
+       money supply or the total amount of money within an economy.
+
+Active Money
+
+   The M1 category includes what's known as active money—the total value
+   of coins and paper currency in circulation. The amount of active money
+   fluctuates seasonally, monthly, weekly, and daily. In the United
+   States, [172]Federal Reserve Banks distribute new currency for the U.S.
+   Treasury Department. Banks lend money out to customers, which becomes
+   active money once it is actively circulated.
+
+   The variable demand for cash equates to a constantly fluctuating active
+   money total. For example, people typically cash paychecks or withdraw
+   from ATMs over the weekend, so there is more active cash on a Monday
+   than on a Friday. The public demand for cash declines at certain
+   times—following the December holiday season, for example.
+
+How Money Is Created
+
+   We have discussed why and how money, a representation of perceived
+   value, is created in the economy, but another important factor
+   concerning money and the economy is how a country's central bank (the
+   central bank in the United States is the Federal Reserve or the Fed)
+   can influence and manipulate the money supply.
+
+   If the Fed wants to increase the amount of money in circulation,
+   perhaps to boost economic activity, the central bank can, of course,
+   print it. However, the physical bills are only a small part of the
+   money supply.
+
+   Another way for the central bank to increase the money supply is to buy
+   government fixed-income securities in the market. When the central bank
+   buys these government securities, it puts money into the marketplace,
+   and effectively into the hands of the public. How does a central bank
+   such as the Fed pay for this? As strange as it sounds, the central bank
+   simply creates the money and transfers it to those selling the
+   securities. Alternatively, the Fed can lower [173]interest rates
+   allowing banks to extend low-cost loans or credit—a phenomenon known as
+   cheap money—and encouraging businesses and individuals to borrow and
+   spend.
+
+   To shrink the money supply, perhaps to reduce inflation, the central
+   bank does the opposite and sells government securities. The money with
+   which the buyer pays the central bank is essentially taken out of
+   circulation. Keep in mind that we are generalizing in this example to
+   keep things simple.
+
+   A central bank cannot print money without end. If too much money is
+   issued, the value of that currency will drop consistent with the law of
+   supply and demand.
+
+   Remember, as long as people have faith in the currency, a central bank
+   can issue more of it. But if the Fed issues too much money, the value
+   will go down, as with anything that has a higher supply than demand.
+   Therefore, the central bank cannot simply print money as it wants.
+
+The History of American Money
+
+Currency Wars
+
+   In the 17th century, Great Britain was determined to keep control of
+   both the American colonies and the natural resources they controlled.
+   To do this, the British limited the money supply and made it illegal
+   for the colonies to mint coins of their own. Instead, the colonies were
+   forced to trade using English bills of exchange that could only be
+   redeemed for English goods. Colonists were paid for their goods with
+   these same bills, effectively cutting them off from trading with other
+   countries.
+
+   In response, the colonies regressed to a barter system using
+   ammunition, tobacco, nails, pelts, and anything else that could be
+   traded. Colonists also gathered whatever foreign currencies they could,
+   the most popular being the large, silver Spanish dollars. These were
+   called pieces of eight because, when you had to make change, you pulled
+   out your knife and hacked it into eight bits. From this, we have the
+   expression "two bits," meaning a quarter of a dollar.
+
+Massachusetts Money
+
+   Massachusetts was the first colony to defy the mother country. In 1652,
+   the state minted its own silver coins including the Oak Tree and Pine
+   Tree shillings. The state circumvented the British law stating that
+   only the monarch of the British empire could issue coins by dating all
+   their coins in 1652, a period when there was no monarch. In 1690,
+   Massachusetts also issued the first paper money calling it bills of
+   credit.
+
+   Tensions between America and Britain continued to mount until the
+   Revolutionary War broke out in 1775. The colonial leaders declared
+   independence and created a new currency called [174]Continentals to
+   finance their side of the war. Unfortunately, each government printed
+   as much money as it needed without backing it to any standard or asset,
+   so the Continentals experienced rapid inflation and became worthless.
+   This experience discouraged the American government from using paper
+   money for almost a century.
+
+Aftermath of the Revolution
+
+   The chaos from the Revolutionary War left the new nation's monetary
+   system a complete wreck. Most of the currencies in the newly formed
+   United States of America were useless. The problem wasn't resolved
+   until 13 years later in 1788 when Congress was granted constitutional
+   powers to coin money and regulate its value. Congress established a
+   national monetary system and created the dollar as the main unit of
+   money. There was also a bimetallic standard, meaning that both silver
+   and gold could be valued in and used to back paper dollars.
+
+   It took years to get all the foreign coins and competing for state
+   currencies out of circulation. Bank notes had been in circulation all
+   the time, but because banks issued more notes than they had coin to
+   cover, these notes often traded at less than face value.
+
+   Eventually, the United States was ready to try paper money again. In
+   the 1860s, the U.S. government created more than $400 million in legal
+   tender to finance its battle against the Confederacy in the American
+   Civil War. These were called [175]greenbacks because their backs were
+   printed in green. The government-backed this currency and stated that
+   it could be used to pay back both public and private debts. The value
+   did, however, fluctuate according to the North's success or failure at
+   certain stages in the war.
+
+   Confederate dollars, issued by the seceding states during the 1860s,
+   followed the fate of the Confederacy and were worthless by the end of
+   the war.
+
+Aftermath of the Civil War
+
+   In February 1863, the U.S. Congress passed the National Bank Act. This
+   act established a monetary system whereby national banks issued notes
+   backed by U.S. government bonds. The U.S. Treasury then worked to get
+   state bank notes out of circulation so that the national bank notes
+   would become the only currency.
+
+   During this period of rebuilding, there was debate over the bimetallic
+   standard. Some advocated using just silver to back the dollar, others
+   advocated for gold. The situation was resolved in 1900 when the
+   [176]Gold Standard Act was passed, which made gold the sole backing for
+   the dollar. This backing meant that, in theory, you could take your
+   paper money and exchange it for the corresponding value in gold. In
+   1913, the Federal Reserve was created and given the power to steer the
+   economy by controlling the money supply and interest rates on loans.
+
+The Bottom Line
+
+   Money has changed substantially since the days of shells and skins, but
+   its main function hasn't changed at all. Regardless of what form it
+   takes, money offers us a medium of exchange for goods and services and
+   allows the economy to grow as transactions can be completed at greater
+   speeds.
+
+   Article Sources
+   Investopedia requires writers to use primary sources to support their
+   work. These include white papers, government data, original reporting,
+   and interviews with industry experts. We also reference original
+   research from other reputable publishers where appropriate. You can
+   learn more about the standards we follow in producing accurate,
+   unbiased content in our [177]editorial policy.
+    1. Jamestown Settlement & American Revolution Museum at Yorktown.
+       "[178]The Indian Trade."
+    2. Berkeley Rausser College of Natural Resources. "[179]Gold."
+    3. Congressional Research Service. "[180]Brief History of the Gold
+       Standard in the United States," Page 9.
+    4. Intuit. “[181]What Is Fiat Currency? A Definition + How It Differs
+       From Cryptocurrency.”
+    5. Congressional Research Service. "[182]Brief History of the Gold
+       Standard in the United States," Page 13.
+    6. Acorns. “[183]What Is Purchasing Power (and How Does Inflation
+       Affect It)?”
+    7. Fred Y. Ye. “Scientific Metrics: Towards Analytical and
+       Quantitative Sciences,” Page 123. Science Press Beijing, 2017.
+    8. Federal Reserve Bank of St. Louis. “[184]M2 Monetary Aggregate.”
+    9. Organisation for Economic Co-operation and Development. “[185]Broad
+       Money (M3).”
+   10. Board of Governors of the Federal Reserve System. “[186]Money Stock
+       Measures - H.6 Release.”
+   11. Federal Reserve Bank of St. Louis. "[187]Demand Deposits: Total."
+   12. Federal Reserve Bank of St Louis. "[188]What Is Quantitative
+       Easing, and How Has It Been Used?"
+   13. Federal Reserve Bank of Philadelphia. "[189]Money in Colonial
+       Times."
+   14. United States Mint. "[190]History of the U.S. Mint."
+   15. Congressional Research Service. "[191]Brief History of the Gold
+       Standard in the United States," Page 2.
+   16. American Numismatic Society. "[192]A History of American Currency."
+   17. A.J. Youngson Brown. "The American Economy 1860-1940," Page 122.
+       Routledge, 2013.
+   18. University of Groningen. "[193]National Banking Acts of 1863 and
+       1864."
+   19. Congressional Research Service. "[194]Brief History of the Gold
+       Standard in the United States," Pages 8-9.
+
+   Open a New Bank Account
+   (BUTTON) Advertiser Disclosure
+   ×
+   The offers that appear in this table are from partnerships from which
+   Investopedia receives compensation. This compensation may impact how
+   and where listings appear. Investopedia does not include all offers
+   available in the marketplace.
+
+   Related Articles
+   [195]
+   [Group1805-3b9f749674f0434184ef75020339bd35.jpg]
+   Fiat Money vs. Legal Tender: What’s the Difference?
+   [196]
+   [wall_street_179681980-5bfc2b9746e0fb0083c07d29.jpg]
+   Barter System vs. Currency System: What's the Difference?
+   [197]
+   Pile of banknotes of one hundred dollars. Pile of banknotes of one
+   hundred dollars.
+   How the U.S. Dollar Became the World's Reserve Currency
+   [198]
+   Currency exchanges can make a big difference in the cost of your
+   international trip. Currency exchanges can make a big difference in the
+   cost of your international trip.
+   Paper Money: Definition, History, Use, Need for It, and Examples
+   [199]
+   Fiat Money Fiat Money
+   Fiat Money: What It Is, How It Works, Example, Pros & Cons
+   [200]
+   stacks of U.S. $100 notes stacks of U.S. $100 notes
+   What Is M3? Definition, Liquidity, Disuse, and M Classifications
+   Partner Links
+   Related Terms
+   [201]Paper Money: Definition, History, Use, Need for It, and Examples
+   The physical notes or currency of a country that is used as a medium of
+   exchange is known as paper money.
+   [202]more
+   [203]Fiat Money: What It Is, How It Works, Example, Pros & Cons
+   Fiat money is a government-issued currency that is not backed by a
+   physical commodity, such as gold or silver. Read more about dollars,
+   euros, and other fiat money.
+   [204]more
+   [205]What Is M3? Definition, Liquidity, Disuse, and M Classifications
+   M3 is a measure of the money supply that includes M2, large time
+   deposits, institutional money market funds, and short-term repurchase
+   agreements.
+   [206]more
+   [207]What Will a U.S. Central Bank Digital Currency Look Like?
+   What would a U.S. central bank digital currency (CBDC) be? Learn more
+   about the future of a digital dollar and how it would differ from
+   cryptocurrency.
+   [208]more
+   [209]Basecoin: What it is, Concerns, Regulation
+   Basecoin, also known as Basis, was a cryptocurrency whose protocol was
+   designed to keep its price stable.
+   [210]more
+   [211]Monetary Base: Definition, What It Includes, Example
+   A monetary base is the total amount of a currency in general
+   circulation or in the commercial bank deposits held in the central
+   bank's reserves.
+   [212]more
+
+     *
+     *
+     *
+     *
+     *
+
+   [213]TRUSTe
+     * [214]About Us
+     * [215]Terms of Service
+     * [216]Dictionary
+     * [217]Editorial Policy
+     * [218]Advertise
+     * [219]News
+     * [220]Privacy Policy
+     * [221]Contact Us
+     * [222]Careers
+     * [223]EU Privacy
+
+     * [224]#
+     * [225]A
+     * [226]B
+     * [227]C
+     * [228]D
+     * [229]E
+     * [230]F
+     * [231]G
+     * [232]H
+     * [233]I
+     * [234]J
+     * [235]K
+     * [236]L
+     * [237]M
+     * [238]N
+     * [239]O
+     * [240]P
+     * [241]Q
+     * [242]R
+     * [243]S
+     * [244]T
+     * [245]U
+     * [246]V
+     * [247]W
+     * [248]X
+     * [249]Y
+     * [250]Z
+
+   Investopedia is part of the [251]Dotdash Meredith publishing family.
+   Please review our updated [252]Terms of Service.
+
+   When you visit the site, Dotdash Meredith and its partners may store or
+   retrieve information on your browser, mostly in the form of cookies.
+   Cookies collect information about your preferences and your devices and
+   are used to make the site work as you expect it to, to understand how
+   you interact with the site, and to show advertisements that are
+   targeted to your interests. You can find out more about our use, change
+   your default settings, and withdraw your consent at any time with
+   effect for the future by visiting Cookies Settings, which can also be
+   found in the footer of the site.
+   (BUTTON) Cookies Settings (BUTTON) Reject All (BUTTON) Accept All
+   (BUTTON)
+
+References
+
+   Visible links:
+   1. https://www.googletagmanager.com/ns.html?id=GTM-5P3SZGS
+   2. https://www.investopedia.com/investing-4427685
+   3. https://www.investopedia.com/stocks-4427785
+   4. https://www.investopedia.com/bonds-4689778
+   5. https://www.investopedia.com/etfs-4427784
+   6. https://www.investopedia.com/options-and-derivatives-trading-4689663
+   7. https://www.investopedia.com/commodities-4427780
+   8. https://www.investopedia.com/trading-4427765
+   9. https://www.investopedia.com/financial-technology-and-automated-investing-4689759
+  10. https://www.investopedia.com/brokers-4689772
+  11. https://www.investopedia.com/fundamental-analysis-4689757
+  12. https://www.investopedia.com/technical-analysis-4689657
+  13. https://www.investopedia.com/markets/
+  14. https://www.investopedia.com/investing-4427685
+  15. https://www.investopedia.com/simulator/?inv_to_sim=global_nav
+  16. https://www.investopedia.com/simulator/portfolio
+  17. https://www.investopedia.com/simulator/trade/stocks
+  18. https://www.investopedia.com/simulator/research
+  19. https://www.investopedia.com/simulator/games/my-games
+  20. https://www.investopedia.com/simulator/games
+  21. https://www.investopedia.com/banking-4427754
+  22. https://www.investopedia.com/savings-accounts-4689728
+  23. https://www.investopedia.com/certificate-of-deposits-4689733
+  24. https://www.investopedia.com/money-market-account-4689730
+  25. https://www.investopedia.com/checking-accounts-4689732
+  26. https://www.investopedia.com/banking-4427754
+  27. https://www.investopedia.com/personal-finance-4427760
+  28. https://www.investopedia.com/budgeting-and-savings-4427755
+  29. https://www.investopedia.com/personal-loans-4689729
+  30. https://www.investopedia.com/insurance-4427716
+  31. https://www.investopedia.com/mortgage-4689703
+  32. https://www.investopedia.com/credit-and-debt-4689724
+  33. https://www.investopedia.com/student-loans-4689727
+  34. https://www.investopedia.com/taxes-4427724
+  35. https://www.investopedia.com/credit-card-4689721
+  36. https://www.investopedia.com/financial-literacy-resource-center-7151950
+  37. https://www.investopedia.com/retirement-planning-4689695
+  38. https://www.investopedia.com/personal-finance-4427760
+  39. https://www.investopedia.com/news-4427706
+  40. https://www.investopedia.com/markets-news-4427704
+  41. https://www.investopedia.com/company-news-4427705
+  42. https://www.investopedia.com/earnings-reports-5218419
+  43. https://www.investopedia.com/certificates-deposit-news-7111770
+  44. https://www.investopedia.com/mortgage-rates-5184598
+  45. https://www.investopedia.com/economic-news-5218422
+  46. https://www.investopedia.com/political-news-4689737
+  47. https://www.investopedia.com/cryptocurrency-news-5114163
+  48. https://www.investopedia.com/etf-news-5218416
+  49. https://www.investopedia.com/personal-finance-news-5114159
+  50. https://www.investopedia.com/news-4427706
+  51. https://www.investopedia.com/financial-product-reviews-7110783
+  52. https://www.investopedia.com/best-online-brokers-4587872
+  53. https://www.investopedia.com/best-high-yield-savings-accounts-4770633
+  54. https://www.investopedia.com/best-cd-rates-4770214
+  55. https://www.investopedia.com/best-life-insurance-companies-4845858
+  56. https://www.investopedia.com/best-personal-loans-4773300
+  57. https://www.investopedia.com/mortgage-rates-5094943
+  58. https://www.investopedia.com/best-money-market-accounts-5096917
+  59. https://www.investopedia.com/best-auto-loan-rates-4846394
+  60. https://www.investopedia.com/best-credit-repair-companies-4843898
+  61. https://www.investopedia.com/best-credit-cards-4801582
+  62. https://www.investopedia.com/financial-product-reviews-7110783
+  63. https://academy.investopedia.com/
+  64. https://academy.investopedia.com/products/investing-for-beginners
+  65. https://academy.investopedia.com/products/trading-for-beginners
+  66. https://academy.investopedia.com/products/become-a-day-trader
+  67. https://academy.investopedia.com/products/technical-analysis
+  68. https://academy.investopedia.com/collections/investing-courses-catalog
+  69. https://academy.investopedia.com/collections/trading-courses-collection
+  70. https://academy.investopedia.com/
+  71. https://www.investopedia.com/simulator/?inv_to_sim=global_nav
+  72. https://www.investopedia.com/investing-4427685
+  73. https://www.investopedia.com/stocks-4427785
+  74. https://www.investopedia.com/bonds-4689778
+  75. https://www.investopedia.com/etfs-4427784
+  76. https://www.investopedia.com/options-and-derivatives-trading-4689663
+  77. https://www.investopedia.com/commodities-4427780
+  78. https://www.investopedia.com/trading-4427765
+  79. https://www.investopedia.com/financial-technology-and-automated-investing-4689759
+  80. https://www.investopedia.com/brokers-4689772
+  81. https://www.investopedia.com/fundamental-analysis-4689757
+  82. https://www.investopedia.com/technical-analysis-4689657
+  83. https://www.investopedia.com/markets/
+  84. https://www.investopedia.com/investing-4427685
+  85. https://www.investopedia.com/simulator/?inv_to_sim=global_nav
+  86. https://www.investopedia.com/simulator/portfolio
+  87. https://www.investopedia.com/simulator/trade/stocks
+  88. https://www.investopedia.com/simulator/research
+  89. https://www.investopedia.com/simulator/games/my-games
+  90. https://www.investopedia.com/simulator/games
+  91. https://www.investopedia.com/banking-4427754
+  92. https://www.investopedia.com/savings-accounts-4689728
+  93. https://www.investopedia.com/certificate-of-deposits-4689733
+  94. https://www.investopedia.com/money-market-account-4689730
+  95. https://www.investopedia.com/checking-accounts-4689732
+  96. https://www.investopedia.com/banking-4427754
+  97. https://www.investopedia.com/personal-finance-4427760
+  98. https://www.investopedia.com/budgeting-and-savings-4427755
+  99. https://www.investopedia.com/personal-loans-4689729
+ 100. https://www.investopedia.com/insurance-4427716
+ 101. https://www.investopedia.com/mortgage-4689703
+ 102. https://www.investopedia.com/credit-and-debt-4689724
+ 103. https://www.investopedia.com/student-loans-4689727
+ 104. https://www.investopedia.com/taxes-4427724
+ 105. https://www.investopedia.com/credit-card-4689721
+ 106. https://www.investopedia.com/financial-literacy-resource-center-7151950
+ 107. https://www.investopedia.com/retirement-planning-4689695
+ 108. https://www.investopedia.com/personal-finance-4427760
+ 109. https://www.investopedia.com/news-4427706
+ 110. https://www.investopedia.com/markets-news-4427704
+ 111. https://www.investopedia.com/company-news-4427705
+ 112. https://www.investopedia.com/earnings-reports-5218419
+ 113. https://www.investopedia.com/certificates-deposit-news-7111770
+ 114. https://www.investopedia.com/mortgage-rates-5184598
+ 115. https://www.investopedia.com/economic-news-5218422
+ 116. https://www.investopedia.com/political-news-4689737
+ 117. https://www.investopedia.com/cryptocurrency-news-5114163
+ 118. https://www.investopedia.com/etf-news-5218416
+ 119. https://www.investopedia.com/personal-finance-news-5114159
+ 120. https://www.investopedia.com/news-4427706
+ 121. https://www.investopedia.com/financial-product-reviews-7110783
+ 122. https://www.investopedia.com/best-online-brokers-4587872
+ 123. https://www.investopedia.com/best-high-yield-savings-accounts-4770633
+ 124. https://www.investopedia.com/best-cd-rates-4770214
+ 125. https://www.investopedia.com/best-life-insurance-companies-4845858
+ 126. https://www.investopedia.com/best-personal-loans-4773300
+ 127. https://www.investopedia.com/mortgage-rates-5094943
+ 128. https://www.investopedia.com/best-money-market-accounts-5096917
+ 129. https://www.investopedia.com/best-auto-loan-rates-4846394
+ 130. https://www.investopedia.com/best-credit-repair-companies-4843898
+ 131. https://www.investopedia.com/best-credit-cards-4801582
+ 132. https://www.investopedia.com/financial-product-reviews-7110783
+ 133. https://academy.investopedia.com/
+ 134. https://academy.investopedia.com/products/investing-for-beginners
+ 135. https://academy.investopedia.com/products/trading-for-beginners
+ 136. https://academy.investopedia.com/products/become-a-day-trader
+ 137. https://academy.investopedia.com/products/technical-analysis
+ 138. https://academy.investopedia.com/collections/investing-courses-catalog
+ 139. https://academy.investopedia.com/collections/trading-courses-collection
+ 140. https://academy.investopedia.com/
+ 141. https://www.investopedia.com/economy-4689801
+ 142. https://www.investopedia.com/government-and-policy-4689793
+ 143. https://www.investopedia.com/monetary-policy-4689792
+ 144. https://www.investopedia.com/fiscal-policy-4689796
+ 145. https://www.investopedia.com/economics-4689800
+ 146. https://www.investopedia.com/economy-4689801
+ 147. https://www.investopedia.com/financial-term-dictionary-4769738
+ 148. https://www.investopedia.com/investopedia-newsletter-opt-in-7095821
+ 149. https://www.investopedia.com/about-us-5093223
+ 150. about:blank
+ 151. https://www.investopedia.com/insights/what-is-money/#toc-medium-of-exchange
+ 152. https://www.investopedia.com/insights/what-is-money/#toc-impressions-create-everything
+ 153. https://www.investopedia.com/insights/what-is-money/#toc-how-is-money-measured
+ 154. https://www.investopedia.com/insights/what-is-money/#toc-active-money
+ 155. https://www.investopedia.com/insights/what-is-money/#toc-how-money-is-created
+ 156. https://www.investopedia.com/insights/what-is-money/#toc-the-history-of-american-money
+ 157. https://www.investopedia.com/insights/what-is-money/#toc-the-bottom-line
+ 158. https://www.investopedia.com/economy-4689801
+ 159. https://www.investopedia.com/economics-4689800
+ 160. https://www.investopedia.com/contributors/0/
+ 161. https://www.investopedia.com/contributors/0/
+ 162. https://www.investopedia.com/legal-4768893#editorial-policy
+ 163. https://www.investopedia.com/caitlin-clarke-5221387
+ 164. https://www.investopedia.com/jiwon-ma-5218840
+ 165. https://www.investopedia.com/terms/m/mediumofexchange.asp
+ 166. https://www.investopedia.com/terms/c/commodity.asp
+ 167. https://www.investopedia.com/terms/f/fiatmoney.asp
+ 168. https://www.investopedia.com/terms/p/purchasingpower.asp
+ 169. https://www.investopedia.com/terms/m/m1.asp
+ 170. https://www.investopedia.com/terms/m/m2.asp
+ 171. https://www.investopedia.com/terms/m/m3.asp
+ 172. https://www.investopedia.com/terms/f/federalreservebank.asp
+ 173. https://www.investopedia.com/terms/i/interestrate.asp
+ 174. https://www.investopedia.com/terms/c/continentals.asp
+ 175. https://www.investopedia.com/terms/g/greenback.asp
+ 176. https://www.investopedia.com/ask/answers/09/gold-standard.asp
+ 177. https://www.investopedia.com/legal-4768893#EditorialPolicy
+ 178. https://www.historyisfun.org/blog/the-indian-trade/
+ 179. https://nature.berkeley.edu/classes/eps2/wisc/gold.html
+ 180. https://fas.org/sgp/crs/misc/R41887.pdf
+ 181. https://mint.intuit.com/blog/personal-finance/what-is-fiat-currency/
+ 182. https://fas.org/sgp/crs/misc/R41887.pdf
+ 183. https://www.acorns.com/money-basics/the-economy/what-is-purchasing-power-and-how-does-inflation-affect-it-/
+ 184. https://www.stlouisfed.org/financial-crisis/data/m2-monetary-aggregate
+ 185. https://data.oecd.org/money/broad-money-m3.htm
+ 186. https://www.federalreserve.gov/releases/h6/current/default.htm
+ 187. https://fred.stlouisfed.org/series/WDDNS
+ 188. https://www.stlouisfed.org/on-the-economy/2017/november/quantitative-easing-how-used
+ 189. https://www.philadelphiafed.org/education/teachers/resources/money-in-colonial-times
+ 190. https://www.usmint.gov/learn/history/overview
+ 191. https://fas.org/sgp/crs/misc/R41887.pdf
+ 192. http://numismatics.org/a-history-of-american-currency/
+ 193. http://www.let.rug.nl/usa/essays/general/a-brief-history-of-central-banking/national-banking-acts-of-1863-and-1864.php
+ 194. https://fas.org/sgp/crs/misc/R41887.pdf
+ 195. https://www.investopedia.com/ask/answers/041515/what-difference-between-fiat-money-and-legal-tender.asp
+ 196. https://www.investopedia.com/ask/answers/061615/what-difference-between-barter-and-currency-systems.asp
+ 197. https://www.investopedia.com/articles/forex-currencies/092316/how-us-dollar-became-worlds-reserve-currency.asp
+ 198. https://www.investopedia.com/terms/p/paper_money.asp
+ 199. https://www.investopedia.com/terms/f/fiatmoney.asp
+ 200. https://www.investopedia.com/terms/m/m3.asp
+ 201. https://www.investopedia.com/terms/p/paper_money.asp
+ 202. https://www.investopedia.com/terms/p/paper_money.asp
+ 203. https://www.investopedia.com/terms/f/fiatmoney.asp
+ 204. https://www.investopedia.com/terms/f/fiatmoney.asp
+ 205. https://www.investopedia.com/terms/m/m3.asp
+ 206. https://www.investopedia.com/terms/m/m3.asp
+ 207. https://www.investopedia.com/us-cbdc-6740586
+ 208. https://www.investopedia.com/us-cbdc-6740586
+ 209. https://www.investopedia.com/terms/b/basecoin.asp
+ 210. https://www.investopedia.com/terms/b/basecoin.asp
+ 211. https://www.investopedia.com/terms/m/monetarybase.asp
+ 212. https://www.investopedia.com/terms/m/monetarybase.asp
+ 213. https://privacy.truste.com/privacy-seal/validation?rid=f8e1238d-6371-460f-8ea0-1b8cad9e9c4b
+ 214. https://www.investopedia.com/about-us-5093223
+ 215. https://www.dotdashmeredith.com/brands-termsofservice
+ 216. https://www.investopedia.com/financial-term-dictionary-4769738
+ 217. https://www.investopedia.com/legal-4768893#editorial-policy
+ 218. https://www.dotdashmeredith.com/
+ 219. https://www.investopedia.com/news-4427706
+ 220. https://www.dotdashmeredith.com/brands-privacy
+ 221. https://invcontent.zendesk.com/hc/en-us/requests/new
+ 222. https://www.dotdashmeredith.com/careers
+ 223. https://www.investopedia.com/insights/what-is-money/
+ 224. https://www.investopedia.com/terms-beginning-with-num-4769350
+ 225. https://www.investopedia.com/terms-beginning-with-a-4769351
+ 226. https://www.investopedia.com/terms-beginning-with-b-4769352
+ 227. https://www.investopedia.com/terms-beginning-with-c-4769353
+ 228. https://www.investopedia.com/terms-beginning-with-d-4769354
+ 229. https://www.investopedia.com/terms-beginning-with-e-4769355
+ 230. https://www.investopedia.com/terms-beginning-with-f-4769356
+ 231. https://www.investopedia.com/terms-beginning-with-g-4769357
+ 232. https://www.investopedia.com/terms-beginning-with-h-4769358
+ 233. https://www.investopedia.com/terms-beginning-with-i-4769359
+ 234. https://www.investopedia.com/terms-beginning-with-j-4769360
+ 235. https://www.investopedia.com/terms-beginning-with-k-4769361
+ 236. https://www.investopedia.com/terms-beginning-with-l-4769362
+ 237. https://www.investopedia.com/terms-beginning-with-m-4769363
+ 238. https://www.investopedia.com/terms-beginning-with-n-4769364
+ 239. https://www.investopedia.com/terms-beginning-with-o-4769365
+ 240. https://www.investopedia.com/terms-beginning-with-p-4769366
+ 241. https://www.investopedia.com/terms-beginning-with-q-4769367
+ 242. https://www.investopedia.com/terms-beginning-with-r-4769368
+ 243. https://www.investopedia.com/terms-beginning-with-s-4769369
+ 244. https://www.investopedia.com/terms-beginning-with-t-4769370
+ 245. https://www.investopedia.com/terms-beginning-with-u-4769371
+ 246. https://www.investopedia.com/terms-beginning-with-v-4769372
+ 247. https://www.investopedia.com/terms-beginning-with-w-4769373
+ 248. https://www.investopedia.com/terms-beginning-with-x-4769374
+ 249. https://www.investopedia.com/terms-beginning-with-y-4769375
+ 250. https://www.investopedia.com/terms-beginning-with-z-4769376
+ 251. https://www.dotdashmeredith.com/
+ 252. https://www.dotdashmeredith.com/brands-termsofservice
+
+   Hidden links:
+ 254. https://www.investopedia.com/
+ 255. https://www.facebook.com/Investopedia/
+ 256. https://www.instagram.com/investopedia/?hl=en
+ 257. https://www.linkedin.com/company/investopedia-ulc
+ 258. https://www.tiktok.com/@investopedia
+ 259. https://twitter.com/investopedia
+ 260. https://www.youtube.com/c/investopedia
+ 261. https://www.linkedin.com/company/investopedia-ulc
+ 262. https://twitter.com/Investopedia
+ 263. https://www.investopedia.com/
+ 264. https://www.facebook.com/Investopedia/
+ 265. https://www.instagram.com/investopedia/?hl=en
+ 266. https://www.linkedin.com/company/investopedia-ulc
+ 267. https://www.investopedia.com/investopedia-newsletter-opt-in-7095821
+ 268. https://twitter.com/investopedia

@@ -777,7 +777,7 @@ if( document.getElementById('splashscreen') && readCookie('splashscreen') == nul
         </div>
     </div>
 
-                                                                                            <input type="hidden" id="cookie_consent__token" name="cookie_consent[_token]" value="JEsYn9G4tFfTaYphWSuIbU71agjC027BfxOZuAnaWSo" />
+                                                                                            <input type="hidden" id="cookie_consent__token" name="cookie_consent[_token]" value="66kGU8uUIlMIcTlPLjeXzV_3ShlccE-U6x9a24OvPDA" />
                                     </div>
 
         <div class="ch-cookie-consent__btn-group">

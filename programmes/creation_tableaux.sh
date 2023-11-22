@@ -40,19 +40,19 @@ echo "<html>
         <div class=\"table-container\">
             <table class=\"table is-bordered is-striped is-hoverable is-fullwidth\">
                 <tr class=\"has-background-rose\">
-                    <th>Numero ligne</th><th>URL</th><th>Code HTTP</th><th>Encodage</th>
+                    <th>Numero ligne</th><th>URL</th><th>Aspiration</th><th>Dump</th><th>Code HTTP</th><th>Encodage</th>
                 </tr>" > $OUTPUT_FILE
 lineno=1
 while read -r URL; do
     response=$(curl -s -I -L -w "%{http_code}" -o /dev/null "$URL")
     encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null "$URL" | egrep -E -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
-    echo "<tr>
-				<td>$lineno</td><td>$URL</td><td>$response</td><td>$encoding</td>
-		</tr>" >> $OUTPUT_FILE
 	FICHIER_ASPIRATION="../aspirations/${LANGUE}/aspiration${lineno}.txt"
 	curl -s -L $URL > $FICHIER_ASPIRATION
 	FICHIER_DUMP="../dump-texts/${LANGUE}/dump${lineno}.txt"
 	lynx -dump $URL > $FICHIER_DUMP	
+    echo "<tr>
+				<td>$lineno</td><td>$URL</td><td><a href='$FICHIER_ASPIRATION'>Aspiration</a></td><td><a href='$FICHIER_DUMP'>Dump</a></td><td>$response</td><td>$encoding</td>
+		</tr>" >> $OUTPUT_FILE
     lineno=$(expr $lineno + 1)
 	echo "OK"
 done < "$URLS"

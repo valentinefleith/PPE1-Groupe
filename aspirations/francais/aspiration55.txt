@@ -303,7 +303,7 @@ window.dtc = window.dtc || {};
 dtc.eurl = "/fr/";
 dtc.moduleId = "app";
 dtc.controllerId = "forum";
-dtc.csrfData = {name:"dtc-token", token: "d3I3TGE4eVViZWw4OWJUUVJ4STBKbjdjflFkR0N4Nljv5a3h7vOdZgkKuQamzJUVqOKkDmTbSgVl0eOvJUCgtw=="};
+dtc.csrfData = {name:"dtc-token", token: "bXpsUzhQfmxDbzFfRElDcWN5c25md09wS34zeWZrbmmTbhboeVmRnEqmQnkyXQ9erIFSbXhWL8bsvS4Uzt8JWQ=="};
 /*]]>*/
 </script>
 
@@ -2430,7 +2430,7 @@ function openModalWindow(settings, callback)
 <script type="text/javascript">
 /*<![CDATA[*/
 var csrfTokenName = 'dtc-token',
-        csrfToken = 'd3I3TGE4eVViZWw4OWJUUVJ4STBKbjdjflFkR0N4Nljv5a3h7vOdZgkKuQamzJUVqOKkDmTbSgVl0eOvJUCgtw==',
+        csrfToken = 'bXpsUzhQfmxDbzFfRElDcWN5c25md09wS34zeWZrbmmTbhboeVmRnEqmQnkyXQ9erIFSbXhWL8bsvS4Uzt8JWQ==',
         csrfData = {};
     window.csrfData = csrfData;
 

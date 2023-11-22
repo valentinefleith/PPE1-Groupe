@@ -505,7 +505,7 @@
     <div class="views-element-container block block-views block-views-blockbandeau-image-block-2" id="block-views-block-bandeau-image-block-2">
   
     
-      <div><div class="view view-bandeau-image view-id-bandeau_image view-display-id-block_2 js-view-dom-id-fd4d47497a544166d65e4e5e8f206b60e8b774d6af9e627a20a4b1fc455a40c1">
+      <div><div class="view view-bandeau-image view-id-bandeau_image view-display-id-block_2 js-view-dom-id-18338a62278cba095e9745e3120683e442028952ea692326a83cc25490b6960a">
   
     
       
@@ -992,7 +992,7 @@
       <div class="views-element-container block block-views block-views-blockactualites-block-1" id="block-views-block-actualites-block-1">
   
     
-      <div><div class="view view-actualites view-id-actualites view-display-id-block_1 js-view-dom-id-f385b48cb6d431efa386fa52d5a24851d462c9795462fefe04ac44d592eb3534">
+      <div><div class="view view-actualites view-id-actualites view-display-id-block_1 js-view-dom-id-eea7307163ab6c00c8b5cb22628905c01823742ac4c808c90c61bcb613d77208">
   
     
       <div class="view-header">
@@ -1155,7 +1155,7 @@
     <div class="views-element-container block block-views block-views-blockevents-block-1" id="block-views-block-events-block-1">
   
     
-      <div><div class="row view view-events view-id-events view-display-id-block_1 js-view-dom-id-88bf13de1ad24649c97e81ab228e96c39b99f00c4e5e416d0b08870114187d07">
+      <div><div class="row view view-events view-id-events view-display-id-block_1 js-view-dom-id-857b435d8e62bcbcab8414246fc9b58f712d16a7af2699950004f39c442b3cfc">
   
     
       <div class="view-header">

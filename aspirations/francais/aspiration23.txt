@@ -15,7 +15,7 @@
 	
 	<script>
 	
-		var csrf_test_name="fe38961b7e733f667e9a8e9dcef7f64f";
+		var csrf_test_name="6a21676e0299f84eeb62f26977226b19";
 		var baseUrl = "https://www.vuillermoz.fr/";
 		var base_url = "https://www.vuillermoz.fr/";
 		
@@ -587,7 +587,7 @@ Expédition rapide</p></div>
 		
 		<p class="titre">Newsletter</p>
         		<form action="https://www.vuillermoz.fr/newsletter/ajout" method="POST" accept-charset="utf-8">
-                                                                                                   <input type="hidden" name="csrf_test_name" value="fe38961b7e733f667e9a8e9dcef7f64f" />
+<input type="hidden" name="csrf_test_name" value="6a21676e0299f84eeb62f26977226b19" />                                                                                                      
 
           <p>Abonnez vous à nos actualités et offres promotionnelles (1 email par semaine)</p>
           <input type="text" name="newsletter" class="input" placeholder="Saisissez votre adresse e-mail" value="" />
