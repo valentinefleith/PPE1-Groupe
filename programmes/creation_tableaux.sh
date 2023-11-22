@@ -44,6 +44,8 @@ while read -r URL; do
     echo "<tr>
 				<td>$lineno</td><td>$URL</td><td>$response</td><td>$encoding</td>
 		</tr>" >> $OUTPUT_FILE
+	FICHIER_ASPIRATION="../aspirations/${LANGUE}/aspiration${lineno}.txt"
+	curl -s $URL > $FICHIER_ASPIRATION
     lineno=$(expr $lineno + 1)
 	echo "OK"
 done < "$URLS"
