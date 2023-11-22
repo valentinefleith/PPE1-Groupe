@@ -1,0 +1,3068 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="Mairie d&#039;Argent sur Sauldre RSS" href="https://www.argentsursauldre.fr/rss.xml" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="shortcut icon" href="https://www.argentsursauldre.fr/themes/corporateclean/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>Mairie d&#039;Argent sur Sauldre</title>
+  <style type="text/css" media="all">
+@import url("https://www.argentsursauldre.fr/modules/system/system.base.css?qs0gwo");
+@import url("https://www.argentsursauldre.fr/modules/system/system.menus.css?qs0gwo");
+@import url("https://www.argentsursauldre.fr/modules/system/system.messages.css?qs0gwo");
+@import url("https://www.argentsursauldre.fr/modules/system/system.theme.css?qs0gwo");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.argentsursauldre.fr/modules/views_slideshow/views_slideshow.css?qs0gwo");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.argentsursauldre.fr/modules/comment/comment.css?qs0gwo");
+@import url("https://www.argentsursauldre.fr/modules/field/theme/field.css?qs0gwo");
+@import url("https://www.argentsursauldre.fr/modules/footer_sitemap/footer_sitemap.css?qs0gwo");
+@import url("https://www.argentsursauldre.fr/modules/node/node.css?qs0gwo");
+@import url("https://www.argentsursauldre.fr/modules/search/search.css?qs0gwo");
+@import url("https://www.argentsursauldre.fr/modules/user/user.css?qs0gwo");
+@import url("https://www.argentsursauldre.fr/modules/views/css/views.css?qs0gwo");
+@import url("https://www.argentsursauldre.fr/modules/ckeditor/css/ckeditor.css?qs0gwo");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.argentsursauldre.fr/modules/ctools/css/ctools.css?qs0gwo");
+@import url("https://www.argentsursauldre.fr/modules/contactinfo/css/contactinfo.css?qs0gwo");
+@import url("https://www.argentsursauldre.fr/modules/tb_megamenu/css/bootstrap.css?qs0gwo");
+@import url("https://www.argentsursauldre.fr/modules/tb_megamenu/css/base.css?qs0gwo");
+@import url("https://www.argentsursauldre.fr/modules/tb_megamenu/css/default.css?qs0gwo");
+@import url("https://www.argentsursauldre.fr/modules/tb_megamenu/css/compatibility.css?qs0gwo");
+@import url("https://www.argentsursauldre.fr/modules/views_slideshow/contrib/views_slideshow_cycle/views_slideshow_cycle.css?qs0gwo");
+@import url("https://www.argentsursauldre.fr/modules/date/date_api/date.css?qs0gwo");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.argentsursauldre.fr/themes/corporateclean/style.css?qs0gwo");
+</style>
+<style type="text/css" media="all and (min-width: 1018px)">
+@import url("https://www.argentsursauldre.fr/themes/corporateclean/css/1280.css?qs0gwo");
+</style>
+<style type="text/css" media="all and (min-width: 900px) and (max-width: 1017px)">
+@import url("https://www.argentsursauldre.fr/themes/corporateclean/css/900.css?qs0gwo");
+</style>
+<style type="text/css" media="all and (min-width: 641px) and (max-width: 899px)">
+@import url("https://www.argentsursauldre.fr/themes/corporateclean/css/760.css?qs0gwo");
+</style>
+<style type="text/css" media="all and (max-width: 640px)">
+@import url("https://www.argentsursauldre.fr/themes/corporateclean/css/mobile.css?qs0gwo");
+</style>
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#block-menu-block-1 .block-icon{background:transparent url("sites/default/files/block_icons/menu1.png") center center no-repeat;float:left;height:38px;margin:0 5px 0 0;width:41px;}
+#block-menu-block-2 .block-icon{background:transparent url("sites/default/files/block_icons/menu2.png") center center no-repeat;float:left;height:43px;margin:0 5px 0 0;width:74px;}
+#block-menu-block-3 .block-icon{background:transparent url("sites/default/files/block_icons/icone_03.png") center center no-repeat;float:left;height:43px;margin:0 5px 0 0;width:31px;}
+#block-menu-block-4 .block-icon{background:transparent url("sites/default/files/block_icons/icone_06.png") center center no-repeat;float:left;height:37px;margin:0 5px 0 0;width:49px;}
+#block-menu-block-5 .block-icon{background:transparent url("sites/default/files/block_icons/icone_05.png") center center no-repeat;float:left;height:44px;margin:0 5px 0 0;width:44px;}
+#block-menu-block-6 .block-icon{background:transparent url("sites/default/files/block_icons/icone_04.png") center center no-repeat;float:left;height:44px;margin:0 5px 0 0;width:51px;}
+
+/*]]>*/-->
+</style>
+
+<!--[if (lte IE 8)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://www.argentsursauldre.fr/themes/corporateclean/css/basic-layout.css?qs0gwo" media="all" />
+<![endif]-->
+
+<!--[if (lte IE 8)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://www.argentsursauldre.fr/themes/corporateclean/css/ie.css?qs0gwo" media="all" />
+<![endif]-->
+
+  
+  <script type="text/javascript" src="https://www.argentsursauldre.fr/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.argentsursauldre.fr/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.argentsursauldre.fr/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.argentsursauldre.fr/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.argentsursauldre.fr/misc/drupal.js?qs0gwo"></script>
+<script type="text/javascript" src="https://www.argentsursauldre.fr/modules/views_slideshow/js/views_slideshow.js?v=1.0"></script>
+<script type="text/javascript" src="https://www.argentsursauldre.fr/sites/default/files/languages/fr_Y3z_zZ0qiNvOQIAQwdKr3OBDrK2RWE53PdFY3ajeKAo.js?qs0gwo"></script>
+<script type="text/javascript" src="https://www.argentsursauldre.fr/themes/corporateclean/js/display.js?qs0gwo"></script>
+<script type="text/javascript" src="https://www.argentsursauldre.fr/themes/corporateclean/js/jquery.actual.min.js?qs0gwo"></script>
+<script type="text/javascript" src="https://www.argentsursauldre.fr/themes/corporateclean/js/sidr.min.js?qs0gwo"></script>
+<script type="text/javascript" src="https://www.argentsursauldre.fr/themes/corporateclean/js/jquery.cycle.all.js?qs0gwo"></script>
+<script type="text/javascript" src="https://www.argentsursauldre.fr/modules/tb_megamenu/js/tb-megamenu-frontend.js?qs0gwo"></script>
+<script type="text/javascript" src="https://www.argentsursauldre.fr/modules/tb_megamenu/js/tb-megamenu-touch.js?qs0gwo"></script>
+<script type="text/javascript" src="https://www.argentsursauldre.fr/sites/all/libraries/jquery.cycle/jquery.cycle.all.js?qs0gwo"></script>
+<script type="text/javascript" src="https://www.argentsursauldre.fr/modules/views_slideshow/contrib/views_slideshow_cycle/js/views_slideshow_cycle.js?qs0gwo"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"corporateclean","theme_token":"AFOwJbxpY5HiwFPxIe1MDcgth6zi7xk9ZSDCfNEzkrI","js":{"0":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"modules\/views_slideshow\/js\/views_slideshow.js":1,"public:\/\/languages\/fr_Y3z_zZ0qiNvOQIAQwdKr3OBDrK2RWE53PdFY3ajeKAo.js":1,"themes\/corporateclean\/js\/display.js":1,"themes\/corporateclean\/js\/jquery.actual.min.js":1,"themes\/corporateclean\/js\/sidr.min.js":1,"themes\/corporateclean\/js\/jquery.cycle.all.js":1,"modules\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"modules\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/views_slideshow\/views_slideshow.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/footer_sitemap\/footer_sitemap.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/views\/css\/views.css":1,"modules\/ckeditor\/css\/ckeditor.css":1,"modules\/ctools\/css\/ctools.css":1,"modules\/contactinfo\/css\/contactinfo.css":1,"modules\/tb_megamenu\/css\/bootstrap.css":1,"modules\/tb_megamenu\/css\/base.css":1,"modules\/tb_megamenu\/css\/default.css":1,"modules\/tb_megamenu\/css\/compatibility.css":1,"modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"modules\/date\/date_api\/date.css":1,"themes\/corporateclean\/style.css":1,"themes\/corporateclean\/css\/1280.css":1,"themes\/corporateclean\/css\/900.css":1,"themes\/corporateclean\/css\/760.css":1,"themes\/corporateclean\/css\/mobile.css":1,"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"themes\/corporateclean\/css\/basic-layout.css":1,"themes\/corporateclean\/css\/ie.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"viewsSlideshow":{"Diaporama-block_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowPager":{"Diaporama-block_1":{"bottom":{"type":"viewsSlideshowPagerFields","master_pager":"0"}}},"viewsSlideshowPagerFields":{"Diaporama-block_1":{"bottom":{"activatePauseOnHover":0}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_Diaporama-block_1":{"num_divs":3,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"Diaporama-block_1","effect":"scrollHorz","transition_advanced":0,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"play_on_hover":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"pause_after_slideshow":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":1,"cleartypenobg":0,"advanced_options":"{}"}},"urlIsAjaxTrusted":{"\/":true}});
+//--><!]]>
+</script>
+
+</head>
+<body class="html front not-logged-in no-sidebars page-node i18n-fr" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Aller au contenu principal</a>
+  </div>
+    <div id="site">
+<div id="site-inside">
+
+<!-- #header -->
+<div id="header">
+    
+
+	<!-- #header-inside -->
+    <div id="header-inside" class="container_12 clearfix">
+        <div id="header-inside-cont">
+        
+        <div id="menu_mobile" class="showmobile"><img src="/themes/corporateclean/images/menu_mobile.jpg" alt="" /></div>
+        <div id="menu_mobile_h" class="showmobile"></div>
+        
+    	<!-- #header-inside-left -->
+        <div id="header-inside-left">
+                <a href="/" title="Accueil"><img src="https://www.argentsursauldre.fr/themes/corporateclean/logo.png" alt="Accueil" /></a>
+                        </div>
+        <!-- EOF: #header-inside-left -->
+
+    	<!-- #header-inside-center -->
+        <div id="header-inside-center">
+        <div class="meteo"></div>        </div>
+        <!-- EOF: #header-inside-center -->
+        
+        <!-- #header-inside-right -->    
+        <div id="header-inside-right">
+                
+          <div class="region region-header-right">
+    <div id="block-contactinfo-hcard" class="block block-contactinfo">
+
+
+<div class="content">
+<div id="contactinfo-mairie-d039argent-sur-sauldre" class="vcard">
+
+      <div class="fn org">Mairie d&#039;Argent sur Sauldre</div>
+  
+
+  <div class="adr">
+          <div class="street-address">Place de l’hôtel de ville</div>
+                          </div>
+
+
+  <div class="phone">
+                  <div class="tel"><abbr class="type" title="voice">Téléphone :</abbr> 02 48 81 50 60</div>
+                </div>
+
+  
+</div>
+</div>
+</div><div id="block-search-form" class="block block-search">
+
+
+<div class="content">
+<form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Formulaire de recherche</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == &#039;&#039;) {this.value = &#039;Rechercher&#039;;}" onfocus="if (this.value == &#039;Rechercher&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Rechercher" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" src="/themes/corporateclean/images/search-button.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-7tW4PqOnBLt7a6JbSlgtvcf5hSyUl5c6jSHmKIC92Y0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+</div>  </div>
+        </div>
+        <!-- EOF: #header-inside-right -->
+        </div>
+        
+       	<!-- #header-inside-large -->
+        <div id="header-inside-large">     
+          <div class="region region-header-large">
+    <div id="block-tb-megamenu-main-menu" class="block block-tb-megamenu">
+
+
+<div class="content">
+<div  class="tb-megamenu tb-megamenu-main-menu">
+      <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar tb-megamenu-button" type="button">
+      <i class="icon-reorder"></i>
+    </button>
+    <div class="nav-collapse collapse always-show">
+    <ul  class="tb-megamenu-nav nav level-0 items-6">
+  <li  data-id="509" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="left" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega mega-align-left dropdown">
+
+  <span class="dropdown-toggle">
+  
+
+  <span>
+  
+        
+    Votre ville          <span class="caret"></span>
+        
+  </span>  
+
+</span>
+  
+  
+  <div  data-class="" data-width="1280" style="width: 1280px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="6" data-hidewcol="0" id="tb-megamenu-column-3" class="tb-megamenu-column span6  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-2">
+  <li  data-id="530" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/b%C3%A2timents-communaux" class="mega-group-title">  
+  
+
+  
+        
+    Histoire et Patrimoine          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-1" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-3">
+  <li  data-id="678" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/histoire" class="">  
+  
+
+  
+        
+    Histoire        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="650" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/situation" class="">  
+  
+
+  
+        
+    Situation        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="649" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/b%C3%A2timents-communaux" class="">  
+  
+
+  
+        
+    Bâtiments communaux, gymnase, stades, dojo, etc.        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+
+<li  data-id="510" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/le-conseil-municipal" class="mega-group-title">  
+  
+
+  
+        
+    Vos élus          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-2" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-6">
+  <li  data-id="511" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/le-conseil-municipal" class="">  
+  
+
+  
+        
+    Conseil Municipal        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="513" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/les-commissions" class="">  
+  
+
+  
+        
+    Commissions        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="533" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/permanences-du-maire-et-des-adjoints-au-maire" class="">  
+  
+
+  
+        
+    Permanences des adjoints        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="514" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/comptes-rendus-du-conseil-municipal" class="">  
+  
+
+  
+        
+    Comptes rendus du Conseil        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="534" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/arretes-prefectoraux" class="">  
+  
+
+  
+        
+    Arrêtés préfectoraux        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="683" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/arretes-municipaux" class="">  
+  
+
+  
+        
+    Arrêtés municipaux        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="6" data-hidewcol="" id="tb-megamenu-column-6" class="tb-megamenu-column span6  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-4">
+  <li  data-id="665" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/services-municipaux" class="mega-group-title">  
+  
+
+  
+        
+    Contact - Plan          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-4" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-2">
+  <li  data-id="536" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/services-municipaux-personnel-communal" class="">  
+  
+
+  
+        
+    Services municipaux : mairie, cantine, garderie, maisons des jeunes        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="653" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/communaut%C3%A9-de-communes-sauldre-et-sologne" class="">  
+  
+
+  
+        
+    Communauté de communes SAULDRE et SOLOGNE        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+
+<li  data-id="701" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+
+  <a href="/content/le-bulletin-municipal-en-pdf" class="">  
+  
+
+  
+        
+    Le bulletin municipal        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="705" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega dropdown-submenu">
+
+  <a href="/content/argent-infos-automne" class="dropdown-toggle">  
+  
+
+  
+        
+    Argent Infos          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-5" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-2">
+  <li  data-id="706" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/argent-infos-hiver-2023" class="">  
+  
+
+  
+        
+    Argent Infos hiver 2023        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="704" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/argent-infos-automne" class="">  
+  
+
+  
+        
+    Argent Infos automne 2023        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+
+<li  data-id="932" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+
+  <a href="/content/discours-des-v%C5%93ux" class="">  
+  
+
+  
+        
+    Discours des vœux        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+
+<li  data-id="517" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="left" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega mega-align-left dropdown">
+
+  <span class="dropdown-toggle">
+  
+
+  <span>
+  
+        
+    Vie quotidienne          <span class="caret"></span>
+        
+  </span>  
+
+</span>
+  
+  
+  <div  data-class="" data-width="1280" style="width: 1280px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="4" data-hidewcol="0" id="tb-megamenu-column-9" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-2">
+  <li  data-id="542" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/la-d%C3%A9ch%C3%A8terie-intercommunale" class="mega-group-title">  
+  
+
+  
+        
+    Environnement          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-7" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-5">
+  <li  data-id="662" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/ordures-m%C3%A9nag%C3%A8res" class="">  
+  
+
+  
+        
+    Ordures ménagères        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="687" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/les-points-dapports-volontaires" class="">  
+  
+
+  
+        
+    Les points d'apports volontaires        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="663" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/la-collecte-des-encombrants" class="">  
+  
+
+  
+        
+    Collecte des encombrants        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="548" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/la-d%C3%A9ch%C3%A8terie-intercommunale" class="">  
+  
+
+  
+        
+    La déchèterie        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="994" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/fleurissement-et-embellissement" class="">  
+  
+
+  
+        
+    Fleurissement et embellissement        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+
+<li  data-id="654" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/urbanisme" class="mega-group-title">  
+  
+
+  
+        
+    Urbanisme et Travaux          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-8" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-2">
+  <li  data-id="656" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/urbanisme" class="">  
+  
+
+  
+        
+    Urbanisme        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="697" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/travaux" class="">  
+  
+
+  
+        
+    Les Travaux        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-12" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-2">
+  <li  data-id="544" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/regles-de-civisme" class="mega-group-title">  
+  
+
+  
+        
+    Civisme          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-10" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-3">
+  <li  data-id="549" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/regles-de-civisme" class="">  
+  
+
+  
+        
+    Règles de civisme        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="629" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/voisins-vigilants" class="">  
+  
+
+  
+        
+    Opération voisins vigilants        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="628" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/prevention-des-cambriolages-conseils-pratiques" class="">  
+  
+
+  
+        
+    Prévention cambriolage        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+
+<li  data-id="545" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/sant%C3%A9" class="mega-group-title">  
+  
+
+  
+        
+    Santé          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-11" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-2">
+  <li  data-id="550" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/sant%C3%A9" class="">  
+  
+
+  
+        
+    Médecins, infirmières, pharmacie, Kinésithérapeutes, Ambulances/VSL        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="553" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/urgences" class="">  
+  
+
+  
+        
+    Urgences        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-14" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-1">
+  <li  data-id="547" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/le-march%C3%A9-%C3%A0-argent-sur-sauldre" class="mega-group-title">  
+  
+
+  
+        
+    Infos          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-13" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-4">
+  <li  data-id="551" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/le-march%C3%A9-%C3%A0-argent-sur-sauldre" class="">  
+  
+
+  
+        
+    Marché        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="546" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/agence-postale-communale" class="">  
+  
+
+  
+        
+    Agence postale communale        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="552" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/locations-de-salles" class="">  
+  
+
+  
+        
+    Location de salles        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="694" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <span class="">
+  
+
+  
+        
+    Bâtiments à louer / Terrains à vendre        
+
+</span>
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+
+<li  data-id="538" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+
+  <span class="dropdown-toggle">
+  
+
+  <span>
+  
+        
+    Economie          <span class="caret"></span>
+        
+  </span>  
+
+</span>
+  
+  
+  <div  data-class="" data-width="1280" style="width: 1280px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="4" data-hidewcol="0" id="tb-megamenu-column-15" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-3">
+  <li  data-id="562" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+
+  <a href="/content/le-march%C3%A9-%C3%A0-argent-sur-sauldre" class="">  
+  
+
+  
+        
+    Marché        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="561" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+
+  <a href="/content/commer%C3%A7ants-artisans" class="">  
+  
+
+  
+        
+    Commerçants - Artisans        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="559" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+
+  <a href="/content/entreprises-argentaises" class="">  
+  
+
+  
+        
+    Entreprises        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+
+<li  data-id="539" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+
+  <span class="dropdown-toggle">
+  
+
+  <span>
+  
+        
+    Culture et tourisme          <span class="caret"></span>
+        
+  </span>  
+
+</span>
+  
+  
+  <div  data-class="" data-width="1280" style="width: 1280px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="4" data-hidewcol="0" id="tb-megamenu-column-19" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-6">
+  <li  data-id="672" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/eglise-saint-andr%C3%A9" class="mega-group-title">  
+  
+
+  
+        
+    Patrimoine historique et naturel          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-16" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-1">
+  <li  data-id="572" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/eglise-saint-andr%C3%A9" class="">  
+  
+
+  
+        
+    Eglise Saint-André        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+
+<li  data-id="565" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+
+  <a href="/content/mus%C3%A9e-des-m%C3%A9tiers-dantan" class="">  
+  
+
+  
+        
+    Musée des Métiers d'Antan        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="564" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+
+  <a href="/content/centre-multiculturel-%C2%AB-l%E2%80%99argentis-%C2%BB" class="">  
+  
+
+  
+        
+    Cinéma "l'Argentis"        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="566" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/infos-pratiques" class="mega-group-title">  
+  
+
+  
+        
+    Bibliothèque          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-17" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-1">
+  <li  data-id="630" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/infos-pratiques" class="">  
+  
+
+  
+        
+    Infos pratiques        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+
+<li  data-id="996" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+
+  <a href="/content/balades-au-fil-de-leau-0" class="">  
+  
+
+  
+        
+    Balades au fil de l'eau        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="568" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/le-canal-de-la-sauldre" class="mega-group-title">  
+  
+
+  
+        
+    Promenades, randonnées, jeux          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-18" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-3">
+  <li  data-id="576" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/le-canal-de-la-sauldre" class="">  
+  
+
+  
+        
+    Canal de la Sauldre        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="664" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/la-sauldre" class="">  
+  
+
+  
+        
+    La Sauldre, rivière de 1ère catégorie         
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="577" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/l%C3%A9tang-du-puits" class="">  
+  
+
+  
+        
+    Etang du Puits        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-22" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-3">
+  <li  data-id="569" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+
+  <a href="/content/restaurants" class="">  
+  
+
+  
+        
+    Restaurants        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="570" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/h%C3%B4tel" class="mega-group-title">  
+  
+
+  
+        
+    Hébergement          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-20" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-2">
+  <li  data-id="579" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/h%C3%B4tel" class="">  
+  
+
+  
+        
+    Hôtels        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="580" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/gites" class="">  
+  
+
+  
+        
+    Gîtes        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+
+<li  data-id="571" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/la-sauldre" class="mega-group-title">  
+  
+
+  
+        
+    Chasse / pêche          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-21" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-2">
+  <li  data-id="582" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/la-sauldre" class="">  
+  
+
+  
+        
+    La Sauldre, rivière de 1ère catégorie        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="583" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/l%C3%A9tang-du-puits" class="">  
+  
+
+  
+        
+    Etang du Puits        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+
+<li  data-id="540" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+
+  <span class="dropdown-toggle">
+  
+
+  <span>
+  
+        
+    Sports et loisirs          <span class="caret"></span>
+        
+  </span>  
+
+</span>
+  
+  
+  <div  data-class="" data-width="1280" style="width: 1280px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-23" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-4">
+  <li  data-id="587" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+
+  <a href="/content/centre-multiculturel-%C2%AB-l%E2%80%99argentis-%C2%BB" class="">  
+  
+
+  
+        
+    Cinéma l'Argentis        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="584" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+
+  <a href="/content/infos-pratiques" class="">  
+  
+
+  
+        
+    Bibliothèque        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="586" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+
+  <a href="/content/calendrier-des-manifestations-2020-0" class="">  
+  
+
+  
+        
+    Calendrier des manifestations        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="707" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+
+  <a href="/content/equipements-sportifs" class="">  
+  
+
+  
+        
+    Equipements sportifs        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="0" id="tb-megamenu-column-25" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-1">
+  <li  data-id="693" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega dropdown-submenu">
+
+  <a href="/content/associations" class="dropdown-toggle">  
+  
+
+  
+        
+    Associations          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-24" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-4">
+  <li  data-id="689" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/associations-sportives" class="">  
+  
+
+  
+        
+    Associations sportives        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="690" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/associations-culturelles-et-de-loisirs" class="">  
+  
+
+  
+        
+    Associations culturelles et de loisirs        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="692" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/associations-caritatives-et-de-services-%C3%A0-la-personne" class="">  
+  
+
+  
+        
+    Associations caritatives et de services à la personne        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="691" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/associations-dint%C3%A9r%C3%AAt-local" class="">  
+  
+
+  
+        
+    Associations d'intérêt local        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+
+<li  data-id="541" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+
+  <span class="dropdown-toggle">
+  
+
+  <span>
+  
+        
+    Services          <span class="caret"></span>
+        
+  </span>  
+
+</span>
+  
+  
+  <div  data-class="" data-width="1280" style="width: 1280px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="3" data-hidewcol="0" id="tb-megamenu-column-28" class="tb-megamenu-column span3  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-2">
+  <li  data-id="589" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/petite-enfance-cr%C3%A8che" class="mega-group-title">  
+  
+
+  
+        
+    Enfance / Jeunesse          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-26" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-4">
+  <li  data-id="597" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/petite-enfance-cr%C3%A8che" class="">  
+  
+
+  
+        
+    Petite enfance - crèche        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="598" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/ram-relais-assistantes-maternelles" class="">  
+  
+
+  
+        
+    Assistantes maternelles - RAM        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="595" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/accueil-de-loisirs" class="">  
+  
+
+  
+        
+    Centre de loisirs        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="596" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/maison-des-jeunes" class="">  
+  
+
+  
+        
+    Maison des jeunes        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+
+<li  data-id="590" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/ecole-vie-scolaire" class="mega-group-title">  
+  
+
+  
+        
+    Scolaire          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-27" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-5">
+  <li  data-id="599" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/ecole-vie-scolaire" class="">  
+  
+
+  
+        
+    Ecole - Vie scolaire        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="600" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/nap-nouveaux-accueils-p%C3%A9riscolaires" class="">  
+  
+
+  
+        
+    Accueils Périscolaires / NAP        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="601" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/restauration-scolaire" class="">  
+  
+
+  
+        
+    Restauration scolaire        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="602" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/coll%C3%A8ge-g%C3%A9rard-philipe" class="">  
+  
+
+  
+        
+    Collège        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="695" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/lycees-de-secteur" class="">  
+  
+
+  
+        
+    Lycées        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="3" data-hidewcol="" id="tb-megamenu-column-32" class="tb-megamenu-column span3  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-2">
+  <li  data-id="591" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/sant%C3%A9" class="mega-group-title">  
+  
+
+  
+        
+    Santé          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-29" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-2">
+  <li  data-id="603" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/sant%C3%A9" class="">  
+  
+
+  
+        
+    Médecins, infirmières, pharmacie, Kinésithérapeutes, Ambulances/VSL        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="677" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/urgences" class="">  
+  
+
+  
+        
+    Urgences        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+
+<li  data-id="592" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/services-%C3%A0-domicile" class="mega-group-title">  
+  
+
+  
+        
+    Actions sociales          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-31" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-3">
+  <li  data-id="610" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/services-%C3%A0-domicile" class="">  
+  
+
+  
+        
+    Services à domicile (ADMR, FASILAVI...)        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="992" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/permanences-gendarmerie-cdad-assistante-sociale-mission-locale-cpam-france-services" class="">  
+  
+
+  
+        
+    Permanences : gendarmerie, CDAD, assistante sociale, mission locale, CPAM        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="684" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega dropdown-submenu">
+
+  <a href="/content/france-loire-votre-atout-c%C5%93ur-dans-limmobilier" class="dropdown-toggle">  
+  
+
+  
+        
+    Logement          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-30" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-3 items-3">
+  <li  data-id="686" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+
+  <a href="/content/op%C3%A9ration-programm%C3%A9e-de-l%E2%80%99am%C3%A9lioration-de-lhabitat" class="">  
+  
+
+  
+        
+    OPAH        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="685" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+
+  <a href="/content/france-loire-votre-atout-c%C5%93ur-dans-limmobilier" class="">  
+  
+
+  
+        
+    FRANCE LOIRE        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="698" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+
+  <a href="/content/terrains-batiments-%C3%A0-louer-%C3%A0-vendre" class="">  
+  
+
+  
+        
+    Terrains / Bâtiments / A louer / A vendre        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="3" data-hidewcol="" id="tb-megamenu-column-35" class="tb-megamenu-column span3  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-2">
+  <li  data-id="593" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/transports-r%C3%A9mi" class="mega-group-title">  
+  
+
+  
+        
+    Transports          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-33" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-4">
+  <li  data-id="614" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/transports-scolaire" class="">  
+  
+
+  
+        
+    Cars Scolaires REMI        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="615" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/transports-r%C3%A9mi" class="">  
+  
+
+  
+        
+    REMI (ex Ligne 18)        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="613" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/ambulances-vsl" class="">  
+  
+
+  
+        
+    Ambulances / VSL        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="676" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/taxis" class="">  
+  
+
+  
+        
+    Taxis        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+
+<li  data-id="594" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/ehpad-les-roses-dargent" class="mega-group-title">  
+  
+
+  
+        
+    Séniors          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-34" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-2">
+  <li  data-id="616" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/ehpad-les-roses-dargent" class="">  
+  
+
+  
+        
+    EHPAD Les Roses d'Argent        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="617" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/services-%C3%A0-domicile" class="">  
+  
+
+  
+        
+    ADMR        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="3" data-hidewcol="" id="tb-megamenu-column-38" class="tb-megamenu-column span3  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-1">
+  <li  data-id="588" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega mega-group">
+
+  <a href="/content/urbanisme" class="mega-group-title">  
+  
+
+  
+        
+    Démarches pratiques          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu mega-group-ct nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-37" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-6">
+  <li  data-id="680" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega dropdown-submenu">
+
+  <a href="/content/carte-nationale-didentite" class="dropdown-toggle">  
+  
+
+  
+        
+    Etat Civil          <span class="caret"></span>
+        
+
+</a>  
+  
+  
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-36" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-3 items-2">
+  <li  data-id="682" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+
+  <a href="/content/carte-nationale-didentite" class="">  
+  
+
+  
+        
+    Carte Nationale d'Identité        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="681" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-4 mega">
+
+  <a href="/content/passeport" class="">  
+  
+
+  
+        
+    Passeport        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+
+<li  data-id="619" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/elections" class="">  
+  
+
+  
+        
+    Elections        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="620" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/urbanisme" class="">  
+  
+
+  
+        
+    Urbanisme (permis, déclaration préalable)        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="622" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/ecole-vie-scolaire" class="">  
+  
+
+  
+        
+    Inscriptions scolaires        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="623" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/v%C3%A9hicule-permis-de-conduire-carte-grise" class="">  
+  
+
+  
+        
+    Véhicules / permis de conduire        
+
+</a>  
+  
+  
+  
+</li>
+
+<li  data-id="624" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+
+  <a href="/content/permis-de-d%C3%A9tention-de-chiens-cat%C3%A9goris%C3%A9s" class="">  
+  
+
+  
+        
+    Permis de détention de chien catégorisés        
+
+</a>  
+  
+  
+  
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+
+</li>
+</ul>
+      </div>
+  </div>
+</div>
+</div>  </div>
+        </div>
+        <!-- EOF: #header-inside-large -->
+        
+    
+    </div><!-- EOF: #header-inside -->
+
+    <!-- #banner -->
+    <div id="banner">
+    	  <div class="region region-banner">
+    <div id="block-views-diaporama-block" class="block block-views">
+
+
+<div class="content">
+<div class="view view-Diaporama view-id-Diaporama view-display-id-block view-dom-id-e2becfea13e2ea5db0ddabdfc7c6fd01">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_Diaporama-block_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_Diaporama-block_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_Diaporama-block_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-first views-row-odd" aria-labelledby='views_slideshow_pager_field_item_bottom_Diaporama-block_1_0'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
+    
+  <div class="views-field views-field-field-imageslider">        <div class="field-content"><img typeof="foaf:Image" src="https://www.argentsursauldre.fr/sites/default/files/styles/diaporama__1280x455_/public/slider7.jpg?itok=87w0kDDE" width="1280" height="455" alt="" /></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_Diaporama-block_1_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even" aria-labelledby='views_slideshow_pager_field_item_bottom_Diaporama-block_1_1'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-imageslider">        <div class="field-content"><img typeof="foaf:Image" src="https://www.argentsursauldre.fr/sites/default/files/styles/diaporama__1280x455_/public/slider6.jpg?itok=HTebBedI" width="1280" height="455" alt="" /></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_Diaporama-block_1_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-last views-row-odd" aria-labelledby='views_slideshow_pager_field_item_bottom_Diaporama-block_1_2'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-imageslider">        <div class="field-content"><img typeof="foaf:Image" src="https://www.argentsursauldre.fr/sites/default/files/styles/diaporama__1280x455_/public/slider7web.jpg?itok=wEed3ZnA" width="1280" height="455" alt="" /></div>  </div></div>
+</div>
+</div>
+</div>
+          <div class="views-slideshow-controls-bottom clearfix">
+        <div id="widget_pager_bottom_Diaporama-block_1" class="views-slideshow-pager-fields widget_pager widget_pager_bottom views_slideshow_pager_field">
+  <div id="views_slideshow_pager_field_item_bottom_Diaporama-block_1_0" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd views-row-first" aria-controls="views_slideshow_cycle_div_Diaporama-block_1_0">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    <a href='#slideshow-0'>1</a>  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_Diaporama-block_1_1" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even" aria-controls="views_slideshow_cycle_div_Diaporama-block_1_1">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    <a href='#slideshow-1'>2</a>  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_Diaporama-block_1_2" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd views-row-last" aria-controls="views_slideshow_cycle_div_Diaporama-block_1_2">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    <a href='#slideshow-2'>3</a>  </div>
+</div>
+</div>
+</div>
+      </div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+</div>  </div>
+    </div><!-- EOF: #banner -->
+
+
+
+</div><!-- EOF: #header -->
+
+
+
+<!-- #menu -->
+
+ 
+
+
+
+
+<!-- #content -->
+<div id="content" class="content_large"  >
+	<!-- #content-inside -->
+    <div id="content-inside" class="container_12 clearfix">
+    
+
+
+                
+            	<!-- #home_first -->
+        <div id="home-left">
+          <div class="region region-home-first">
+    <div id="block-views-actualites-home-block" class="block block-views">
+
+<h2>Actualités</h2>
+
+<div class="content">
+<div class="view view-actualites-home view-id-actualites_home view-display-id-block view-dom-id-77de69a4641f75a1d957d6feb81681b2">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/content/avis-denqu%C3%AAte-publique-sur-une-demande-dautorisation-environnementale"><img typeof="foaf:Image" src="https://www.argentsursauldre.fr/sites/default/files/styles/actualite_home/public/audit-3929140_640.jpg?itok=GHS4CORq" width="305" height="175" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-date bloc-date">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-11-14T00:00:00+01:00">14 nov 2023</span></div>  </div>  
+  <h3 class="views-field views-field-title bloc-title">        <span class="field-content"><a href="/content/avis-denqu%C3%AAte-publique-sur-une-demande-dautorisation-environnementale">Avis d&#039;enquête publique sur une demande d&#039;autorisation environnementale</a></span>  </h3>  
+  <div class="views-field views-field-field-intro bloc-intro">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/content/cabinet-m%C3%A9dical-itin%C3%A9rant-le-24-novembre-2023"><img typeof="foaf:Image" src="https://www.argentsursauldre.fr/sites/default/files/styles/actualite_home/public/doctor-563428_640.jpg?itok=F5JQZvax" width="305" height="175" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-date bloc-date">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-11-08T00:00:00+01:00">08 nov 2023</span></div>  </div>  
+  <h3 class="views-field views-field-title bloc-title">        <span class="field-content"><a href="/content/cabinet-m%C3%A9dical-itin%C3%A9rant-le-24-novembre-2023">Cabinet médical itinérant le 24 novembre 2023</a></span>  </h3>  
+  <div class="views-field views-field-field-intro bloc-intro">        <div class="field-content"></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class='all-link'><a href='Actualites'>&gt; Voir toutes les actualités</a></div>    </div>
+  
+  
+</div></div>
+</div>  </div>
+        </div>
+        <!-- EOF: #home_first -->
+        
+    	<!-- #home_second -->
+        <div id="home-right">
+          <div class="region region-home-second">
+    <div id="block-views-flash-info-block" class="block block-views">
+
+<h2>L&#039;info du jour</h2>
+
+<div class="content">
+<div class="view view-flash-info view-id-flash_info view-display-id-block view-dom-id-2a16dc99dc4c0a20addf6c514d02e69e">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/coupures-de-courant-fermeture-agence-postale-et-biblioth%C3%A8que">Coupures de courant / Fermeture agence postale et bibliothèque</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+</div><div id="block-views-agenda-home-block" class="block block-views">
+
+<h2>Agenda</h2>
+
+<div class="content">
+<div class="view view-agenda-home view-id-agenda_home view-display-id-block view-dom-id-e25ab5e04844cab10365fd2fd7f1f604">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-date-agenda bloc-date">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-11-24T00:00:00+01:00">24 nov</span></div>  </div>  
+  <h3 class="views-field views-field-title bloc-title">        <span class="field-content"><a href="/content/collecte-de-la-banque-alimentaire">Collecte de la Banque Alimentaire</a></span>  </h3>  
+  <div class="views-field views-field-field-typeagenda bloc-type">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-date-agenda bloc-date">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-11-24T00:00:00+01:00">24 nov</span></div>  </div>  
+  <h3 class="views-field views-field-title bloc-title">        <span class="field-content"><a href="/content/cabinet-m%C3%A9dical-itin%C3%A9rant">Cabinet médical itinérant</a></span>  </h3>  
+  <div class="views-field views-field-field-typeagenda bloc-type">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-field-date-agenda bloc-date">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-12-01T00:00:00+01:00">01 déc</span></div>  </div>  
+  <h3 class="views-field views-field-title bloc-title">        <span class="field-content"><a href="/content/atelier-cuisine-et-nutrition-2">Atelier cuisine et nutrition</a></span>  </h3>  
+  <div class="views-field views-field-field-typeagenda bloc-type">        <div class="field-content">Animation</div>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-date-agenda bloc-date">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-12-06T00:00:00+01:00">06 déc</span></div>  </div>  
+  <h3 class="views-field views-field-title bloc-title">        <span class="field-content"><a href="/content/balayage-des-rues-4">Balayage des rues</a></span>  </h3>  
+  <div class="views-field views-field-field-typeagenda bloc-type">        <div class="field-content"></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class='all-link'><a href='Agenda'>&gt; Voir tout l'agenda</a></div>    </div>
+  
+  
+</div></div>
+</div>  </div>
+        </div>
+        <!-- EOF: #home_second -->
+            
+                
+                
+                
+        
+                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+
+<div class="content">
+<div  about="/content/la-mairie-recrute-5-agents-recenseurs" typeof="sioc:Item foaf:Document" class="ds-1col node node-actualites node-promoted node-sticky node-teaser view-mode-teaser  clearfix">
+
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>La mairie recrute cinq agents recenseurs pour effectuer le recensement de la population organisé du 18 janvier au 17 février 2024.</p>
+<p> </p>
+<p>Les candidatures sont à déposer en mairie avant le 15 novembre 2023</p>
+<ul>
+<li>par mail : <a href="mailto:direction@argentsursauldre.fr">direction@argentsursauldre.fr</a></li>
+<li>par courrier : adressé à Madame le Maire - Place de l'Hôtel de Ville - 18410 Argent-sur-Sauldre</li>
+</ul>
+<p> </p>
+<p><u>Renseignements :</u></p>
+<p>Madame Valérie LALBAT</p>
+<p>Mairie d'Argent-sur-Sauldre</p>
+<p>02 48 81 50 62</p>
+<p> </p>
+<p><img alt="" src="https://www.argentsursauldre.fr/sites/default/files/image site/Animations 2023/Recherche%20agents%20recenseurs.jpg" style="border-style:solid; border-width:1px; height:990px; width:700px" /></p>
+</div></div></div><div class="field field-name-field-date field-type-datetime field-label-above"><div class="field-label">Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-09-22T00:00:00+02:00">Vendredi, septembre 22, 2023</span></div></div></div><div class="field field-name-field-image field-type-image field-label-above"><div class="field-label">Image:&nbsp;</div><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://www.argentsursauldre.fr/sites/default/files/avatar-2155431_640.png" width="640" height="360" alt="" /></div></div></div></div>
+
+<div  about="/content/influenza-aviaire-%C3%A9l%C3%A9vation-du-niveau-de-risque" typeof="sioc:Item foaf:Document" class="ds-1col node node-actualites node-promoted node-sticky node-teaser view-mode-teaser  clearfix">
+
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Le risque de l'Influenza Aviaire est passée au niveau de risque élevé : <a href="https://www.legifrance.gouv.fr/loda/id/JORFTEXT000046542255?init=true&amp;page=1&amp;query=agrg2231899a&amp;searchField=ALL&amp;tab_selection=all" target="_blank"><span style="color:#3f7ab1">https://www.legifrance.gouv.fr/loda/id/JORFTEXT000046542255?init=true&amp;page=1&amp;query=agrg2231899a&amp;searchField=ALL&amp;tab_selection=all</span></a></p>
+<p>Téléchargez l'arrêté ministériel du 8 novembre 2022 qualifiant le niveau de risque en matière d'influenza aviaire hautement pathogène  <a href="https://www.argentsursauldre.fr/sites/default/files/PDF SITE/Arrétés/joe_20221110_0261_0017.pdf" target="_blank"><img alt="" src="https://www.argentsursauldre.fr/sites/default/files/image site/Logos/pdf-icon.png" style="height:40px; width:40px" /></a></p>
+<p>Le service Santé, Protection Animales et Environnement de la DDETSPP du Cher s'est aperçu que très peu de volailles sont claustrées. Les volailles doivent soit être enfermées soit mises sous filet. </p>
+<p>Pour rappel, il s'agit d'une obligation.</p>
+<p>La situation actuelle indique une hausse des foyers chez des particuliers, cette réglementation permet de limiter la propagation du virus.</p>
+<p>Ci-dessous le lien permettant de se déclarer en tant que basse-cours particulière<a href="https://www.mesdemarches.agriculture.gouv.fr/demarches/particulier/effectuer-une-declaration-55/article/lutter-contre-l-influenza-aviaire-498" target="_blank"><span style="color:#3f7ab1"> https://www.mesdemarches.agriculture.gouv.fr/demarches/particulier/effectuer-une-declaration-55/article/lutter-contre-l-influenza-aviaire-498</span></a></p>
+<p>Pour plus d'informations : <a href="https://agriculture.gouv.fr/influenza-aviaire-les-mesures-de-biosecurite-pour-les-operateurs-professionnels-et-les-particuliers" target="_blank"><span style="color:#3f7ab1">https://agriculture.gouv.fr/influenza-aviaire-les-mesures-de-biosecurite-pour-les-operateurs-professionnels-et-les-particuliers</span></a></p>
+<p>
+Merci d'avance pour votre vigilance et votre action dans le cadre de la prévention de l'influenza aviaire. </p>
+<p> </p>
+<p><img alt="" src="https://www.argentsursauldre.fr/sites/default/files/image site/Animations 2022/2112_biosecurite_basses-cours.jpg" style="border-style:solid; border-width:1px; height:990px; width:700px" /></p>
+<p><img alt="" src="https://www.argentsursauldre.fr/sites/default/files/image site/Animations 2022/2011_ia_fiche_biosecurite%20%281%29.jpg" style="border-style:solid; border-width:1px; height:990px; width:700px" /></p>
+</div></div></div><div class="field field-name-field-date field-type-datetime field-label-above"><div class="field-label">Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2022-11-14T00:00:00+01:00">Lundi, novembre 14, 2022</span></div></div></div><div class="field field-name-field-image field-type-image field-label-above"><div class="field-label">Image:&nbsp;</div><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://www.argentsursauldre.fr/sites/default/files/chicken-gd375867ac_640.jpg" width="640" height="427" alt="" /></div></div></div></div>
+
+<div  about="/content/loto" typeof="sioc:Item foaf:Document" class="ds-1col node node-agenda node-promoted node-teaser view-mode-teaser  clearfix">
+
+  
+  <div class="field field-name-field-date-agenda field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-12-17T00:00:00+01:00">17 déc 2023</span></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Loto le <span style="color:#2cbd54"><strong>dimanche 17 décembre</strong></span> à 14h00 au gymnase La Belle Équipe.</p>
+<p>Vente des cartes à partir de 13h00.</p>
+<p>Buvette, buffet et pâtisseries sur place.</p>
+<p> </p>
+<p><u>Organisateur :</u></p>
+<p>La Pétanque Argentaise</p>
+<p> </p>
+<p><img alt="" src="https://www.argentsursauldre.fr/sites/default/files/image site/Animations 2023/P%C3%A9tanque%20-%20%20Loto.PNG" style="border-style:solid; border-width:1px; height:713px; width:500px" /></p>
+</div></div></div><div class="field field-name-field-typeagenda field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type agenda:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/type-agenda/animation" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Animation</a></div></div></div></div>
+
+<div  about="/content/collecte-de-la-banque-alimentaire" typeof="sioc:Item foaf:Document" class="ds-1col node node-agenda node-promoted node-teaser view-mode-teaser  clearfix">
+
+  
+  <div class="field field-name-field-date-agenda field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-11-24T00:00:00+01:00">24 nov 2023</span></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Collecte de la Banque Alimentaire le <span style="color:#ee9b2e"><strong>vendredi 24 novembre 2023</strong></span> de 9h00 à 19h00 au Super U Argent-sur-Sauldre.</p>
+<p> </p>
+<p><img alt="" src="https://www.argentsursauldre.fr/sites/default/files/image site/Animations 2023/Affiche%20banque%20alimentaire%202023.jpg" style="border-style:solid; border-width:1px; height:707px; width:500px" /></p>
+</div></div></div></div>
+
+<div  about="/content/don-du-sang" typeof="sioc:Item foaf:Document" class="ds-1col node node-agenda node-promoted node-teaser view-mode-teaser  clearfix">
+
+  
+  <div class="field field-name-field-date-agenda field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-12-19T00:00:00+01:00">19 déc 2023</span></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Don du sang le <span style="color:#dc3d5b"><strong>mardi 19 décembre 2023 de 15h00 à 19h00</strong></span> à la salle des fêtes Jacques Prévert.</p>
+<p> </p>
+<p>La collecte de sang se fait sur rendez-vous. Pour prendre rendez-vous, <strong><a href="https://cutt.ly/pwqUtzg0" target="_blank"><span style="color:#dc3d5b">cliquez ici</span></a> </strong>ou rendez-vous sur<span style="color:#3f7ab1"><strong> </strong></span><a href="https://dondesang.efs.sante.fr/trouver-une-collecte" target="_blank"><span style="color:#3f7ab1">https://dondesang.efs.sante.fr/trouver-une-collecte</span></a></p>
+<p>Quelques places sont également disponibles pour les personnes venant sans rendez-vous.</p>
+<p> </p>
+<p><u>Quelles sont les conditions pour donner son sang ?</u></p>
+<p>Ne pas être à jeun</p>
+<p>Être âgé de 18 à 70 ans</p>
+<p>Peser plus de 50 kg</p>
+<p>Se munir d'une pièce d'identité</p>
+<p>Pensez à boire avant et après le don</p>
+<p> </p>
+<p>Vous pouvez vérifier les contre-indications avant de vous déplacer : <a href="http://dondesang.efs.sante.fr" target="_blank"><span style="color:#3f7ab1">dondesang.efs.sante.fr </span></a>rubrique "Puis-je donner".</p>
+</div></div></div></div>
+
+<div  about="/content/avis-denqu%C3%AAte-publique-sur-une-demande-dautorisation-environnementale" typeof="sioc:Item foaf:Document" class="ds-1col node node-actualites node-promoted node-teaser view-mode-teaser  clearfix">
+
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><u>Objet :</u></p>
+<p>Demande d'autorisation environnementale pour créer un parc de présentation au public d'animaux d'espèces non domestiques</p>
+<p> </p>
+<p><img alt="" src="https://www.argentsursauldre.fr/sites/default/files/image site/Animations 2023/Enquete%20publique%20loup.jpg" style="border-style:solid; border-width:1px; height:849px; width:600px" /></p>
+</div></div></div><div class="field field-name-field-date field-type-datetime field-label-above"><div class="field-label">Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-11-14T00:00:00+01:00">Mardi, novembre 14, 2023</span></div></div></div><div class="field field-name-field-image field-type-image field-label-above"><div class="field-label">Image:&nbsp;</div><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://www.argentsursauldre.fr/sites/default/files/audit-3929140_640.jpg" width="640" height="371" alt="" /></div></div></div></div>
+
+<div  about="/content/plantation-darbres-dans-le-parc-du-ch%C3%A2teau" typeof="sioc:Item foaf:Document" class="ds-1col node node-agenda node-promoted node-teaser view-mode-teaser  clearfix">
+
+  
+  <div class="field field-name-field-date-agenda field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-11-21T00:00:00+01:00">21 nov 2023</span></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Anne CASSIER, Maire, et le Conseil Municipal d'Argent-sur-Sauldre, ont le plaisir de vous inviter à la plantation des arbres offerts par le ROTARY CLUB Aubigny-Argent, <span style="color:#2cbd54"><strong>le mardi 21 novembre 2023, à 10h00</strong></span> dans le parc du château d'Argent-sur-Sauldre.</p>
+<p> </p>
+<p> </p>
+<p><img alt="" src="https://www.argentsursauldre.fr/sites/default/files/image site/Animations 2023/Invitation%20plantation%20arbres%20Rotary.jpg" style="border-style:solid; border-width:1px; height:381px; width:800px" /></p>
+<p> </p>
+<p> </p>
+</div></div></div></div>
+
+<div  about="/content/avis-de-passage-du-g%C3%A9om%C3%A8tre-du-cadastre" typeof="sioc:Item foaf:Document" class="ds-1col node node-actualites node-promoted node-teaser view-mode-teaser  clearfix">
+
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><img alt="" src="https://www.argentsursauldre.fr/sites/default/files/image site/Animations 2023/AVISDEPASSAGE.jpg" style="border-style:solid; border-width:1px; height:848px; width:600px" /></p>
+</div></div></div><div class="field field-name-field-date field-type-datetime field-label-above"><div class="field-label">Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-10-19T00:00:00+02:00">Jeudi, octobre 19, 2023</span></div></div></div><div class="field field-name-field-image field-type-image field-label-above"><div class="field-label">Image:&nbsp;</div><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://www.argentsursauldre.fr/sites/default/files/floor-plan-1857175_640.jpg" width="640" height="427" alt="" /></div></div></div></div>
+
+<div  about="/content/cabinet-m%C3%A9dical-itin%C3%A9rant" typeof="sioc:Item foaf:Document" class="ds-1col node node-agenda node-promoted node-teaser view-mode-teaser  clearfix">
+
+  
+  <div class="field field-name-field-date-agenda field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-11-24T00:00:00+01:00">24 nov 2023</span></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Le Conseil Départemental du Cher lance le cabinet médical itinérant.</p>
+<p>Le cabinet médical itinérant sera présent sur la commune le <span style="color:#3f7ab1"><strong>vendredi 24 novembre<strong> </strong>2023</strong></span> de 10h00 à 12h30 et de 13h30 à 16h00 sur la place du Marché. </p>
+<p> </p>
+<p><u>Le cabinet médical itinérant, pour qui ?</u></p>
+<p>Il s'adresse aux personnes résidant dans le Cher, dépourvus de médecin traitant.</p>
+<p> </p>
+<p><u>Un cabinet médical itinérant, c'est quoi ?</u></p>
+<p>Le cabinet médical itinérant c'est un médecin généraliste au plus proche de vous et une équipe à votre écoute.</p>
+<p> </p>
+<p><u>Comment prendre rendez-vous ?</u></p>
+<p>La prise de rendez-vous est OBLIGATOIRE au 02 48 24 08 00 les mardis et jeudis de 14h00 à 16h00.</p>
+<p> </p>
+<p><img alt="" src="https://www.argentsursauldre.fr/sites/default/files/image site/Animations 2023/Cabinet%20m%C3%A9dical%20itin%C3%A9rant.jpg" style="border-style:solid; border-width:1px; height:848px; width:600px" /></p>
+</div></div></div></div>
+
+<div  about="/content/cabinet-m%C3%A9dical-itin%C3%A9rant-le-24-novembre-2023" typeof="sioc:Item foaf:Document" class="ds-1col node node-actualites node-promoted node-teaser view-mode-teaser  clearfix">
+
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Un cabinet médical itinérant va venir une fois par mois sur la commune. </p>
+<p>Cette initiative est lancée par le Conseil Départemental du Cher. </p>
+<p> </p>
+<p><u>Prochain passage à Argent-sur-Sauldre :</u></p>
+<p>Le vendredi 24 novembre 2023, sur la Place du Marché, de 10h00 à 12h30 et de 13h30 à 16h00</p>
+<p> </p>
+<p><u>Comment prendre rendez-vous ?</u></p>
+<p>La prise de rendez-vous est OBLIGATOIRE au 02 48 24 08 00, les mardis et jeudis de 14h00 à 16h00.</p>
+<p> </p>
+<p><u>Un cabinet médical itinérant, c'est quoi ?</u></p>
+<p>Le cabinet médical itinérant c'est un médecin généraliste au plus proche de vous et une équipe à votre écoute.</p>
+<p> </p>
+<p><u>Le cabinet médical itinérant, pour qui ?</u></p>
+<p>Il s'adresse aux personnes résidant dans le Cher, dépourvues de médecin traitant.</p>
+<p> </p>
+<p><img alt="" src="https://www.argentsursauldre.fr/sites/default/files/image site/Animations 2023/Cabinet%20m%C3%A9dical%20itin%C3%A9rant.jpg" style="border-style:solid; border-width:1px; height:848px; width:600px" /></p>
+<p> </p>
+</div></div></div><div class="field field-name-field-date field-type-datetime field-label-above"><div class="field-label">Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-11-08T00:00:00+01:00">Mercredi, novembre 8, 2023</span></div></div></div><div class="field field-name-field-image field-type-image field-label-above"><div class="field-label">Image:&nbsp;</div><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://www.argentsursauldre.fr/sites/default/files/doctor-563428_640.jpg" width="640" height="427" alt="" /></div></div></div></div>
+
+<h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Aller à la page 2" href="/node?page=1">2</a></li>
+<li class="pager-item"><a title="Aller à la page 3" href="/node?page=2">3</a></li>
+<li class="pager-item"><a title="Aller à la page 4" href="/node?page=3">4</a></li>
+<li class="pager-item"><a title="Aller à la page 5" href="/node?page=4">5</a></li>
+<li class="pager-next"><a title="Aller à la page suivante" href="/node?page=1">suivant ›</a></li>
+<li class="pager-last last"><a title="Aller à la dernière page" href="/node?page=4">dernier »</a></li>
+</ul></div></div>
+</div><div id="block-menu-block-1" class="block block-menu-block">
+
+<h2><div class="block-icon"></div>Votre ville</h2>
+
+<div class="content">
+<div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-509 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children menu-mlid-530"><a href="/content/b%C3%A2timents-communaux">Histoire et Patrimoine</a></li>
+<li class="leaf has-children menu-mlid-510"><a href="/content/le-conseil-municipal">Vos élus</a></li>
+<li class="leaf has-children menu-mlid-665"><a href="/content/services-municipaux">Contact - Plan</a></li>
+<li class="leaf menu-mlid-701"><a href="/content/le-bulletin-municipal-en-pdf">Le bulletin municipal</a></li>
+<li class="leaf has-children menu-mlid-705"><a href="/content/argent-infos-automne" title="">Argent Infos</a></li>
+<li class="last leaf menu-mlid-932"><a href="/content/discours-des-v%C5%93ux">Discours des vœux</a></li>
+</ul></div>
+</div>
+</div><div id="block-menu-block-2" class="block block-menu-block">
+
+<h2><div class="block-icon"></div>Vie Quotidienne</h2>
+
+<div class="content">
+<div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-517 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children menu-mlid-542"><a href="/content/la-d%C3%A9ch%C3%A8terie-intercommunale">Environnement</a></li>
+<li class="leaf has-children menu-mlid-654"><a href="/content/urbanisme" title="">Urbanisme et Travaux</a></li>
+<li class="leaf has-children menu-mlid-544"><a href="/content/regles-de-civisme">Civisme</a></li>
+<li class="leaf has-children menu-mlid-545"><a href="/content/sant%C3%A9">Santé</a></li>
+<li class="last leaf has-children menu-mlid-547"><a href="/content/le-march%C3%A9-%C3%A0-argent-sur-sauldre">Infos</a></li>
+</ul></div>
+</div>
+</div><div id="block-menu-block-3" class="block block-menu-block">
+
+<h2><div class="block-icon"></div>Economie</h2>
+
+<div class="content">
+<div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-538 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-562"><a href="/content/le-march%C3%A9-%C3%A0-argent-sur-sauldre">Marché</a></li>
+<li class="leaf menu-mlid-561"><a href="/content/commer%C3%A7ants-artisans">Commerçants - Artisans</a></li>
+<li class="last leaf menu-mlid-559"><a href="/content/entreprises-argentaises">Entreprises</a></li>
+</ul></div>
+</div>
+</div><div id="block-menu-block-4" class="block block-menu-block">
+
+<h2><div class="block-icon"></div>Culture et tourisme</h2>
+
+<div class="content">
+<div class="menu-block-wrapper menu-block-4 menu-name-main-menu parent-mlid-539 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children menu-mlid-672"><a href="/content/eglise-saint-andr%C3%A9" title="">Patrimoine historique et naturel</a></li>
+<li class="leaf menu-mlid-565"><a href="/content/mus%C3%A9e-des-m%C3%A9tiers-dantan">Musée des Métiers d&#039;Antan</a></li>
+<li class="leaf menu-mlid-564"><a href="/content/centre-multiculturel-%C2%AB-l%E2%80%99argentis-%C2%BB">Cinéma &quot;l&#039;Argentis&quot;</a></li>
+<li class="leaf has-children menu-mlid-566"><a href="/content/infos-pratiques">Bibliothèque</a></li>
+<li class="leaf menu-mlid-996"><a href="/content/balades-au-fil-de-leau-0">Balades au fil de l&#039;eau</a></li>
+<li class="leaf has-children menu-mlid-568"><a href="/content/le-canal-de-la-sauldre">Promenades, randonnées, jeux</a></li>
+<li class="leaf menu-mlid-569"><a href="/content/restaurants">Restaurants</a></li>
+<li class="leaf has-children menu-mlid-570"><a href="/content/h%C3%B4tel">Hébergement</a></li>
+<li class="last leaf has-children menu-mlid-571"><a href="/content/la-sauldre">Chasse / pêche</a></li>
+</ul></div>
+</div>
+</div><div id="block-menu-block-5" class="block block-menu-block">
+
+<h2><div class="block-icon"></div>Sports et loisirs</h2>
+
+<div class="content">
+<div class="menu-block-wrapper menu-block-5 menu-name-main-menu parent-mlid-540 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children menu-mlid-693"><a href="/content/associations">Associations</a></li>
+<li class="leaf menu-mlid-587"><a href="/content/centre-multiculturel-%C2%AB-l%E2%80%99argentis-%C2%BB" title="">Cinéma l&#039;Argentis</a></li>
+<li class="leaf menu-mlid-584"><a href="/content/infos-pratiques" title="">Bibliothèque</a></li>
+<li class="leaf menu-mlid-586"><a href="/content/calendrier-des-manifestations-2020-0">Calendrier des manifestations</a></li>
+<li class="last leaf menu-mlid-707"><a href="/content/equipements-sportifs" title="">Equipements sportifs</a></li>
+</ul></div>
+</div>
+</div><div id="block-menu-block-6" class="block block-menu-block">
+
+<h2><div class="block-icon"></div>Services</h2>
+
+<div class="content">
+<div class="menu-block-wrapper menu-block-6 menu-name-main-menu parent-mlid-541 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children menu-mlid-589"><a href="/content/petite-enfance-cr%C3%A8che">Enfance / Jeunesse</a></li>
+<li class="leaf has-children menu-mlid-590"><a href="/content/ecole-vie-scolaire">Scolaire</a></li>
+<li class="leaf has-children menu-mlid-591"><a href="/content/sant%C3%A9" title="">Santé</a></li>
+<li class="leaf has-children menu-mlid-592"><a href="/content/services-%C3%A0-domicile">Actions sociales</a></li>
+<li class="leaf has-children menu-mlid-593"><a href="/content/transports-r%C3%A9mi">Transports</a></li>
+<li class="leaf has-children menu-mlid-594"><a href="/content/ehpad-les-roses-dargent">Séniors</a></li>
+<li class="last leaf has-children menu-mlid-588"><a href="/content/urbanisme" title="">Démarches pratiques</a></li>
+</ul></div>
+</div>
+</div>  </div>
+        
+        <a href="/rss.xml" class="feed-icon" title="S&#039;abonner à Mairie d&#039;Argent sur Sauldre RSS"><img typeof="foaf:Image" src="https://www.argentsursauldre.fr/misc/feed.png" width="16" height="16" alt="S&#039;abonner à Mairie d&#039;Argent sur Sauldre RSS" /></a>
+    </div><!-- EOF: #content-inside -->
+
+</div><!-- EOF: #content -->
+
+<!-- #footer -->    
+<footer id="footer">
+	<!-- #footer-inside -->
+    <div id="footer-inside" class="container_12 clearfix">
+        <div id="footer-contact">
+
+<div id="footer-contact-address">
+<strong>Mairie d'Argent sur Sauldre</strong><br />
+Place de l'hôtel de ville<br />
+Tél : <strong>02 48 81 50 60</strong><br />
+Fax : <strong>02 48 81 50 65</strong>
+</div>
+
+<div id="footer-contact-opening"> 
+    <strong>
+        Du lundi au mercredi de 9h à 12h et de 14h à 17h30<br />
+        Jeudi de 9h à 12h<br />
+        Vendredi de 9h à 12h et de 14h à 17h
+    </strong>
+</div>
+
+<img src="/themes/corporateclean/logo.png" alt="Logo" />
+
+</div>  <div class="region region-footer">
+    <div id="block-footer-sitemap-footer-sitemap" class="block block-footer-sitemap">
+
+
+<div class="content">
+<div id="footer-sitemap" class="clearfix">
+  <div class="fs-block-content"><div class="main-menu"><ul class="footer_links_main-menu total-items-6 parent-items-0 single-items-0"><li class="menu-509 depth-1 total-children-6 parent-children-4 single-children-2  first"><span title="" class="fs-root-link nolink" tabindex="0">Votre ville</span><ul class="footer_links_main-menu total-items-6 parent-items-0 single-items-0"><li class="menu-530 depth-1 total-children-3 parent-children-0 single-children-3  first"><a href="/content/b%C3%A2timents-communaux">Histoire et Patrimoine</a><ul class="footer_links_main-menu total-items-3 parent-items-0 single-items-0"><li class="menu-678 depth-1 fs-no-children  first"><a href="/content/histoire">Histoire</a></li>
+<li class="menu-650 depth-1 fs-no-children"><a href="/content/situation">Situation</a></li>
+<li class="menu-649 depth-1 fs-no-children  last"><a href="/content/b%C3%A2timents-communaux">Bâtiments communaux, gymnase, stades, dojo, etc.</a></li>
+</ul></li>
+<li class="menu-510 depth-1 total-children-6 parent-children-0 single-children-6"><a href="/content/le-conseil-municipal">Vos élus</a><ul class="footer_links_main-menu total-items-6 parent-items-0 single-items-0"><li class="menu-511 depth-1 fs-no-children  first"><a href="/content/le-conseil-municipal">Conseil Municipal</a></li>
+<li class="menu-513 depth-1 fs-no-children"><a href="/content/les-commissions">Commissions</a></li>
+<li class="menu-533 depth-1 fs-no-children"><a href="/content/permanences-du-maire-et-des-adjoints-au-maire">Permanences des adjoints</a></li>
+<li class="menu-514 depth-1 fs-no-children"><a href="/content/comptes-rendus-du-conseil-municipal">Comptes rendus du Conseil</a></li>
+<li class="menu-534 depth-1 fs-no-children"><a href="/content/arretes-prefectoraux">Arrêtés préfectoraux</a></li>
+<li class="menu-683 depth-1 fs-no-children  last"><a href="/content/arretes-municipaux">Arrêtés municipaux</a></li>
+</ul></li>
+<li class="menu-665 depth-1 total-children-2 parent-children-0 single-children-2"><a href="/content/services-municipaux">Contact - Plan</a><ul class="footer_links_main-menu total-items-2 parent-items-0 single-items-0"><li class="menu-536 depth-1 fs-no-children  first"><a href="/content/services-municipaux-personnel-communal">Services municipaux : mairie, cantine, garderie, maisons des jeunes</a></li>
+<li class="menu-653 depth-1 fs-no-children  last"><a href="/content/communaut%C3%A9-de-communes-sauldre-et-sologne">Communauté de communes SAULDRE et SOLOGNE</a></li>
+</ul></li>
+<li class="menu-701 depth-1 fs-no-children"><a href="/content/le-bulletin-municipal-en-pdf">Le bulletin municipal</a></li>
+<li class="menu-705 depth-1 total-children-2 parent-children-0 single-children-2"><a href="/content/argent-infos-automne" title="">Argent Infos</a><ul class="footer_links_main-menu total-items-2 parent-items-0 single-items-0"><li class="menu-706 depth-1 fs-no-children  first"><a href="/content/argent-infos-hiver-2023">Argent Infos hiver 2023</a></li>
+<li class="menu-704 depth-1 fs-no-children  last"><a href="/content/argent-infos-automne" title="">Argent Infos automne 2023</a></li>
+</ul></li>
+<li class="menu-932 depth-1 fs-no-children  last"><a href="/content/discours-des-v%C5%93ux">Discours des vœux</a></li>
+</ul></li>
+<li class="menu-517 depth-1 total-children-5 parent-children-5 single-children-0"><span title="" class="fs-root-link nolink" tabindex="0">Vie quotidienne</span><ul class="footer_links_main-menu total-items-5 parent-items-0 single-items-0"><li class="menu-542 depth-1 total-children-5 parent-children-0 single-children-5  first"><a href="/content/la-d%C3%A9ch%C3%A8terie-intercommunale">Environnement</a><ul class="footer_links_main-menu total-items-5 parent-items-0 single-items-0"><li class="menu-662 depth-1 fs-no-children  first"><a href="/content/ordures-m%C3%A9nag%C3%A8res">Ordures ménagères</a></li>
+<li class="menu-687 depth-1 fs-no-children"><a href="/content/les-points-dapports-volontaires">Les points d&#039;apports volontaires</a></li>
+<li class="menu-663 depth-1 fs-no-children"><a href="/content/la-collecte-des-encombrants">Collecte des encombrants</a></li>
+<li class="menu-548 depth-1 fs-no-children"><a href="/content/la-d%C3%A9ch%C3%A8terie-intercommunale">La déchèterie</a></li>
+<li class="menu-994 depth-1 fs-no-children  last"><a href="/content/fleurissement-et-embellissement">Fleurissement et embellissement</a></li>
+</ul></li>
+<li class="menu-654 depth-1 total-children-2 parent-children-0 single-children-2"><a href="/content/urbanisme" title="">Urbanisme et Travaux</a><ul class="footer_links_main-menu total-items-2 parent-items-0 single-items-0"><li class="menu-656 depth-1 fs-no-children  first"><a href="/content/urbanisme" title="">Urbanisme</a></li>
+<li class="menu-697 depth-1 fs-no-children  last"><a href="/content/travaux">Les Travaux</a></li>
+</ul></li>
+<li class="menu-544 depth-1 total-children-3 parent-children-0 single-children-3"><a href="/content/regles-de-civisme">Civisme</a><ul class="footer_links_main-menu total-items-3 parent-items-0 single-items-0"><li class="menu-549 depth-1 fs-no-children  first"><a href="/content/regles-de-civisme">Règles de civisme</a></li>
+<li class="menu-629 depth-1 fs-no-children"><a href="/content/voisins-vigilants">Opération voisins vigilants</a></li>
+<li class="menu-628 depth-1 fs-no-children  last"><a href="/content/prevention-des-cambriolages-conseils-pratiques">Prévention cambriolage</a></li>
+</ul></li>
+<li class="menu-545 depth-1 total-children-2 parent-children-0 single-children-2"><a href="/content/sant%C3%A9">Santé</a><ul class="footer_links_main-menu total-items-2 parent-items-0 single-items-0"><li class="menu-550 depth-1 fs-no-children  first"><a href="/content/sant%C3%A9" title="">Médecins, infirmières, pharmacie, Kinésithérapeutes, Ambulances/VSL</a></li>
+<li class="menu-553 depth-1 fs-no-children  last"><a href="/content/urgences">Urgences</a></li>
+</ul></li>
+<li class="menu-547 depth-1 total-children-4 parent-children-0 single-children-4  last"><a href="/content/le-march%C3%A9-%C3%A0-argent-sur-sauldre">Infos</a><ul class="footer_links_main-menu total-items-4 parent-items-0 single-items-0"><li class="menu-551 depth-1 fs-no-children  first"><a href="/content/le-march%C3%A9-%C3%A0-argent-sur-sauldre">Marché</a></li>
+<li class="menu-546 depth-1 fs-no-children"><a href="/content/agence-postale-communale">Agence postale communale</a></li>
+<li class="menu-552 depth-1 fs-no-children"><a href="/content/locations-de-salles">Location de salles</a></li>
+<li class="menu-694 depth-1 fs-no-children  last"><span title="" class="nolink" tabindex="0">Bâtiments à louer / Terrains à vendre</span></li>
+</ul></li>
+</ul></li>
+<li class="menu-538 depth-1 total-children-3 parent-children-0 single-children-3"><span title="" class="fs-root-link nolink" tabindex="0">Economie</span><ul class="footer_links_main-menu total-items-3 parent-items-0 single-items-0"><li class="menu-562 depth-1 fs-no-children  first"><a href="/content/le-march%C3%A9-%C3%A0-argent-sur-sauldre">Marché</a></li>
+<li class="menu-561 depth-1 fs-no-children"><a href="/content/commer%C3%A7ants-artisans">Commerçants - Artisans</a></li>
+<li class="menu-559 depth-1 fs-no-children  last"><a href="/content/entreprises-argentaises">Entreprises</a></li>
+</ul></li>
+<li class="menu-539 depth-1 total-children-9 parent-children-5 single-children-4"><span title="" class="fs-root-link nolink" tabindex="0">Culture et tourisme</span><ul class="footer_links_main-menu total-items-9 parent-items-0 single-items-0"><li class="menu-672 depth-1 total-children-1 parent-children-0 single-children-1  first"><a href="/content/eglise-saint-andr%C3%A9" title="">Patrimoine historique et naturel</a><ul class="footer_links_main-menu total-items-1 parent-items-0 single-items-0"><li class="menu-572 depth-1 fs-no-children  first  last"><a href="/content/eglise-saint-andr%C3%A9">Eglise Saint-André</a></li>
+</ul></li>
+<li class="menu-565 depth-1 fs-no-children"><a href="/content/mus%C3%A9e-des-m%C3%A9tiers-dantan">Musée des Métiers d&#039;Antan</a></li>
+<li class="menu-564 depth-1 fs-no-children"><a href="/content/centre-multiculturel-%C2%AB-l%E2%80%99argentis-%C2%BB">Cinéma &quot;l&#039;Argentis&quot;</a></li>
+<li class="menu-566 depth-1 total-children-1 parent-children-0 single-children-1"><a href="/content/infos-pratiques">Bibliothèque</a><ul class="footer_links_main-menu total-items-1 parent-items-0 single-items-0"><li class="menu-630 depth-1 fs-no-children  first  last"><a href="/content/infos-pratiques" title="">Infos pratiques</a></li>
+</ul></li>
+<li class="menu-996 depth-1 fs-no-children"><a href="/content/balades-au-fil-de-leau-0">Balades au fil de l&#039;eau</a></li>
+<li class="menu-568 depth-1 total-children-3 parent-children-0 single-children-3"><a href="/content/le-canal-de-la-sauldre">Promenades, randonnées, jeux</a><ul class="footer_links_main-menu total-items-3 parent-items-0 single-items-0"><li class="menu-576 depth-1 fs-no-children  first"><a href="/content/le-canal-de-la-sauldre" title="">Canal de la Sauldre</a></li>
+<li class="menu-664 depth-1 fs-no-children"><a href="/content/la-sauldre" title="">La Sauldre, rivière de 1ère catégorie </a></li>
+<li class="menu-577 depth-1 fs-no-children  last"><a href="/content/l%C3%A9tang-du-puits">Etang du Puits</a></li>
+</ul></li>
+<li class="menu-569 depth-1 fs-no-children"><a href="/content/restaurants">Restaurants</a></li>
+<li class="menu-570 depth-1 total-children-2 parent-children-0 single-children-2"><a href="/content/h%C3%B4tel">Hébergement</a><ul class="footer_links_main-menu total-items-2 parent-items-0 single-items-0"><li class="menu-579 depth-1 fs-no-children  first"><a href="/content/h%C3%B4tel" title="">Hôtels</a></li>
+<li class="menu-580 depth-1 fs-no-children  last"><a href="/content/gites">Gîtes</a></li>
+</ul></li>
+<li class="menu-571 depth-1 total-children-2 parent-children-0 single-children-2  last"><a href="/content/la-sauldre">Chasse / pêche</a><ul class="footer_links_main-menu total-items-2 parent-items-0 single-items-0"><li class="menu-582 depth-1 fs-no-children  first"><a href="/content/la-sauldre">La Sauldre, rivière de 1ère catégorie</a></li>
+<li class="menu-583 depth-1 fs-no-children  last"><a href="/content/l%C3%A9tang-du-puits" title="">Etang du Puits</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-540 depth-1 total-children-5 parent-children-2 single-children-3"><span title="" class="fs-root-link nolink" tabindex="0">Sports et loisirs</span><ul class="footer_links_main-menu total-items-5 parent-items-0 single-items-0"><li class="menu-693 depth-1 total-children-4 parent-children-0 single-children-4  first"><a href="/content/associations">Associations</a><ul class="footer_links_main-menu total-items-4 parent-items-0 single-items-0"><li class="menu-689 depth-1 fs-no-children  first"><a href="/content/associations-sportives">Associations sportives</a></li>
+<li class="menu-690 depth-1 fs-no-children"><a href="/content/associations-culturelles-et-de-loisirs">Associations culturelles et de loisirs</a></li>
+<li class="menu-692 depth-1 fs-no-children"><a href="/content/associations-caritatives-et-de-services-%C3%A0-la-personne">Associations caritatives et de services à la personne</a></li>
+<li class="menu-691 depth-1 fs-no-children  last"><a href="/content/associations-dint%C3%A9r%C3%AAt-local">Associations d&#039;intérêt local</a></li>
+</ul></li>
+<li class="menu-587 depth-1 fs-no-children"><a href="/content/centre-multiculturel-%C2%AB-l%E2%80%99argentis-%C2%BB" title="">Cinéma l&#039;Argentis</a></li>
+<li class="menu-584 depth-1 fs-no-children"><a href="/content/infos-pratiques" title="">Bibliothèque</a></li>
+<li class="menu-586 depth-1 total-children-0 parent-children-0 single-children-0"><a href="/content/calendrier-des-manifestations-2020-0">Calendrier des manifestations</a></li>
+<li class="menu-707 depth-1 fs-no-children  last"><a href="/content/equipements-sportifs" title="">Equipements sportifs</a></li>
+</ul></li>
+<li class="menu-541 depth-1 total-children-7 parent-children-7 single-children-0  last"><span title="" class="fs-root-link nolink" tabindex="0">Services</span><ul class="footer_links_main-menu total-items-7 parent-items-0 single-items-0"><li class="menu-589 depth-1 total-children-4 parent-children-0 single-children-4  first"><a href="/content/petite-enfance-cr%C3%A8che">Enfance / Jeunesse</a><ul class="footer_links_main-menu total-items-4 parent-items-0 single-items-0"><li class="menu-597 depth-1 fs-no-children  first"><a href="/content/petite-enfance-cr%C3%A8che" title="">Petite enfance - crèche</a></li>
+<li class="menu-598 depth-1 fs-no-children"><a href="/content/ram-relais-assistantes-maternelles">Assistantes maternelles - RAM</a></li>
+<li class="menu-595 depth-1 fs-no-children"><a href="/content/accueil-de-loisirs">Centre de loisirs</a></li>
+<li class="menu-596 depth-1 fs-no-children  last"><a href="/content/maison-des-jeunes">Maison des jeunes</a></li>
+</ul></li>
+<li class="menu-590 depth-1 total-children-5 parent-children-0 single-children-5"><a href="/content/ecole-vie-scolaire">Scolaire</a><ul class="footer_links_main-menu total-items-5 parent-items-0 single-items-0"><li class="menu-599 depth-1 fs-no-children  first"><a href="/content/ecole-vie-scolaire">Ecole - Vie scolaire</a></li>
+<li class="menu-600 depth-1 fs-no-children"><a href="/content/nap-nouveaux-accueils-p%C3%A9riscolaires">Accueils Périscolaires / NAP</a></li>
+<li class="menu-601 depth-1 fs-no-children"><a href="/content/restauration-scolaire">Restauration scolaire</a></li>
+<li class="menu-602 depth-1 fs-no-children"><a href="/content/coll%C3%A8ge-g%C3%A9rard-philipe">Collège</a></li>
+<li class="menu-695 depth-1 fs-no-children  last"><a href="/content/lycees-de-secteur">Lycées</a></li>
+</ul></li>
+<li class="menu-591 depth-1 total-children-2 parent-children-0 single-children-2"><a href="/content/sant%C3%A9" title="">Santé</a><ul class="footer_links_main-menu total-items-2 parent-items-0 single-items-0"><li class="menu-603 depth-1 fs-no-children  first"><a href="/content/sant%C3%A9" title="">Médecins, infirmières, pharmacie, Kinésithérapeutes, Ambulances/VSL</a></li>
+<li class="menu-677 depth-1 fs-no-children  last"><a href="/content/urgences" title="">Urgences</a></li>
+</ul></li>
+<li class="menu-592 depth-1 total-children-3 parent-children-1 single-children-2"><a href="/content/services-%C3%A0-domicile">Actions sociales</a><ul class="footer_links_main-menu total-items-3 parent-items-0 single-items-0"><li class="menu-610 depth-1 fs-no-children  first"><a href="/content/services-%C3%A0-domicile" title="">Services à domicile (ADMR, FASILAVI...)</a></li>
+<li class="menu-992 depth-1 fs-no-children"><a href="/content/permanences-gendarmerie-cdad-assistante-sociale-mission-locale-cpam-france-services">Permanences : gendarmerie, CDAD, assistante sociale, mission locale, CPAM</a></li>
+<li class="menu-684 depth-1 total-children-3 parent-children-0 single-children-3  last"><a href="/content/france-loire-votre-atout-c%C5%93ur-dans-limmobilier">Logement</a><ul class="footer_links_main-menu total-items-3 parent-items-0 single-items-0"><li class="menu-686 depth-1 fs-no-children  first"><a href="/content/op%C3%A9ration-programm%C3%A9e-de-l%E2%80%99am%C3%A9lioration-de-lhabitat">OPAH</a></li>
+<li class="menu-685 depth-1 fs-no-children"><a href="/content/france-loire-votre-atout-c%C5%93ur-dans-limmobilier" title="">FRANCE LOIRE</a></li>
+<li class="menu-698 depth-1 fs-no-children  last"><a href="/content/terrains-batiments-%C3%A0-louer-%C3%A0-vendre">Terrains / Bâtiments / A louer / A vendre</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-593 depth-1 total-children-4 parent-children-0 single-children-4"><a href="/content/transports-r%C3%A9mi">Transports</a><ul class="footer_links_main-menu total-items-4 parent-items-0 single-items-0"><li class="menu-614 depth-1 fs-no-children  first"><a href="/content/transports-scolaire">Cars Scolaires REMI</a></li>
+<li class="menu-615 depth-1 fs-no-children"><a href="/content/transports-r%C3%A9mi" title="">REMI (ex Ligne 18)</a></li>
+<li class="menu-613 depth-1 fs-no-children"><a href="/content/ambulances-vsl">Ambulances / VSL</a></li>
+<li class="menu-676 depth-1 fs-no-children  last"><a href="/content/taxis">Taxis</a></li>
+</ul></li>
+<li class="menu-594 depth-1 total-children-2 parent-children-0 single-children-2"><a href="/content/ehpad-les-roses-dargent">Séniors</a><ul class="footer_links_main-menu total-items-2 parent-items-0 single-items-0"><li class="menu-616 depth-1 fs-no-children  first"><a href="/content/ehpad-les-roses-dargent">EHPAD Les Roses d&#039;Argent</a></li>
+<li class="menu-617 depth-1 fs-no-children  last"><a href="/content/services-%C3%A0-domicile" title="">ADMR</a></li>
+</ul></li>
+<li class="menu-588 depth-1 total-children-6 parent-children-1 single-children-5  last"><a href="/content/urbanisme" title="">Démarches pratiques</a><ul class="footer_links_main-menu total-items-6 parent-items-0 single-items-0"><li class="menu-680 depth-1 total-children-2 parent-children-0 single-children-2  first"><a href="/content/carte-nationale-didentite">Etat Civil</a><ul class="footer_links_main-menu total-items-2 parent-items-0 single-items-0"><li class="menu-682 depth-1 fs-no-children  first"><a href="/content/carte-nationale-didentite" title="">Carte Nationale d&#039;Identité</a></li>
+<li class="menu-681 depth-1 fs-no-children  last"><a href="/content/passeport" title="">Passeport</a></li>
+</ul></li>
+<li class="menu-619 depth-1 fs-no-children"><a href="/content/elections" title="">Elections</a></li>
+<li class="menu-620 depth-1 fs-no-children"><a href="/content/urbanisme">Urbanisme (permis, déclaration préalable)</a></li>
+<li class="menu-622 depth-1 fs-no-children"><a href="/content/ecole-vie-scolaire" title="">Inscriptions scolaires</a></li>
+<li class="menu-623 depth-1 fs-no-children"><a href="/content/v%C3%A9hicule-permis-de-conduire-carte-grise">Véhicules / permis de conduire</a></li>
+<li class="menu-624 depth-1 fs-no-children  last"><a href="/content/permis-de-d%C3%A9tention-de-chiens-cat%C3%A9goris%C3%A9s">Permis de détention de chien catégorisés</a></li>
+</ul></li>
+</ul></li>
+</ul></div>
+</div>
+</div>
+</div>
+</div>  </div>
+    </div><!-- EOF: #footer-inside -->
+</div><!-- EOF: #footer -->
+
+</div>
+</div>
+
+<div id="credits" class="clearfix">
+<div id="credits-inside" class="clearfix">
+     <!-- #copyright -->
+       <div class="region region-copyright">
+    <div id="block-menu-menu-menu-pied" class="block block-menu">
+
+
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/content/mentions-l%C3%A9gales" title="">Mentions légales</a></li>
+<li class="last leaf"><a href="/content/charte-pour-la-protection-des-donn%C3%A9es" title="">Charte pour la protection des données</a></li>
+</ul></div>
+</div>  </div>
+     <!-- EOF: #copyright -->
+     <br />
+    <p>&copy; Mairie d'Argent sur Sauldre - R&eacute;alisation par <a href="http://www.atmedia.fr/" target="_blank'" title="Agence conseil" >Atmedia Communication</a></p>
+</div>
+
+</div>
+
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) {
+	
+	$(window).load(function() {
+	
+		$("#slideshow img").show();
+		$("#slideshow").fadeIn("slow");
+		$("#slider-controls-wrapper").fadeIn("slow");
+	
+		$("#slideshow").cycle({
+			fx:    "scrollHorz",
+			speed:  "slow",
+			timeout: "10000",
+			random: 0,
+			nowrap: 0,
+			pause: 0,
+			pager:  "#slider-navigation",
+			pagerAnchorBuilder: function(idx, slide) {
+				return "#slider-navigation li:eq(" + (idx) + ") a";
+			},
+			slideResize: true,
+			containerResize: false,
+			height: "auto",
+			fit: 1,
+			before: function(){
+				$(this).parent().find(".slider-item.current").removeClass("current");
+			},
+			after: onAfter
+		});
+	});
+	
+	function onAfter(curr, next, opts, fwd) {
+		var $ht = $(this).height();
+		$(this).parent().height($ht);
+		$(this).addClass("current");
+	}
+	
+	$(window).load(function() {
+		var $ht = $(".slider-item.current").height();
+		$("#slideshow").height($ht);
+	});
+	
+	$(window).resize(function() {
+		var $ht = $(".slider-item.current").height();
+		$("#slideshow").height($ht);
+	});
+	
+	});
+//--><!]]>
+</script>
+</body>
+
+
+            <script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js'></script>
+            <link rel='stylesheet' href='https://www.argentsursauldre.fr/themes/corporateclean/js/gdpr-cookie/cookiepopup.css' type='text/css' media='all' />
+            <script src='https://www.argentsursauldre.fr/themes/corporateclean/js/gdpr-cookie/cookiepopup.js'></script>
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-1LF3XT2NHH"></script>
+            <script>
+
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+
+
+            var idLink='409';
+            var idCur='';
+
+            jQuery(document).ready(function() {
+
+                jQuery('body').cookiepopup({
+                    title: 'Cookies et vie privée',
+                    message: 'Ce site utilise des cookies nécessaires à son bon fonctionnement et permettant votre suivi à des fins statistiques. Ces cookies sont anonymes. En cliquant sur "Accepter" ou en poursuivant votre navigation, vous confirmez leur utilisation. Vous pouvez choisir d\'activer ou non les cookies facultatifs ci-dessous.',
+                    link: '/content/charte-pour-la-protection-des-donnees',
+                    moreInfoLabel: 'Plus d\'informations',
+                    acceptBtnLabel: 'Accepter',
+                    advancedBtnLabel: 'Personnaliser',
+                    popupLink:'.cookiepop',
+                    delay: 100,
+                    cookieTypesTitle: 'Choisissez les cookies que vous acceptez',
+                    fixedCookieTypeLabel:'Nécessaires',
+                    fixedCookieTypeDesc:'Ces cookies sont obligatoires pour le bon fonctionnement du site.',
+                    cookieTypes: [{
+                        type: 'Statistiques',
+                        value: 'analytics',
+                        description: 'Cookies relatifs aux visites sur le site, le type de navigateur, etc.'
+                    }],
+                });
+
+            });
+
+
+            if( (idCur>0 || idCur=='') && idCur==idLink && !jQuery.fn.cookiepopup.preference('analytics') === true){
+            }else if ( ( !jQuery.fn.cookiepopup.popcookie() && jQuery.fn.cookiepopup.popcookiego() ) || (jQuery.fn.cookiepopup.preference('analytics') === true) ) {
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+                ga('create', 'UA-84759439-1', {'cookieDomain':'auto'});
+            	ga('set', 'anonymizeIp', true);
+            	ga('send', 'pageview');
+
+            	  gtag('js', new Date());
+                  gtag('config', 'G-1LF3XT2NHH', { 'anonymize_ip': true });
+
+            }else{
+
+                var cookieNames = ['_ga', '_gid', '_gat', '_ga_1LF3XT2NHH'];
+                for (var i=0; i<cookieNames.length; i++){
+                    document.cookie = cookieNames[i]+'=; expires=Thu, 01 Jan 1970 00:00:00 GMT; domain=.argentsursauldre.fr; path=/';
+                }
+
+            }
+
+            </script>
+            
+</html>

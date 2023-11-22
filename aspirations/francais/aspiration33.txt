@@ -1,0 +1,1528 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" 			lang="fr-fr" ><![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8 ie7" 			lang="fr-fr" ><![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9 ie8" 			lang="fr-fr" ><![endif]-->
+<!--[if gt IE 8]>
+<html class="no-js ie9"  lang="fr-fr"
+			><![endif]-->
+<html lang="fr-fr">
+<head>
+	<meta charset="utf-8"/>
+	<title>Pièces Argent Françaises</title>
+    
+<script data-keepinline="true">
+/* datalayer */
+dataLayer = [];
+dataLayer.push({"pageCategory":"category","ecommerce":{"currencyCode":"EUR","impressions":[{"name":"50 Francs Hercule","id":"150-0","reference":"XAG","price":"22.4","category":"Argent/Pieces Argent Francaises","price_tax_exc":"22.4","list":"category","position":1},{"name":"10 Francs Hercule","id":"67-0","reference":"XAG","price":"19","category":"Argent/Pieces Argent Francaises","price_tax_exc":"19","list":"category","position":2},{"name":"Ecu 5 Francs","id":"71-0","reference":"XAG","price":"20.3","category":"Argent/Pieces Argent Francaises","price_tax_exc":"20.3","list":"category","position":3},{"name":"100 Francs Argent","id":"72-0","reference":"XAG","price":"11.2","category":"Argent/Pieces Argent Francaises","price_tax_exc":"11.2","list":"category","position":4},{"name":"5 Francs semeuse","id":"105-0","reference":"XAG","price":"7.7","category":"Argent/Pieces Argent Francaises","price_tax_exc":"7.7","list":"category","position":5},{"name":"2 Francs Semeuse","id":"68-0","reference":"XAG","price":"7.6","category":"Argent/Pieces Argent Francaises","price_tax_exc":"7.6","list":"category","position":6},{"name":"1 Franc Semeuse","id":"69-0","reference":"XAG","price":"3.5","category":"Argent/Pieces Argent Francaises","price_tax_exc":"3.5","list":"category","position":7},{"name":"50 Cts Semeuse","id":"70-0","reference":"XAG","price":"1.9","category":"Argent/Pieces Argent Francaises","price_tax_exc":"1.9","list":"category","position":8}]},"google_tag_params":{"ecomm_pagetype":"category","ecomm_category":"Argent/Pieces Argent Francaises"}});
+/* call to GTM Tag */
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WHD9PSF');
+
+/* async call to avoid cache system for dynamic data */
+var cdcgtmreq = new XMLHttpRequest();
+cdcgtmreq.onreadystatechange = function() {
+    if (cdcgtmreq.readyState == XMLHttpRequest.DONE ) {
+        if (cdcgtmreq.status == 200) {
+          	var datalayerJs = cdcgtmreq.responseText;
+            try {
+                var datalayerObj = JSON.parse(datalayerJs);
+                dataLayer = dataLayer || [];
+                dataLayer.push(datalayerObj);
+            } catch(e) {
+               console.log("[CDCGTM] error while parsing json");
+            }
+
+                    }
+        dataLayer.push({
+          'event': 'datalayer_ready'
+        });
+    }
+};
+cdcgtmreq.open("GET", "//www.changedelabourse.com/module/cdc_googletagmanager/async" /*+ "?" + new Date().getTime()*/, true);
+cdcgtmreq.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+cdcgtmreq.send();
+</script>
+    			<meta name="description" content="Acheter et vendre des pièces d'argent françaises, chez Change de la Bourse, expert en métaux précieux. Découvrez notre gamme de pièces argent de France au meilleur prix : Ecu, Hercule, Semeuse..."/>
+        			<meta name="keywords" content="acheter piece argent francaise,achat piece argent france,acheter ecu argent,achat pieces francaises en argent"/>
+    	<meta name="robots" content="index,follow"/>
+	<meta name="viewport" content="width=device-width, minimum-scale=0.25, maximum-scale=1.6, initial-scale=1.0"/>
+	<meta name="apple-mobile-web-app-capable" content="yes"/>
+	<link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon.ico?1699954737"/>
+	<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?1699954737"/>
+                					<link rel="stylesheet" href="https://www.changedelabourse.com/themes/cdb-template/cache/v_600_40e1fa525f4b27c6e2507903d920d521_all.css" type="text/css"
+								media="all"/>
+            			        
+
+
+
+
+
+<!-- Microdatos Breadcrumb -->
+	<script type="application/ld+json" id="adpmicrodatos-breadcrumblist-ps16v4.1.0">
+    {
+        "itemListElement": [
+            {
+                "item": "https://www.changedelabourse.com/",
+                "name": "Accueil",
+                "position": 1,
+                "@type": "ListItem"
+            }, 
+            {
+                "item": "https://www.changedelabourse.com/argent",
+                "name": "Argent",
+                "position": 2,
+                "@type": "ListItem"
+            }, 
+            {
+                "item": "https://www.changedelabourse.com/argent/pieces-argent-francaises",
+                "name": "Pi\u00e8ces Argent Fran\u00e7aises",
+                "position": 3,
+                "@type": "ListItem"
+            } 
+        ],
+        "@context": "https://schema.org/",
+        "@type": "BreadcrumbList"
+    }
+</script>
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Pièces Argent Françaises" href="https://www.changedelabourse.com/modules/feeder/rss.php?id_category=26&amp;orderby=position&amp;orderway=asc" />
+
+<link rel="canonical" href="https://www.changedelabourse.com/argent/pieces-argent-francaises" />
+	<!--[if IE 8]>
+	
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	
+<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+	<![endif]-->
+	
+		
+		
+	
+</head>
+<body id="category"				class="category category-26 category-pieces-argent-francaises hide-left-column hide-right-column lang_fr">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHD9PSF&nojscript=true"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="page">
+	<div class="header-container">
+		<header id="header">
+			<div class="banner">
+				<div class="container">
+					<div class="row">
+						
+                                                                                                					</div>
+				</div>
+			</div>
+			<div class="nav">
+				<div class="container">
+					<div class="row">
+						<nav>
+							<div class="header_user_info metauxprecieux">
+								<p>Sp&eacute;cialiste de l&#039;achat et de la vente de m&eacute;taux pr&eacute;cieux et de devises</p>
+							</div>
+							<div class="header_devenir_pro devenir_pro">
+								<a href="/devenirpro"> <i class="fa fa-handshake-o" aria-hidden="true"></i>Devenir Pro </a>
+							</div>
+                            <!-- Block languages module -->
+<!-- /Block languages module -->
+<!-- Block user information module NAV  -->
+<div class="header_user_info">
+			<a class="login" href="https://www.changedelabourse.com/connexion" rel="nofollow" title="Identifiez-vous">
+			<img src="https://www.changedelabourse.com/themes/cdb-template/img/header/login.svg" alt="login" />
+			Connexion
+		</a>
+		<a class="register" href="https://www.changedelabourse.com/connexion" rel="nofollow" title="Créer un compte">
+			<img src="https://www.changedelabourse.com/themes/cdb-template/img/header/inscription.svg" alt="login" />
+			Inscription
+		</a>
+	</div>
+<!-- /Block usmodule NAV -->
+
+						</nav>
+					</div>
+				</div>
+			</div>
+			<div>
+				<div class="container">
+					<div class="row">
+						<div id="logo-header" class="col-xs-12 col-sm-2">
+							<a href="https://www.changedelabourse.com/"
+								 title="Change de la Bourse">
+								<img class="logo img-responsive" src="https://www.changedelabourse.com/img/change-de-la-bourse-logo-1440080729.jpg"
+										 alt="Change de la Bourse" width="186" height="75"/>
+							</a>
+						</div>
+						<div class="col-lg-2 col-sm-2 green-number">
+							<p><a href="tel:0140281111"><em class="fa fa-phone">&nbsp;</em> 01 40 28 11 11</a></p>
+						</div>
+              										<div class="col-xs-6 col-sm-4 header_social">
+<ul>
+<li class="header-facebook"><a class="top-fb" href="https://www.facebook.com/changedelabourse" target="_blank"><em class="fa fa-facebook">  </em></a></li>
+<li class="header_twitter"><a class="top-tw" href="https://twitter.com/ChangeBourse" target="_blank"><em class="fa fa-twitter">  </em></a></li>
+<li class="header_google_plus"><a class="top-g-plus" href="https://plus.google.com/u/0/100806056794902862943/about" target="_blank"><em class="fa fa-google-plus">  </em></a></li>
+</ul>
+</div>
+<div class="col-xs-6 col-sm-4 header_search_block_top"  style="float: right;">
+<div id="search_block_top" style="width: 100%; padding-top: 10px; margin-right: 24px;"><form id="searchbox" action="//www.changedelabourse.com/index.php?controller=index" method="post">
+<div style="display: flex;"><input class="search_query form-control ac_input newsletter-input" type="text" id="search_query_top" name="email" placeholder="inscription newsletter : saisir votre email" value="" autocomplete="off" /> <button type="submit" name="submitNewsletter" class="btn btn-default" style="background-color: #c5ac76; margin-left: -4px; border-radius: 3px; color: white;"> <span><strong>OK </strong></span> </button> <input type="hidden" name="action" value="0" /></div>
+</form></div>
+</div><!-- Block search module TOP -->
+<div id="search_block_top" class="col-sm-4 col-sm-offset-2 col-xs-6 clearfix">
+	<form id="searchbox" method="get" action="//www.changedelabourse.com/recherche" >
+		<input type="hidden" name="controller" value="search" />
+		<input type="hidden" name="orderby" value="position" />
+		<input type="hidden" name="orderway" value="desc" />
+		<input class="search_query form-control" type="text" id="search_query_top" name="search_query" placeholder="Rechercher" value="" />
+		<button type="submit" name="submit_search" class="btn btn-default button-search">
+			<span>Rechercher</span>
+		</button>
+	</form>
+</div>
+<!-- /Block search module TOP -->
+
+<div id="">
+	<div style="display:none">
+		<div id="quickpass">
+			<form method="POST">
+				<label>Entrez votre adresse email</label>
+                <div class="input-group">
+					<input type="email" class="form-control qp_email" name="qp_email" id="qp_email" value="" placeholder="" />
+					<span class="input-group-btn">
+						<button name="qp_passreco" id="qp_passreco" type="button" class="btn btn-secondary">Ré-initialiser</button>
+					</span>
+					<div class="clearfix"></div>
+				</div>
+				<div class="clearfix"></div>
+				<label class="alert" id="resltmsg"></label>
+			</form>
+			<div class="overlay forcehide"><img src="/modules/quickpass/views/img/indicator_bar.gif" alt="Processing" title="Processing" /></div>
+		</div>
+	</div>
+</div><!-- MODULE Block cart -->
+<div class="col-sm-3 col-xs-2 col-md-1 col-lg-2  clearfix no-padding">
+	<div class="shopping_cart">
+		<a href="https://www.changedelabourse.com/commande" title="Voir mon panier" rel="nofollow">
+			<b>Mon Panier</b>
+			<span class="ajax_cart_quantity unvisible">0</span>
+			<span class="ajax_cart_total unvisible">
+							</span>
+					</a>
+					<div class="cart_block block exclusive">
+				<div class="block_content">
+					<!-- block list of products -->
+					<!--<div class="cart_block_list">-->
+					<div class="cart_block_list ">
+												<p class="cart_block_no_products">
+							Aucun produit
+						</p>
+												<div class="cart-prices">
+							<div class="cart-prices-line first-line">
+								<span class="price cart_block_shipping_cost ajax_cart_shipping_cost unvisible">
+																			 À définir																	</span>
+								<span class="unvisible">
+									Livraison
+								</span>
+							</div>
+																					<div class="cart-prices-line last-line">
+								<span class="price cart_block_total ajax_block_cart_total">0,00 €</span>
+								<span>Total <div style="font-size: 10px;display: inline;">(hors port)</div></span>
+							</div>
+													</div>
+						<p class="cart-buttons">
+							<!--<a id="button_order_cart" class="btn btn-default button button-small" href="https://www.changedelabourse.com/commande" title="Commander" rel="nofollow">
+								<span>
+									Commander<i class="icon-chevron-right right"></i>
+								</span>
+							</a>-->
+							<a class="cdb-button" href="https://www.changedelabourse.com/commande" title="Commander" rel="nofollow">
+								<span>
+									Commander
+								</span>
+							</a>
+						</p>
+					</div>
+				</div>
+			</div><!-- .cart_block -->
+			</div>
+</div>
+
+	<div id="layer_cart">
+		<div class="clearfix">
+			<div class="layer_cart_product col-xs-12 col-md-6">
+				<span class="cross" title="Fermer la fenêtre"></span>
+				<span class="cart-title-confirmation">
+					<i class="icon-check"></i>Produit ajouté au panier avec succès
+				</span>
+				<div class="product-image-container layer_cart_img">
+				</div>
+				<div class="layer_cart_product_info">
+					<span id="layer_cart_product_title" class="product-name"></span>
+					<span id="layer_cart_product_attributes"></span>
+					<div>
+						<strong class="dark">Prix Unitaire</strong>
+						<span id="layer_cart_product_unitprice"></span>
+					</div>
+					<div id="p_layer_cart_product_prixrachat" style="display:none;">
+						<strong class="dark">Prix Rachat</strong>
+						<span id="layer_cart_product_prixrachat"></span>
+					</div>
+					<div>
+						<strong class="dark">Quantité</strong>
+						<span id="layer_cart_product_quantity"></span>
+						<p id="cdb-coupure" style="display:none">La coupure minimum est de <span></span></p>
+					</div>
+					<div>
+						<strong class="dark">Total</strong>
+						<span id="layer_cart_product_price"></span>
+					</div>
+				</div>
+			</div>
+			<div class="layer_cart_cart col-xs-12 col-md-6">
+				<span class="cart-title-confirmation">
+					<!-- Plural Case [both cases are needed because page may be updated in Javascript] -->
+					<span class="ajax_cart_product_txt_s  unvisible">
+						Il y a <span class="ajax_cart_quantity">0</span> produits dans votre panier.
+					</span>
+					<!-- Singular Case [both cases are needed because page may be updated in Javascript] -->
+					<span class="ajax_cart_product_txt ">
+						Il y a 1 produit dans votre panier.
+					</span>
+				</span>
+
+				<div class="layer_cart_row">
+					<strong class="dark">
+						Total produits
+																					TTC
+																		</strong>
+					<span class="ajax_block_products_total">
+											</span>
+				</div>
+
+								
+								<div class="layer_cart_row" style="display: none;">
+					<strong class="dark">
+						Total
+																					TTC
+																			(hors frais de port)
+					</strong>
+					<span class="ajax_block_cart_total">
+											</span>
+				</div>
+				<div class="button-container cdb-blct">
+					<span class="btn btn-default button button-small cdb-continuer continue" title="Continuer mes achats">
+						<span>
+							<i class="icon-chevron-left left"></i>Continuer mes achats
+						</span>
+					</span>
+					<a class="btn btn-default button button-small cdb-chekout"	href="https://www.changedelabourse.com/commande" title="Commander" rel="nofollow">
+						<span>
+							Commander<i class="icon-chevron-right right"></i>
+						</span>
+					</a>
+				</div>
+			</div>
+			<div class="block-footer-info assurance">
+				<div class="container col-xs-12 col-sm-12 col-md-12 no-padding">
+					<div class="col-xs-12 col-sm-6 col-md-6 no-padding">
+						<div class="col-xs-6 col-sm-6 col-md-6 cdb-finfo-box cdb-p1">
+							<div class="pictoBlack schemaImg"> </div>
+							<div class="type-text">
+								<span>Prix en temps réel</span>
+								<p>En fonction des cours les plus compétitifs</p>
+							</div>
+						</div>
+						<div class="col-xs-6 col-sm-6 col-md-6 cdb-finfo-box cdb-p2">
+							<div class="pictoBlack chekImg"> </div>
+							<div class="type-text">
+								<span>Garantie de la qualité</span>
+							</div>
+						</div>
+					</div>
+					<div class="col-xs-12 col-sm-6 col-md-6 no-padding">
+						<div class="col-xs-6 col-sm-6 col-md-6 cdb-finfo-box cdb-p3">
+							<div class="pictoBlack cadenasImg"> </div>
+							<div class="type-text">
+							<span>Transaction sécurisée</span>
+							<img src="/themes/cdb-template/img/picto/paiement.png" alt=""></div>
+						</div>
+						<div class="col-xs-6 col-sm-6 col-md-6 cdb-finfo-box cdb-p4">
+						<div class="pictoBlack walletImg"> </div>
+							<div class="type-text">
+								<span>Fiscalité avantageuse</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div style="clear:both"></div>
+		</div>
+		<div class="crossseling"></div>
+	</div>
+	<!-- #layer_cart -->
+	<!-- DEVENIR PRO CART -->
+	<div id="vente_layer_cart" class="modal">
+		<div class="clearfix content cb_vente_content">
+			<div class="vente_layer_cart_product col-xs-12 col-md-6">
+				<img class="vente_cross" src="/modules/devenirpro/views/templates/img/cart_popup/cancle.png" title="Fermer la fenêtre" alt="Fermer la fenêtre">
+				<span class="vente_cv_success_info">
+					<img class="vente_cv_success_ico" src="/modules/devenirpro/views/templates/img/cart_popup/Layer-544.png" alt="Layer popup"></br>
+                    Produit ajouté au panier avec succès
+				</span>
+				<div class="vente_layer_cart_product_info">
+					<div class="vente_product-image-container clearfix vente_layer_cart_img">
+						<img id="vente-layer-cart-product-image" class="vente_layer_cart_img vente_img-responsive" src="">
+					</div>
+					<div>
+						<span id="vente_layer_cart_product_title" class="vente_product-name"></span>
+						<span id="vente_layer_cart_product_attributes" class="vente_cv_prix"></span>
+					</div>
+					<div class="cd-price-unity">
+						<span class="vente_dark">Prix Unitaire: </span>
+						<span id="vente_layer_cart_product_unitprice" class="vente_cv_prix"></span>
+					</div>
+                    
+
+					<div>
+						<span class="vente_dark">Quantité: </span>
+						<span id="vente_layer_cart_product_quantity_" class="vente_cv_prix">1</span>
+						<p id="vente_cdb-coupure" style="display:none">La coupure minimum est de <span></span></p>
+					</div>
+					<div>
+						<span class="vente_dark">Total: </span>
+						<span id="vente_layer_cart_product_price" class="vente_cv_prix"></span>
+					</div>
+				</div>
+			</div>
+			<div class="vente_layer_cart_cart col-xs-12 col-md-6">
+				<span>
+					<!-- Plural Case [both cases are needed because page may be updated in Javascript] -->
+					<span class="vente_ajax_cart_product_txt_s">
+					Il y a 1 produits dans votre panier.
+					<!-- Il y a <span class="vente_ajax_cart_quantity">0</span> produits dans votre panier.-->
+		  			</span>
+					<!-- Singular Case [both cases are needed because page may be updated in Javascript] -->
+				</span>
+				<div class="vente_layer_cart_row">
+				  <span class="vente_cv-ttc">
+					  Total produits
+                                                                              TTC
+                                                				  </span>
+					<span class="vente_ajax_block_products_total">
+					  				  </span>
+				</div>
+				<div class="vente_button-container vente_cdb-blct">
+				  <span class="btn btn-default button button-small vente_cdb-continuer vente_continue" title="Continuer mes achats">
+					  <span>
+						  <i class="icon-chevron-left left"></i>Continuer mes achats
+					  </span>
+				  </span>
+					<a class="btn btn-default button button-small vente_cdb-chekout"	href="/panierachat" rel="nofollow">
+					  <span>
+						  Vendre<i class="icon-chevron-right right"></i>
+					  </span>
+					</a>
+				</div>
+			</div>
+			<div class="vente_block-footer-info assurance clearfix">
+				<div class="container col-xs-12 col-sm-12 col-md-12 no-padding">
+					<div class="col-xs-12 col-sm-6 col-md-6 no-padding">
+						<div class="col-xs-6 col-sm-6 col-md-6 cdb-finfo-box cdb-p1">
+							<div class="pictoBlack schemaImg"> </div>
+							<div class="type-text">
+								<span>Prix en temps réel</span>
+								<p>En fonction des cours les plus compétitifs</p>
+							</div>
+						</div>
+						<div class="col-xs-6 col-sm-6 col-md-6 cdb-finfo-box cdb-p2">
+							<div class="pictoBlack chekImg"> </div>
+							<div class="type-text">
+								<span>Garantie de la qualité</span>
+							</div>
+						</div>
+					</div>
+					<div class="col-xs-12 col-sm-6 col-md-6 no-padding">
+						<div class="col-xs-6 col-sm-6 col-md-6 cdb-finfo-box cdb-p3">
+							<div class="pictoBlack cadenasImg"> </div>
+							<div class="type-text">
+								<span>Transaction sécurisée</span>
+								<img src="/modules/devenirpro/views/templates/img/cart_popup/paiement.png" alt="">
+								<img class="cv_paybox" src="/modules/devenirpro/views/templates/img/cart_popup/Layer-549.png" alt="">
+								<img class="cv_edit" src="/modules/devenirpro/views/templates/img/cart_popup/Layer-550.png" alt="">
+							</div>
+						</div>
+						<div class="col-xs-6 col-sm-6 col-md-6 cdb-finfo-box cdb-p4">
+							<div class="pictoBlack walletImg"> </div>
+							<div class="type-text">
+								<span>Fiscalité avantageuse</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div style="clear:both"></div>
+
+		</div>
+		<div class="crossseling"></div>
+	</div><!-- #vente_layer_cart-->
+
+	<div class="layer_cart_overlay"></div>
+
+<!-- /MODULE Block cart -->
+
+											</div>
+				</div>
+				<div id="border-top-menu"></div>
+				<div class="container no-gutters-xs">
+					<div class="row no-gutters-xs">
+						<!-- Menu -->
+	<div id="block_top_menu" class="sf-contener clearfix col-sm-9 col-lg-10 col-xs-10">
+	        <div class="cat-title"><div class="menu"><div></div></div></div>
+		<ul class="sf-menu clearfix menu-content">
+			<li><a href="https://www.changedelabourse.com/or" title="Or"data-src="https://www.changedelabourse.com/img/c/3-0_thumb.jpg" >Or</a><ul><li><a href="https://www.changedelabourse.com/or/lingots-lingotins" title="Lingots / Lingotins"data-src="https://www.changedelabourse.com/img/c/10-0_thumb.jpg" >Lingots / Lingotins</a></li><li><a href="https://www.changedelabourse.com/or/pieces-d-or-d-investissement" title="Pièces d'or d'investissement"data-src="https://www.changedelabourse.com/img/c/22-0_thumb.jpg" >Pièces d'or d'investissement</a></li><li><a href="https://www.changedelabourse.com/or/pieces-d-or-modernes" title="Pièces d'or modernes"data-src="https://www.changedelabourse.com/img/c/23-0_thumb.jpg" >Pièces d'or modernes</a></li><li><a href="https://www.changedelabourse.com/cours-or" title="Cours">COURS DE L'OR</a></li><li class="category-thumbnail"><div><img src="https://www.changedelabourse.com/img/c/3-0_thumb.jpg" alt="Or" title="Or" class="imgm" /></div></li></ul></li><li><a href="https://www.changedelabourse.com/argent" title="Argent"data-src="https://www.changedelabourse.com/img/c/4-0_thumb.jpg" >Argent</a><ul><li><a href="https://www.changedelabourse.com/argent/lingots-lingotins" title="Lingots / Lingotins"data-src="https://www.changedelabourse.com/img/c/16-1_thumb.jpg" >Lingots / Lingotins</a></li><li class="sfHoverForce"><a href="https://www.changedelabourse.com/argent/pieces-argent-francaises" title="Pièces Argent Françaises"data-src="https://www.changedelabourse.com/img/c/26-1_thumb.jpg" >Pièces Argent Françaises</a></li><li><a href="https://www.changedelabourse.com/argent/pieces-argent-modernes" title="Pièces Argent Modernes"data-src="https://www.changedelabourse.com/img/c/15-1_thumb.jpg" >Pièces Argent Modernes</a></li><li><a href="https://www.changedelabourse.com/argent/gros-volumes-argent" title="Gros Volumes Argent"data-src="https://www.changedelabourse.com/img/c/17-1_thumb.jpg" >Gros Volumes Argent</a></li><li class="category-thumbnail"><div><img src="https://www.changedelabourse.com/img/c/4-0_thumb.jpg" alt="Argent" title="Argent" class="imgm" /></div></li></ul></li><li><a href="https://www.changedelabourse.com/platine" title="Platine"data-src="https://www.changedelabourse.com/img/c/32-0_thumb.jpg" >Platine</a><ul><li><a href="https://www.changedelabourse.com/platine/lingots-lingotins-en-platine" title="Lingots / Lingotins en Platine">Lingots / Lingotins en Platine</a></li><li><a href="https://www.changedelabourse.com/platine/pieces-en-platine-modernes" title="Pièces en Platine Modernes">Pièces en Platine Modernes</a></li><li class="category-thumbnail"><div><img src="https://www.changedelabourse.com/img/c/32-0_thumb.jpg" alt="Platine" title="Platine" class="imgm" /></div></li></ul></li><li><a href="https://www.changedelabourse.com/devises" title="Devises"data-src="https://www.changedelabourse.com/img/c/5-0_thumb.jpg" >Devises</a><ul><li><a href="https://www.changedelabourse.com/devises/devises-principales" title="Devises Principales"data-src="https://www.changedelabourse.com/img/c/20-0_thumb.jpg" >Devises Principales</a></li><li><a href="https://www.changedelabourse.com/devises/devises-exotiques" title="Devises Exotiques"data-src="https://www.changedelabourse.com/img/c/21-0_thumb.jpg" >Devises Exotiques</a></li><li class="category-thumbnail"><div><img src="https://www.changedelabourse.com/img/c/5-0_thumb.jpg" alt="Devises" title="Devises" class="imgm" /></div></li></ul></li><li><a href="https://www.changedelabourse.com/vendez-votre-vieil-or" title="vieil or">vieil or</a></li>
+
+					</ul>
+	</div>
+	<!--/ Menu -->
+<div  class="col-lg-2 col-sm-2 green-number hidden-sm hidden-xs" ><p>N'hésitez pas à nous appeler :</p>
+<p><a href="tel:0140281111"><em class="fa fa-phone"> </em> 01 40 28 11 11</a></p></div>
+					</div>
+				</div>
+				<div id="border-bottom-menu"></div>
+			</div>
+		</header>
+	</div>
+			
+		<div class="columns-container">
+		<div id="columns" class="container">
+                    
+<!-- Breadcrumb -->
+	<div class="breadcrumb clearfix">
+					<li class="navigation-pipe">&gt;</li>
+							<ol class="navigation_page"><li><a  href="https://www.changedelabourse.com/argent" title="Argent" >Argent</a></li><span class="navigation-pipe">></span>Pi&egrave;ces Argent Fran&ccedil;aises</ol>
+						</div>
+	<!-- /Breadcrumb -->
+
+        			<div class="row">
+                                  					<div id="center_column" class="center_column col-xs-12 col-sm-9">
+                            	
+
+	
+<h1 class="tilteCat">Pièces Argent Françaises</h1>
+	    	
+					<div class="row profuct-header">
+	<ul>
+		<li>D&eacute;nomination</li>
+		<li>Poids et titre</li>
+		<li>Cotation</li>
+		<li>Prix net</li>
+	</ul>
+</div>
+				
+									
+		
+	
+	<!-- Products list -->
+	<ul class="product_list list row">
+			
+		
+		
+								<li class="produit-box ajax_block_product col-xs-12 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container"  >
+				<div class="left-block col-xs-6 col-sm-6 col-md-3">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.changedelabourse.com/argent/pieces-argent-francaises/50-francs-hercule" title="50 Francs Hercule" >
+							<img class="replace-2x img-responsive" src="https://www.changedelabourse.com/1004-home_default/50-francs-hercule.jpg" alt="50 Francs Hercule" title="50 Francs Hercule"  width="250" height="250"  />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+						</div>
+																			<div class="content_price"   >
+																	<span  class="price product-price">
+                                        
+										22,40 €									</span>
+									<meta  content="EUR" />
+																											
+									
+															</div>
+																	</div>
+										
+				</div>
+				<div class="center-block col-xs-6 col-sm-6 col-md-4">
+					<span >
+												<a class="product-name" href="https://www.changedelabourse.com/argent/pieces-argent-francaises/50-francs-hercule" title="50 Francs Hercule"  >
+							50 Francs Hercule
+						</a>
+					</span>
+											<p class="alqty">La quantit&eacute; minimale d&#039;achat est de 10</p>
+																				<!-- Data sheet -->
+					<section class="cdb-feature-box">
+																				<p><span>Pureté/titre :</span> 900‰</p>																											<p><span>Poids :</span> 30g</p>																																																																																																																																																																		<p><span>Valeur Faciale :</span> 50 Francs</p>																																																																								</section>
+					<!--end Data sheet -->
+								</div>
+
+				<div class="center-block block-cotation col-xs-6 col-sm-6 col-md-2 ">
+											<p class="cotation-date">Au 22/11/2023</p>
+						<p class="cotation-price">18,87 €</p>
+						<p class="cotation-picto">
+							<span></span>
+						</p>
+						<p class="cotation-taux"> 0.00 %</p>
+									</div>
+
+				<div class="right-block col-xs-6 col-sm-6 col-md-3">
+					<div class="right-block-content row">
+												<div class="content_price">
+								                            
+								<span class="price product-price">
+									22,40 €								</span>
+																
+								
+	                            
+													</div>
+												<div class = "block-quantity">
+							<input type="number" data-id-product="150" name="qty" class="text quantity-piece" data-price="22.4"  value="10">
+							<span class="total_p_150"> = 224,00 €</span>
+						</div>
+
+						<div class="button-container">
+																																	<a class="cdb-button ajax_add_to_cart_button cdb-addtocart-pcat ajax_add_150" href="https://www.changedelabourse.com/panier?add=1&amp;id_product=150&amp;token=c8ff73ea9dc9f271328ecb4fc2c3a563" rel="nofollow" title="Ajouter au panier" data-id-product="150" data-minimal_quantity="10"  data-qty="10" data-pricerachat='19.8'>
+										<span>Ajouter au panier</span>
+									</a>
+																					</div>
+
+						<div class="clearfix"></div>
+						
+											</div>
+				</div>
+					 				<div class="functional-buttons clearfix">
+						
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="produit-box ajax_block_product col-xs-12 last-item-of-tablet-line">
+			<div class="product-container"  >
+				<div class="left-block col-xs-6 col-sm-6 col-md-3">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.changedelabourse.com/argent/pieces-argent-francaises/10-francs-hercule" title="10 Francs Hercule" >
+							<img class="replace-2x img-responsive" src="https://www.changedelabourse.com/194-home_default/10-francs-hercule.jpg" alt="10 Francs Hercule" title="10 Francs Hercule"  width="250" height="250"  />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+						</div>
+																			<div class="content_price"   >
+																	<span  class="price product-price">
+                                        
+										19,00 €									</span>
+									<meta  content="EUR" />
+																											
+									
+															</div>
+																	</div>
+										
+				</div>
+				<div class="center-block col-xs-6 col-sm-6 col-md-4">
+					<span >
+												<a class="product-name" href="https://www.changedelabourse.com/argent/pieces-argent-francaises/10-francs-hercule" title="10 Francs Hercule"  >
+							10 Francs Hercule
+						</a>
+					</span>
+											<p class="alqty">La quantit&eacute; minimale d&#039;achat est de 10</p>
+																				<!-- Data sheet -->
+					<section class="cdb-feature-box">
+																				<p><span>Pureté/titre :</span> 900‰</p>																											<p><span>Poids :</span> 25g</p>																																																																																																																																																																		<p><span>Valeur Faciale :</span> 10 Francs</p>																																													</section>
+					<!--end Data sheet -->
+								</div>
+
+				<div class="center-block block-cotation col-xs-6 col-sm-6 col-md-2 ">
+											<p class="cotation-date">Au 22/11/2023</p>
+						<p class="cotation-price">15,73 €</p>
+						<p class="cotation-picto">
+							<span></span>
+						</p>
+						<p class="cotation-taux"> 0.00 %</p>
+									</div>
+
+				<div class="right-block col-xs-6 col-sm-6 col-md-3">
+					<div class="right-block-content row">
+												<div class="content_price">
+								                            
+								<span class="price product-price">
+									19,00 €								</span>
+																
+								
+	                            
+													</div>
+												<div class = "block-quantity">
+							<input type="number" data-id-product="67" name="qty" class="text quantity-piece" data-price="19"  value="10">
+							<span class="total_p_67"> = 190,00 €</span>
+						</div>
+
+						<div class="button-container">
+																																	<a class="cdb-button ajax_add_to_cart_button cdb-addtocart-pcat ajax_add_67" href="https://www.changedelabourse.com/panier?add=1&amp;id_product=67&amp;token=c8ff73ea9dc9f271328ecb4fc2c3a563" rel="nofollow" title="Ajouter au panier" data-id-product="67" data-minimal_quantity="10"  data-qty="10" data-pricerachat='17.2'>
+										<span>Ajouter au panier</span>
+									</a>
+																					</div>
+
+						<div class="clearfix"></div>
+						
+											</div>
+				</div>
+					 				<div class="functional-buttons clearfix">
+						
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="produit-box ajax_block_product col-xs-12 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
+			<div class="product-container"  >
+				<div class="left-block col-xs-6 col-sm-6 col-md-3">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.changedelabourse.com/argent/pieces-argent-francaises/ecu-5-francs" title="Ecu 5 Francs" >
+							<img class="replace-2x img-responsive" src="https://www.changedelabourse.com/212-home_default/ecu-5-francs.jpg" alt="Ecu 5 Francs" title="Ecu 5 Francs"  width="250" height="250"  />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+						</div>
+																			<div class="content_price"   >
+																	<span  class="price product-price">
+                                        
+										20,30 €									</span>
+									<meta  content="EUR" />
+																											
+									
+															</div>
+																	</div>
+										
+				</div>
+				<div class="center-block col-xs-6 col-sm-6 col-md-4">
+					<span >
+												<a class="product-name" href="https://www.changedelabourse.com/argent/pieces-argent-francaises/ecu-5-francs" title="Ecu 5 Francs"  >
+							Ecu 5 Francs
+						</a>
+					</span>
+											<p class="alqty">La quantit&eacute; minimale d&#039;achat est de 10</p>
+																				<!-- Data sheet -->
+					<section class="cdb-feature-box">
+																				<p><span>Pureté/titre :</span> 900‰</p>																											<p><span>Poids :</span> 25g</p>																																																																																																												<p><span>Valeur Faciale :</span> 5 Francs</p>																																													</section>
+					<!--end Data sheet -->
+								</div>
+
+				<div class="center-block block-cotation col-xs-6 col-sm-6 col-md-2 ">
+											<p class="cotation-date">Au 22/11/2023</p>
+						<p class="cotation-price">15,73 €</p>
+						<p class="cotation-picto">
+							<span></span>
+						</p>
+						<p class="cotation-taux"> 0.00 %</p>
+									</div>
+
+				<div class="right-block col-xs-6 col-sm-6 col-md-3">
+					<div class="right-block-content row">
+												<div class="content_price">
+								                            
+								<span class="price product-price">
+									20,30 €								</span>
+																
+								
+	                            
+													</div>
+												<div class = "block-quantity">
+							<input type="number" data-id-product="71" name="qty" class="text quantity-piece" data-price="20.3"  value="10">
+							<span class="total_p_71"> = 203,00 €</span>
+						</div>
+
+						<div class="button-container">
+																																	<a class="cdb-button ajax_add_to_cart_button cdb-addtocart-pcat ajax_add_71" href="https://www.changedelabourse.com/panier?add=1&amp;id_product=71&amp;token=c8ff73ea9dc9f271328ecb4fc2c3a563" rel="nofollow" title="Ajouter au panier" data-id-product="71" data-minimal_quantity="10"  data-qty="10" data-pricerachat='14.2'>
+										<span>Ajouter au panier</span>
+									</a>
+																					</div>
+
+						<div class="clearfix"></div>
+						
+											</div>
+				</div>
+					 				<div class="functional-buttons clearfix">
+						
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="produit-box ajax_block_product col-xs-12 first-in-line last-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container"  >
+				<div class="left-block col-xs-6 col-sm-6 col-md-3">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.changedelabourse.com/argent/pieces-argent-francaises/100-francs-argent" title="100 Francs Argent" >
+							<img class="replace-2x img-responsive" src="https://www.changedelabourse.com/220-home_default/100-francs-argent.jpg" alt="100 Francs Argent" title="100 Francs Argent"  width="250" height="250"  />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+						</div>
+																			<div class="content_price"   >
+																	<span  class="price product-price">
+                                        
+										11,20 €									</span>
+									<meta  content="EUR" />
+																											
+									
+															</div>
+																	</div>
+										
+				</div>
+				<div class="center-block col-xs-6 col-sm-6 col-md-4">
+					<span >
+												<a class="product-name" href="https://www.changedelabourse.com/argent/pieces-argent-francaises/100-francs-argent" title="100 Francs Argent"  >
+							100 Francs Argent
+						</a>
+					</span>
+											<p class="alqty">La quantit&eacute; minimale d&#039;achat est de 30</p>
+																				<!-- Data sheet -->
+					<section class="cdb-feature-box">
+																				<p><span>Pureté/titre :</span> 900‰</p>																											<p><span>Poids :</span> 15g</p>																																																																																																																																																																		<p><span>Valeur Faciale :</span> 100 Francs</p>																																													</section>
+					<!--end Data sheet -->
+								</div>
+
+				<div class="center-block block-cotation col-xs-6 col-sm-6 col-md-2 ">
+											<p class="cotation-date">Au 22/11/2023</p>
+						<p class="cotation-price">9,44 €</p>
+						<p class="cotation-picto">
+							<span></span>
+						</p>
+						<p class="cotation-taux"> 0.00 %</p>
+									</div>
+
+				<div class="right-block col-xs-6 col-sm-6 col-md-3">
+					<div class="right-block-content row">
+												<div class="content_price">
+								                            
+								<span class="price product-price">
+									11,20 €								</span>
+																
+								
+	                            
+													</div>
+												<div class = "block-quantity">
+							<input type="number" data-id-product="72" name="qty" class="text quantity-piece" data-price="11.2"  value="30">
+							<span class="total_p_72"> = 336,00 €</span>
+						</div>
+
+						<div class="button-container">
+																																	<a class="cdb-button ajax_add_to_cart_button cdb-addtocart-pcat ajax_add_72" href="https://www.changedelabourse.com/panier?add=1&amp;id_product=72&amp;token=c8ff73ea9dc9f271328ecb4fc2c3a563" rel="nofollow" title="Ajouter au panier" data-id-product="72" data-minimal_quantity="30"  data-qty="30" data-pricerachat='8.5'>
+										<span>Ajouter au panier</span>
+									</a>
+																					</div>
+
+						<div class="clearfix"></div>
+						
+											</div>
+				</div>
+					 				<div class="functional-buttons clearfix">
+						
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="produit-box ajax_block_product col-xs-12 first-item-of-tablet-line">
+			<div class="product-container"  >
+				<div class="left-block col-xs-6 col-sm-6 col-md-3">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.changedelabourse.com/argent/pieces-argent-francaises/5-francs-semeuse" title="5 Francs semeuse" >
+							<img class="replace-2x img-responsive" src="https://www.changedelabourse.com/289-home_default/5-francs-semeuse.jpg" alt="5 Francs semeuse" title="5 Francs semeuse"  width="250" height="250"  />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+						</div>
+																			<div class="content_price"   >
+																	<span  class="price product-price">
+                                        
+										7,70 €									</span>
+									<meta  content="EUR" />
+																											
+									
+															</div>
+																	</div>
+										
+				</div>
+				<div class="center-block col-xs-6 col-sm-6 col-md-4">
+					<span >
+												<a class="product-name" href="https://www.changedelabourse.com/argent/pieces-argent-francaises/5-francs-semeuse" title="5 Francs semeuse"  >
+							5 Francs semeuse
+						</a>
+					</span>
+											<p class="alqty">La quantit&eacute; minimale d&#039;achat est de 30</p>
+																				<!-- Data sheet -->
+					<section class="cdb-feature-box">
+																				<p><span>Pureté/titre :</span> 835‰</p>																											<p><span>Poids :</span> 12g</p>																																																																																																																																																																		<p><span>Valeur Faciale :</span> 5 Francs</p>																																													</section>
+					<!--end Data sheet -->
+								</div>
+
+				<div class="center-block block-cotation col-xs-6 col-sm-6 col-md-2 ">
+											<p class="cotation-date">Au 22/11/2023</p>
+						<p class="cotation-price">7,00 €</p>
+						<p class="cotation-picto">
+							<span></span>
+						</p>
+						<p class="cotation-taux"> 0.00 %</p>
+									</div>
+
+				<div class="right-block col-xs-6 col-sm-6 col-md-3">
+					<div class="right-block-content row">
+												<div class="content_price">
+								                            
+								<span class="price product-price">
+									7,70 €								</span>
+																
+								
+	                            
+													</div>
+												<div class = "block-quantity">
+							<input type="number" data-id-product="105" name="qty" class="text quantity-piece" data-price="7.7"  value="30">
+							<span class="total_p_105"> = 231,00 €</span>
+						</div>
+
+						<div class="button-container">
+																																	<a class="cdb-button ajax_add_to_cart_button cdb-addtocart-pcat ajax_add_105" href="https://www.changedelabourse.com/panier?add=1&amp;id_product=105&amp;token=c8ff73ea9dc9f271328ecb4fc2c3a563" rel="nofollow" title="Ajouter au panier" data-id-product="105" data-minimal_quantity="30"  data-qty="30" data-pricerachat='6.1'>
+										<span>Ajouter au panier</span>
+									</a>
+																					</div>
+
+						<div class="clearfix"></div>
+						
+											</div>
+				</div>
+					 				<div class="functional-buttons clearfix">
+						
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="produit-box ajax_block_product col-xs-12 last-in-line last-item-of-tablet-line last-item-of-mobile-line">
+			<div class="product-container"  >
+				<div class="left-block col-xs-6 col-sm-6 col-md-3">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.changedelabourse.com/argent/pieces-argent-francaises/2-francs-semeuse" title="2 Francs Semeuse" >
+							<img class="replace-2x img-responsive" src="https://www.changedelabourse.com/196-home_default/2-francs-semeuse.jpg" alt="2 Francs Semeuse" title="2 Francs Semeuse"  width="250" height="250"  />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+						</div>
+																			<div class="content_price"   >
+																	<span  class="price product-price">
+                                        
+										7,60 €									</span>
+									<meta  content="EUR" />
+																											
+									
+															</div>
+																	</div>
+										
+				</div>
+				<div class="center-block col-xs-6 col-sm-6 col-md-4">
+					<span >
+												<a class="product-name" href="https://www.changedelabourse.com/argent/pieces-argent-francaises/2-francs-semeuse" title="2 Francs Semeuse"  >
+							2 Francs Semeuse
+						</a>
+					</span>
+											<p class="alqty">La quantit&eacute; minimale d&#039;achat est de 50</p>
+																				<!-- Data sheet -->
+					<section class="cdb-feature-box">
+																				<p><span>Pureté/titre :</span> 835‰</p>																											<p><span>Poids :</span> 10g</p>																																																																																																																																																																		<p><span>Valeur Faciale :</span> 2 Francs</p>																																													</section>
+					<!--end Data sheet -->
+								</div>
+
+				<div class="center-block block-cotation col-xs-6 col-sm-6 col-md-2 ">
+											<p class="cotation-date">Au 22/11/2023</p>
+						<p class="cotation-price">5,84 €</p>
+						<p class="cotation-picto">
+							<span></span>
+						</p>
+						<p class="cotation-taux"> 0.00 %</p>
+									</div>
+
+				<div class="right-block col-xs-6 col-sm-6 col-md-3">
+					<div class="right-block-content row">
+												<div class="content_price">
+								                            
+								<span class="price product-price">
+									7,60 €								</span>
+																
+								
+	                            
+													</div>
+												<div class = "block-quantity">
+							<input type="number" data-id-product="68" name="qty" class="text quantity-piece" data-price="7.6"  value="50">
+							<span class="total_p_68"> = 380,00 €</span>
+						</div>
+
+						<div class="button-container">
+																																	<a class="cdb-button ajax_add_to_cart_button cdb-addtocart-pcat ajax_add_68" href="https://www.changedelabourse.com/panier?add=1&amp;id_product=68&amp;token=c8ff73ea9dc9f271328ecb4fc2c3a563" rel="nofollow" title="Ajouter au panier" data-id-product="68" data-minimal_quantity="50"  data-qty="50" data-pricerachat='5'>
+										<span>Ajouter au panier</span>
+									</a>
+																					</div>
+
+						<div class="clearfix"></div>
+						
+											</div>
+				</div>
+					 				<div class="functional-buttons clearfix">
+						
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="produit-box ajax_block_product col-xs-12 first-in-line last-line first-item-of-tablet-line first-item-of-mobile-line last-mobile-line">
+			<div class="product-container"  >
+				<div class="left-block col-xs-6 col-sm-6 col-md-3">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.changedelabourse.com/argent/pieces-argent-francaises/1-franc-semeuse" title="1 Franc Semeuse" >
+							<img class="replace-2x img-responsive" src="https://www.changedelabourse.com/198-home_default/1-franc-semeuse.jpg" alt="1 Franc Semeuse" title="1 Franc Semeuse"  width="250" height="250"  />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+						</div>
+																			<div class="content_price"   >
+																	<span  class="price product-price">
+                                        
+										3,50 €									</span>
+									<meta  content="EUR" />
+																											
+									
+															</div>
+																	</div>
+										
+				</div>
+				<div class="center-block col-xs-6 col-sm-6 col-md-4">
+					<span >
+												<a class="product-name" href="https://www.changedelabourse.com/argent/pieces-argent-francaises/1-franc-semeuse" title="1 Franc Semeuse"  >
+							1 Franc Semeuse
+						</a>
+					</span>
+											<p class="alqty">La quantit&eacute; minimale d&#039;achat est de 50</p>
+																				<!-- Data sheet -->
+					<section class="cdb-feature-box">
+																				<p><span>Pureté/titre :</span> 835‰</p>																											<p><span>Poids :</span> 5g</p>																																																																																																																																																																		<p><span>Valeur Faciale :</span> 1 Francs</p>																																													</section>
+					<!--end Data sheet -->
+								</div>
+
+				<div class="center-block block-cotation col-xs-6 col-sm-6 col-md-2 ">
+											<p class="cotation-date">Au 22/11/2023</p>
+						<p class="cotation-price">2,92 €</p>
+						<p class="cotation-picto">
+							<span></span>
+						</p>
+						<p class="cotation-taux"> 0.00 %</p>
+									</div>
+
+				<div class="right-block col-xs-6 col-sm-6 col-md-3">
+					<div class="right-block-content row">
+												<div class="content_price">
+								                            
+								<span class="price product-price">
+									3,50 €								</span>
+																
+								
+	                            
+													</div>
+												<div class = "block-quantity">
+							<input type="number" data-id-product="69" name="qty" class="text quantity-piece" data-price="3.5"  value="50">
+							<span class="total_p_69"> = 175,00 €</span>
+						</div>
+
+						<div class="button-container">
+																																	<a class="cdb-button ajax_add_to_cart_button cdb-addtocart-pcat ajax_add_69" href="https://www.changedelabourse.com/panier?add=1&amp;id_product=69&amp;token=c8ff73ea9dc9f271328ecb4fc2c3a563" rel="nofollow" title="Ajouter au panier" data-id-product="69" data-minimal_quantity="50"  data-qty="50" data-pricerachat='2.1'>
+										<span>Ajouter au panier</span>
+									</a>
+																					</div>
+
+						<div class="clearfix"></div>
+						
+											</div>
+				</div>
+					 				<div class="functional-buttons clearfix">
+						
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="produit-box ajax_block_product col-xs-12 last-line last-item-of-tablet-line last-mobile-line">
+			<div class="product-container"  >
+				<div class="left-block col-xs-6 col-sm-6 col-md-3">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://www.changedelabourse.com/argent/pieces-argent-francaises/50-cts-semeuse" title="50 Cts Semeuse" >
+							<img class="replace-2x img-responsive" src="https://www.changedelabourse.com/200-home_default/50-cts-semeuse.jpg" alt="50 Cts Semeuse" title="50 Cts Semeuse"  width="250" height="250"  />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+						</div>
+																			<div class="content_price"   >
+																	<span  class="price product-price">
+                                        
+										1,90 €									</span>
+									<meta  content="EUR" />
+																											
+									
+															</div>
+																	</div>
+										
+				</div>
+				<div class="center-block col-xs-6 col-sm-6 col-md-4">
+					<span >
+												<a class="product-name" href="https://www.changedelabourse.com/argent/pieces-argent-francaises/50-cts-semeuse" title="50 Cts Semeuse"  >
+							50 Cts Semeuse
+						</a>
+					</span>
+											<p class="alqty">La quantit&eacute; minimale d&#039;achat est de 50</p>
+																				<!-- Data sheet -->
+					<section class="cdb-feature-box">
+																				<p><span>Pureté/titre :</span> 835‰</p>																											<p><span>Poids :</span> 2.5 </p>																																																																																																																																																																																				</section>
+					<!--end Data sheet -->
+								</div>
+
+				<div class="center-block block-cotation col-xs-6 col-sm-6 col-md-2 ">
+											<p class="cotation-date">Au 22/11/2023</p>
+						<p class="cotation-price">1,46 €</p>
+						<p class="cotation-picto">
+							<span></span>
+						</p>
+						<p class="cotation-taux"> 0.00 %</p>
+									</div>
+
+				<div class="right-block col-xs-6 col-sm-6 col-md-3">
+					<div class="right-block-content row">
+												<div class="content_price">
+								                            
+								<span class="price product-price">
+									1,90 €								</span>
+																
+								
+	                            
+													</div>
+												<div class = "block-quantity">
+							<input type="number" data-id-product="70" name="qty" class="text quantity-piece" data-price="1.9"  value="50">
+							<span class="total_p_70"> = 95,00 €</span>
+						</div>
+
+						<div class="button-container">
+																																	<a class="cdb-button ajax_add_to_cart_button cdb-addtocart-pcat ajax_add_70" href="https://www.changedelabourse.com/panier?add=1&amp;id_product=70&amp;token=c8ff73ea9dc9f271328ecb4fc2c3a563" rel="nofollow" title="Ajouter au panier" data-id-product="70" data-minimal_quantity="50"  data-qty="50" data-pricerachat='1.2'>
+										<span>Ajouter au panier</span>
+									</a>
+																					</div>
+
+						<div class="clearfix"></div>
+						
+											</div>
+				</div>
+					 				<div class="functional-buttons clearfix">
+						
+											</div>
+							</div><!-- .product-container> -->
+		</li>
+		</ul>
+
+
+
+
+
+		
+        
+	
+	</div><!-- #center_column -->
+    			<div id="right_column" class="col-xs-12 col-sm-3 column"><div class="block-right-top">
+	<div class="right-box voiraussi">
+		<span class="h4">VOIR AUSSI ...</span>
+		<ul>
+			                				<li><a href="https://www.changedelabourse.com/argent/lingots-lingotins">Lingots / Lingotins</a></li>
+                			                				<li><a href="https://www.changedelabourse.com/argent/pieces-argent-francaises">Pièces Argent Françaises</a></li>
+                			                				<li><a href="https://www.changedelabourse.com/argent/pieces-argent-modernes">Pièces Argent Modernes</a></li>
+                			                				<li><a href="https://www.changedelabourse.com/argent/gros-volumes-argent">Gros Volumes Argent</a></li>
+                					</ul>
+	</div>
+	<div style="margin-bottom: 30px;text-align: center;">
+		<!-- eKomiWidget START -->
+	<div id="eKomiWidget_default"></div>
+	<!-- eKomiWidget END -->
+
+	<!-- eKomiLoader START, only needed once per page -->
+	
+		
+		<!-- eKomiLoader END, only needed once per page —>
+	
+--> </div>
+<div class="right-box commentacheter">
+<span class="h4">COMMENT ACHETER</span>
+<ul>
+<li><a href="/comment-acheter">Suivez le guide</a></li>
+</ul>
+</div>
+<div class="right-box avantage">
+<span class="h4">AVANTAGES</span>
+<ul>
+<li><span class="cb_right_nota">Pièces sous scellés</span></li>
+<li><span class="cb_right_nota">Livraison sécurisée</span></li>
+<li><span class="cb_right_nota">Prix compétitifs</span></li>
+<li><span class="cb_right_nota">Transactions sécurisées</span></li>
+<li><span class="cb_right_nota">Agréé par la Banque de France</span></li>
+</ul>
+</div>
+<div class="right-box contacteznous">
+<span class="h4">CONTACTEZ-NOUS</span>
+<div class="box">
+<p><span class="cn1">CHANGE DE LA BOURSE</span><br /> <span class="cn2">28 rue Vivienne, 75002 Paris<br />Tel : 01 40 28 11 11<br />Ouverture : Du lundi au vendredi de 9h30 à 18h</span></p>
+<a class="message" href="/nous-contacter"><img src="/themes/cdb-template/img/picto/message.png" alt="ENVOYER UN MESSAGE" />ENVOYER UN MESSAGE</a></div>
+</div>
+<div class="right-box lerachat">
+<span class="h4">LE RACHAT DE VOTRE OR</span>
+<ul>
+<li><a href="/vendez-votre-vieil-or">Découvrir nos services de rachat</a></li>
+</ul>
+</div><!-- eKomiWidget START --><div id="eKomiWidget_default"></div><!-- eKomiWidget END --><!-- eKomiLoader START, only needed once per page --><!-- eKomiLoader END, only needed once per page --><br clear="left" /><br />
+
+
+<div class="right-box chart-oargent">
+	<!-- Nav tabs -->
+	<ul class="nav nav-tabs cdb-nav-tabs" role="tablist">
+		<li role="presentation" class="active rchartor"><a class="hor" href="#or" aria-controls="or" role="tab" data-toggle="tab">OR</a></li>
+		<li role="presentation" class="rchartargent"><a class="hargent rchart" href="#argent" aria-controls="argent" role="tab" data-toggle="tab">ARGENT</a></li>
+	</ul>
+	
+	<!-- Tab panes -->
+	<div class="tab-content" id="right-chart">
+		<div role="tabpanel" class="tab-pane active" id="or">
+			<div id="c_g"></div>
+		</div>
+		<div role="tabpanel" class="tab-pane active" id="argent">
+			<div id="c_s"></div>
+		</div>
+	</div>
+	<div class="bottom">
+		<div class="col-xs-6 col-sm-6 col-md-6 no-padding or">
+			<p class="p-title">OR</p>
+			<p class="p-price">59,06 €/g</p>
+		</div>
+		<div class="col-xs-6 col-sm-6 col-md-6 no-padding argent">
+			<p class="p-title">ARGENT</p>
+			<p class="p-price">0,70 €/g</p>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</div>
+</div>
+    	</div><!-- .row -->
+	</div><!-- #columns -->
+	</div><!-- .columns-container -->
+    			<!-- Footer -->
+			<div class="footer-container">
+				<footer id="footer">
+					<div class="row"><!-- Block Newsletter module-->
+<div class="container">
+<div id="newsletter_block_left" >
+	<span class="h4">Newsletter</span>
+	<div id="cdb-news-msg"></div>
+	<div class="block_content">
+		<form action="//www.changedelabourse.com/?" method="post">
+			<div class="form-group" >
+				<input class="inputNew form-control grey newsletter-input" id="newsletter-input" type="text" name="email" size="18" placeholder="S'inscrire à la newsletter" />
+                <button type="submit" name="submitNewsletter" class="btn btn-default button button-small">
+                    <span>Ok</span>
+                </button>
+				<input type="hidden" name="action" value="0" />
+			</div>
+		</form>
+	</div>
+    
+</div>
+<!-- /Block Newsletter module-->
+<section id="social_block" class="pull-right">
+	<span class="h4">Retrouvez nous</span>
+	<ul>
+					<li class="facebook">
+				<a class="_blank" href="https://www.facebook.com/changedelabourse">
+					<span>Facebook</span>
+				</a>
+			</li>
+							<li class="twitter">
+				<a class="_blank" href="https://twitter.com/ChangeBourse">
+					<span>Twitter</span>
+				</a>
+			</li>
+				                        	<li class="google-plus">
+        		<a class="_blank" href="https://plus.google.com/u/0/100806056794902862943/about">
+        			<span>Google Plus</span>
+        		</a>
+        	</li>
+                                	</ul>
+</section>
+<div class="clearfix"></div>
+</div>
+<div class="block-footer-info">
+<div class="container col-xs-12 col-sm-12 col-md-12 no-padding">
+<div class="col-xs-12 col-sm-6 col-md-6 no-padding">
+<div class="col-xs-6 col-sm-6 col-md-6 cdb-finfo-box cdb-p1">
+<div class="pictoBlack schemaImg"> </div>
+<div class="type-text">
+<span>Prix en temps réel</span>
+<p>en fonction des cours les plus compétitifs</p>
+</div>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-6 cdb-finfo-box cdb-p2">
+<div class="pictoBlack chekImg"> </div>
+<div class="type-text">
+<span>Garantie de la qualité</span>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 no-padding">
+<div class="col-xs-6 col-sm-6 col-md-6 cdb-finfo-box cdb-p3">
+<div class="pictoBlack cadenasImg"> </div>
+<div class="type-text">
+<span>Transaction sécurisée</span>
+<img src="/themes/cdb-template/img/picto/paiement.png" alt="" /></div>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-6 cdb-finfo-box cdb-p4">
+<div class="pictoBlack walletImg"> </div>
+<div class="type-text">
+<span>Fiscalité avantageuse</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block-plogo container">
+<div class="col-xs-12 col-sm-4 col-md-4 plogo "><img src="/themes/cdb-template/img/plogo/plogo1.jpg" width="109" height="40" alt="" /> <img src="/themes/cdb-template/img/plogo/plogo2.jpg" alt=""  width="109" height="40" /> <img src="/themes/cdb-template/img/plogo/BP-logo.png"  width="109" height="40" alt="" /></div>
+<div class="col-xs-12 col-sm-4 col-md-4 plogo"><img src="/themes/cdb-template/img/plogo/plogo4.png" alt=""  width="109" height="40" /> <img src="/themes/cdb-template/img/plogo/plogo5.png" alt="" width="109" height="40" /> <img src="/themes/cdb-template/img/plogo/plogo6.png"  width="109" height="40" alt="" /></div>
+<div class="col-xs-12 col-sm-4 col-md-4 plogo "><img src="/themes/cdb-template/img/plogo/plogo7.png" alt=""  width="109" height="40" /> <img src="/themes/cdb-template/img/plogo/plogo8.png" alt=""  width="109" height="40" /> <img src="/themes/cdb-template/img/plogo/plogo9.png" alt=""  width="109" height="40" /></div>
+</div><div class="cdb-prefooter">
+<div class="container">
+<section id="block_various_links_footer" class="footer-block cdb-footer-link col-xs-12 col-sm-4 col-md-2 col-lg-2 "><span>OR</span>
+<ul class="toggle-footer">
+<li class="item"><a title="OR d'investissement" href="/or/pieces-d-or-d-investissement"> OR d'investissement </a></li>
+<li class="item"><a title="Pièces modernes" href="/or/pieces-d-or-modernes"> Pièces modernes </a></li>
+<li class="item"><a title="Lingots / Lingotins" href="/or/lingots-lingotins"> Lingots / Lingotins </a></li>
+<li class="item"><a title="Vendre ses bijoux" href="/vendez-votre-vieil-or"> Vendre ses bijoux </a></li>
+</ul>
+</section>
+<section id="block_various_links_footer" class="footer-block cdb-footer-link col-xs-12  col-sm-4 col-md-2 col-lg-2 col-lg-2"><span>ARGENT</span>
+<ul class="toggle-footer">
+<li class="item"><a title="Pieces modernes" href="/argent/pieces-argent-modernes"> Pieces modernes </a></li>
+<li class="item"><a title="Pieces francaises" href="/argent/pieces-argent-francaises"> Pieces francaises </a></li>
+<li class="item"><a title="Lingots / Lingotins" href="/argent/lingots-lingotins"> Lingots / Lingotins </a></li>
+</ul>
+</section>
+<section id="block_various_links_footer" class="footer-block cdb-footer-link col-xs-12  col-sm-4 col-md-2 col-lg-2 col-lg-2"><span>DEVISES</span>
+<ul class="toggle-footer">
+<li class="item"><a title="Devises principales" href="/devises/devises-principales"> Devises principales </a></li>
+<li class="item"><a title="Devises exotiques" href="/devises/devises-exotiques"> Devises exotiques </a></li>
+</ul>
+</section>
+<section id="block_various_links_footer" class="footer-block cdb-footer-link col-xs-12  col-sm-6 col-md-2 col-lg-3"><span>Informations pratiques</span>
+<ul class="toggle-footer">
+<li class="item"><a title="Comment acheter" href="/comment-acheter"> Comment acheter </a></li>
+<li class="item"><a title="5 raisons d'acheter de l'or" href="/5-raisons-pour-acheter-de-l-or"> 5 raisons d'acheter de l'or </a></li>
+<li class="item"><a title="Conditionnement et facturation" href="/facturation-conditionnement-change-de-la-bourse"> Conditionnement et facturation </a></li>
+<li class="item"><a title="Fiscalité" href="/fiscalite-sur-les-metaux-precieux"> Fiscalité </a></li>
+<li class="item"><a title="Service aux professionnels" href="/service-aux-professionnels"> Service aux professionnels </a></li>
+<li class="item"><a title="Législation" href="/legislation"> Législation </a></li>
+<li class="item"><a href="https://www.changedelabourse.com/lutte-contre-le-blanchiment-d-argent-et-le-financement-du-terrorisme-lab-ft">Lutte contre le blanchiment d'argent et le financement du terrorisme (LAB-FT)</a></li>
+<li class="item"><a title="Gardiennage" href="/garde-en-coffre-gardiennage"> Gardiennage </a></li>
+<li class="item"><a title="CGV" href="/conditions-generales-de-vente-acheter-vendre-or-argent-devises">CGV</a></li>
+</ul>
+</section>
+<section id="block_various_links_footer" class="footer-block cdb-footer-link col-xs-12  col-sm-6 col-md-2 col-lg-3"><span>GARANTIES</span>
+<ul class="toggle-footer">
+<li class="item"><a title="Livraisons rapides et sécurisées" href="/livraison"> Livraisons rapides et sécurisées </a></li>
+<li class="item"><a title="Pièces sous scellés bancaire gratuits" href="/facturation-conditionnement-change-de-la-bourse"> Pièces sous scellés bancaire gratuits </a></li>
+<li class="item"><a title="Prix calculés en fonction des cours de bourse" href="/cours-de-lor-et-argent"> Prix calculés en fonction des cours de bourse </a></li>
+<li class="item"><a title="SpecPartage et successionials" href="/partages-et-successions"> Partage et succession </a></li>
+<li class="item"><a title="ISF" href="/isf"> ISF </a></li>
+</ul>
+</section>
+</div>
+</div><section id="block_various_links_footer" class="footer-block col-xs-12 col-sm-12 block_cdb_footer">
+<ul class="footer_links container">
+<li><a href="/qui-sommes-nous">Qui sommes nous</a></li>
+<li><a href="/mentions-legales">Mentions légales</a></li>
+<li><a href="/conditions-generales-de-vente-acheter-vendre-or-argent-devises">CGV</a></li>
+<li><a href="/nous-contacter">Nous Contacter</a></li>
+<li><a href="/garde-en-coffre-gardiennage">Gardiennage</a></li>
+<li><a href="/blog">Blog</a></li>
+</ul>
+</section>
+<div class="cdb-copyright">
+<div class="container">
+<p>© 2022 Change de la Bourse</p>
+</div>
+</div>
+<style>
+
+.closebutton {
+    cursor:pointer;
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f9f9f9), color-stop(1, #e9e9e9) );
+	background:-moz-linear-gradient( center top, #f9f9f9 5%, #e9e9e9 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f9f9f9', endColorstr='#e9e9e9');
+	background-color:#f9f9f9;
+	-webkit-border-top-left-radius:5px;
+	-moz-border-radius-topleft:5px;
+	border-top-left-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	-moz-border-radius-topright:5px;
+	border-top-right-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	-moz-border-radius-bottomright:5px;
+	border-bottom-right-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-moz-border-radius-bottomleft:5px;
+	border-bottom-left-radius:5px;
+	text-indent:0px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#666666!important;
+	font-family:Arial;
+	font-size:14px;
+	font-weight:bold;
+	font-style:normal;
+	height:25px;
+	line-height:25px;
+	text-decoration:none;
+	text-align:center;
+    padding:0px 10px;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.closebutton:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #e9e9e9), color-stop(1, #f9f9f9) );
+	background:-moz-linear-gradient( center top, #e9e9e9 5%, #f9f9f9 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#e9e9e9', endColorstr='#f9f9f9');
+	background-color:#e9e9e9;
+}.closebutton:active {
+	position:relative;
+	top:1px;
+}
+
+
+#cookieNotice p {margin:0px; padding:0px;}
+
+</style>
+<div id="cookieNotice" style="
+width: 100%; 
+position: fixed; 
+bottom:0px;
+box-shadow: 0px 0 10px 0 #454749;
+background: #434547;
+z-index: 9999;
+font-size: 14px;
+line-height: 1.3em;
+font-family: arial;
+left: 0px;
+text-align:center;
+color:#FFF;
+opacity: 
+">
+    <div id="cookieNoticeContent" style="position:relative; margin:auto; padding:10px; width:90%; display:block;">
+    <table style="width:100%;">
+      <td style="text-align:center;">
+        <span style="color: #ffffff;">Les Cookies nous aident dans le bon fonctionnement de nos services. En utilisant nos services, vous acceptez l'utilisation de cookies  .</span>
+      </td>
+      <td style="width:80px; vertical-align:middle; padding-right:20px; text-align:right;">
+    	<span id="cookiesClose" class="cdb-button" style="width:120px;cursor: pointer;"  onclick="
+                        
+            $('#cookieNotice').animate(
+            {bottom: '-200px'}, 
+            2500, function(){
+                $('#cookieNotice').hide();
+            }); setcook();
+            ">
+            <span>J'accepte</span>
+                    </span>
+     </td>
+     </table>
+    </div>
+</div></div>
+				</footer>
+			</div>
+			<!-- #footer -->
+    	</div><!-- #page -->
+
+    		
+			<!-- eKomiLoader END, only needed once per page -->
+			
+		
+	 
+
+
+
+
+
+			<!--script src="//code.tidio.co/bj3yymlvnclwgijkwmt6xmlebonko3qj.js" defer async></--script-->
+<script type="text/javascript">/* <![CDATA[ */;var CUSTOMIZE_TEXTFIELD=1;var FancyboxI18nClose='Fermer';var FancyboxI18nNext='Suivant';var FancyboxI18nPrev='Pr&eacute;c&eacute;dent';var ajax_allowed=true;var ajaxsearch=true;var baseDir='https://www.changedelabourse.com/';var baseUri='https://www.changedelabourse.com/';var blocksearch_type='top';var comparator_max_item=0;var comparedProductsIds=[];var contentOnly=false;var currency={"id":1,"name":"Euro","iso_code":"EUR","iso_code_num":"978","sign":"\u20ac","blank":"1","conversion_rate":"1.000000","deleted":"0","format":"2","decimals":"1","active":"1","prefix":"","suffix":" \u20ac","id_shop_list":null,"force_id":false};var currencyBlank=1;var currencyFormat=2;var currencyRate=1;var currencySign='€';var customizationIdMessage='Personnalisation';var delete_txt='Supprimer';var displayList=false;var freeProductTranslation='Offert !';var freeShippingTranslation='Livraison gratuite !';var generated_date=1700645485;var hasDeliveryAddress=false;var id_lang=1;var img_dir='https://www.changedelabourse.com/themes/cdb-template/img/';var instantsearch=false;var isGuest=0;var isLogged=0;var isMobile=false;var max_item='Vous ne pouvez pas ajouter plus de 0 produit(s) dans le comparateur.';var min_item='Veuillez choisir au moins 1 produit.';var page_name='category';var placeholder_blocknewsletter='S\'inscrire à la newsletter';var priceDisplayMethod=0;var priceDisplayPrecision=2;var qp_ajax='/modules/quickpass/ajax.php';var quickView=true;var rates_g='[["6h",58785.7],["6h",58789.2],["6h",58814],["6h",58807.6],["5h",58812.7],["5h",58807.6],["5h",58811.4],["5h",58850],["4h",58860.3],["4h",58914.3],["4h",58935.2],["3h",58886.3],["3h",58887.3],["3h",58895.7],["3h",58884.7],["3h",58918.8],["3h",58929.4],["3h",58976.4],["2h",58986.3],["2h",58987.6],["2h",59019.8],["2h",59023.3],["1h",59004.3],["1h",59003.4],["1h",59007.9],["1h",59014.3],["1h",59031],["1h",59070.3],["1h",59066.4],["0h",59046.8],["0h",59062.9],["0h",59079.9],["0h",59063.5],["0h",59056.7]]';var rates_s='[["6h",699.29],["6h",699.81],["6h",699.49],["6h",699.47],["5h",699.73],["5h",699.58],["5h",699.54],["5h",700.89],["4h",701.24],["4h",701.63],["4h",701.46],["3h",701.11],["3h",701.34],["3h",701.56],["3h",700.39],["3h",700.26],["3h",700.24],["3h",702.25],["2h",701.75],["2h",701.61],["2h",702.08],["2h",702.32],["1h",701.79],["1h",701.95],["1h",702.54],["1h",702.72],["1h",703.01],["1h",703.89],["1h",704.7],["0h",702.96],["0h",701.53],["0h",702.48],["0h",702.2],["0h",702.85]]';var removingLinkText='supprimer cet article du panier';var roundMode=2;var search_url='https://www.changedelabourse.com/recherche';var static_token='c8ff73ea9dc9f271328ecb4fc2c3a563';var toBeDetermined='À définir';var token='67460ce8ba1af49d8cec8179b8224cdb';var usingSecureMode=true;/* ]]> */</script>
+<script type="text/javascript" src="/themes/cdb-template/js/recaptcha/api.js"></script>
+<script type="text/javascript" src="/themes/cdb-template/js/sweetalert/sweetalert.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="/js/jquery/plugins/jquery.easing.js"></script>
+<script type="text/javascript" src="/js/tools.js"></script>
+<script type="text/javascript" src="/themes/cdb-template/js/global.js"></script>
+<script type="text/javascript" src="/themes/cdb-template/js/autoload/10-bootstrap.min.js"></script>
+<script type="text/javascript" src="/themes/cdb-template/js/autoload/15-jquery.total-storage.min.js"></script>
+<script type="text/javascript" src="/themes/cdb-template/js/autoload/15-jquery.uniform-modified.js"></script>
+<script type="text/javascript" src="/themes/cdb-template/js/autoload/jquery.lettering.js"></script>
+<script type="text/javascript" src="/themes/cdb-template/js/autoload/main.js"></script>
+<script type="text/javascript" src="/themes/cdb-template/js/autoload/solead.js"></script>
+<script type="text/javascript" src="/js/jquery/plugins/fancybox/jquery.fancybox.js"></script>
+<script type="text/javascript" src="/themes/cdb-template/js/category.js"></script>
+<script type="text/javascript" src="/js/jquery/ui/jquery.ui.core.min.js"></script>
+<script type="text/javascript" src="/js/jquery/ui/jquery.ui.datepicker.min.js"></script>
+<script type="text/javascript" src="/js/jquery/ui/i18n/jquery.ui.datepicker-fr.js"></script>
+<script type="text/javascript" src="/modules/ala_prdv/views/js/front.js"></script>
+<script type="text/javascript" src="/themes/cdb-template/js/tools/treeManagement.js"></script>
+<script type="text/javascript" src="/js/jquery/plugins/autocomplete/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="/themes/cdb-template/js/modules/blocksearch/blocksearch.js"></script>
+<script type="text/javascript" src="/themes/cdb-template/js/modules/blocktopmenu/js/hoverIntent.js"></script>
+<script type="text/javascript" src="/themes/cdb-template/js/modules/blocktopmenu/js/superfish-modified.js"></script>
+<script type="text/javascript" src="/themes/cdb-template/js/modules/blocktopmenu/js/blocktopmenu.js"></script>
+<script type="text/javascript" src="/modules/netreviews/views/js/avisverifies-tpl.js"></script>
+<script type="text/javascript" src="/modules/gsnippetsreviews/views/js/module.js"></script>
+<script type="text/javascript" src="/modules/gsnippetsreviews/views/js/jquery.star-rating.min.js"></script>
+<script type="text/javascript" src="/modules/ekomiratingsandreviews/views/js/jquery-3.1.1.min.js"></script>
+<script type="text/javascript" src="/modules/ekomiratingsandreviews/views/js/ekomi-prc.js"></script>
+<script type="text/javascript" src="/modules/cdc_googletagmanager/views/js/ajaxcart.js"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript" src="/themes/cdb-template/js/modules/sg_refresh/views/front.js"></script>
+<script type="text/javascript" src="/modules/custom_voucher/views/js/front.js"></script>
+<script type="text/javascript" src="/modules/quickpass/views/js/quickpass.fo.js"></script>
+<script type="text/javascript" src="/themes/cdb-template/js/modules/blockcart/ajax-cart.js"></script>
+<script type="text/javascript" src="/js/jquery/plugins/jquery.scrollTo.js"></script>
+<script type="text/javascript" src="/js/jquery/plugins/jquery.serialScroll.js"></script>
+<script type="text/javascript" src="/js/jquery/plugins/bxslider/jquery.bxslider.js"></script>
+<script type="text/javascript" src="/modules/devenirpro/views/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/modules/devenirpro/views/js/front.js"></script>
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=UA-61291890-8"></script>
+<script type="text/javascript">/* <![CDATA[ */;var gsr=gsr||new GsrModule('gsr');gsr.msgs={"delay":"Vous n'avez pas rempli un entier l'option d\u00e9calage","fbId":"Vous n'avez pas rempli un entier l'option Facebook app ID","fbsecret":"Vous n'avez pas rempli l'option Facebook secret","reviewDate":"Vous n'avez pas rempli la date de l'avis","title":"Vous n'avez pas rempli le titre","comment":"Vous n'avez pas rempli le commentaire","report":"Vous n'avez pas rempli le commentaire associ\u00e9 \u00e0 l'avis abusif","rating":"Vous n'avez pas s\u00e9lectionn\u00e9 de note pour l'avis","checkreview":"Vous n'avez pas s\u00e9lectionn\u00e9 d'avis","email":"Vous n'avez pas rempli votre adresse e-mail","vouchercode":"Vous n'avez pas rempli le code de r\u00e9duction","voucheramount":"Vous avez laiss\u00e9 0 comme valeur pour le bon de r\u00e9duction","voucherminimum":"Le montant minimum n'est pas un num\u00e9rique","vouchermaximum":"La quantit\u00e9 maximum n'est pas un num\u00e9rique","vouchervalidity":"Vous avez laiss\u00e9 0 pour la dur\u00e9e de validit\u00e9","tabTitle":{"1":"Vous n'avez pas rempli le titre pour la langue Fran\u00e7ais (French). Cliquez sur la liste d\u00e9roulante des langues afin de remplir correctement les champs dans chaque langue"}};gsr.sImgUrl='/modules/gsnippetsreviews/views/img/';gsr.sWebService='/modules/gsnippetsreviews/ws-gsnippetsreviews.php';window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','UA-61291890-8');;(function(){eKomiIntegrationConfig=new Array({certId:'242B02BB74191AB'});if(typeof eKomiIntegrationConfig!="undefined"){for(var eKomiIntegrationLoop=0;eKomiIntegrationLoop<eKomiIntegrationConfig.length;eKomiIntegrationLoop++){var eKomiIntegrationContainer=document.createElement('script');eKomiIntegrationContainer.type='text/javascript';eKomiIntegrationContainer.defer=true;eKomiIntegrationContainer.src=(document.location.protocol=='https:'?'https:':'http:')+"//connect.ekomi.de/integration_1516701869/"+eKomiIntegrationConfig[eKomiIntegrationLoop].certId+".js";document.getElementsByTagName("head")[0].appendChild(eKomiIntegrationContainer);}}else{if('console'in window){console.error('connectEkomiIntegration - Cannot read eKomiIntegrationConfig');}}})();(function(){eKomiIntegrationConfig=new Array({certId:'242B02BB74191AB'});if(typeof eKomiIntegrationConfig!="undefined"){for(var eKomiIntegrationLoop=0;eKomiIntegrationLoop<eKomiIntegrationConfig.length;eKomiIntegrationLoop++){var eKomiIntegrationContainer=document.createElement('script');eKomiIntegrationContainer.type='text/javascript';eKomiIntegrationContainer.defer=true;eKomiIntegrationContainer.src=(document.location.protocol=='https:'?'https:':'http:')+"//connect.ekomi.de/integration_1648205561/"+eKomiIntegrationConfig[eKomiIntegrationLoop].certId+".js";document.getElementsByTagName("head")[0].appendChild(eKomiIntegrationContainer);}}else{if('console'in window){console.error('connectEkomiIntegration - Cannot read eKomiIntegrationConfig');}}})();;$(function(){drawrSliver();$("#argent").removeClass("active");$(".rchartor").click(function(){setTimeout(drawGold,10);});$(".rchartargent").click(function(){setTimeout(drawrSliver,10);});});;function setcook(){var nazwa='cookie_ue';var wartosc='1';var expire=new Date();expire.setMonth(expire.getMonth()+12);document.cookie=nazwa+"="+escape(wartosc)+";path=/;"+((expire==null)?"":("; expires="+expire.toGMTString()))};(function(){var eKomiFeedbackButtonContainer=document.createElement('script');eKomiFeedbackButtonContainer.type='text/javascript';eKomiFeedbackButtonContainer.defer=true;eKomiFeedbackButtonContainer.src=(document.location.protocol=="https:"?"https:":"http:")+"//vf-js.ekomi.de/vf-3108-0a7766521e1057aefe16bbf3391b6a9d.js";document.getElementsByTagName("head")[0].appendChild(eKomiFeedbackButtonContainer);})();var tidioScript=document.createElement("script");tidioScript.type='text/javascript';tidioScript.async=true;tidioScript.src="//code.tidio.co/bj3yymlvnclwgijkwmt6xmlebonko3qj.js";setTimeout(function(){document.body.appendChild(tidioScript)},3000);/* ]]> */</script>
+</body></html>

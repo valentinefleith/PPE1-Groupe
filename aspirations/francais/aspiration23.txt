@@ -1,0 +1,736 @@
+<!DOCTYPE HTML>
+<html xml:lang="fr" lang="fr">
+	<head>
+			<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0">
+	<title>Argent : utilisations, symbolique et poincons du métal précieux</title>
+		<meta name="p:domain_verify" content="67725e72360b2d33d12207b5555e0829"/>
+	<meta name="description" content="L'Argent : découvrez tout sur l'argent dans notre guide sur les metaux précieux" />
+	<meta property="og:title" content="Argent : utilisations, symbolique et poincons du métal précieux | Bijouterie Trabbia Vuillermoz" />
+	<meta property="og:image" content="https://www.vuillermoz.fr/assets/images/logo.jpg" />
+	<meta property="og:url" content="https://www.vuillermoz.fr/page/argent" />
+	<meta property="og:description" content="L'Argent : découvrez tout sur l'argent dans notre guide sur les metaux précieux"/>
+	<meta property="og:type" content="website" />
+	<meta property="og:site_name" content="Bijouterie Trabbia Vuillermoz" />
+	
+	<script>
+	
+		var csrf_test_name="fe38961b7e733f667e9a8e9dcef7f64f";
+		var baseUrl = "https://www.vuillermoz.fr/";
+		var base_url = "https://www.vuillermoz.fr/";
+		
+	</script>
+	<link rel="Shortcut Icon" href="https://www.vuillermoz.fr/assets/images/favicon.png" />
+
+    
+	
+		<link rel="preload" href="https://www.vuillermoz.fr/assets/css/fonts/icfvuil3.woff2"  as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="https://www.vuillermoz.fr/assets/css/fonts/open-sans-v17-latin-700.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="https://www.vuillermoz.fr/assets/css/fonts/open-sans-v14-latin-regular.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="https://www.vuillermoz.fr/assets/css/fonts/dm-serif-text-v10-latin-regular.woff2" as="font" type="font/woff2" crossorigin>
+	
+
+		
+	<link href="https://www.vuillermoz.fr/assets/css/style-min.css?v=3" rel="stylesheet" type="text/css">
+	<script src="https://www.vuillermoz.fr/assets/js/js-head.js?v=1"></script>
+						
+		
+
+
+
+
+
+
+
+
+ 
+ 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K04HLW0XZG"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-K04HLW0XZG'); //ga4
+	gtag('config', 'AW-1060173369', { 'allow_enhanced_conversions':true });
+
+	</script>
+
+
+</head>
+<body>
+
+<header class="clearfix" id="headerSite">
+		
+	<div id="entete_header" class="clearfix">
+        <div class="overall">
+					<ul id="reassuranceNoel">
+              <li><i class="etoile-blanche" ></i></li>
+			  <li><i id="livraison-header"> </i> Livraison Offerte dès 100€</li>
+              <li><i id="ecrin-header"> </i> Ecrin & Paquet cadeau offerts</li> 
+			  			  <li><i id="echange-header"> </i> Echanges & remboursements jusqu'au 15 Janvier</li>
+			  			  
+              
+              <li><i id="tel-header"> </i> 04 50 41 31 72</li>
+              <li><i class="etoile-blanche"></i></li>
+            </ul>
+			        </div>
+    </div>
+	
+		
+		<div id="content_header" class="clearfix">
+		
+				<div class="overall">
+										
+				
+				<img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="Trabbia Vuillermoz" id="logo"  onclick="self.location=change('');"/> 
+				<div id="liens_header" >
+										<button id="lien_compte" onClick="self.location=change('hqnjsy')"><span class="logo_compte"></span><span>COMPTE</span></button>
+					<button id="lien_favori" onclick="self.location=change('kf{twnx')"><span class="logo_favoris"></span><span>FAVORIS</span></button>
+					<button id="lien_panier" onclick="self.location=change('ufsnjw')"><span class="logo_panier"></span>
+<span>PANIER </span></button>
+				</div>
+				  
+				<div id="recherche_libre"  > 
+					<form action="https://www.vuillermoz.fr/produits/listing?rech=" method="GET" accept-charset="utf-8">
+					<input type="text" class="input" name="rech" placeholder="Rechercher un bijou" value="" />
+					<input type="submit" class="btn_submit" name="valider" value="" />
+					</form>
+				</div>
+			
+		</div>
+	</div>
+	
+	   
+
+<nav class="clearfix" >
+	<div id="btn_menu" class="clearfix">
+		<div id="burger"> <span></span> </div>
+		<p>MENU</p>
+	</div>
+	<ul id="deroulant" class="clearfix">
+		<li><div id="liens_menu_burger">
+				<button id="lien_compte_burger" onClick="self.location=change('hqnjsy4xnlszu')"><span>COMPTE</span></button>
+		<button id="lien_favoris_burger" onclick="self.location=change('kf{twnx')"><span>FAVORIS</span></button>
+		<button id="lien_contact_burger" onclick="self.location=change('htsyfhy')"><span>CONTACT</span></button>
+		</div></li>
+	
+
+		
+			
+			
+		<li id="liCatalogue"><a id="menu_bijoux" href="#">Bijoux</a><ul id="ssCatalogue" class="clearfix" ><li><a href="https://www.vuillermoz.fr/c-465-alliances-mariage" class="hoverAjax" data-idcat="465">Alliances</a>
+					<span data-idcat="465" class="SsMenuMobile"><span class="icon-plus"></span></span><ul id="sssCatalogue465" class="sssCatalogue"></ul></li><li><a href="https://www.vuillermoz.fr/c-481-bagues" class="hoverAjax" data-idcat="481">Bagues</a>
+					<span data-idcat="481" class="SsMenuMobile"><span class="icon-plus"></span></span><ul id="sssCatalogue481" class="sssCatalogue"></ul></li><li><a href="https://www.vuillermoz.fr/c-482-boucles-d-oreilles" class="hoverAjax" data-idcat="482">Boucles d'oreilles</a>
+					<span data-idcat="482" class="SsMenuMobile"><span class="icon-plus"></span></span><ul id="sssCatalogue482" class="sssCatalogue"></ul></li><li><a href="https://www.vuillermoz.fr/c-483-bracelets" class="hoverAjax" data-idcat="483">Bracelets</a>
+					<span data-idcat="483" class="SsMenuMobile"><span class="icon-plus"></span></span><ul id="sssCatalogue483" class="sssCatalogue"></ul></li><li><a href="https://www.vuillermoz.fr/c-484-chaines" class="hoverAjax" data-idcat="484">Chaines</a>
+					<span data-idcat="484" class="SsMenuMobile"><span class="icon-plus"></span></span><ul id="sssCatalogue484" class="sssCatalogue"></ul></li><li><a href="https://www.vuillermoz.fr/c-745-charm-s" class="hoverAjax" data-idcat="745">Charm's</a>
+					</li><li><a href="https://www.vuillermoz.fr/c-485-colliers" class="hoverAjax" data-idcat="485">Colliers</a>
+					<span data-idcat="485" class="SsMenuMobile"><span class="icon-plus"></span></span><ul id="sssCatalogue485" class="sssCatalogue"></ul></li><li><a href="https://www.vuillermoz.fr/c-52-gourmettes" class="hoverAjax" data-idcat="52">Gourmette</a>
+					<span data-idcat="52" class="SsMenuMobile"><span class="icon-plus"></span></span><ul id="sssCatalogue52" class="sssCatalogue"></ul></li><li><a href="https://www.vuillermoz.fr/c-64-medailles-de-bapteme" class="hoverAjax" data-idcat="64">Médailles</a>
+					<span data-idcat="64" class="SsMenuMobile"><span class="icon-plus"></span></span><ul id="sssCatalogue64" class="sssCatalogue"></ul></li><li><a href="https://www.vuillermoz.fr/c-487-pendentifs" class="hoverAjax" data-idcat="487">Pendentifs</a>
+					<span data-idcat="487" class="SsMenuMobile"><span class="icon-plus"></span></span><ul id="sssCatalogue487" class="sssCatalogue"></ul></li></ul></li>
+		<li><a href="#" >Matieres</a>
+						<div >
+				<ul>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-29-bijoux-en-argent">Bijoux Argent</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-28-bijoux-en-or">Bijoux Or</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-33-bijoux-en-vermeil">Bijoux Vermeil</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-167-bijoux-acier">Bijoux Acier</a>
+					</li>
+									</ul>
+			</div>
+					</li>
+		
+		<li><a href="#" >Genres</a>
+						<div >
+				<ul>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-423-femme">Bijoux Femme</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-424-homme">Bijoux Homme</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-425-enfant">Bijoux Enfant</a>
+					</li>
+									</ul>
+			</div>
+					</li>
+		
+		<li><a href="https://www.vuillermoz.fr/c-550-bijoux-pierres-fines-et-precieuses" data-idcat="550" class="hoverPierres" >Pierres</a>
+						<div id="menuPierres">
+				<ul>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-552-bijoux-aigue-marine">Bijoux Aigue Marine</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-560-bijoux-ambre">Bijoux Ambre</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-561-bijoux-amethyste">Bijoux Améthyste</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-562-bijoux-aventurine">Bijoux Aventurine</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-563-bijoux-calcedoine">Bijoux Calcédoine</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-564-bijoux-citrine">Bijoux Citrine</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-565-bijoux-cornaline">Bijoux Cornaline</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-566-bijoux-diamant">Bijoux Diamant</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-567-bijoux-emeraude">Bijoux Emeraude</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-568-bijoux-grenat">Bijoux Grenat</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-569-bijoux-labradorite">Bijoux Labradorite</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-570-bijoux-lapis-lazuli">Bijoux Lapis Lazuli</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-571-bijoux-nacre">Bijoux Nacre</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-572-bijoux-oeil-de-tigre">Bijoux Oeil de Tigre</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-573-bijoux-onyx">Bijoux Onyx</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-574-bijoux-opale">Bijoux Opale</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-575-bijoux-oxyde-de-zirconium">Bijoux Oxyde de Zirconium</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-576-bijoux-peridot">Bijoux Péridot</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-577-bijoux-perle">Bijoux Perle</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-578-bijoux-quartz-fume">Bijoux Quartz Fumé</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-579-bijoux-quartz-rose">Bijoux Quartz Rose</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-580-bijoux-rhodonite">Bijoux Rhodonite</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-581-bijoux-rubis">Bijoux Rubis</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-582-bijoux-saphir">Bijoux Saphir</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-583-bijoux-tanzanite">Bijoux Tanzanite</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-584-bijoux-topaze-bleue">Bijoux Topaze Bleue</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-585-bijoux-tourmaline">Bijoux Tourmaline</a>
+					</li>
+										<li>
+						<a href="https://www.vuillermoz.fr/c-586-bijoux-turquoise">Bijoux Turquoise</a>
+					</li>
+									</ul>
+			</div>
+					</li>
+						
+				
+        		<li><button onclick="self.location=change('stz{jfzyjx');">Nouveautés</button></li>
+		
+						
+				
+						<li class="selection_menu_black" ><button onclick="self.location=change('uwtrtyntsx');">BLACK FRIDAY</button></li>
+						
+						<li class="selection_menu"><button onclick="self.location=change('uflj4stjq');">NOEL</button></li>
+				
+				
+		
+	</ul>
+
+</nav>
+  
+</header>
+
+<div id="move_sticky_menu"></div>
+<script>
+  $(document).ready(function() {
+    $(".fancybox").fancybox();
+  });
+</script>
+
+
+<div id="content" class="overall">
+
+  <div id="bloc_listing">
+    <div class="bloc_all_side">
+      <div class="bloc_side">
+        <p class="titre_bloc_side" id="titre_filtre_listing" >Monde de la joaillerie</p>
+		<div id="bloc_filtres">
+        <ul  class="sommaire" style="display:block;"><li><a href="https://www.vuillermoz.fr/page/encyclopedie-des-pierres-gemmes">Guide des Pierres fines et précieuses</a></li><li><a href="https://www.vuillermoz.fr/page/les-pierres-de-naissance">Les pierres de naissance</a></li><li><a href="https://www.vuillermoz.fr/page/les-signes-astrologiques-et-pierres-associees">Les pierres associées aux signes astrologiques</a></li><li><a href="https://www.vuillermoz.fr/page/les-metaux-precieux">Guide des métaux précieux</a></li></ul>		</div>
+      </div>
+
+          </div>
+    
+    <div id="bloc_detail_item" class="page_contenu">
+      <h1>L'argent</h1>
+
+      
+      <div class="clear"></div>
+			              <h2>Mythologie de l&#39;argent</h2>
+
+<p>Le mot argent vient du latin argentum, qui vient lui-m&ecirc;me de l&#39;indo-europ&eacute;en arg-, qui signifie blanc, &eacute;clatant, lumineux. L&#39;argent est indissociable de sa symbolique : il repr&eacute;sente la divinit&eacute; de la Lune. Chez les Grecs, trois divinit&eacute;s f&eacute;minines sont associ&eacute;es &agrave; la Lune. S&eacute;l&eacute;n&eacute;, la d&eacute;esse de la pleine lune ou de la naissance (Luna chez les Romains), est v&ecirc;tue de robes argent&eacute;es et m&egrave;ne un char en argent. Art&eacute;mis, la d&eacute;esse du croissant de lune et de la chasse tire des fl&egrave;ches en argent. Enfin, H&eacute;cate est la d&eacute;esse de la nouvelle lune ou de la mort. La pratique des cultes de ces d&eacute;esses est fortement li&eacute;e &agrave; l&#39;argent, le blanc, et la puret&eacute;.</p>
+
+<p>L&#39;argent est &eacute;galement oppos&eacute; dans la mythologie &agrave; l&#39;or. Il est blanc, pur, et f&eacute;minin alors que l&#39;or est jaune, masculin, et actif. Chez les Incas et les civilisations qui les ont pr&eacute;c&eacute;d&eacute;s, la Lune est &agrave; la fois la s&oelig;ur et la femme du Soleil. L&#39;argent est utilis&eacute; aux besoins des cultes officiels. Chez les &Eacute;gyptiens antiques, on croit que les os des Dieux sont faits d&#39;argent. Chez les chr&eacute;tiens, il repr&eacute;sente la sagesse divine.</p>
+
+<h2>D&eacute;couverte et utilisation de l&#39;argent</h2>
+
+<p>L&#39;argent a b&eacute;n&eacute;fici&eacute; de son attrait et de son abondance dans les sous-sols afin d&#39;&ecirc;tre utilis&eacute; de toutes sortes de fa&ccedil;on. Il a &eacute;t&eacute; utilis&eacute; de tout temps pour frapper la monnaie, dans la joaillerie et dans l&#39;argenterie. Il a &eacute;t&eacute; un des principaux outils de la puissance des anciennes civilisations. L&#39;Empire chinois utilisait par exemple l&#39;argent pour ses &eacute;changes ext&eacute;rieurs. En effet, il est consid&eacute;r&eacute; comme &eacute;tant en terme de valeur seulement second apr&egrave;s l&#39;or. C&#39;est pour cette raison que des <a href="/c-386-medailles-en-argent">m&eacute;dailles d&#39;argent</a> sont offertes pour des bapt&ecirc;mes et dans n&#39;importe quelle comp&eacute;tition. Aujourd&#39;hui, il est &eacute;galement utilis&eacute; dans l&#39;&eacute;nergie solaire, l&#39;automobile, la purification de l&#39;air, la dentition, ou encore dans la photographie et l&#39;&eacute;lectronique en tant que tr&egrave;s bon conducteur &eacute;lectrique. Bref, les usages sont multiples.</p>
+
+<p>On consid&egrave;re gr&acirc;ce aux d&eacute;couvertes arch&eacute;ologiques que de l&#39;argent trouv&eacute; dans des mines en surface a pu &ecirc;tre s&eacute;par&eacute; du plomb d&egrave;s 4000 ans avant J&eacute;sus-Christ dans les anciennes civilisations de M&eacute;sopotamie. En Europe, les principaux centres d&#39;extractions sont en Sardaigne, avant que les Romains ne d&eacute;couvrent d&#39;immenses gisements en Espagne. Ils extraient alors 200 tonnes par an, un record qui ne sera battu que plus de mille ans plus tard avec la d&eacute;couverte de l&#39;Am&eacute;rique. Les colons espagnols d&eacute;couvrent alors de nombreux gisements au P&eacute;rou (principalement &agrave; la mine de Potos&iacute;) et en Bolivie. Plus tard, les d&eacute;couvertes mexicaines, am&eacute;ricaines, et australiennes de nombreux filons &agrave; l&#39;&eacute;tat natif finissent d&rsquo;inonder le march&eacute;, faisant chuter la valeur du m&eacute;tal pr&eacute;cieux.</p>
+
+<p>Aujourd&#39;hui, le Mexique, la Chine et le P&eacute;rou sont les principaux producteurs d&#39;argent, mais la Pologne et la Serbie sont aussi deux gros producteurs europ&eacute;ens. L&#39;argent provient g&eacute;n&eacute;ralement non pas des mines extrayant principalement ce m&eacute;tal pr&eacute;cieux, mais des mines de plomb-zinc, de cuivre, et d&#39;or.</p>
+
+<h2>Les bijoux en argent</h2>
+
+<p>Les noces d&#39;argent repr&eacute;sentent les 25 ans de mariage. Les bijoux en argent sont donc les cadeaux pr&eacute;f&eacute;r&eacute;s faits par les hommes &agrave; leurs &eacute;pouses &agrave; cette occasion. Mais pas seulement ! Toutes les occasions sont bonnes pour offrir de tels pr&eacute;cieux, abordables, chics et faciles &agrave; porter. Et ils ne manquent pas de choix. Les bijoux en argent sont en effet de tous types, que ce soient des <a href="/c-52-gourmettes">gourmettes en argent</a>, des bagues, des <a href="/c-115-boucles-doreilles-en-argent">boucles d&#39;oreilles en argent</a>, des colliers, des <a href="/c-349-pendentif-argent">pendentifs en argent</a>, ou bien encore des <a href="/c-165-bracelets-argent">bracelets en argent</a>. Les bijoux en argent peuvent se r&eacute;sumer en trois mots : &eacute;l&eacute;gance, f&eacute;minit&eacute;, et modernit&eacute;. Les joailliers font preuve de cr&eacute;ativit&eacute; en cr&eacute;ant toujours de nouveaux bijoux en argent, de toutes les formes et pour tous les go&ucirc;ts, et ce pour sublimer les femmes.</p>
+
+<p>Quoi de mieux donc, qu&#39;un bijou en argent ? La r&eacute;ponse est simple : une <a href="/c-317-bagues-argent">bague en argent</a> mari&eacute;e &agrave; une pierre fine ou pr&eacute;cieuse. Pour ne pas d&eacute;naturer le c&ocirc;t&eacute; pur et &eacute;clatant de l&#39;argent, les principales gemmes utilis&eacute;es avec des bijoux en argent sont l&#39;ambre, le lapis-lazuli, le grenat et l&#39;am&eacute;thyste. D&#39;autres pierres fines aux couleurs plus vives, comme la topaze ou la turquoise, sont &eacute;galement serties sur les bijoux en argent pour encore plus d&#39;originalit&eacute; et de distinction.</p>
+
+<h2>Les caract&eacute;ristiques de l&#39;argent</h2>
+
+<p>En France, le poin&ccedil;on de garantie de l&#39;argent est symbolis&eacute; par la T&ecirc;te de Minerve. Sa composition est prot&eacute;g&eacute;e et fait l&#39;objet de r&eacute;glementations du Code g&eacute;n&eacute;ral des Imp&ocirc;ts et des douanes. L&#39;argent est en effet consid&eacute;r&eacute; comme un m&eacute;tal pr&eacute;cieux quand il contient au moins 800 milli&egrave;mes d&#39;argent pur. Le poin&ccedil;on &laquo; Amphore &raquo; repr&eacute;sente de l&#39;argent pur d&#39;au moins 999 milli&egrave;mes. Il existe trois titres de garantie de l&#39;argent massif : 1er Titre &agrave; 925 milli&egrave;mes, 2e Titre &agrave; 800 milli&egrave;mes, et Petite Garantie &agrave; 800 milli&egrave;mes. Ces poin&ccedil;ons d&rsquo;&Eacute;tat doivent &ecirc;tre insculp&eacute;s obligatoirement si l&#39;objet en argent p&egrave;se plus de 30 grammes. Le poin&ccedil;on de ma&icirc;tre de forme losange ou le poin&ccedil;on d&#39;importateur de forme ovale est obligatoire et doit &ecirc;tre appos&eacute; aupr&egrave;s du poin&ccedil;on de garantie. Ce poin&ccedil;on &agrave; pour but d&#39;identifier le fabricant ou l&#39;importateur du bijou en argent.</p>
+
+<p>Pour fabriquer des objets en argent, comme des bijoux, on utilise donc d&#39;autres m&eacute;taux communs pour faire des alliages, comme le cuivre, et ce afin de renforcer les propri&eacute;t&eacute;s de l&#39;objet, afin qu&#39;il soit plus r&eacute;sistant et plus solide. L&#39;argent est en effet un m&eacute;tal pr&eacute;cieux mall&eacute;able et tr&egrave;s ductile. Cela veut dire qu&#39;il peut &ecirc;tre manipul&eacute; facilement, mais qu&#39;il peut &eacute;galement se d&eacute;former facilement. Un alliage naturel connu depuis l&#39;Antiquit&eacute; est l&#39;&eacute;lectrum, compos&eacute; d&#39;argent et d&#39;or.</p>
+
+<h2>Les avantages de l&#39;argent et son entretien</h2>
+
+<p>L&#39;argent est dans l&#39;imaginaire collectif le second de l&#39;or, tant en valeur qu&#39;en raret&eacute;. Il est donc beaucoup moins cher que son cousin dor&eacute;. Sa couleur argent&eacute;e est souvent pr&eacute;f&eacute;r&eacute;e &agrave; l&#39;or en joaillerie, notamment pour faire ressortir ou accentuer la f&eacute;minit&eacute;. Esth&eacute;tiquement, l&#39;argent est synonyme de modernit&eacute; et d&#39;&eacute;l&eacute;gance.</p>
+
+<p>L&#39;inconv&eacute;nient de l&#39;argent est qu&#39;il se noircit avec l&#39;&acirc;ge et le temps. Les objets en argent sont &eacute;galement sensibles aux rayures, il faut donc les manipuler avec pr&eacute;caution. Les<a href="/c-29-bijoux-en-argent"> bijoux en argent</a> et au-del&agrave; n&#39;importe quels produits faits de ce m&eacute;tal, n&eacute;cessitent donc un entretien particulier et r&eacute;gulier. Un produit adapt&eacute; et propos&eacute; par n&#39;importe quel &eacute;tablissement fera rapidement l&#39;affaire. Un nettoyage fait maison peut consister &agrave; appliquer du bicarbonate de soude, du citron ou du dentifrice &agrave; l&#39;aide d&#39;une brosse &agrave; dents souple. Du rhodium est souvent utilis&eacute; par les bijoutiers , il permet aux bijoux de rester brillants plus longtemps et d&#39;&eacute;viter le ternissement de l&#39;ouvrage.</p>
+
+<h2>Pourquoi l&#39;argent noirci ?</h2>
+
+<p>L&rsquo;argent noircit naturellement &agrave; cause de l&#39;oxydation et du contact avec l&#39;air. Ces t&acirc;ches sont en fait de l&eacute;g&egrave;res couches de sulfure d&#39;argent, il ne s&rsquo;agit pas d&rsquo;un signe de mauvaise qualit&eacute; mais bien d&rsquo;une propri&eacute;t&eacute; intrins&egrave;que &agrave; la composition chimique de l&rsquo;argent, ce ph&eacute;nom&egrave;ne est in&eacute;vitable.<br />
+L&rsquo;argent noircit progressivement au contact de l&#39;air, de l&rsquo;eau (particuli&egrave;rement l&#39;eau chlor&eacute;e de piscine), de la transpiration (et donc plus facilement en cas de fortes chaleurs estivales), des cr&egrave;mes et des parfums.<br />
+Le noircissement de l&#39;argent &ecirc;tre acc&eacute;l&eacute;r&eacute; si vous devez prendre des m&eacute;dicaments contre la fi&egrave;vre, en raison de la consommation d&rsquo;aliments acides ou&nbsp; de boissons alcoolis&eacute;es.<br />
+Ce ph&eacute;nom&egrave;ne peut prendre plusieurs ann&eacute;es comme quelques jours en fonction de l&#39;acidit&eacute; de votre peau et des conditions dans lesquelles vous portez vos bijoux.</p> 
+	  
+	  	  
+	  
+	  	    
+
+		  		
+		
+		  
+		
+		    </div>
+    <div class="clear"></div>
+  
+  </div>
+ 
+  <div id="div_ariane_cat">
+    <nav>
+<ul id="fil_ariane" itemscope itemtype="http://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="https://www.vuillermoz.fr/" itemprop="item" class="hide"><span itemprop="name" >Bijouterie en ligne</span></a>
+<meta itemprop="position" content="1" />
+</li>
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="https://www.vuillermoz.fr/page/les-metaux-precieux" itemprop="item" ><span itemprop="name">Guide des métaux précieux</span></a>
+<meta itemprop="position" content="2" />
+</li>
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="https://www.vuillermoz.fr/page/argent" itemprop="item" ><span itemprop="name">L'argent</span></a>
+<meta itemprop="position" content="3" />
+</li>
+</ul>
+</nav>
+
+
+  </div><div class="spacer30"></div>
+
+<script>	
+		
+$(document).ready(function() {
+	var $appendOwlAV = $("#appendOwlAV");
+	
+	$appendOwlAV.owlCarousel({
+		loop:true,
+		nav:false,
+		navText: ["&lt;","&gt;"],
+				margin:0,
+		responsiveClass:true,
+		responsive:{
+			0:{
+				items:1,
+				nav:true
+			},
+			450:{
+				items:2,
+				nav:true
+			},
+			600:{
+				items:3,
+				nav:true
+			},
+			800:{
+				items:4,
+				nav:true
+			},			
+			950:{
+				items:5,
+				nav:true
+			},
+
+		}
+	});
+});  
+	</script>
+<div class="clear"></div>
+<div id="bloc_avis_av">
+	<div class="trailer_box clearfix"><div class="desc"><div class="subtitle">
+	Vous parlez de nous
+	</div></div></div>
+	    <div class="listing_autre_produit">
+    <div id="appendOwlAV" class="owl-carousel">
+	<div class="caroussel_av_item_first centre">
+		<div class="pointer" onclick="window.open('https://www.avis-verifies.com/avis-clients/vuillermoz.fr','_blank');">
+		<img class="" alt="etoiles" src="https://www.vuillermoz.fr/assets/images/ribbonstars5.png" >
+		<img class="" src="https://www.vuillermoz.fr/assets/images/logoAV_small.jpg" alt="logo avis verifies">	
+		<p>Excellent (9.8/10)<br>
+		<br>
+		<u>voir tous les avis</u></p>
+		
+		</div>
+
+     </div>
+<div class="caroussel_av_item">
+	<div class="caroussel_av_etoiles"><img src="https://www.vuillermoz.fr/assets/images/5etoiles_av.png" alt="etoile" /></div>
+	<div class="caroussel_av_date"></div>
+	
+	<div class="caroussel_av_texte"><p>Très beaux produits 
+Envoi rapide et sécurisé</p></div>
+	<div class="caroussel_av_auteur">Christiane H. le 15.11.2023</div>
+	
+	
+</div>
+<div class="caroussel_av_item">
+	<div class="caroussel_av_etoiles"><img src="https://www.vuillermoz.fr/assets/images/5etoiles_av.png" alt="etoile" /></div>
+	<div class="caroussel_av_date"></div>
+	
+	<div class="caroussel_av_texte"><p>Très beau  .Bien emballé .J'attends ma bague que j'ai commandé chez vous.</p></div>
+	<div class="caroussel_av_auteur">Jacqueline D. le 14.11.2023</div>
+	
+	
+</div>
+<div class="caroussel_av_item">
+	<div class="caroussel_av_etoiles"><img src="https://www.vuillermoz.fr/assets/images/5etoiles_av.png" alt="etoile" /></div>
+	<div class="caroussel_av_date"></div>
+	
+	<div class="caroussel_av_texte"><p>Comme toujours Très satisfaite . Produits conformes au descriptif Paquets très bien emballé Livraison en avance et bien avisée de la date. Je reste cliente I...</p></div>
+	<div class="caroussel_av_auteur">Francoise M. le 13.11.2023</div>
+	
+	
+</div>
+<div class="caroussel_av_item">
+	<div class="caroussel_av_etoiles"><img src="https://www.vuillermoz.fr/assets/images/5etoiles_av.png" alt="etoile" /></div>
+	<div class="caroussel_av_date"></div>
+	
+	<div class="caroussel_av_texte"><p>Je suis satisfaite de l’article acheté qui correspond parfaitement à mes attentes. Les délais de livraison sont satisfaisants.</p></div>
+	<div class="caroussel_av_auteur">Monique P. le 12.11.2023</div>
+	
+	
+</div>
+<div class="caroussel_av_item">
+	<div class="caroussel_av_etoiles"><img src="https://www.vuillermoz.fr/assets/images/5etoiles_av.png" alt="etoile" /></div>
+	<div class="caroussel_av_date"></div>
+	
+	<div class="caroussel_av_texte"><p>Je suis ravie de mon achat, 
+Bague exactement comme sur la photo du site 
+Expédition rapide</p></div>
+	<div class="caroussel_av_auteur">Michele L. le 11.11.2023</div>
+	
+	
+</div>
+<div class="caroussel_av_item">
+	<div class="caroussel_av_etoiles"><img src="https://www.vuillermoz.fr/assets/images/5etoiles_av.png" alt="etoile" /></div>
+	<div class="caroussel_av_date"></div>
+	
+	<div class="caroussel_av_texte"><p>Produit conforme a  notre attente</p></div>
+	<div class="caroussel_av_auteur">Claude T. le 09.11.2023</div>
+	
+	
+</div>
+<div class="caroussel_av_item">
+	<div class="caroussel_av_etoiles"><img src="https://www.vuillermoz.fr/assets/images/5etoiles_av.png" alt="etoile" /></div>
+	<div class="caroussel_av_date"></div>
+	
+	<div class="caroussel_av_texte"><p>Livraison rapide et bon bijou. Je recommande.</p></div>
+	<div class="caroussel_av_auteur">Ludovic C. le 09.11.2023</div>
+	
+	
+</div>
+
+    </div>
+		
+    <div class="clear"></div>
+  </div>
+</div>
+<div class="clear"></div>
+<div id="maison" class="clearfix">
+	<div class="recentre">
+	<div class="trailer_box clearfix"><div class="desc"><div class="subtitle">
+	LA MAISON TRABBIA VUILLERMOZ
+	</div></div></div>
+				<div id="listing_maison_home" class="clearfix">
+			<div><a href="https://www.vuillermoz.fr/page/la-bijouterie">
+			<img src="https://www.vuillermoz.fr/assets/images/p_bijouterie.jpg" alt="Le magasin" /><span>Le magasin</span></a></div>
+			<div><a href="https://www.vuillermoz.fr/page/l-atelier-de-fabrication">
+			<img src="https://www.vuillermoz.fr/assets/images/p_atelier_fabrication.jpg" alt="l'atelier de fabrication" /><span>l’atelier de fabrication</span></a></div>
+			<div><a href="https://www.vuillermoz.fr/page/le-musee-des-pierres">
+			<img src="https://www.vuillermoz.fr/assets/images/p_musee_pierre.jpg" alt="le musée des pierres" /><span>le musée des pierres</span></a></div>
+		</div>
+	</div>
+</div>
+
+
+<div id="bloc_recap_reassur" class="clearfix">
+    <ul class="clearfix">
+      <li><a href="#onglet_service_garantie" class="active">Services & garanties</a></li>
+      <li><a href="#onglet_livraison_retour">Info<span class="hide">rmation</span>s Livraison<span class="hide"> & retour</span></a></li>
+      <li><a href="#onglet_paiement">Info<span class="hide">rmation</span>s Paiement</a></li>
+    </ul>
+    <div class="bloc_recap_reassur_content" id="onglet_service_garantie">
+      <ul class="clearfix">
+                <li><div class="titre">Satisfait ou remboursé</div><span class="bla">Achetez en toute sérénité: 
+				Echanges & remboursements sont possibles jusqu'au 15 Janvier				</span>
+		<span  id="rea_remb"></span></li>
+                <li><div class="titre">Bijoux de Qualité à prix fabricant</div><span class="bla">Nous sommes en moyenne 40% moins cher pour des bijoux de qualité supérieure</span>
+		<span  id="rea_prix"></span></li>
+        
+		         <li><div class="titre">Authenticité garantie</div><span class="bla">Tous nos bijoux sont livrés avec certificat d'authenticité et garantie</span>
+		<span id="rea_certificat"></span></li>
+               </ul>
+	   <ul class="clearfix">
+		<li><div class="titre">Satisfaction garantie</div>
+		<span class="bla">Nos clients nous adorent, cliquez sur le logo ci dessous pour découvrir leurs avis:</span>
+		<div class="centre">
+		
+				
+		
+		<div class="pointer" onclick="window.open('https://www.avis-verifies.com/avis-clients/vuillermoz.fr','_blank');">
+		<img class="" alt="etoiles" src="https://www.vuillermoz.fr/assets/images/ribbonstars5.png" >
+		<p class="texte_card">
+		Excellent (9.6/10)</p>
+		<img class="" src="https://www.vuillermoz.fr/assets/images/logoAV_small.jpg" alt="logo avis verifies">	
+		</div>
+
+        </div>
+		</li>
+		<li><div class="titre">Livraison sécurisée</div>
+		<span class="bla">Livraison assurée, faites vous livrer à domicile ou en point relais.</span>
+		<div class="centre">
+		
+		<img src="https://www.vuillermoz.fr/assets/images/logo_colissimo.jpg" alt="So colissimo"  />
+		
+        </div>
+		</li>
+		
+        <li><div class="titre">Paiement sécurisé</div>
+		<span class="bla">Réglez vos achats en toute sécurité et payez en 3x sans frais dès 100€</span>
+		<div class="centre">
+		<img src="https://www.vuillermoz.fr/assets/images/logo_paiement.jpg" alt="paiement 100% securise"  />
+		
+
+		</div>
+		</li>
+      </ul>
+          </div>
+    <div class="bloc_recap_reassur_content" id="onglet_livraison_retour" style="display:none;">
+
+    </div>
+    <div class="bloc_recap_reassur_content" id="onglet_paiement" style="display:none;">
+
+    </div>
+  </div>
+</div>
+
+
+<footer>
+  <div id="newsletter_contact" class="clearfix">
+    <div class="overall">
+	 
+      <div id="newsletter">
+        
+		
+		<p class="titre">Newsletter</p>
+        		<form action="https://www.vuillermoz.fr/newsletter/ajout" method="POST" accept-charset="utf-8">
+                                                                                                   <input type="hidden" name="csrf_test_name" value="fe38961b7e733f667e9a8e9dcef7f64f" />
+
+          <p>Abonnez vous à nos actualités et offres promotionnelles (1 email par semaine)</p>
+          <input type="text" name="newsletter" class="input" placeholder="Saisissez votre adresse e-mail" value="" />
+          <input type="submit" class="btn_submit" value="Je m'abonne">
+        </form>		
+           
+      </div>      
+	  <div id="reseaux">
+		<p class="titre centre">Suivez Nous</p>
+		<div class="centre"><button class="pointer" onClick="window.open('https://www.facebook.com/TrabbiaVuillermoz/');">
+        <img src="https://www.vuillermoz.fr/assets/images/fb.png" alt=""  /></button>         
+        <button class="pointer" onClick="window.open('https://www.instagram.com/trabbiavuillermoz/');">
+		<img  src="https://www.vuillermoz.fr/assets/images/insta.png" alt=""  />
+		</button>
+        </div> 
+      </div>
+	  
+      <div id="nous_contacter">
+	 	<p class="titre">Nous contacter</p>
+       
+
+          <p>Trabbia Vuillermoz<br />
+          7 Rue Michel Hollard 01410 Mijoux<br />
+          <strong>Tel. 04 50 41 31 72</strong><br />
+          <span onclick="self.location=change('htsyfhy');" class="cursor_pointer">Formulaire de contact</span>
+						</p>
+		
+      </div>
+
+    </div>
+  </div>
+  <div id="liens_footer" class="clearfix">
+    <div class="overall">
+
+	 <nav id="footer_apropos"> <span class="titre">A propos</span>
+        <ul>
+		<li>
+		  <div class="button_footer" onclick="self.location=change('uflj4qf2gnotzyjwnj');">Le magasin</div>
+		  </li>
+          <li>
+		  <div class="button_footer" onclick="self.location=change('uflj4q2fyjqnjw2ij2kfgwnhfynts');">L'atelier</div>
+		  </li>
+          <li>
+		  <div class="button_footer" onclick="self.location=change('uflj4qj2rzxjj2ijx2unjwwjx');">Le musée</div>
+		  </li>
+                    		          </ul>
+      </nav>
+
+            <nav id="footer_guide"> <span class="titre">Guides</span>
+        <ul>
+
+		   	       <li><a href="https://www.vuillermoz.fr/page/les-metaux-precieux">Les métaux précieux</a></li>
+           <li><a href="https://www.vuillermoz.fr/page/encyclopedie-des-pierres-gemmes">Encyclopédie des pierres</a></li>
+           <li><a href="https://www.vuillermoz.fr/page/les-signes-astrologiques-et-pierres-associees">Pierres des signes</a></li>
+		   <li><div class="button_footer" onclick="self.location=change('uflj4qjx2vzjxyntsx2kwjvzjsyjx');">Questions fréquentes</div></li>
+		   		</ul>
+              </nav>
+	        <nav id="footer_pratique"> <span class="titre">Rubriques</span>
+        <ul>
+	      <li>
+		  <div class="button_footer" onclick="self.location=change('htsyfhy');">Formulaire de contact</div>
+		  </li>
+          <li>
+		  <div class="button_footer" onclick="self.location=change('uflj4rjsyntsx2qjlfqjx');">Mentions légales</div>
+		  </li>
+          <li>
+		  <div class="button_footer" onclick="self.location=change('uflj4htsinyntsx2ljsjwfqjx');">Conditions de vente</div>
+		  </li>
+		  <li>
+		  <div class="button_footer" onclick="self.location=change('uflj4uwtyjhynts2ijx2itssjjx2ujwxtssjqqjx');">Protection des données</div>
+		  </li>
+		  
+		</ul>
+     </nav>
+		 <nav id="footer_avis">
+<span class="titre">Rubriques</span>
+        <ul>
+		 <li><a href="https://www.vuillermoz.fr/c-601-bijoux-pas-cher">Bijoux pas chers</a></li>
+		 <li><a href="https://www.vuillermoz.fr/c-550-bijoux-pierres-fines-et-precieuses">Bijoux pierres</a></li>		
+		 </ul>
+      	  	 </nav>
+    </div>
+  </div>
+</footer>
+
+		
+		<script src="https://www.vuillermoz.fr/assets/js/js-footer.js?v=12" async></script>
+	
+
+		
+
+	
+ 	
+
+<form action="https://www.vuillermoz.fr/page/argent" method="GET" name="cookie_redirect">
+</form>
+
+<script>
+var options = {
+	onAccept: function() {
+	if ($.fn.ihavecookies.preference('marketing') === true) {
+		$.fn.ihavecookies.setCookie('cookie_marketing', 'accepte', 390);
+	}
+	if ($.fn.ihavecookies.preference('analytics') === true) {
+		$.fn.ihavecookies.setCookie('cookie_analytics', 'accepte', 390);
+	}
+		},			
+	title: 'Gestion des cookies',
+	message: 'Notre site utilise des cookies et autres technologies pour garantir le bon fonctionnement du site, pour r&eacute;aliser des mesures et analyses d\'audiences et vous proposer des publicités personnalisées, vous pouvez <span id="gdpr-cookie-advanced">personnaliser vos choix</span> et consulter ',
+	delay: 100,
+	expires: 390,
+	link: 'https://www.vuillermoz.fr/page/cookies',
+	uncheckBoxes: true,
+	acceptBtnLabel: 'Accepter',
+	moreInfoLabel: 'notre politique d\'utilisation des cookies.',
+	advancedBtnLabel: '',
+	cookieTypesTitle: 'Sélectionnez les cookies à accepter',
+	fixedCookieTypeLabel:'Techniques',
+	fixedCookieTypeDesc: 'Ces cookies sont essentiels au bon fonctionnement du site.'
+}
+
+
+$(document).ready(function() {
+		$('body').ihavecookies(options);
+		$('#ihavecookiesBtn').on('click', function(){
+		$('body').ihavecookies(options, 'reinit');
+	});
+	
+});
+</script>
+
+		
+	
+
+
+
+		
+
+
+
+
+
+
+
+</body>
+</html>
