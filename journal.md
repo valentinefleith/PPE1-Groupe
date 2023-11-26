@@ -40,4 +40,4 @@ En revanche, l'exercice 5 a été plus laborieux. Nous ne sommes toujours pas ce
 
 Certains de nos sites sont des pages de forums : il y a beaucoup d'urls à la fin du site, qui "polluent" un peu notre dump texte. Il faudra peut-être faire un tri dans les pages plus tard.
 
-Concernant les concordanciers, bizarrement cela a fonctionné pour l'anglais mais pas pour le chinois ni le français.
+Concernant les concordanciers, bizarrement cela a fonctionné pour l'anglais et le francais mais pas pour le chinois. C'est probablement a cause de l'expression reguliere qui ne reconnait pas les caracteres chinois.
