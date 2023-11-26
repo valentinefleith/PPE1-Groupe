@@ -19,7 +19,7 @@ _-> Comment la vision de l'argent diffère-t-elle d'un pays à l'autre ? (de plu
 
 ## l'anglais
 
-<span style="color:blue">En anglais, le mot est "money"</span>.
+En anglais, le mot est "money".
 
 ## le chinois
 
@@ -28,6 +28,14 @@ _-> Comment la vision de l'argent diffère-t-elle d'un pays à l'autre ? (de plu
 _-> Comment la combinaison de la particule "钱" (qián) avec d'autres caractères en chinois, tels que "金" (jīn) pour former "金钱" (jīnqián,argent) ou "钱币"(qiánbì, monnaie), reflète-t-elle les nuances culturelles et les valeurs associées à la notion d'argent dans la société chinoise contemporaine ?
 
 
-# Miniprojet groupe
+# Miniprojet groupe (26/11/2023)
 
-Nous ecrivons dans le journal en tant que groupe (nous avons travaille ensemble sur le projet). 
+Nous écrivons dans le journal en tant que groupe (nous avons travaillé ensemble sur le projet). 
+
+Nous avions 5 exercices à faire. Nous avons dû réunir nos trois scripts du miniprojet en un seul : nous avons choisi le tableau d'Ashley pour des raisons esthétiques.
+Notre script est réuni [ici](/programmes/creation_tableaux.sh).
+Pour les exercices 1-4, pas de difficultés particulières.
+Au début, on voulait ajouter la langue en argument mais grâce à la correction en cours, nous avons découvert `basename` qui nous permet de récupérer automatiquement la langue à partir du nom de fichier d'urls.
+En revanche, l'exercice 5 a été plus laborieux. Nous ne sommes toujours pas certaines que la version actuelle fonctionne complètement, mais au moins des mots s'affichent.
+
+Certains de nos sites sont des pages de forums : il y a beaucoup d'urls à la fin du site, qui "polluent" un peu notre dump texte. Il faudra peut-être faire un tri dans les pages plus tard.
