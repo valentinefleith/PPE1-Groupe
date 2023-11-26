@@ -39,3 +39,5 @@ Au début, on voulait ajouter la langue en argument mais grâce à la correction
 En revanche, l'exercice 5 a été plus laborieux. Nous ne sommes toujours pas certaines que la version actuelle fonctionne complètement, mais au moins des mots s'affichent.
 
 Certains de nos sites sont des pages de forums : il y a beaucoup d'urls à la fin du site, qui "polluent" un peu notre dump texte. Il faudra peut-être faire un tri dans les pages plus tard.
+
+Concernant les concordanciers, bizarrement cela a fonctionné pour l'anglais mais pas pour le chinois ni le français.
