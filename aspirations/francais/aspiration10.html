@@ -1,0 +1,1084 @@
+<!DOCTYPE html>
+<html lang="fr" itemscope itemtype="http://schema.org/WebPage"> 
+<!-- infos siteWeb: Larousse[.fr/.com] -->
+<!-- hostName: [https://www.larousse.fr], machineName: [HLAZPLARWFO01], dateTime: [26/11/2023 23:11:47] -->
+<script>
+    dataLayer = [{'lang':"fr", 'page_type':"editorial", 'page_category':"langue francaise", 'page_subcategory':"dictionnaire de francais"}];         // Problème compatiblitiy [<head></head>] & [Modify by C#]
+</script>
+<head id="Head1" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><meta charset="utf-8" /><meta name="author" content="Éditions Larousse" /><meta name="tdm-reservation" content="1" /><meta name="viewport" content="width=device-width, initial-scale=1" http-equiv="Content-Type" /><title>
+	Définitions : argent - Dictionnaire de français Larousse
+</title>
+    <!-- intégration[v.PROD]: régisPub + CNIL(v.OneTrust) -->
+    <!-- ################################################ -->
+    <!-- Démarrage de notification de consentement aux cookies de OneTrust -->
+    <!-- ----------------------------------------------------------------- -->
+    <!-- call OneTrust [v.PROD] -->
+    <!-- <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="9225742f-0606-4a4c-b016-9e27bd32a7a1"></script> -->
+    <!-- call OneTrust [v.RECE/DEV] -->
+    <!-- <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="9225742f-0606-4a4c-b016-9e27bd32a7a1-test"></script> -->
+
+    <!-- JS-link larousse-CNIL pour gestion GTM (régisPub, GA, réseauxSociaux, ...) -->
+    <!-- -------------------------------------------------------------------------- -->
+    <script src="/library-web/larcom/cnil/htmlParser.js"></script>
+    <script src="/library-web/larcom/cnil/postscribe.js"></script>
+
+    <!-- ### dataLayer [GTM] stats Hachette #### -->
+    <!-- #######################################  -->
+    <script>
+        <!-- call GTM [v.PROD = GTM-TB2J4SG] / [v.RECE = GTM-W4VMQ8H] / [v.COM = GTM-WBCT33T] -->
+        (function(w,d,s,l,i){
+                w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+                var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+                j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+                f.parentNode.insertBefore(j,f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TB2J4SG');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- JQuery core JavaScript-->
+    <!-- !!! import jquery in TOP Header !!! (JS default for all Library & *.aspx) -->
+    <!-- <script type="text/javascript" src="/library-web/jquery/jquery-1.9.1.min.js"></script> -->                 <!-- src="/library-web/jquery/jquery-1.9.1.js" -->
+    <!-- CDN=[code.jquery.com]:jquery-3.6.0.min.js (!!! < jquery-3.0.0 = conflict slick >>> jquery-migrate !!!)-->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-migrate-3.3.2.min.js" integrity="sha256-Ap4KLoCf1rXb52q+i3p0k2vjBsmownyBTE1EqlRiMwA=" crossorigin="anonymous"></script>
+
+
+    <!-- CSS (bootstrap) -->
+    <!-- <link rel="stylesheet" type="text/css" href="/library-web/bootstrap/css/bootstrap.min.css" /> -->          <!-- href="/library-web/bootstrap/css/bootstrap.css" -->
+    <!-- CDN=[cdn.jsdelivr.net]: bootstrap@4.6.0 [CSS] -->
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous" /> -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous" />
+    <!-- CSS (mdb) (!pb:navbar menuBurger & dropdown!)-->
+    <!-- <link rel="stylesheet" type="text/css" href="/library-web/mdb/css/mdb.min.css" />-->                       <!-- href="/library-web/mdb/css/mdb.css" -->
+    <!-- CSS (slick) -->
+    <!-- <link rel="stylesheet" type="text/css" href="/library-web/slick/slick.css"" /> -->                         <!-- href="./../assets/library/slick/slick.css" -->
+    <!-- <link rel="stylesheet" type="text/css" href="/library-web/slick/slick-theme.css" /> -->                     <!-- href="./../assets/library/slick/slick-theme.css" -->
+    <link rel="stylesheet" type="text/css" href="/library-web/slick/slick.min.css" />                                <!-- slick.min.css = [slick]+[slick-theme] (minifier) -->
+
+    <!-- CSS (font-awesome/fontello)-->
+    <!--<link rel="stylesheet" type="text/css" href="/library-web/larcom/masterpage/css/font-awesome.min.css" />-->  <!-- unused font awesome -->
+    <link rel="stylesheet" type="text/css" href="/library-web/larcom/masterpage/css/font-collect.css" />
+
+    <!-- CSS (larousse-masterpage)-->
+    <link rel="stylesheet" type="text/css" href="/library-web/larcom/masterpage/css/masterpage.css" />               <!-- pb: header, wrapper, footer, lar-grid-, etc...-->
+    
+    <!-- conflit CSS -->
+    <style>
+        /*conflit CSS (bootstrap - MDB)*/
+        .navbar{
+            box-shadow:none;
+        }   
+        /* SLICK */
+        .slick-slide {
+            outline: none !important;
+        }
+    </style>
+
+    
+    
+    
+  
+    
+    <link rel="shortcut icon" href="/dictionnaires/assets/img/favicon.ico" />
+
+    
+    
+    
+    
+    
+
+    <!-- CSS (larousse-accueil)-->
+    <link rel="stylesheet" href="/dictionnaires/assets/css/article-olf.202203021024.css" />                           <!--href="./../assets/css/dictionnaires.css"-->
+
+  
+    
+
+<meta property="og:title" content="Définitions : argent - Dictionnaire de français Larousse" />
+<meta itemprop="name" content="Définitions : argent - Dictionnaire de français Larousse" />
+<meta name="description" content="argent - Définitions Français : Retrouvez la d&eacute;finition de argent, ainsi que les synonymes, expressions, citations... - synonymes, homonymes, difficultés, citations." />
+<meta property="og:description" content="argent - Définitions Français : Retrouvez la d&eacute;finition de argent, ainsi que les synonymes, expressions, citations... - synonymes, homonymes, difficultés, citations." />
+<meta itemprop="description" content="argent - Définitions Français : Retrouvez la d&eacute;finition de argent, ainsi que les synonymes, expressions, citations... - synonymes, homonymes, difficultés, citations." />
+<link rel="canonical" href="https://www.larousse.fr/dictionnaires/francais/argent/5167" />
+<meta property="og:url" content="https://www.larousse.fr/dictionnaires/francais/argent/5167" />
+<meta itemprop="url" content="https://www.larousse.fr/dictionnaires/francais/argent/5167" />
+<meta name="keywords" content="argent" />
+<meta property="og:image" content="https://www.larousse.fr/dictionnaires/assets/img/larousse.jpg" />
+<meta itemprop="image" content="https://www.larousse.fr/dictionnaires/assets/img/larousse.jpg" />
+<meta name="robots" content="index,follow" />
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <!-- call GTM [v.PROD = GTM-TB2J4SG] / [v.RECE = GTM-W4VMQ8H]  / [v.COM = GTM-WBCT33T]-->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TB2J4SG" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="page">
+        <!-- ####### HEADER ####### -->
+        <div class="header">
+            <!-- NAVBAR: TOP LAROUSSE (Login, Social, Culture) -->
+            <!--------------------------------------------------->
+            <div class="navbar navbar-inverse navbar-default lar-navbar-top visible-lg">    <!-- navbar-fixed-top  <<<>>> navbar-default -->
+                <div class="container">
+                    <div id="navtop" class="navbar-collapse collapse">
+                         <ul class="lar-culture nav navbar-nav navbar-right">
+                            <li class="culture-en">
+                                <a onclick="changeCulture('en')">EN</a>          <!-- https://www.larousse.com/en/ -->
+                                <img src="/dictionnaires/assets/img/flag-en.png" alt="image" draggable="false"/>
+                            </li>    
+                            <li class="culture-es">
+                                <a onclick="changeCulture('es')">ES</a>          <!-- https://www.larousse.com/es/ -->
+                                <img src="/dictionnaires/assets/img/flag-es.png" alt="image" draggable="false"/>
+                            </li>   
+                            <li class="culture-de">
+                                <a onclick="changeCulture('de')">DE</a>          <!-- https://www.larousse.com/de/ -->
+                                <img src="/dictionnaires/assets/img/flag-de.png" alt="image" draggable="false"/>
+                            </li>    
+                            <li class="culture-it">
+                                <a onclick="changeCulture('it')">IT</a>          <!-- https://www.larousse.com/it/ -->
+                                <img src="/dictionnaires/assets/img/flag-it.png" alt="image" draggable="false"/>
+                            </li>    
+                            
+                        </ul> 
+                         <ul class="lar-social nav navbar-nav navbar-right">
+                            <li><a href="https://www.facebook.com/larousse.fr" target="_blank">&#xf09a;</a></li>
+                            <li><a href="https://twitter.com/larousse_fr" target="_blank">&#xf099;</a></li>
+                            <li><a href="https://www.instagram.com/editionslarousse/" target="_blank">&#xf16d;</a></li>
+                            <li><a href="https://fr.linkedin.com/company/larousse" target="_blank">&#xf0e1;</a></li>
+                            
+                        </ul>                   
+                        <ul class="lar-login nav navbar-nav navbar-right">
+                            <li><div id="auth-widget-topbar"></div></li>                   <!-- POOOL  connexion (subscription) -->
+                            <li><a href="https://www.editions-larousse.fr/newsletter">Newsletter</a></li>
+                        </ul>   
+                    </div>
+                </div>
+            </div>
+             <!-- NAVBAR: SEARCH (Labelle, saisie Recherche -->
+             <!----------------------------------------------->
+             <div class="lar-searchbar visible-lg">
+                <a class="bt-home"  href="/">LAROUSSE</a>
+                <div class="zone-search">
+                    <input type="search" class="lar-searchtxt" onkeydown="inputKeydownHeader(false,'\\dictionnaires\\francais\\')" placeholder="Rechercher dans le dictionnaire..."/>
+                    <button class="lar-searchbt"  onclick="onSearchHeader(false,'\\dictionnaires\\francais\\');">&#xe81e;</button>
+                </div>
+            </div>
+            <!-- NAVBAR: MENU (nav module: encyclo, dicos, cuisine, etc...) -->
+            <!---------------------------------------------------------------->
+            <div class="navbar navbar-default lar-navbar-menu">
+                <div class="container">
+                     <div class="navbar-header">
+                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navmenu">   
+                             <span class="sr-only">Toggle navigation</span>
+                             <span class="icon-bar"></span>
+                             <span class="icon-bar"></span>
+                             <span class="icon-bar"></span>
+                         </button>
+                         <div class="lar-searchbar search-toggle hidden-lg">
+                            <div><a class="bt-home" href="/">LAROUSSE</a></div>
+                            <span><button class="lar-switchbt lar-openbt" onclick="openSearch()">&#xe81e;</button></span>
+                            <span><button class="lar-switchbt lar-closebt" onclick="closeSearch()">&#xe833;</button></span>
+                            <div class="switch-search">
+                                <input type="search" class="lar-searchtxt" onkeydown="inputKeydownHeader(true,'\\dictionnaires\\francais\\')" placeholder="Rechercher dans le dictionnaire..."/>
+                                <button class="lar-searchbt" onclick="onSearchHeader(true,'\\dictionnaires\\francais\\');">&#xe81e;</button>
+                            </div>
+                       </div> 
+                     </div>
+            
+                     <div id="navmenu" class="navbar-collapse collapse">
+                         <ul class="lar-menu nav navbar-nav navbar-left">
+                             <li id="olf"><a href="/dictionnaires/francais"><span class="icon-menu dropdown-submenu hidden-lg">&#xe80a;</span>LANGUE FRANÇAISE</a></li>
+                             <li id="bil"><a href="/dictionnaires/bilingues"><span class="icon-menu hidden-lg">&#xe804;</span>DICTIONNAIRES BILINGUES</a></li>
+                             <li id="traductor"><a href="/traducteur"><span class="icon-menu hidden-lg">&#xe822;</span>TRADUCTEUR</a></li>
+                             <li id="conj"><a href="/conjugaison"><span class="icon-menu hidden-lg">&#xe805;</span>CONJUGATEUR</a></li>
+                             <li id="encyclo"><a href="/encyclopedie"><span class="icon-menu hidden-lg">&#xe819;</span>ENCYCLOPÉDIE</a></li>
+                             <li id="cook"><a href="https://cuisine.larousse.fr"><span class="icon-menu hidden-lg">&#xe809;</span>CUISINE</a></li>
+                             <li id="forum"><a href="/forums"><span class="icon-menu hidden-lg">&#xe811;</span>FORUM</a></li>
+                             <li id="jeux"><a href="https://jeux.larousse.fr"><span class="icon-menu hidden-lg">&#xe812;</span>JEUX</a></li>
+                             
+                             <li id="books"><a href="https://www.editions-larousse.fr"><span class="icon-menu hidden-lg">&#xe815;</span>LIVRES</a></li>
+                         </ul>    
+                         <ul class="lar-login  hidden-lg">
+                            <li><div id="auth-widget-menuburger"></div></li>                   <!-- POOOL  connexion (subscription) -->
+                            <li><a href="https://www.editions-larousse.fr/newsletter">Newsletter</a></li>
+                        </ul>  
+                        <ul class="lar-social  hidden-lg">
+                            <li style="width:100%"> 
+                                <span>Suivez nous:</span>
+                                <a href="https://www.facebook.com/larousse.fr">&#xf09a;</a>
+                                <a href="https://twitter.com/larousse_fr">&#xf099;</a>
+                                <a href="https://www.instagram.com/editionslarousse/">&#xf16d;</a>
+                                <a href="https://fr.linkedin.com/company/larousse">&#xf0e1;</a>
+                                
+                            </li>
+                        </ul>  
+                        <ul class="lar-culture  hidden-lg">
+                            <li style="width:100%"> 
+                                <a href="https://www.larousse.com/en/"  asp-action="culture_en">EN</a>
+                                <a href="https://www.larousse.com/es/"  asp-action="culture_es">ES</a>
+                                <a href="https://www.larousse.com/de/"  asp-action="culture_de">DE</a>
+                                <a href="https://www.larousse.com/it/"  asp-action="culture_it">IT</a>
+                                
+                           </li>
+                        </ul> 
+                     </div>  
+                </div>
+            </div>
+        </div>  
+        <!-- BANIERE(730 x 90) PUB TOP -->
+        <div class="pub-top oast">
+                
+        </div>
+        <!--FIL ARIANE -->
+        <div class="breadcrumb">
+                <div><a href="https://www.larousse.fr">Accueil</a>  ><a href="/dictionnaires/francais"><b>Langue française</b></a> > <a href="/dictionnaires/francais-monolingue"><b>Dictionnaire</b></a> > <b>argent</b></div>
+        </div>
+        <!-- ####### HEADER ####### -->
+      
+        <!-- ### Zone POOOL WIDGET ### -->
+        <div id="poool-widget">
+            <!-- votre paywall sera affiché ici --> 
+        </div>     
+
+        
+        
+        
+          
+
+     
+     
+     
+    
+    <!--FIL ARIANE [OLF] -->
+    <div class="olf-breadcrumb">
+            <a href="https://www.larousse.fr">Accueil</a>  &gt; <a href="/dictionnaires/francais"><b>langue française</b></a> &gt; <a href="/dictionnaires/francais-monolingue"><b>dictionnaire</b></a> &gt; <b><a href="#5139">argent n.m.</a></b>
+    </div>
+    <!-- ##################### -->
+    <!-- ## WRAPPER-CONTENT ## -->
+    <!-- ##################### -->
+    <div class="wrapper">
+
+        <div class="row">
+            <div class="col-md-8">
+                   
+				<!-- PANEL HEADER(Section[Fix&float]) + ARTICLE [EXPRESSION]-->
+                <div class="header-article">
+	<nav class="section">
+		<ul>
+			<li class="sel"><a href="#definition">Définitions</a></li>
+			<li><a href="#locution">Expressions</a></li>
+			<li><a href="#citation">Citations</a></li>
+		</ul>
+	</nav>
+</div>
+<div id="floatNav" class="navbox-fixed">
+	<ul class="nav-menu">
+		<li><a href="#definition">DÉFINITIONS</a></li>
+		<li><a href="#locution">EXPRESSIONS</a></li>
+		<li><a href="#citation">CITATIONS</a></li>
+	</ul>
+	<div class="nav-btn nav-open" onclick="openNavMenu();">+
+	</div>
+	<div class="nav-btn nav-close" onclick="closeNavMenu();">&#xe833;
+	</div>
+</div>
+<div id="definition">
+	<article class="BlocDefinition content" role="article">
+		<div class="Zone-Entree1 header-article" id="5139">
+			<h2 class="AdresseDefinition"><span class="linkaudio fontello" onclick="onSpeaker('36947fra2')">&#xe82c;</span>
+				<audio id="36947fra2" src="/dictionnaires-prononciation/francais/tts/36947fra2" type="audio/mp3"></audio>argent</h2>
+			<p class="CatgramDefinition">nom masculin</p>
+			<p class="OrigineDefinition">(latin <i>argentum</i>)</p>
+		</div>
+		<ul class="Definitions">
+			<li class="DivisionDefinition"><span class="numDef">1.</span> Métal précieux, blanc, brillant et très ductile, inoxydable. (Élément chimique de symbole Ag, de numéro atomique 47, de masse atomique 107,87.)</li>
+			<li class="DivisionDefinition"><span class="numDef">2.</span> Ce même métal mêlé à une certaine quantité de cuivre&nbsp;: <span class="ExempleDefinition">Vaisselle d'argent.</span></li>
+			<li class="DivisionDefinition"><span class="numDef">3.</span> Autrefois, monnaie à base de ce métal.</li>
+			<li class="DivisionDefinition"><span class="numDef">4.</span> Toute monnaie métallique ou tout papier-monnaie accepté comme numéraire&nbsp;: <span class="ExempleDefinition">Un portefeuille contenant de l'argent.</span>
+				<p class="LibelleSynonyme">Synonymes :</p>
+				<p class="Synonymes"><span class="Renvois"><a class="lienarticle" href="/dictionnaires/francais/esp%C3%A8ce/31030">espèces</a></span> - ronds <span class="indicateurDefinition">(familier)</span></p></li>
+			<li class="DivisionDefinition"><span class="numDef">5.</span> Ensemble du numéraire, des valeurs, des biens ; fortune&nbsp;: <span class="ExempleDefinition">Il a beaucoup d'argent.</span>
+				<p class="LibelleSynonyme">Synonymes :</p>
+				<p class="Synonymes">fric <span class="indicateurDefinition">(populaire)</span> - oseille <span class="indicateurDefinition">(populaire)</span> - pèze <span class="indicateurDefinition">(argotique)</span> - picaillons <span class="indicateurDefinition">(populaire)</span> - pognon <span class="indicateurDefinition">(populaire)</span></p></li>
+			<li class="DivisionDefinition"><span class="numDef">6.</span> Un des deux métaux héraldiques, s'indiquant en gravure par un fond uni.</li>
+		</ul>
+	</article>
+</div>
+
+                <!-- BANIERE(730 x 90) PUB MIDDLE1 -->
+                <div class="pub-gtm gtm_olf1">
+                    
+                </div>
+            </div>
+            <div class="col-md-4">
+                <aside class="zone-listresult">
+                    <div class="banner-title">
+                        <hr class="line-left" />
+                        <span class="homebox-title">VOUS CHERCHEZ PEUT-ÊTRE</span>
+                        <hr class="line-right" />
+                    </div>
+                    <div class="hb-listresult"> 
+                        <nav class="search" role="contentinfo"><div class="wrapper-search"><section class="sel-section"><article class=" sel" ><div class="item-result"><a href="">argent n.m. </a></div><p class="def">Métal précieux, blanc, brillant et très ductile, inoxydable.</p></article><article class=" sous-article" ><div class="item-result"><a href="#151227">Argent anglais</a></div></article><article class=" sous-article" ><div class="item-result"><a href="#528720">Argent au jour le jour (J.J.)</a></div></article><article class=" sous-article" ><div class="item-result"><a href="#151228">Argent bas</a></div></article><article class=" sous-article" ><div class="item-result"><a href="#151229">Argent filé</a></div></article><article class=" sous-article" ><div class="item-result"><a href="#151230">Argent fin</a></div></article><article class=" sous-article" ><div class="item-result"><a href="#151231">Argent trait</a></div></article><article class=" sous-article" ><div class="item-result"><a href="#151232">D'argent</a></div></article><article class=" sous-article" ><div class="item-result"><a href="#151233">En avoir, en vouloir pour son argent</a></div></article><article class=" sous-article" ><div class="item-result"><a href="#151234">Faire argent de quelque chose</a></div></article><article class=" sous-article" ><div class="item-result"><a href="#151235">Faire argent de tout</a></div></article><article class=" sous-article" ><div class="item-result"><a href="#151236">Homme, femme d'argent</a></div></article><article class=" sous-article" ><div class="item-result"><a href="#151237">Manger de l'argent</a></div></article><article class=" sous-article" ><div class="item-result"><a href="#151238">Puissances d'argent</a></div></article></section><section><article class="" ><div class="item-result"><a href="/dictionnaires/francais/vif-argent/81949">vif-argent n.m. </a></div><p class="def">Nom donné couramment au mercure.</p></article><article class=" sous-article" ><div class="item-result"><a href="/dictionnaires/francais/vif-argent/81949#177144">Avoir du vif-argent dans les veines, être du vif-argent</a></div></article></section><article class="" ><div class="item-result"><a href="/dictionnaires/francais/bouton-d_argent/10765">bouton-d'argent n.m. </a></div><p class="def">Nom commun à plusieurs végétaux : deux renoncules, une achillée, des matricaires...</p></article><article class="" ><div class="item-result"><a href="/dictionnaires/francais/%C3%A9toile-d_argent/31495">étoile-d'argent n.f. </a></div><p class="def">Edelweiss.</p></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/corbeille-d_argent/19239">corbeille-d'argent n.f. </a></div><p class="def">Plante de bordure des massifs floraux, au feuillage argenté...</p></article><div class="banner-title itemHidden"><hr class="line-left"/><span class="homebox-title">autres résultats</span><hr class="line-right"/></div><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/corn%C3%A9/19332#153677">Argent corné</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/poche/61899#164837">Argent de poche</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/frais/34968#155682">Argent frais</a></div></article><section><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/fulminant/35523#155927">Argent fulminant de Berthollet</a></div></article><article class=" sous-article itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/fulminant/35523#155928">Argent fulminant de Brugnatelli</a></div></article></section><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/liquide/47362#181091">Argent liquide</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/gauche/36283#162352">Avoir de l'argent à gauche</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/perdre/59460#163992">Avoir du temps, de l'argent à perdre</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/devant/24936#178834">Avoir du temps, de l'argent devant soi</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/barre/8104#168426">Barre commerciale d'argent</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/brasser/11007#160647">Brasser de l'argent</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/ceinture/13985#169641">Ceinture d'argent</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/cracher/20123#170223">Cracher (de l'argent)</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/drap/26749#154938">Drap d'or, drap d'argent</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/empiler/28931#155109">Empiler de l'argent</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/vouloir/82561#184591">En vouloir à l'argent, au bien de quelqu'un</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/%C3%A9peron/30294#16000571">Éperon de bronze, d'argent, de vermeil</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/pr%C3%A8s/63654#165303">Être près de ses sous, de son argent</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/valser/81007#176692">Faire valser l'argent</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/fl%C3%A8che/34078#10962927">Flèche d'or, d'argent, de bronze</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/garrocher/10910120#900046">Garrocher son argent par les fenêtres</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/g%C3%A9latino-bromure/36434#162394">Gélatino-bromure ou gélatino-chlorure d'argent</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/hache/38795#179987">Hache d'argent</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/jaune/44799#173147">Jaune d'argent</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/fen%C3%AAtre/33252#179647">Jeter l'argent par les fenêtres</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/astre/5984#159745">L'astre des nuits, l'astre nocturne, l'astre d'argent</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/laver/46469#180611">Laver de l'argent</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/loyer/47959#156807">Loyer de l'argent</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/manier/49150#173722">Manier de l'argent, des fonds</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/manieur/49158#173741">Manieur d'argent</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/m%C3%A9daille/50071#11059586">Médaille d'or, d'argent, de bronze</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/c%C3%B4t%C3%A9/19605#153839">Mettre (de l'argent) de côté</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/noces/54731#174204">Noces d'argent, d'or, de diamant</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/noce/54730#11103658">Noces d 'argent, d 'or, de diamant</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/papier/57761#182981">Papier d'aluminium, d'étain (ou d'argent [familier])</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/poisson/62066#165005">Petit poisson d'argent</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/cent/14089#169693">Placer (de l'argent) à cinq, six, dix, vingt, etc., pour cent l'an</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/pointe/62009#164960">Pointe d'argent (d'or, de cuivre, de plomb)</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/comptant/17805#161282">Prendre quelque chose pour de l'argent comptant</a></div></article><article class=" itemHidden" ><div class="item-result"><a href="/dictionnaires/francais/rentrer/68273#183757">Rentrer dans son argent, dans ses frais</a></div></article></div></nav>
+                        <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_btExpand" class="btPlus" onclick="onExpandResult()">Voir<span class="iconPlus">plus</span></div>
+                    </div>
+                </aside> 
+				<!-- PUB PAVE -->
+                <div class="pub-pave oasm"></div> 
+            </div>
+        </div>  
+        
+        <div class="row">
+            <div class="col-md-8">
+                <!-- PANEL ARTICLE [EXPRESSION]--> 
+                <div id="locution">
+                    <div id="locution">
+	<article class="BlocLocutions content" role="article"><span class="icon-section fontello">&#xe827;</span>
+		<h1 class="TitrePage">Expressions<span class="ComplementTitre"> avec argent</span></h1>
+		<ul class="ListeLocutions">
+			<li class="Locution" id="151227">
+				<h2 class="AdresseLocution">Argent anglais, </h2><span class="TexteLocution">maillechort argenté.</span></li>
+			<li class="Locution" id="528720">
+				<h2 class="AdresseLocution">Argent au jour le jour (J.J.), </h2><span class="TexteLocution">liquidités que les banques se procurent sur le marché interbancaire.</span></li>
+			<li class="Locution" id="151228">
+				<h2 class="AdresseLocution">Argent bas, </h2><span class="TexteLocution">argent qui est inférieur au titre requis.</span></li>
+			<li class="Locution" id="151229">
+				<h2 class="AdresseLocution">Argent filé, </h2><span class="TexteLocution">argent qui est retors avec des fils de soie.</span></li>
+			<li class="Locution" id="151230">
+				<h2 class="AdresseLocution">Argent fin, </h2><span class="TexteLocution">argent du plus haut titre.</span></li>
+			<li class="Locution" id="151231">
+				<h2 class="AdresseLocution">Argent trait, </h2><span class="TexteLocution">fil d'argent très fin.</span></li>
+			<li class="Locution" id="151232">
+				<h2 class="AdresseLocution"><span class="IndicateurLocution">Littéraire. </span>D'argent, </h2><span class="TexteLocution">qui a la blancheur, l'éclat de l'argent (métal) ou le son clair d'une pièce d'argent.
+				<p class="LibelleSynonyme">Synonymes :</p>
+				<p class="Synonymes"><span class="Renvois"><a class="lienarticle" href="/dictionnaires/francais/argentin/5178">argentin</a></span> - <span class="Renvois"><a class="lienarticle" href="/dictionnaires/francais/cristallin/20539">cristallin</a></span></p></span></li>
+			<li class="Locution" id="151233">
+				<h2 class="AdresseLocution">En avoir, en vouloir pour son argent, </h2><span class="TexteLocution">en proportion de l'argent qu'on a déboursé ou de la peine que l'on a prise.</span></li>
+			<li class="Locution" id="151234">
+				<h2 class="AdresseLocution">Faire argent de quelque chose, </h2><span class="TexteLocution">le vendre ou l'employer pour se procurer de l'argent.</span></li>
+			<li class="Locution" id="151235">
+				<h2 class="AdresseLocution">Faire argent de tout, </h2><span class="TexteLocution">user de tous les moyens pour se procurer de l'argent, savoir tirer profit de tout.</span></li>
+			<li class="Locution" id="151236">
+				<h2 class="AdresseLocution">Homme, femme d'argent, </h2><span class="TexteLocution">qui aime l'argent, intéressé.</span></li>
+			<li class="Locution" id="151237">
+				<h2 class="AdresseLocution">Manger de l'argent, </h2><span class="TexteLocution">perdre de l'argent dans une opération commerciale ou financière.</span></li>
+			<li class="Locution" id="151238">
+				<h2 class="AdresseLocution">Puissances d'argent, </h2><span class="TexteLocution">milieux financiers et économiques qui exercent une action dans le domaine politique.</span></li>
+		</ul>
+	</article>
+</div>
+               </div>
+               
+               <div id="andrea_media1"></div>               
+               <!-- PANEL ARTICLE [SYNONIME]-->
+                <div id="synonyme">
+                    
+                </div>
+                <!-- PANEL ARTICLE [HOMONYME]--> 
+                <div id="homonyme">
+                    
+                </div>
+
+                <!-- BANIERE(730 x 90) PUB MIDDLE1 -->
+                <div class="pub-gtm gtm_olf2">
+                    
+                </div>
+
+                <!-- PANEL ARTICLE [DIFFICULTE]--> 
+                <div id="difficulte">
+                    
+                </div>
+                <!-- PANEL ARTICLE [CITATION]-->
+                <div id="citation"> 
+                    <div id="citation"><div class="BlocCitations content"><br><span class="icon-section fontello">&#xe818;</span>
+<h1 class="TitrePage">Citations<span class="ComplementTitre"> avec argent<cg></cg></span></h1><br>
+<ul class="ListeCitations">
+<li id="5000072" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/%C3%89mile_Chartier_dit_Alain/104506">Émile <span class="NomCitation">Chartier</span>, dit <span class="AdresseCitation">Alain</span></a></span><span class="InfoAuteurCitation"> (Mortagne-au-Perche 1868-Le Vésinet 1951)</span><br><span class="TexteCitation">Ma grande objection à l'argent, c'est que l'argent est bête.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Propos d'économique</span>, Gallimard</span><br></li>
+
+
+<li id="5000421" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/litterature/Marcel_Aym%C3%A9/171158">Marcel <span class="AdresseCitation">Aymé</span></a></span><span class="InfoAuteurCitation"> (Joigny 1902-Paris 1967)</span><br><span class="TexteCitation">L'argent ne se souvient de rien. Il faut le prendre quand on peut, et le jeter par les fenêtres. Ce qui est salissant, c'est de le garder dans ses poches, il finit toujours par sentir mauvais.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Le Vaurien</span>, Gallimard</span><br></li>
+
+
+<li id="5000416" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/litterature/Marcel_Aym%C3%A9/171158">Marcel <span class="AdresseCitation">Aymé</span></a></span><span class="InfoAuteurCitation"> (Joigny 1902-Paris 1967)</span><br><span class="TexteCitation">En France, les peines d'argent durent plus longtemps que les peines de cœur et se transmettent de génération en génération.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Silhouette du scandale</span>, Le Sagittaire</span><br></li>
+
+
+<li id="5008639" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/Aphra_Johnson_Mrs_Behn/108172">Aphra <span class="NomCitation">Johnson</span>, Mrs. <span class="AdresseCitation">Behn</span></a></span><span class="InfoAuteurCitation"> (Wye, Kent, 1640-Londres 1689)</span><br><span class="TexteCitation">L'argent parle raison dans un langage que comprennent toutes les nations.</span><br><span class="Texte2Citation">Money speaks sense in a language all nations understand.</span><br><span class="InfoCitation"><span class="ReferenceCitation">The Rover</span> </span><br></li>
+
+
+<li id="5008345" class="Citation"><span class="SourceCitation"><a class="lienCitationEncyclo" href="/encyclopedie/divers/Bible/26692">Bible</a></span><br><span class="TexteCitation">Nul ne peut servir deux maîtres. Ou il haïra l'un et aimera l'autre, ou il s'attachera à l'un et méprisera l'autre. Vous ne pouvez servir Dieu et l'Argent.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Évangile selon saint Matthieu</span>, VI, 24 </span><br></li>
+
+
+<li id="5001003" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/litterature/L%C3%A9on_Bloy/171724">Léon <span class="AdresseCitation">Bloy</span></a></span><span class="InfoAuteurCitation"> (Périgueux 1846-Bourg-la-Reine 1917)</span><br><span class="TexteCitation">Le sang du pauvre, c'est l'argent. On en vit et on en meurt depuis des siècles. Il résume expressivement toute souffrance.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Le Sang du pauvre</span>, Stock</span><br></li>
+
+
+<li id="5001097" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/Abel_Bonnard/98976">Abel <span class="AdresseCitation">Bonnard</span></a></span><span class="InfoAuteurCitation"> (Poitiers 1883-Madrid 1968)</span><br><span class="DefinitionAuteurCitation">Académie française, 1932</span><br><span class="TexteCitation">Il faut reconnaître que les hommes de l'aristocratie française ont presque toujours su dépenser l'argent très élégamment : ils n'ont fait de bassesses que pour en avoir.</span><br><span class="InfoCitation"><span class="ReferenceCitation">L'Argent</span>, Hachette</span><br></li>
+
+
+<li id="5001170" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/%C3%89douard_Bourdet/109784">Édouard <span class="AdresseCitation">Bourdet</span></a></span><span class="InfoAuteurCitation"> (Saint-Germain-en-Laye 1887-Paris 1945)</span><br><span class="TexteCitation">Il faut choisir dans la vie entre gagner de l'argent et le dépenser : on n'a pas le temps de faire les deux.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Les Temps difficiles</span>, Stock</span><br></li>
+
+
+<li id="5001169" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/%C3%89douard_Bourdet/109784">Édouard <span class="AdresseCitation">Bourdet</span></a></span><span class="InfoAuteurCitation"> (Saint-Germain-en-Laye 1887-Paris 1945)</span><br><span class="TexteCitation">L'argent, c'est comme les femmes : pour le garder, il faut s'en occuper un peu ou alors il va faire le bonheur de quelqu'un d'autre.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Les Temps difficiles</span>, Stock</span><br></li>
+
+
+<li id="5008725" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/George_Gordon_lord_Byron/110698">George <span class="NomCitation">Gordon</span>, lord <span class="AdresseCitation">Byron</span></a></span><span class="InfoAuteurCitation"> (Londres 1788-Missolonghi 1824)</span><br><span class="TexteCitation">L'argent est la lampe d'Aladin.</span><br><span class="Texte2Citation">Ready money is Aladdin's lamp.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Don Juan</span>, XII, 12</span><br></li>
+
+
+<li id="5001523" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/litterature/S%C3%A9bastien-Roch_Nicolas_dit_Nicolas_de_Chamfort/172312">Sébastien Roch <span class="NomCitation">Nicolas</span>, dit Nicolas de <span class="AdresseCitation">Chamfort</span></a></span><span class="InfoAuteurCitation"> (près de Clermont-Ferrand 1740-Paris 1794)</span><br><span class="DefinitionAuteurCitation">Académie française, 1781</span><br><span class="TexteCitation">Les succès produisent les succès, comme l'argent produit l'argent.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Maximes et pensées</span> </span><br></li>
+
+
+<li id="5008841" class="Citation"><span class="AuteurCitation">Carlo Alberto <span class="NomCitation">Pisani Dossi</span>, dit <b>Carlo</b> <span class="AdresseCitation">Dossi</span></span><span class="InfoAuteurCitation"> (Zenevredo, Pavie, 1849-Cardina, Côme, 1910)</span><br><span class="TexteCitation">À beaucoup de gens il ne manque que de l'argent pour être honnêtes.</span><br><span class="Texte2Citation">A molti non mancano che i denari per essere onesti.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Note Azzurre</span>, 521</span><br></li>
+
+
+<li id="5002462" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/Alexandre_Dumas/117321">Alexandre <span class="AdresseCitation">Dumas</span> dit <span class="NomCitation">Dumas fils</span></a></span><span class="InfoAuteurCitation"> (Paris 1824-Marly-le-Roi 1895)</span><br><span class="TexteCitation">L'argent […] est un bon serviteur et un mauvais maître.</span><br><span class="InfoCitation">Préface de <span class="ReferenceCitation">la Dame aux camélias</span> </span><br></li>
+
+
+<li id="5002466" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/Alexandre_Dumas/117321">Alexandre <span class="AdresseCitation">Dumas</span> dit <span class="NomCitation">Dumas fils</span></a></span><span class="InfoAuteurCitation"> (Paris 1824-Marly-le-Roi 1895)</span><br><span class="TexteCitation">Les affaires […], c'est l'argent des autres.</span><br><span class="InfoCitation"><span class="ReferenceCitation">La Question d'argent</span>, II, 7, Jean </span><br></li>
+
+
+<li id="5003260" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/Sacha_Guitry/122748">Sacha <span class="AdresseCitation">Guitry</span></a></span><span class="InfoAuteurCitation"> (Saint-Pétersbourg  1885-Paris  1957)</span><br><span class="TexteCitation">L'important dans la vie ce n'est pas d'avoir de l'argent mais que les autres en aient.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Le Scandale de Monte-Carlo</span>, I, Davegna , Stock</span><br></li>
+
+
+<li id="5003536" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/Victor_Hugo/124393">Victor <span class="AdresseCitation">Hugo</span></a></span><span class="InfoAuteurCitation"> (Besançon 1802-Paris 1885)</span><br><span class="TexteCitation">De l'argent qu'on reçoit, d'abord, c'est toujours clair.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Ruy Blas</span>, IV, 3, Don César </span><br></li>
+
+
+<li id="5007710" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/litterature/Juv%C3%A9nal/174342"><span class="AdresseCitation">Juvénal</span> en latin <span class="NomCitation">Decimus Junius Juvenalis</span></a></span><span class="InfoAuteurCitation"> (Aquinum, Apulie, vers 60 après J.-C.-vers 130)</span><br><span class="TexteCitation">L'argent a bonne odeur d'où qu'il vienne.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Satires</span>, XIV, 204</span><br><span class="Texte2Citation"> Lucri bonus est odor ex re <br> Qualibet.</span><br></li>
+
+
+<li id="5003884" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/Henri_Lacordaire/128345">Henri <span class="AdresseCitation">Lacordaire</span></a></span><span class="InfoAuteurCitation"> (Recey-sur-Ource, Côte-d'Or, 1802-Sorèze 1861)</span><br><span class="DefinitionAuteurCitation">Académie française, 1860</span><br><span class="TexteCitation">Quelle pitié que les politiques […] qui se croient assez forts pour gouverner le monde avec des écus de cinq francs et des gendarmes !</span><br><span class="InfoCitation"><span class="ReferenceCitation">Lettres</span>, à Mme de la Tour du Pin </span><br></li>
+
+
+<li id="5009183" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/William_Somerset_Maugham/132320">William Somerset <span class="AdresseCitation">Maugham</span></a></span><span class="InfoAuteurCitation"> (Paris 1874-Saint-Jean-Cap-Ferrat 1965)</span><br><span class="TexteCitation">L'argent est comme un sixième sens - sans lui, on ne peut se servir des cinq autres.</span><br><span class="Texte2Citation">Money is like a sixth sense - and you can't make use of the other five without it.</span><br><span class="InfoCitation">In <span class="PublicationCitation">Times Magazine</span> Octobre 1958</span><br></li>
+
+
+<li id="5005189" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/Blaise_de_Lasseran_de_Massencome_seigneur_de_Monluc/133711">Blaise de <span class="NomCitation">Lasseran de Massencome</span>, seigneur de <span class="AdresseCitation">Monluc</span></a></span><span class="InfoAuteurCitation"> (Saint-Puy, Gers, vers 1502-Estillac, Lot-et-Garonne, 1577)</span><br><span class="TexteCitation">Qui n'a pas d'argent en bourse, qu'il ait du miel en bouche.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Commentaires</span>, VII </span><br></li>
+
+
+<li id="5005328" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/Charles_de_Secondat_baron_de_La_Br%C3%A8de_et_de_Montesquieu/133812">Charles de <span class="NomCitation">Secondat</span>, baron de <span class="NomCitation">La Brède</span> et de <span class="AdresseCitation">Montesquieu</span></a></span><span class="InfoAuteurCitation"> (château de La Brède, près de Bordeaux, 1689-Paris 1755)</span><br><span class="TexteCitation">L'argent est très estimable, quand on le méprise.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Mes pensées</span> </span><br></li>
+
+
+<li id="5005344" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/Charles_de_Secondat_baron_de_La_Br%C3%A8de_et_de_Montesquieu/133812">Charles de <span class="NomCitation">Secondat</span>, baron de <span class="NomCitation">La Brède</span> et de <span class="AdresseCitation">Montesquieu</span></a></span><span class="InfoAuteurCitation"> (château de La Brède, près de Bordeaux, 1689-Paris 1755)</span><br><span class="TexteCitation">Il faut savoir le prix de l'argent : les prodigues ne le savent pas, et les avares encore moins.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Mes pensées</span> </span><br></li>
+
+
+<li id="5007761" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/litterature/P%C3%A9trone/176017"><span class="AdresseCitation">Pétrone</span> en latin <span class="NomCitation">Caius Petronius Arbiter</span></a></span><span class="InfoAuteurCitation"> (? -Cumes 66 après J.-C.)</span><br><span class="TexteCitation">Que peuvent les lois, là où ne règne que l'argent ?</span><br><span class="InfoCitation"><span class="ReferenceCitation">Satiricon</span>, chap. 14</span><br><span class="Texte2Citation">Quid faciant leges, ubi sola pecunia regnat ?</span><br></li>
+
+
+<li id="5006113" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/Fran%C3%A7ois_Rabelais/140121">François <span class="AdresseCitation">Rabelais</span></a></span><span class="InfoAuteurCitation"> (La Devinière, près de Chinon, vers 1494-Paris 1553)</span><br><span class="TexteCitation">Faute d'argent, c'est douleur non pareille.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Pantagruel</span>, 16 </span><br></li>
+
+
+<li id="5006228" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/Jean_Racine/140142">Jean <span class="AdresseCitation">Racine</span></a></span><span class="InfoAuteurCitation"> (La Ferté-Milon 1639-Paris 1699)</span><br><span class="TexteCitation">Point d'argent, point de Suisse, et ma porte était close.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Les Plaideurs</span>, I, 1, Petit Jean </span><br></li>
+
+
+<li id="5006225" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/Jean_Racine/140142">Jean <span class="AdresseCitation">Racine</span></a></span><span class="InfoAuteurCitation"> (La Ferté-Milon 1639-Paris 1699)</span><br><span class="TexteCitation">Mais sans argent l'honneur n'est qu'une maladie.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Les Plaideurs</span>, I, 1, Petit Jean </span><br></li>
+
+
+<li id="5006259" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/litterature/Henri_de_R%C3%A9gnier/176405">Henri de <span class="AdresseCitation">Régnier</span></a></span><span class="InfoAuteurCitation"> (Honfleur 1864-Paris 1936)</span><br><span class="DefinitionAuteurCitation">Académie française, 1911</span><br><span class="TexteCitation">L'argent donne tout ce qui semble aux autres le bonheur.</span><br><span class="InfoCitation"><span class="ReferenceCitation"> Donc  </span>, Kra</span><br></li>
+
+
+<li id="5006897" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/Jean-Paul_Sartre/143284">Jean-Paul <span class="AdresseCitation">Sartre</span></a></span><span class="InfoAuteurCitation"> (Paris 1905-Paris 1980)</span><br><span class="TexteCitation">L'argent n'a pas d'idées.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Nekrassov</span>, Gallimard</span><br></li>
+
+
+<li id="5007837" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/litterature/Su%C3%A9tone/177210"><span class="AdresseCitation">Suétone</span> en latin <span class="NomCitation">Caius Suetonius Tranquillus</span></a></span><span class="InfoAuteurCitation"> (vers 69-vers 126)</span><br><span class="TexteCitation">Comme son fils Titus lui reprochait d'avoir imposé l'urine, [Vespasien] lui mit sous le nez l'argent qu'avait rapporté l'impôt lors des premières rentrées et lui demanda s'il était incommodé par l'odeur.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Vies des douze Césars</span>, Vespasien, XXIII</span><br><span class="Texte2Citation">Reprehendenti filio Tito, quod etiam urinae vectigal commentus esset, pecuniam ex prima pensione admovit ad nares, scissitans num odore offenderetur.</span><br><p><span class="TitreCommentaireCitation">Commentaire</span><br><span class="CommentaireCitation">L'imposition et la création même des urinoirs par <a class="lienCitationEncyclo" href="/encyclopedie/personnage/Vespasien/148702">Vespasien</a> est une légende. L'urine était utilisée par les foulons. C'est cette anecdote qui a donné naissance au proverbe «&nbsp;l'argent n'a pas d'odeur&nbsp;».</span></p></li>
+
+
+<li id="5009551" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/Henry_David_Thoreau/146683">Henry David <span class="AdresseCitation">Thoreau</span></a></span><span class="InfoAuteurCitation"> (Concord, Massachusetts, 1817-Concord, Massachusetts, 1862)</span><br><span class="TexteCitation">Plutôt que l'amour, que l'argent, que la gloire,<br> Donnez-moi la vérité.</span><br><span class="Texte2Citation">Rather than love, than money, than fame,<br> Give me truth.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Walden</span>, Conclusion</span><br></li>
+
+
+<li id="5008575" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/Vespasien/148702"><span class="AdresseCitation">Vespasien</span> en latin <span class="NomCitation">Titus Flavius Vespasianus</span></a></span><span class="InfoAuteurCitation"> (près de Reate, aujourd'hui Rieti , 9 après J.-C.-Aquae Cutiliae, Sabine , 79)</span><br><span class="DefinitionAuteurCitation">empereur romain</span><br><span class="TexteCitation">L'argent n'a pas d'odeur.</span><br></li>
+
+
+
+</ul>
+</div></div>
+                </div>
+
+                
+                
+                
+                
+                
+                <div id="taboola-below-article-thumbnails"></div>
+
+                <!-- PANEL MOTS PROCHES--> 
+                <section class="words-nearby"><h2>Mots proches</h2><div class="slider-nearWords slider"><div class="item-word sel">argent<div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/argentage/5168">argentage</a><div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/argentan/5169">argentan</a><div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/point_d_Argentan/10910516">point_d_Argentan</a><div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/argentation/5170">argentation</a><div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/argenter/5171">argenter</a><div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/argali/5162">argali</a><div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/argan/5163">argan</a><div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/arganier/5164">arganier</a><div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/argas/5165">argas</a><div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/arg%C3%A9mone/5166">argémone</a><div class="separator">-</div></div></div></section>
+
+                <!-- PANEL LINK-SOE -->
+                <div class="panel-linkseo">
+                    <!-- TITLE -->
+                    
+
+<!-- TITLE -->
+<div class="banner-title">
+    <hr class="line-left" />
+    <span class="fontello" ></span>
+    <hr class="line-right" />
+    <p class="panel-title"></p>
+</div>
+                    <!-- HOMEBOX LINK-SEO -->
+                    <div class="BlocLinkSEO">
+	<p class="titreSEO">À CONSULTER ÉGALEMENT DANS L'ENCYCLOPÉDIE</p>
+
+	<article>
+	<a href="/encyclopedie/autre-region/Am%C3%A9rique_centrale/105172">
+		<p class="titreDA"><b>Amérique centrale</b><b>.</b></p>
+		<p class="libelleDA">Partie la plus étroite de l'Amérique...</p>
+	</a>
+	</article>
+
+	<article>
+	<a href="/encyclopedie/pays/Australie/106796">
+		<p class="titreDA"><b>Australie</b><b>.</b></p>
+		<p class="libelleDA">État insulaire de l'Océanie, l'Australie peut être considérée soit comme le plus petit continent, soit comme la plus grande île du monde...</p>
+	</a>
+	</article>
+
+	<article>
+	<a href="/encyclopedie/pays/Canada/111051">
+		<p class="titreDA"><b>Canada</b><b>.</b></p>
+		<p class="libelleDA">État d'Amérique du Nord baigné à l'est par la mer du Labrador et la mer de Baffin...</p>
+	</a>
+	</article>
+
+	<article>
+	<a href="/encyclopedie/divers/%C3%A9l%C3%A9ment/46349">
+		<p class="titreDA"><b>élément.</b> </p>
+		<p class="libelleDA">Entité chimique fondamentale commune aux diverses variétés d'un même corps simple ainsi qu'aux combinaisons de ce corps simple avec d'autres corps...</p>
+	</a>
+	</article>
+
+	<article>
+	<a href="/encyclopedie/pays/%C3%89tats-Unis/118570">
+		<p class="titreDA"><b>États-Unis</b><b>.</b></p>
+		<p class="libelleDA">État fédéral d'Amérique du Nord, incluant l'Alaska (au nord-ouest du Canada) et les îles Hawaii (dans le Pacifique nord)...</p>
+	</a>
+	</article>
+
+	<article>
+	<a href="/encyclopedie/divers/mercantilisme/69393">
+		<p class="titreDA"><b>mercantilisme.</b> </p>
+		<p class="libelleDA">Doctrine économique, élaborée au XVI<SUP>e</SUP> et au XVII<SUP>e</SUP> s. à la suite...</p>
+	</a>
+	</article>
+
+	<article>
+	<a href="/encyclopedie/pays/Mexique/133008">
+		<p class="titreDA"><b>Mexique</b><b>.</b></p>
+		<p class="libelleDA">État d'Amérique du Nord, le Mexique est bordé au nord...</p>
+	</a>
+	</article>
+
+	<article>
+	<a href="/encyclopedie/pays/P%C3%A9rou/137673">
+		<p class="titreDA"><b>Pérou</b><b>.</b></p>
+		<p class="libelleDA">État d'Amérique du Sud, le Pérou est longé à l'ouest par...</p>
+	</a>
+	</article>
+
+	<article>
+	<a href="/encyclopedie/divers/photographie/79343">
+		<p class="titreDA"><b>photographie.</b> </p>
+		<p class="libelleDA">Technique permettant d'enregistrer l'image des objets par action de la...</p>
+	</a>
+	</article>
+
+	<article>
+	<a href="/encyclopedie/pays/Russie/141833">
+		<p class="titreDA"><b>Russie</b><b>.</b></p>
+		<p class="libelleDA">État d'Europe orientale et d'Asie, la Russie est baignée au nord par l'océan Arctique...</p>
+	</a>
+	</article>
+
+	<p class="titreSEO">À DÉCOUVRIR DANS L'ENCYCLOPÉDIE</p>
+	<ul>
+	<li><a href="/encyclopedie/personnage/Abraham/103827"><span class="itemtop"><b>Abraham</b><b>.</b></span></a></li>
+	<li><a href="/encyclopedie/autre-region/Ardenne/106031"><span class="itemtop"><b>Ardenne</b><b>.</b></span></a></li>
+	<li><a href="/encyclopedie/personnage/Nicolas_Copernic/114591"><span class="itemtop"><b>Copernic</b><b>.</b> Nicolas <b>Copernic</b><b>.</b></span></a></li>
+	<li><a href="/encyclopedie/groupe-homonymes/guerres_de_Crim%C3%A9e/115182"><span class="itemtop"><b>Crimée</b> (guerre de) [1854-1856].</span></a></li>
+	<li><a href="/encyclopedie/autre-region/Hongkong/111519"><span class="itemtop"><b>Hongkong</b><b>.</b></span></a></li>
+	<li><a href="/encyclopedie/personnage/Thomas_Jefferson/125819"><span class="itemtop"><b>Jefferson</b><b>.</b> Thomas <b>Jefferson</b><b>.</b></span></a></li>
+	<li><a href="/encyclopedie/personnage/Vladimir_Ilitch_Oulianov_dit_L%C3%A9nine/129437"><span class="itemtop"><b>Lénine</b><b>.</b> Vladimir Ilitch Oulianov, dit <b>Lénine</b><b>.</b></span></a></li>
+	<li><a href="/encyclopedie/pays/Lituanie/130097"><span class="itemtop"><b>Lituanie</b><b>.</b></span></a></li>
+	<li><a href="/encyclopedie/vie-sauvage/martin-p%C3%AAcheur/184022"><span class="itemtop"><b>martin-pêcheur</b><b>.</b> <small>[FAUNE]</small></span></a></li>
+	<li><a href="/encyclopedie/groupe-personnage/M%C3%A9rovingiens/132855"><span class="itemtop"><b>Mérovingiens</b><b>.</b></span></a></li>
+	<li><a href="/encyclopedie/personnage/Fran%C3%A7ois_Rabelais/140121"><span class="itemtop"><b>Rabelais</b><b>.</b> François <b>Rabelais</b><b>.</b></span></a></li>
+	<li><a href="/encyclopedie/divers/V_e_R%C3%A9publique/140715"><span class="itemtop"><b>République</b> (V<SUP>e</SUP>).</span></a></li>
+	<li><a href="/encyclopedie/personnage/Socrate/144665"><span class="itemtop"><b>Socrate</b><b>.</b></span></a></li>
+	<li><a href="/encyclopedie/personnage/Iossif_Vissarionovitch_Djougachvili_dit_Joseph_Staline/138847"><span class="itemtop"><b>Staline</b><b>.</b> Iossif Vissarionovitch Djougachvili, dit <b>Joseph</b> <b>Staline</b><b>.</b></span></a></li>
+	<li><a href="/encyclopedie/divers/surr%C3%A9alisme/95026"><span class="itemtop"><b>surréalisme.</b> <small>[LITTÉRATURE]</small></span></a></li>
+	<li><a href="/encyclopedie/divers/tableau_A_tableau_B_tableau_C/95488"><span class="itemtop"><b>tableau A, tableau B, tableau C.</b></span></a></li>
+	</ul>
+</div>
+                    
+                </div> 
+                
+                <!-- PANEL FORUMS -->
+                 
+            </div>
+            <div class="col-md-4">
+                 
+                <aside id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_zoneLinkEncyclo" class="zone-link-encyclo">
+                    <div class="banner-title">
+                        <hr class="line-left" />
+                        <span class="homebox-title">DANS L'ENCYCLOPEDIE</span>
+                        <hr class="line-right" />
+                    </div>
+                    <div class="hb-link-encyclo">
+                        
+                            <article><a href="/encyclopedie/divers/argent/22769"><div class="item-encyclo-def"><h4><B>argent.</B> </h4><p>Métal précieux, blanc, brillant et très ductile, inoxydable.</p></div></a></article>
+                        
+                    </div>
+                </aside>
+                <!-- HOMEBOX COURS-GUIDE -->
+                
+
+<div class="zone-tools">
+     
+    <div class="banner-title">
+        <hr class="line-left" />
+        <span class="homebox-title font-montserra">OUTILS</span>
+        <hr class="line-right" />    
+    </div>
+
+    
+
+    <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Tools_appMobile" class="app-mobile">
+        <a href="/contenu/applications/dictionnaire_francais" >
+            <img class="img-responsive" style="margin:auto;" src="/dictionnaires/assets/img/encart_pub_dicofr.jpg" />
+        </a>
+        
+    </div>
+
+    <div class="box-access">
+        
+        <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Tools_itemConj">
+            <a class="go-line" href="https://www.larousse.fr/conjugaison" >
+                <div class="icon">&#xe823;</div>
+                <div class="name">CONJUGATEUR</div>
+                <div class="arrow">&#xe807;</div> 
+            </a>
+            <hr />
+        </div> 
+              
+         
+        <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Tools_itemJeux">
+            <a class="go-line" href="https://jeux.larousse.fr" >
+                <div class="icon">&#xe812;</div>
+                <div class="name">JEUX</div>
+                <div class="arrow">&#xe807;</div>
+            </a>
+            <hr />
+        </div>
+    </div>
+    <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Tools_itemCours" class="box-access">
+        <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Tools_itemCoursFR1">
+            <a class="item-cours" href="https://www.larousse.fr/cours-francais" >
+                <img class="img-responsive" src="\dictionnaires\assets\img\banner-cfr.png" />
+            </a>
+            <hr />
+        </div>
+        <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Tools_itemCoursFR2">
+            <a class="item-cours go-line" href="https://cours-francais.larousse.fr" >
+                <img class="img-responsive" src="\dictionnaires\assets\img\flag-fr.png" />
+                <div class="name">COURS DE FRANÇAIS</div>
+                <div class="arrow">&#xe807;</div>
+            </a>
+            <hr />
+        </div>
+        
+        
+        
+    </div>
+</div>
+                <!-- pub Native -->
+                <!-- HOMEBOX TRADUCTION (noLink Metadatas => noDisplay (SEO)) -->
+                <!-- 
+
+<div>
+    
+    
+
+    <div class="traduction-zone-selector">
+        <div class="banner-title">
+            <p class="homebox-title">VOIR LA TRADUCTION</p>
+            <hr />
+        </div>
+        <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Traduction_FR_TRAD" class="traduction-lang-selector">
+            <div class="vl"></div>
+            <div class="">
+                <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Traduction_TRAD_FR_EN" class="traduction-lang-item l-lang">
+                    <a href="/dictionnaires/francais-anglais/argent">
+                        <div class="waves-light"><img src="/dictionnaires/assets/img/flag-en.png" /></div>
+                        <p>Anglais</p>
+                    </a>
+                </div>
+                <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Traduction_TRAD_FR_IT" class="traduction-lang-item r-lang">
+                    <a href="/dictionnaires/francais-italien/argent">
+                        <div class="waves-light"><img src="/dictionnaires/assets/img/flag-it.png" /></div>
+                        <p>Italien</p>
+                    </a>
+                </div>
+            </div>
+            <div class="">
+                <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Traduction_TRAD_FR_DE" class="traduction-lang-item l-lang">
+                    <a href="/dictionnaires/francais-allemand/argent">
+                        <div class="waves-light"><img src="/dictionnaires/assets/img/flag-de.png" /></div>
+                        <p>Allemand</p>
+                    </a>
+                </div>
+                <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Traduction_TRAD_FR_ES" class="traduction-lang-item r-lang">
+                    <a href="/dictionnaires/francais-espagnol/argent">
+                        <div class="waves-light"><img src="/dictionnaires/assets/img/flag-es.png" /></div>
+                        <p>Espagnol</p>
+                    </a>
+                </div>
+            </div>
+            <div class="">
+                <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Traduction_TRAD_FR_CN" class="traduction-lang-item l-lang">
+                    <a href="/dictionnaires/francais-chinois/argent">
+                        <div class="waves-light"><img src="/dictionnaires/assets/img/flag-cn.png" /></div>
+                        <p>Chinois</p>
+                    </a>
+                </div>
+                <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Traduction_TRAD_FR_AR" class="traduction-lang-item r-lang">
+                    <a href="/dictionnaires/francais-arabe/argent">
+                        <div class="waves-light"><img src="/dictionnaires/assets/img/flag-ar.png" /></div>
+                        <p>Arabe</p>
+                    </a>
+                </div>
+           </div>
+        </div>
+
+        
+
+        
+
+        
+
+         
+    </div>
+    
+</div> -->
+				<!-- PUB PAVE 2 -->
+                <div class="pub-pave oasm2"></div>
+                <!-- HOMEBOX QUIZZ -->
+                <div class="hb-right-quizz">
+                    <div class="banner-title">
+                        <hr class="line-left" />
+                        <span class="homebox-title">QUIZ</span>
+                        <hr class="line-right" />
+                    </div>
+                    
+
+
+
+
+<!-- CSS (no-include MasterPage) -->
+<link rel="stylesheet" type="text/css" href="/library-web/larcom/quizz/css/style-quizz.css" media="screen" />
+
+<div class="zone-quizz">
+    <article id="Layout" onload="activeItem_qcu();">
+
+<section class="article-quizz">
+		<div class="groupe-consigne-quizz">
+			<p class="consigne-quizz">Parmi les mots suivants, quel est celui dont le «&nbsp;h&nbsp;» n'est pas aspiré&nbsp;?</p>
+		</div>
+		<ul class="liste-choix-unique">
+			<li class="item-choix-unique">
+				<ul class="liste-options" data-reponse="2" id="question1">
+					<li class="item-options">
+					<input class="radiobutton" type="radio" name="question1"  value="1"  id="question-6239" />
+					<label class="radiobutton-label"  for="question-6239">héron</label>
+					</li>
+					<li class="item-options">
+					<input class="radiobutton" type="radio" name="question1"  value="2"  id="question-6240" />
+					<label class="radiobutton-label"  for="question-6240">huître</label>
+					</li>
+					<li class="item-options">
+					<input class="radiobutton" type="radio" name="question1"  value="3"  id="question-6241" />
+					<label class="radiobutton-label"  for="question-6241">hurler</label>
+					</li>
+				</ul></li>
+		</ul>
+</section>
+
+
+</article>
+<div>
+		<section class="boutons-interactivite" id="QCU"></section>
+</div>
+</div>
+
+<!-- JS (no-include MasterPage) -->
+<script src="/library-web/larcom/quizz/js/libs/exercise-manager_bootstrap.js"></script>
+<script src="/library-web/larcom/quizz/js/typos/qcu-manager.js"></script>
+
+                </div> 
+                <div class="BeOpinionWidget"></div>
+				<div class="pub-pave oasm4"></div>
+            </div>
+        </div>  
+
+        <div class="row">
+            <div class="col-md-8">
+                 
+            <div class="col-md-4">
+                <!-- RIEN -->         
+            </div>
+        </div> 
+        
+    </div>
+
+    <!-- JS (slick) !!! pb link jquery masterpage !!!-->
+    <!-- <script type="text/javascript" src="./../assets/library/slick/slick.js"></script> -->
+    <!-- JS (soundmanager2) -->
+    <!-- <script type="text/javascript" src="/library-web/larcom/sound/soundmanager2-nodebug.js"></script> -->     <!-- soundmanager2 -->
+    <!-- JS (dictionnaires) !!! pb link jquery masterpage !!!-->
+    <script type="text/javascript" src="/dictionnaires/assets/js/dictionnaires.202110181218.js"></script>     <!-- src="../assets/js/dictionnaires.js" -->
+  
+
+     
+
+
+        
+
+        <!-- BANIERE(730 x 90) PUB BOTTOM -->
+        <div class="pub-bottom oasb">
+            
+        </div>
+        
+        <!-- ## SOCIAL PANEL ## -->
+        <!-- ################## -->
+        
+
+        <!-- ####### FOOTER ####### -->
+        <div class="footer">
+            <span class="footer-left">
+                <a href="/contenu/applications/applications_mobiles">Applications mobiles</a>
+                <a href="/index">Index</a>
+                
+                <a href="/infos/credits">Mentions légales et crédits</a>
+                <a href="/infos/cgu">CGU</a>
+                <a href="/infos/cgv">CGV</a>
+                <a href="/infos/confidentialite">Charte de confidentialité</a>
+                
+                           
+                <a class="optanon-show-settings">Cookies</a>          
+                
+                <a href="/infos/contact">Contact</a>
+            </span>
+            <span class="footer-right">
+                <span>&copy; Larousse</span>
+                
+            </span>   
+        </div>
+        <!-- ####### FOOTER ####### -->
+
+     </div>
+</body>
+     
+<!-- JS Bootstrap core JavaScript -->
+<!-- <script type="text/javascript" src="/library-web/bootstrap/js/bootstrap.min.js"></script> -->  <!-- src="/library-web/bootstrap/js/bootstrap.js" -->
+<!-- CDN=[cdn.jsdelivr.net]: bootstrap@4.6.0 [JS] -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script> -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+<!-- JS MDB core JavaScript -->
+<!-- <script type="text/javascript" src="/library-web/mdb/js/mdb.min.js"></script> -->              <!-- src="/library-web/mdb/js/mdb.js" -->
+<!-- JS SLICK core JavaScript -->
+<script type="text/javascript" src="/library-web/slick/slick.min.js"></script>                      <!-- src="/library-web/slick/slick.js" -->
+
+<script type="text/javascript">
+    function OptanonWrapper() {  
+        //alert("OptanonWrapper()");
+        //window.dataLayer.push({event:'OneTrustGroupsUpdated'});     //TAGS Events
+    }
+</script>   
+<!-- Fin de notification de consentement aux cookies de OneTrust -->
+
+
+<!-- RegisPUB & [OneTrust] (Params, Habillage(body,oast,oasm,...)) -->   
+<!-- ------------------------------------------------------------- --> 
+<!-- [OneTrust] CATEGORY-1: Cookies strictement nécessaires -->
+<script type="text/plain" class="optanon-category-1">
+        //alert("CATEGORY-1: OK \nCookies strictement nécessaires"); 
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]");
+        //
+        // Set cookie [show payWall] (default value)
+        //alert("optanon(CAT-1|START) : spwpoool_ = true (default value)");
+        setCookie('spwpoool_', 'true', 1);
+</script> 
+<!-- [OneTrust] CATEGORY-2: Cookies de performance -->
+<script type="text/plain" class="optanon-category-2">
+        //alert("CATEGORY-2: OK \nCookies de performance ");  
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]");  
+        //
+        //googleAnalytics(); 
+        //alert("googleAnalytics(): OK");
+</script>
+<!-- [OneTrust] CATEGORY-3: Cookies de fonctionnalité -->   
+<script type="text/plain" class="optanon-category-3">
+        //alert("CATEGORY-3: OK \nCookies de fonctionnalité"); 
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]"); 
+        //
+</script>
+<!-- [OneTrust] CATEGORY-4: Cookies pour une publicité ciblée -->
+<script type="text/plain" class="optanon-category-4">
+        //alert("CATEGORY-4: OK \nCookies pour une publicité ciblée"); 
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]");
+        //
+        //alert("optanon(CAT-4|PUB) : Consent[OK]");
+        disablePaywall();
+        //
+        //initSAStrigger();   // regispub: trigger Pub (body, etc...) via smartadserver
+        //ads();              // regispub: themoneytizer
+        //AdsEx();            // regispub: quantx(elasticad), Teads
+        //alert("ads()-quantxAds(): OK"); 
+</script>
+<!-- [OneTrust] CATEGORY-8: Cookies « réseaux sociaux » -->
+<script type="text/plain" class="optanon-category-8">
+        //alert("CATEGORY-8: OK \nCookies réseaux sociaux");
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]");
+        //
+        //twitter();      // Box Twitter
+        //facebook();     // Box facebook
+        //googleplus();   // Box Google Plus
+        //alert("twitter()-facebook()-googleplus(): OK");    
+</script>  
+<!-- ########## FIN CNIL(RGPD) ##########  -->
+
+<!-- POOOL [payWall & subscription] (access.js & subscribe.js) -->   
+<!-- --------------------------------------------------------- --> 
+<!-- -------------- intégration [audit.js] ----------------- --> 
+
+<!-- -------------- intégration [access.js] ----------------- --> 
+<script id="poool-access" src="https://assets.poool.fr/access.min.js" async></script>
+<script>
+    var access = null;
+    const script_access = document.getElementById('poool-access');
+    script_access.addEventListener('load', function () {
+        //
+        var spwpoool_ = getCookie('spwpoool_');
+        if(window.location.toString().indexOf("/infos/") > 0) spwpoool_ = false;    // Paywall & pageInfos(footer) 
+        //
+        if (spwpoool_ == null || spwpoool_ == 'true') {
+            //alert("spwpoool_[" + spwpoool_+"]: \n   - createPaywall \n   - poool-widget=show() + wrapper=blur(3) \n   - event(Poool+oneTrust)");
+            access = Access.init('ILD4S-2S1MH-UGZ3J-1SEEH');
+            access.createPaywall({
+                target: '#poool-widget',
+                content: '[data-poool]',
+                mode: 'excerpt',
+                percent: 80,
+                pageType: 'premium',
+            });
+            // Hide <#poool-widget>  
+            $("#poool-widget").show();
+            // wrapper -> blur(3) >>> flou
+            $('.wrapper').css({
+                'filter'         : 'blur(3px)',
+                '-webkit-filter' : 'blur(3px)',
+                '-moz-filter'    : 'blur(3px)',
+                '-o-filter'      : 'blur(3px)',
+                '-ms-filter'     : 'blur(3px)'
+            });
+
+            // event back consent
+            access.on('consent', function () {
+                //alert("access.on('consent')");
+
+                // change Consent (accept All Cookie)
+                /////////////////////////////////////
+                //OneTrust.AllowAll();              // => [OK]
+
+                // Display Banner OneTrust (!niveau 2:setting!)
+                ///////////////////////////////////////////////
+                OneTrust.ToggleInfoDisplay();       // => [OK]
+                OneTrust.OnConsentChanged(function () {
+                    //alert("OneTrust.OnConsentChanged => Value: [" + OnetrustActiveGroups + "]");
+                    if (OnetrustActiveGroups.match(/,4,/) == null) {
+                        // consentement oneTrust: [KO]  (OnetrustActiveGroups != 4)
+                        // (ré)activation paywall POOOL
+                        access.createPaywall({
+                            target: '#poool-widget',
+                            content: '[data-poool]',
+                            mode: 'excerpt',
+                            percent: 80,
+                            pageType: 'premium',
+                        });         
+                    }
+                });
+            });
+        }else{
+            //
+            //alert("spwpoool_[false]: noPaywall");
+        }
+    });
+
+    //
+    function disablePaywall(){
+        //alert("disablePaywall(): \n   - destroyPaywall(?) \n   - poool-widget=hide() + wrapper=blur(0) \n   - cookie spwpoool_: false");
+        //
+        // Destroy Paywall (?)
+        if(access){ 
+            //alert("access != null : destroyPaywall");
+            access.destroy();
+        }
+        //
+        //alert("- <div poool-widget>: hide() \n- <div wrapper>: blur(0)");
+        // Hide <#poool-widget>  
+        $("#poool-widget").hide();
+        // wrapper -> blur(0) >>> ok
+        $('.wrapper').css({
+            'filter'         : 'none',
+            '-webkit-filter' : 'none',
+            '-moz-filter'    : 'none',
+            '-o-filter'      : 'none',
+            '-ms-filter'     : 'none'
+        });
+        //
+        // Set cookie [hide payWall]
+        //alert("cookie spwpoool_: false");
+        setCookie('spwpoool_', 'false', 1);
+    }
+</script>
+
+<!-- ------------- intégration [subscribe.js] ---------------- --> 
+<script id="poool-subscribe" src="https://assets.poool-subscribe.fr/subscribe.js" async></script>
+<script>
+    const script_subscribe = document.getElementById('poool-subscribe');
+    script_subscribe.addEventListener('load', function () {
+        subscribe = Subscribe.init('ILD4S-2S1MH-UGZ3J-1SEEH');
+        subscribe.createAuthElement('signin-with-subscribe-button', {
+            target: '#auth-widget-topbar'
+        });
+        subscribe.createAuthElement('signin-with-subscribe-button', {
+            target: '#auth-widget-menuburger'
+        });
+        //subscribe.config('debug', true);
+
+        // Appel ( async / await)
+        /////////////////////////
+        async function getUserDatas() {
+            const user = await subscribe.getUser();         //[KO] user => undefined
+            //alert("user info: " + user 
+            //                        + "\nid_subscription: " + user.subscription.subscriptionId
+            //                        + "\nstatus: " + user.subscription.status
+            //                        + "\ncreatedAt: " + user.subscription.createdAt);
+            if(user != undefined 
+                    && user.subscription != null
+                    && user.subscription.status == "active"){
+                //alert("status == active : subscribe[OK]");
+                $("#auth-widget-topbar").css("margin-top", "12px");   // alignement infoUSer (topbar)
+                disablePaywall();
+            }else{
+                //
+                //alert("access[null] OR subscribe[KO]: keepContext");
+            }
+        }
+        getUserDatas();
+    });  
+
+</script>
+<!-- ############# FIN PAYWALL(Pool) #############  -->
+
+<!-- JS larousse-Masterpage -->
+<script type="text/javascript" src="/library-web/larcom/masterpage/js/masterpage.js"></script>                  <!-- src="[module]/assets/js/masterpage.js" -->
+</html>
