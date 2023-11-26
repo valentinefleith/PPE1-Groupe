@@ -33,7 +33,7 @@ echo "<html>
     <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css\">
     <style>
         .table-container {
-            max-width: 1000px;
+            max-width: 1200px;
             margin: 0 auto;
         }
         .has-background-rose {
@@ -47,7 +47,7 @@ echo "<html>
         <div class=\"table-container\">
             <table class=\"table is-bordered is-striped is-hoverable is-fullwidth\">
                 <tr class=\"has-background-rose\">
-                    <th>Numero ligne</th><th>URL</th><th>Aspiration</th><th>Dump</th><th>Contexte</th><th>Code HTTP</th><th>Encodage</th><th>Compte</th>
+                    <th>Numero ligne</th><th>URL</th><th>Aspiration</th><th>Dump</th><th>Contexte</th><th>Concordancier</th><th>Code HTTP</th><th>Encodage</th><th>Compte</th>
                 </tr>" > $OUTPUT_FILE
 lineno=1
 while read -r URL; do
@@ -65,8 +65,11 @@ while read -r URL; do
 	FICHIER_CONTEXTE="../contextes/${LANGUE}/contexte${lineno}.html"
 	echo $CONTEXTE > $FICHIER_CONTEXTE
 
+	./concordancier.sh $MOT $lineno $FICHIER_CONTEXTE $LANGUE
+	CONCORDANCIER="../concordances/${LANGUE}/concordancier${lineno}.html"
+
     echo "<tr>
-				<td>$lineno</td><td>$URL</td><td><a href='$FICHIER_ASPIRATION'>Aspiration</a></td><td><a href='$FICHIER_DUMP'>Dump</a></td><td><a href='$FICHIER_CONTEXTE'>Contexte</a></td><td>$response</td><td>$encoding</td><td>$COMPTE</td>
+				<td>$lineno</td><td>$URL</td><td><a href='$FICHIER_ASPIRATION'>Aspiration</a></td><td><a href='$FICHIER_DUMP'>Dump</a></td><td><a href='$FICHIER_CONTEXTE'>Contexte</a></td><td><a href='$CONCORDANCIER'>Concordancier</a></td><td>$response</td><td>$encoding</td><td>$COMPTE</td>
 		</tr>" >> $OUTPUT_FILE
 
     lineno=$(expr $lineno + 1)
