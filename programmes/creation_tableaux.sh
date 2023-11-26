@@ -63,6 +63,9 @@ while read -r URL; do
 
 	CONTEXTE=$(egrep -A2 -B2 "$MOT" $FICHIER_DUMP)
 	FICHIER_CONTEXTE="../contextes/${LANGUE}/contexte${lineno}.html"
+    #debug
+    echo $CONTEXTE
+    echo $FICHIER_CONTEXTE
 	echo $CONTEXTE > $FICHIER_CONTEXTE
 
     echo "<tr>
