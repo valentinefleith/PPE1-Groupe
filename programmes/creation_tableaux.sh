@@ -42,7 +42,6 @@ while read -r URL; do
 	FICHIER_ASPIRATION="../aspirations/${LANGUE}/aspiration${lineno}.html"
     response=$(curl -s -L -w "%{http_code}" -o "$FICHIER_ASPIRATION" "$URL")
     encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null "$URL" | egrep -E -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
-	#curl -s -L $URL > $FICHIER_ASPIRATION
 	FICHIER_DUMP="../dump-texts/${LANGUE}/dump${lineno}.html"
 	lynx -dump -assume_charset=$encoding $URL > $FICHIER_DUMP	
     echo "<tr>
