@@ -28,4 +28,6 @@ _-> Comment la vision de l'argent diffère-t-elle d'un pays à l'autre ? (de plu
 _-> Comment la combinaison de la particule "钱" (qián) avec d'autres caractères en chinois, tels que "金" (jīn) pour former "金钱" (jīnqián,argent) ou "钱币"(qiánbì, monnaie), reflète-t-elle les nuances culturelles et les valeurs associées à la notion d'argent dans la société chinoise contemporaine ?
 
 
+# Miniprojet groupe
 
+Nous ecrivons dans le journal en tant que groupe (nous avons travaille ensemble sur le projet). 
