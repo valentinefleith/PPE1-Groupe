@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-if [[ $# -ne 2 ]]; then
-	echo "Usage : ./creation_tableaux.sh /chemin/vers/urls.txt nom_langue(francais, anglais, chinois)"
+if [[ $# -ne 1 ]]; then
+	echo "Usage : ./creation_tableaux.sh /chemin/vers/urls.txt"
     exit
 fi
 
@@ -12,12 +12,7 @@ if [ ! -f "$URLS" ]; then
     exit
 fi
 
-LANGUE=$2
-LANGUE_ATTENDUE="anglais|francais|chinois"
-if [[ ! $LANGUE =~ $LANGUE_ATTENDUE ]]; then
-    echo "La langue doit etre anglais, francais ou chinois."
-    exit
-fi
+LANGUE=$(basename -s .txt $URLS)
 
 OUTPUT_FILE="../tableaux/tableau_${LANGUE}.html"
 echo "<html>
@@ -44,12 +39,12 @@ echo "<html>
                 </tr>" > $OUTPUT_FILE
 lineno=1
 while read -r URL; do
-    response=$(curl -s -I -L -w "%{http_code}" -o /dev/null "$URL")
-    encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null "$URL" | egrep -E -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
 	FICHIER_ASPIRATION="../aspirations/${LANGUE}/aspiration${lineno}.html"
-	curl -s -L $URL > $FICHIER_ASPIRATION
+    response=$(curl -s -L -w "%{http_code}" -o "$FICHIER_ASPIRATION" "$URL")
+    encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null "$URL" | egrep -E -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
+	#curl -s -L $URL > $FICHIER_ASPIRATION
 	FICHIER_DUMP="../dump-texts/${LANGUE}/dump${lineno}.html"
-	lynx -dump $URL > $FICHIER_DUMP	
+	lynx -dump -assume_charset=$encoding $URL > $FICHIER_DUMP	
     echo "<tr>
 				<td>$lineno</td><td>$URL</td><td><a href='$FICHIER_ASPIRATION'>Aspiration</a></td><td><a href='$FICHIER_DUMP'>Dump</a></td><td>$response</td><td>$encoding</td>
 		</tr>" >> $OUTPUT_FILE
