@@ -14,15 +14,15 @@ fi
 
 LANGUE=$(basename -s .txt $URLS)
 
-if [ $LANGUE = "francais" ]; then
+if [ $LANGUE = "fr" ]; then
 		MOT="argent"
 fi
  
-if [ $LANGUE = "anglais" ]; then
+if [ $LANGUE = "en" ]; then
 		MOT="money"
 fi
 
-if [ $LANGUE = "chinois" ]; then
+if [ $LANGUE = "zh" ]; then
 		MOT="钱"
 fi
 
