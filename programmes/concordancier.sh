@@ -11,7 +11,7 @@ lineno=$2
 CONTEXTE=$3
 LANGUE=$4
 
-OUTPUT_FILE="../concordances/${LANGUE}/concordancier${lineno}.html"
+OUTPUT_FILE="../concordances/${LANGUE}-${lineno}.html"
 
 echo "<html>
 <head>
