@@ -38,6 +38,14 @@ Pour les exercices 1-4, pas de difficultés particulières.
 Au début, on voulait ajouter la langue en argument mais grâce à la correction en cours, nous avons découvert `basename` qui nous permet de récupérer automatiquement la langue à partir du nom de fichier d'urls.
 En revanche, l'exercice 5 a été plus laborieux. Nous ne sommes toujours pas certaines que la version actuelle fonctionne complètement, mais au moins des mots s'affichent.
 
+
 Certains de nos sites sont des pages de forums : il y a beaucoup d'urls à la fin du site, qui "polluent" un peu notre dump texte. Il faudra peut-être faire un tri dans les pages plus tard.
 
 Concernant les concordanciers, bizarrement cela a fonctionné pour l'anglais et le francais mais pas pour le chinois. C'est probablement a cause de l'expression reguliere qui ne reconnait pas les caracteres chinois.
+
+
+# Itrameur
+
+![image](https://github.com/valentinefleith/PPE1-Groupe/assets/125041345/8e5858cf-ee30-469e-98ed-5b19e12b83c1)
+
+![image](https://github.com/valentinefleith/PPE1-Groupe/assets/125041345/3b130018-e502-4d4c-bbf5-babd2690091c)
