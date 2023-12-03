@@ -24,7 +24,6 @@ do
 	echo "<page=\"${page}\">
 	<text>${contenu}</text>
 	</page> §" >> $output_file
-
-
-
 done
+
+echo "</lang>" >> $output_file
