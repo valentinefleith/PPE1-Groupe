@@ -10,30 +10,20 @@ fi
 
 dossier=$1
 langue=$2
+output_file="./itrameur/$dossier-$langue.txt"
 
-echo "<lang=\"$langue\">\n" > "./itrameur/$dossier-$langue.txt"
+
+echo "<lang=\"$langue\">\n" > $output_file 
 
 # On boucle parmi tous les fichiers textes
-if [ $langue = "zh" ]
-then
-	nom_dossier="chinois"
-fi
 
-if [ $langue = "en" ]
-then
-	nom_dossier="anglais"
-fi
-
-if [ $langue = "fr" ]
-then
-	nom_dossier="francais"
-fi
-
-for fichier in $(ls ${dossier}/${nom_dossier}/*.html)
+for fichier in $(ls ${dossier}/$langue*.html)
 do
-	pagename=$(basename -s .html $fichier)
-	echo $pagename
-
+	page=$(basename -s .html $fichier)
+	contenu=$(cat $fichier | sed 's/&/&amp;/g' | sed 's/</&lt;/g' | sed 's/>/&gt;/g')
+	echo "<page=\"${page}\">
+	<text>${contenu}</text>
+	</page> §" >> $output_file
 
 
 
