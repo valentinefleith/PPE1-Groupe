@@ -60,9 +60,20 @@ On voit que les 5 mots les plus fréquents sur nos corpus de sites sont: article
 • Pour l'analyse du français on a obtenu ces résultats : 
 Pour les dump : 
 
+![image](https://github.com/valentinefleith/PPE1-Groupe/assets/145553165/d172e3f4-724d-43c0-a535-4d8ab8d6a01c)
+
+![image](https://github.com/valentinefleith/PPE1-Groupe/assets/145553165/564b0893-db17-48a4-986a-4e742ceb1ff2)
+
+
+
 Il y a pas mal de mots inutiles et de lettres seules mais les 5 mots les plus fréquents sont or, métaux, famille, pièces, catégories.
 
 Pour les contextes : 
+
+![image](https://github.com/valentinefleith/PPE1-Groupe/assets/145553165/fb7911b7-19c2-40d7-a179-7530a1a3621b)
+
+![image](https://github.com/valentinefleith/PPE1-Groupe/assets/145553165/8ab2baa9-d69b-414e-b19b-80dabec89e79)
+
 les 5 mots les plus fréquents sont : or, métaux, famille, gamme, rond, et il u a également des mots et lettres parasites.
 
 
