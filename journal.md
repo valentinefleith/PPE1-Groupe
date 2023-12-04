@@ -45,9 +45,25 @@ Concernant les concordanciers, bizarrement cela a fonctionné pour l'anglais et 
 
 
 # Itrameur
-Pour l'analyse de l'anglais, on a eu le résultat comme ci-dessous:
+Après avoir lu le mannuel de Itrameur fourni sur GitHub, nous avons pu procéder notre analyse des 3 langues avec cet outil. On a ensuite déduit les étapes suivantes pour utiliser iTrameur pour que ce soit plus compréhensible: charger fichier --> sélectionner dans "trame" dictionnaire --> sélectionner les mots indésirables -->  dans paramètere tout en haut on met "money/argent" --> coocs, cocher stopliste --> cliquer sur cocurrences --> nb terme gauche / droite : 5 --> SPmin 10
+• On remarque que pourtant le site tombe parfois en panne en raison de genération des graphes de cocurrences.
+
+• Pour l'analyse de l'anglais, on a eu le résultat comme ci-dessous:
 ![image](https://github.com/valentinefleith/PPE1-Groupe/assets/125041345/8e5858cf-ee30-469e-98ed-5b19e12b83c1)
 
 ![image](https://github.com/valentinefleith/PPE1-Groupe/assets/125041345/3b130018-e502-4d4c-bbf5-babd2690091c)
 
 On voit que les 5 mots les plus fréquents sur nos corpus de sites sont: article, everyday, talk, learn, troubles
+
+• Pour l'analyse du français
+
+• Pour l'analyse du chinois, on suppose que car notre corpus chinois n'a pas été tokénizé, le résultat sur iTrameur n'est pas du tout attendu:
+On a des centaines de tokens indésirables (des chiffres inutiles, https, des mots anglais inutiles qui vont jusqu'à la cinquantaine de page sur iTrameur dans la colonne "selection"; ou alors on trouve une phrase entière contenant une vingtaine de caractères et cela n'est évidemment non plus le résultat attendu:
+
+![image](https://github.com/valentinefleith/PPE1-Groupe/assets/145340927/76cde544-b68b-40a9-949a-5ea755568d43)
+
+![image](https://github.com/valentinefleith/PPE1-Groupe/assets/145340927/c88ebf09-046c-475e-a602-9f45d7d681f4)
+
+
+
+
