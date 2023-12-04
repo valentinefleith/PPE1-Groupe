@@ -57,7 +57,14 @@ Après avoir lu le mannuel de Itrameur fourni sur GitHub, nous avons pu procéde
 
 On voit que les 5 mots les plus fréquents sur nos corpus de sites sont: article, everyday, talk, learn, troubles
 
-• Pour l'analyse du français
+• Pour l'analyse du français on a obtenu ces résultats : 
+Pour les dump : 
+
+Il y a pas mal de mots inutiles et de lettres seules mais les 5 mots les plus fréquents sont or, métaux, famille, pièces, catégories.
+
+Pour les contextes : 
+les 5 mots les plus fréquents sont : or, métaux, famille, gamme, rond, et il u a également des mots et lettres parasites.
+
 
 • Pour l'analyse du chinois, on suppose que car notre corpus chinois n'a pas été tokénizé, le résultat sur iTrameur n'est pas du tout attendu:
 On a des centaines de tokens indésirables (des chiffres inutiles, https, des mots anglais inutiles qui vont jusqu'à la cinquantaine de page sur iTrameur dans la colonne "selection"; ou alors on trouve une phrase entière contenant une vingtaine de caractères et cela n'est évidemment non plus le résultat attendu:
