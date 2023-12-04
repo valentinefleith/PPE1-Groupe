@@ -43,6 +43,8 @@ Certains de nos sites sont des pages de forums : il y a beaucoup d'urls à la fi
 
 Concernant les concordanciers, bizarrement cela a fonctionné pour l'anglais et le francais mais pas pour le chinois. C'est probablement a cause de l'expression reguliere qui ne reconnait pas les caracteres chinois.
 
+# 03/12/2023
+Nous avons du faire git rm avec tous les fichiers qu'on a classifiés respectivement dans des fichiers francais/anglais/chinois pour pouvoir les remettre tous les dans les mêmes fichiers et puis les renommer en fr/en/zh.
 
 # Itrameur
 Après avoir lu le mannuel de Itrameur fourni sur GitHub, nous avons pu procéder notre analyse des 3 langues avec cet outil. On a ensuite déduit les étapes suivantes pour utiliser iTrameur pour que ce soit plus compréhensible: charger fichier --> sélectionner dans "trame" dictionnaire --> sélectionner les mots indésirables -->  dans paramètere tout en haut on met "money/argent" --> coocs, cocher stopliste --> cliquer sur cocurrences --> nb terme gauche / droite : 5 --> SPmin 10
