@@ -45,7 +45,9 @@ Concernant les concordanciers, bizarrement cela a fonctionné pour l'anglais et 
 
 
 # Itrameur
-
+Pour l'analyse de l'anglais, on a eu le résultat comme ci-dessous:
 ![image](https://github.com/valentinefleith/PPE1-Groupe/assets/125041345/8e5858cf-ee30-469e-98ed-5b19e12b83c1)
 
 ![image](https://github.com/valentinefleith/PPE1-Groupe/assets/125041345/3b130018-e502-4d4c-bbf5-babd2690091c)
+
+On voit que les 5 mots les plus fréquents sur nos corpus de sites sont: article, everyday, talk, learn, troubles
