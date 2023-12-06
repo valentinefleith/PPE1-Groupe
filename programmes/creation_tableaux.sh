@@ -63,7 +63,8 @@ if [ $response -eq 200 ];then
 	#creation du dump text
 	if [[ ! $encoding == "UTF-8" ]]
 	then
-		iconv -f "$encoding" -t "UTF-8"
+		iconv -f "$encoding" -t "UTF-8" "$FICHIER_ASPIRATION" > "temp.html"
+		mv "temp.html" "$FICHIER_ASPIRATION"
 	fi
 		FICHIER_DUMP="../dump-texts/${LANGUE}-${lineno}.html"
 		lynx -dump -nolist -assume_charset=$encoding $URL > $FICHIER_DUMP
