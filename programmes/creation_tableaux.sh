@@ -67,7 +67,7 @@ if [ $response -eq 200 ];then
 		mv "temp.html" "$FICHIER_ASPIRATION"
 	fi
 		FICHIER_DUMP="../dump-texts/${LANGUE}-${lineno}.html"
-		lynx -dump -nolist -assume_charset=$encoding $URL > $FICHIER_DUMP
+		lynx -dump -nolist -assume_charset="UTF-8" $URL > $FICHIER_DUMP
 
 		COMPTE=$(egrep -o "$MOT" $FICHIER_DUMP | wc -l)
 
