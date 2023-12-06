@@ -54,23 +54,33 @@ while read -r URL; do
 	FICHIER_ASPIRATION="../aspirations/${LANGUE}-${lineno}.html"
 
     response=$(curl -s -L -w "%{http_code}" -o "$FICHIER_ASPIRATION" "$URL")
-    encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null "$URL" | egrep -E -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
+    encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null "$URL" | egrep -E -o "charset=\S+" | cut -d"=" -f2 | tail -n 1 | tr '[:lower]' '[:upper"]')
+	COMPTE=0
+	FICHIER_DUMP="NA"
+	FICHIER_CONTEXTE="NA"
+	CONCORDANCIER="NA"
+if [ $response -eq 200 ];then
+	#creation du dump text
+	if [[ ! $encoding == "UTF-8" ]]
+	then
+		iconv -f "$encoding" -t "UTF-8"
+	fi
+		FICHIER_DUMP="../dump-texts/${LANGUE}-${lineno}.html"
+		lynx -dump -nolist -assume_charset=$encoding $URL > $FICHIER_DUMP
 
-	FICHIER_DUMP="../dump-texts/${LANGUE}-${lineno}.html"
-	lynx -dump -assume_charset=$encoding $URL > $FICHIER_DUMP
+		COMPTE=$(egrep -o "$MOT" $FICHIER_DUMP | wc -l)
 
-	COMPTE=$(egrep -o "$MOT" $FICHIER_DUMP | wc -l)
+		CONTEXTE=$(egrep -A2 -B2 "$MOT" $FICHIER_DUMP)
+		FICHIER_CONTEXTE="../contextes/${LANGUE}-${lineno}.html"
+		echo $CONTEXTE > $FICHIER_CONTEXTE
 
-	CONTEXTE=$(egrep -A2 -B2 "$MOT" $FICHIER_DUMP)
-	FICHIER_CONTEXTE="../contextes/${LANGUE}-${lineno}.html"
-	echo $CONTEXTE > $FICHIER_CONTEXTE
-
-	./concordancier.sh $MOT $lineno $FICHIER_CONTEXTE $LANGUE
-	CONCORDANCIER="../concordances/${LANGUE}-${lineno}.html"
-
+		./concordancier.sh $MOT $lineno $FICHIER_CONTEXTE $LANGUE
+		CONCORDANCIER="../concordances/${LANGUE}-${lineno}.html"
+fi
     echo "<tr>
 				<td>$lineno</td><td>$URL</td><td><a href='$FICHIER_ASPIRATION'>Aspiration</a></td><td><a href='$FICHIER_DUMP'>Dump</a></td><td><a href='$FICHIER_CONTEXTE'>Contexte</a></td><td><a href='$CONCORDANCIER'>Concordancier</a></td><td>$response</td><td>$encoding</td><td>$COMPTE</td>
 		</tr>" >> $OUTPUT_FILE
+
 
     lineno=$(expr $lineno + 1)
 	echo "OK"
