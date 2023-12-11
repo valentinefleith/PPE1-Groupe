@@ -37,11 +37,11 @@ echo "<html>
 		</tr>" > $OUTPUT_FILE
 
 if [ $LANGUE = "zh" ]; then
-		egrep -o "([\\p{Script=Hani}]+[^\p{Script=Hani}]+){0,7}($MOT)([^\p{Script=Hani}]+[\\p{Script=Hani}]+){0,7}" $CONTEXTE | sed -E "s/(.*)(($MOT))(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> $OUTPUT_FILE
+		egrep -o "([\p{Script=Han}]+){0,7}($MOT)([\p{Script=Han}]+){0,7}" $CONTEXTE | sed -E "s/(.*)(($MOT))(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> $OUTPUT_FILE
 
 	else
 
-		egrep -o "(\w+\W+){0,7} ($MOT) (\w+\W+){0,7}" $CONTEXTE | sed -E "s/(.*)($MOT)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> $OUTPUT_FILE
+		egrep -o "(\w+\W+){0,7} ($MOT) (\w+\W+){0,7}" $CONTEXTE | sed -E "s/(.*)($MOT)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" | sed "s/concordancier\.sh//g" | sed "s/creation_tableaux\.sh//g" | sed "s/make_itrameur_corpus\.sh//g" | sed "s/make_itrameur_corpus\.//g" | sed "s/creation_tableaux\.//g" | sed "s/concordancier\.sh//g"  >> $OUTPUT_FILE
 fi
 
 

@@ -69,7 +69,7 @@ if [ $response -eq 200 ];then
 		FICHIER_DUMP="../dump-texts/${LANGUE}-${lineno}.html"
 		lynx -assume_charset="UTF-8" -dump -nolist "$FICHIER_ASPIRATION" > "$FICHIER_DUMP"
 
-		COMPTE=$(egrep -P -i -o "$MOT" $FICHIER_DUMP | wc -l)
+		COMPTE=$(egrep -i -o "$MOT" $FICHIER_DUMP | wc -l)
 
 		CONTEXTE=$(egrep -i -C 3 "$MOT" $FICHIER_DUMP)
 		FICHIER_CONTEXTE="../contextes/${LANGUE}-${lineno}.html"

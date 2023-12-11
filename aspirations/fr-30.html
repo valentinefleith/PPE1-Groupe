@@ -35,6 +35,10 @@
 		dataLayer.push({'allowThirdPartyCookies': 'true'});
 	}
 
+	if (gtmGetCookie('allowPersistentCookies') === '1') {
+		dataLayer.push({'allowFirstPartyCookies': 'true'});
+	}
+
 	</script>
 
 
@@ -62,7 +66,7 @@
 <link rel="preload" as="font" type="font/woff2" href="/fontawesome/webfonts/fa-regular-400.woff2" crossorigin/>
 <link rel="preload" as="font" type="font/woff2" href="/fontawesome/webfonts/fa-brands-400.woff2" crossorigin/>
 <link rel="stylesheet preload" href="/fontawesome/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<link rel="stylesheet" type="text/css" media="all" href="/resources/1N1839336287/css/bvstyles-core.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/resources/1N933934761/css/bvstyles-core.css" />
 <link rel="canonical" href="https://or.bullionvault.fr/Cours-De-L-Argent-Metal.do"/>
 <link rel="alternate" hreflang="en" href="https://www.bullionvault.com/silver-price-chart.do" />
 					<link rel="alternate" hreflang="en-gb" href="https://www.bullionvault.co.uk/silver-price-chart.do" />
@@ -133,7 +137,7 @@
 							<li><a href="/audit.do">Audit quotidien</a></li>
 							<li><a href="/help/getting_started_steps.html">Aide</a></li>
 							<li><a href="/help/contact_BV.html">Contact</a></li>
-							<li><a href="/help/deposit-help.do">Dépôt</a></li>
+							<li><a href="/deposit-funds.do">Dépôt</a></li>
 							<li class="secondary__login"><a href="https://or.bullionvault.fr/secure/login.do">Connexion</a></li>
 							<li class="secondary__registration"><a href="https://or.bullionvault.fr/secure/registration.do" data-tracking-id="header">Ouvrir un compte</a></li>
 						</ul>
@@ -328,12 +332,21 @@
 				</div>
 			</div>
 			<div class="navigation__buttons">
-				<a href="/Cours-De-L-Or.do">
-					<i class="fas fa-fw fa-chart-line-up"></i>
-				</a>
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-					<i class="fas fa-fw fa-bars"></i>
-				</button>
+				<a href="/Cours-De-L-Or.do" class="navigation__button">
+					<span class="navigation__button__icon">
+						<i class="fa-light fa-chart-line-up"></i>
+					</span>
+					</a>
+				<a href="/secure/balance.do" class="navigation__button">
+					<span class="navigation__button__icon">
+						<i class="fa-light fa-user"></i>
+					</span>
+					</a>
+				<button class="navigation__button" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navigation__button__icon">
+						<i class="fa-light fa-bars"></i>
+					</span>
+					</button>
 			</div>
 		</div>
 	</div>
@@ -532,7 +545,7 @@
 							<div class="form-check">
 								<input class="form-check-input" type="radio" name="cookieprefs" id="cookie-preference-2" value="bvOnly">
 								<label class="form-radio-label" for="cookie-preference-2">
-									<strong>Cookies de BullionVault seulement</strong>. Nous utilisons ces cookies pour conserver vos paramètres choisis sur le site (cookies, affiliation, devise, unité de poids, choix des marchés, etc.) lors votre prochaine visite avec le même navigateur.</label>
+									<strong>Cookies de BullionVault uniquement (recommandé)</strong>. Nous utilisons ces cookies pour enregistrer votre utilisation du site et vos préférences (cookies, devise, unités de poids, marchés, référent, etc.) lors de votre prochaine visite avec ce navigateur.</label>
 							</div>
 						</div>
 						<div class="form-group">
@@ -577,7 +590,7 @@
 	</div>
 <div class="webpage__scripts">
 <script type="text/javascript" src="/resources/1N1351709730/javascript/cookies.js" ></script>
-<script type="text/javascript" src="/resources/12041844353.fr/javascript/bvscripts.js" ></script>
+<script type="text/javascript" src="/resources/11134767989.fr/javascript/bvscripts.js" ></script>
 <script type="application/javascript">
 		var loggedIn = false;
 		var isAutologout = false;
