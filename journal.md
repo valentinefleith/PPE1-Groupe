@@ -90,5 +90,12 @@ Après avoir tokénisé le chinois, on a réussi avec la partie itrameur avec le
 <img width="688" alt="image" src="https://github.com/valentinefleith/PPE1-Groupe/assets/145340927/469e388d-034b-43e8-9a6f-6ae2211421f7">
 
 
+### Problemes 
+
+Nous avons des problemes pour le script de concordancier et nous ne trouvons pas de correction de ce script : le script ne fonctionne pas du tout pour le chinois. Nous supposons que c'est a cause de l'expression reguliere qui ne reconnait pas les caracteres chinois. Est-ce qu'il y a une alternative a `\w` pour le chinois ? Nous avons essaye avec `\p{Script=Han}` mais cela ne marche que partiellement (on a toujours le meme mot qui est reconnu partout) :
+![image](https://github.com/valentinefleith/PPE1-Groupe/assets/125041345/e03bcc98-5705-4b48-93de-211178081df4)
+
+Nous avons reussi a resoudre d'autres problemes mais ne sommes pas sures que notre script de concordancier soit correct. Il serait plus facile de pouvoir comparer avec une correction.
+
 
 
