@@ -84,6 +84,11 @@ On a des centaines de tokens indésirables (des chiffres inutiles, https, des mo
 
 ![image](https://github.com/valentinefleith/PPE1-Groupe/assets/145340927/c88ebf09-046c-475e-a602-9f45d7d681f4)
 
+# 11/12/2023
+Après avoir tokénisé le chinois, on a réussi avec la partie itrameur avec les résultats suivants: <img width="273" alt="image" src="https://github.com/valentinefleith/PPE1-Groupe/assets/145340927/5da66bf5-83a4-411c-86bd-db5aadb793f7">
+
+<img width="688" alt="image" src="https://github.com/valentinefleith/PPE1-Groupe/assets/145340927/469e388d-034b-43e8-9a6f-6ae2211421f7">
+
 
 
 
