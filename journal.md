@@ -97,5 +97,5 @@ Nous avons des problemes pour le script de concordancier et nous ne trouvons pas
 
 Nous avons reussi a resoudre d'autres problemes mais ne sommes pas sures que notre script de concordancier soit correct. Il serait plus facile de pouvoir comparer avec une correction.
 
-
+Nous avons reussi a creer des wordcloud pour toutes les langues mais malgre des essais d'installation de Fonts pour le chinois, les caracteres ne s'affichent pas. Il faut reussir a regler le probleme.
 
