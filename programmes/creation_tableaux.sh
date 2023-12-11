@@ -67,11 +67,11 @@ if [ $response -eq 200 ];then
 		mv "temp.html" "$FICHIER_ASPIRATION"
 	fi
 		FICHIER_DUMP="../dump-texts/${LANGUE}-${lineno}.html"
-		lynx -dump -nolist -assume_charset="UTF-8" $URL > $FICHIER_DUMP
+		lynx -assume_charset="UTF-8" -dump -nolist "$FICHIER_ASPIRATION" > "$FICHIER_DUMP"
 
-		COMPTE=$(egrep -o "$MOT" $FICHIER_DUMP | wc -l)
+		COMPTE=$(egrep -P -i -o "$MOT" $FICHIER_DUMP | wc -l)
 
-		CONTEXTE=$(egrep -A2 -B2 "$MOT" $FICHIER_DUMP)
+		CONTEXTE=$(grep -i -C 3 "$MOT" $FICHIER_DUMP)
 		FICHIER_CONTEXTE="../contextes/${LANGUE}-${lineno}.html"
 		echo $CONTEXTE > $FICHIER_CONTEXTE
 
