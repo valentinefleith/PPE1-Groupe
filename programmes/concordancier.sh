@@ -36,7 +36,13 @@ echo "<html>
                     <th>Gauche</th><th>Mot</th><th>Droite</th>
 		</tr>" > $OUTPUT_FILE
 
+if [ $LANGUE = "zh" ]; then
+		egrep -o "([\\p{Script=Hani}]+[^\p{Script=Hani}]+){0,7}($MOT)([^\p{Script=Hani}]+[\\p{Script=Hani}]+){0,7}" $CONTEXTE | sed -E "s/(.*)(($MOT))(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> $OUTPUT_FILE
+
+	else
+
 		egrep -o "(\w+\W+){0,7} ($MOT) (\w+\W+){0,7}" $CONTEXTE | sed -E "s/(.*)($MOT)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> $OUTPUT_FILE
+fi
 
 
 echo "            </table>

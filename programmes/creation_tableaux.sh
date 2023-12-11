@@ -54,7 +54,7 @@ while read -r URL; do
 	FICHIER_ASPIRATION="../aspirations/${LANGUE}-${lineno}.html"
 
     response=$(curl -s -L -w "%{http_code}" -o "$FICHIER_ASPIRATION" "$URL")
-    encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null "$URL" | egrep -E -o "charset=\S+" | cut -d"=" -f2 | tail -n 1 | tr '[:lower]' '[:upper"]')
+    encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null "$URL" | egrep -o "charset=\S+" | cut -d"=" -f2 | tail -n 1 | tr '[:lower]' '[:upper"]')
 	COMPTE=0
 	FICHIER_DUMP="NA"
 	FICHIER_CONTEXTE="NA"
@@ -71,7 +71,7 @@ if [ $response -eq 200 ];then
 
 		COMPTE=$(egrep -P -i -o "$MOT" $FICHIER_DUMP | wc -l)
 
-		CONTEXTE=$(grep -i -C 3 "$MOT" $FICHIER_DUMP)
+		CONTEXTE=$(egrep -i -C 3 "$MOT" $FICHIER_DUMP)
 		FICHIER_CONTEXTE="../contextes/${LANGUE}-${lineno}.html"
 		echo $CONTEXTE > $FICHIER_CONTEXTE
 
