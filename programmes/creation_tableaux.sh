@@ -42,12 +42,12 @@ echo "<html>
     </style>
 </head>
 <body>
-    <div class=\"container\">
+    <div class=\"container is-fullhd\">
         <h1 class=\"title is-1 has-text-centered has-text-grey\"><b>Tableau</b></h1>
         <div class=\"table-container\">
             <table class=\"table is-bordered is-striped is-hoverable is-fullwidth\">
                 <tr class=\"has-background-rose\">
-                    <th>Numero ligne</th><th>URL</th><th>Aspiration</th><th>Dump</th><th>Contexte</th><th>Concordancier</th><th>Code HTTP</th><th>Encodage</th><th>Compte</th>
+                    <th>Numero ligne</th><th class="is-half">URL</th><th>Aspiration</th><th>Dump</th><th>Contexte</th><th>Concordancier</th><th>Code HTTP</th><th>Encodage</th><th>Compte</th>
                 </tr>" > $OUTPUT_FILE
 lineno=1
 while read -r URL; do
