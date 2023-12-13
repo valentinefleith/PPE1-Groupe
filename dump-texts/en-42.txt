@@ -1,0 +1,273 @@
+egosoft.com
+
+   Space simulation development
+
+   Skip to content
+
+   ____________________ (BUTTON) Search Advanced search
+
+egosoft.com
+
+   Space simulation development
+
+   Skip to content
+   Board index
+     * Quick links
+          +
+          + Unanswered topics
+          + Active topics
+          +
+          + Search
+          +
+     * FAQ
+     * X4 WIKI
+     * Game Registration
+     * Login
+     * Register
+
+     * Home Board index English Forums X Trilogy Universe
+     * Search
+
+[XBTF]Questions about making money
+
+   General discussions about the games by Egosoft including X-BTF, XT, X²,
+   X³: Reunion, X³: Terran Conflict and X³: Albion Prelude.
+
+   Moderator: Moderators for English X Forum
+   Post Reply
+     * Print view
+
+   ____________________ (BUTTON) Search Advanced search
+
+   5 posts • Page 1 of 1
+
+   N4N
+          Posts: 444
+          Joined: Mon, 25. May 09, 14:01
+          x3tc
+
+[XBTF]Questions about making money
+
+     * Quote
+
+   Post by N4N » Sun, 1. Sep 13, 22:40
+   I created an ore mine in Profit share(I dont even know why, since there
+   is one already here.....anyway) but its running out of Energy cells all
+   the time, I put cash into the station and I bring the cells myself, but
+   nobody stop and sells cells to station and by the way nobody come to
+   buy the ORE, even if I put low price to the stuff.
+   Any way I can make a ship transport energy cells there? A cheap way,
+   because I dont think I can afford to buy a ship. I have serious
+   problems making money here, takes me lot of runs thru many stations,
+   buying and selling to do few thousands, I dont think I can buy
+   expensive staff such as mineral scanner or trading system extension,
+   since I barelly have money for myself.
+   Any early game making money tips?
+   Top
+     __________________________________________________________________
+
+   AgamemnonArgon
+          Posts: 2758
+          Joined: Thu, 19. Nov 09, 22:12
+          x3tc
+
+     * Quote
+
+   Post by AgamemnonArgon » Mon, 2. Sep 13, 00:12
+   As long as you have money to buy energy cells, you can buy or use a
+   current ship to buy for your station.
+   The ship or fighter needs Trade 1 and 2 installed and supply software.
+   Goto ships command menu.
+   Select choose home-base.
+   When map appears find and target your base.
+   Go to top of command menu.
+   Select Buy wares for best price.
+   Select Energy cells
+   The ship will automatically seek out and buy for energy.
+   If the station is full the ship will wait until the station needs more
+   energy then set off again to buy.
+   A fighter can also be used as Energy cells are a small ware.
+   Argon Patriot and Battlemaster
+   Peace - Through Superior Firepower
+   Top
+     __________________________________________________________________
+
+   N4N
+          Posts: 444
+          Joined: Mon, 25. May 09, 14:01
+          x3tc
+
+     * Quote
+
+   Post by N4N » Mon, 2. Sep 13, 00:36
+
+   AgamemnonArgon wrote:As long as you have money to buy energy cells, you
+   can buy or use a current ship to buy for your station.
+   The ship or fighter needs Trade 1 and 2 installed and supply software.
+   Goto ships command menu.
+   Select choose home-base.
+   When map appears find and target your base.
+   Go to top of command menu.
+   Select Buy wares for best price.
+   Select Energy cells
+   The ship will automatically seek out and buy for energy.
+   If the station is full the ship will wait until the station needs more
+   energy then set off again to buy.
+   A fighter can also be used as Energy cells are a small ware.
+
+   yeah well, that's in other games, such as X3, but Im in X beyond the
+   frontier, and there is no such thing as ship comands menu...
+   but thx anyway
+   Top
+     __________________________________________________________________
+
+   pjknibbs
+          Posts: 41359
+          Joined: Wed, 6. Nov 02, 20:31
+          x4
+
+     * Quote
+
+   Post by pjknibbs » Mon, 2. Sep 13, 08:55
+   In BTF you purchase transport ships and give them orders via the
+   station menu--if you land at your ore mine you'll see an option to buy
+   transport ships. However, I'm pretty sure those ships are limited to
+   only buying resources the station needs, it's not possible to set them
+   to automatically sell its products.
+   However, you can pretty much always make money on stations in BTF
+   because of the way the pricing structure is laid out--even if you set
+   your ore to sell at the lowest possible price (to undercut the
+   competition), you can still make a profit.
+   Top
+     __________________________________________________________________
+
+   N4N
+          Posts: 444
+          Joined: Mon, 25. May 09, 14:01
+          x3tc
+
+     * Quote
+
+   Post by N4N » Mon, 2. Sep 13, 09:51
+
+   pjknibbs wrote:In BTF you purchase transport ships and give them orders
+   via the station menu--if you land at your ore mine you'll see an option
+   to buy transport ships. However, I'm pretty sure those ships are
+   limited to only buying resources the station needs, it's not possible
+   to set them to automatically sell its products.
+   However, you can pretty much always make money on stations in BTF
+   because of the way the pricing structure is laid out--even if you set
+   your ore to sell at the lowest possible price (to undercut the
+   competition), you can still make a profit.
+
+   oh lord, so you buy ships from stations......no wonder I couldnt find
+   any at shipyards,.... :evil: I thought they didnt want to sell to me
+   because of low rank, but now I understand why.....
+   Thanks a lot, as usual ;)
+   By the way, I couldnt see any rank list anywhere, is there rank in
+   XBTF? Also to be honest, the lack of proper menu system, is
+   troublesome, I even miss the "ugly" Reunion menu system :P
+   Top
+     __________________________________________________________________
+
+   Post Reply
+     * Print view
+
+   Display: [All posts] Sort by: [Post time] Direction: [Ascending_]
+     __________________________________________________________________
+
+   Go
+
+   5 posts • Page 1 of 1
+
+   Return to “X Trilogy Universe”
+   Jump to
+     * English Forums
+     * ↳   X4: Foundations
+     * ↳   X4: Foundations - Spoilers
+     * ↳   X4: Foundations - Technical Support
+     * ↳   X4: Foundations - Scripts and Modding
+     * ↳   Construction Community
+     * ↳   X Wiki Discussion
+     * ↳   X Rebirth Universe
+     * ↳   X Rebirth VR Edition
+     * ↳   X Rebirth - Technical Support
+     * ↳   X Rebirth - Scripts and Modding
+     * ↳   X³: Farnham's Legacy
+     * ↳   X³: Farnham's Legacy - Scripts and Modding
+     * ↳   X Trilogy Universe
+     * ↳   X³: Terran Conflict / Albion Prelude / Farnham's Legacy -
+       Technical Support
+     * ↳   X³: Terran Conflict / Albion Prelude - Scripts and Modding
+     * ↳   X³: Reunion, X²: The Threat, X-T and X-BTF - Technical Support
+     * ↳   X³: Reunion - Scripts and Modding
+     * ↳   X²: The Threat - Scripts and Modding
+     * ↳   Creative Universe
+     * ↳   Off Topic English
+     * Deutschsprachige Foren
+     * ↳   X4: Foundations
+     * ↳   X4: Foundations - Spoilers
+     * ↳   X4: Foundations - Technische Unterstützung
+     * ↳   X4: Foundations - Scripts und Modding
+     * ↳   X Rebirth Universum
+     * ↳   X Rebirth VR Edition
+     * ↳   X Rebirth - Technische Unterstützung
+     * ↳   X Rebirth - Scripts und Modding
+     * ↳   X³: Farnham's Legacy
+     * ↳   X³: Farnham's Legacy - Scripts und Modding
+     * ↳   X Trilogie Universum
+     * ↳   X³: Terran Conflict / Albion Prelude / Farnham's Legacy -
+       Technische Unterstützung
+     * ↳   X³: Terran Conflict / Albion Prelude - Scripts und Modding
+     * ↳   X³: Reunion, X²: Die Bedrohung, X-T und X-BTF - Technische
+       Unterstützung
+     * ↳   X³: Reunion - Scripts und Modding
+     * ↳   X²: Die Bedrohung - Scripts und Modding
+     * ↳   Kreative Zone
+     * ↳   Off Topic Deutsch
+     * Forum Français
+     * ↳   X4: Foundations
+     * ↳   Support et Aide pour X4: Foundations
+     * ↳   Script et Modding pour X4: Foundations
+     * ↳   L'Univers X Rebirth
+     * ↳   Support et Aide pour X Rebirth
+     * ↳   Script et Modding pour X Rebirth
+     * ↳   Support et Aide pour la Trilogie X
+     * ↳   L'Univers de la Trilogie X
+     * ↳   Script et Modding pour la Trilogie X
+     * ↳   Off Topic Français
+     * Forum Italiano
+     * ↳   X4: Foundations
+     * ↳   Supporto Tecnico per X4: Foundations
+     * ↳   Script e Modding per X4: Foundations
+     * ↳   L'Universo di X Rebirth
+     * ↳   Script e Modding per X Rebirth
+     * ↳   Supporto Tecnico per X Rebirth
+     * ↳   L'Universo della Trilogia di X
+     * ↳   Script e Modding per la Trilogia di X
+     * ↳   Supporto Tecnico per la Trilogia di X
+     * ↳   Off Topic Italiano
+     * Polskie Fora
+     * ↳   Polskie / Polish X-Forum
+     * ↳   Polskie / Polish Off Topic
+     * Other Languages
+     * ↳   Česky / Czech X-Forum
+     * ↳   Dansk / Danish X-Forum
+     * ↳   Español / Spanish X-Forum
+     * ↳   Nederlands / Dutch X-Forum
+     * ↳   Português / Portuguese X-Forum
+     * ↳   Русский / Russian X-Forum
+     * DevNet: General
+     * ↳   MSCI Reference
+     * DevNet: X4: Foundations
+     * ↳   X4: Foundations - Public Beta Feedback
+     * DevNet: X Rebirth
+     * ↳   XR - Technical Troubleshooting
+
+     * Home Board index
+     * All times are UTC+01:00
+     * Delete cookies
+
+   Powered by phpBB® Forum Software © phpBB Limited
+
+   Privacy | Terms

@@ -47,7 +47,7 @@ echo "<html>
         <div class=\"table-container\">
             <table class=\"table is-bordered is-striped is-hoverable is-fullwidth\">
                 <tr class=\"has-background-rose\">
-                    <th>Numero ligne</th><th class="is-half">URL</th><th>Aspiration</th><th>Dump</th><th>Contexte</th><th>Concordancier</th><th>Code HTTP</th><th>Encodage</th><th>Compte</th>
+                    <th>Numero ligne</th><th class='is-one-quarter'>URL</th><th>Aspiration</th><th>Dump</th><th>Contexte</th><th>Concordancier</th><th>Code HTTP</th><th>Encodage</th><th>Compte</th>
                 </tr>" > $OUTPUT_FILE
 lineno=1
 while read -r URL; do
@@ -66,13 +66,13 @@ if [ $response -eq 200 ];then
 		iconv -f "$encoding" -t "UTF-8" "$FICHIER_ASPIRATION" > "temp.html"
 		mv "temp.html" "$FICHIER_ASPIRATION"
 	fi
-		FICHIER_DUMP="../dump-texts/${LANGUE}-${lineno}.html"
+		FICHIER_DUMP="../dump-texts/${LANGUE}-${lineno}.txt"
 		lynx -assume_charset="UTF-8" -dump -nolist "$FICHIER_ASPIRATION" > "$FICHIER_DUMP"
 
 		COMPTE=$(egrep -i -o "$MOT" $FICHIER_DUMP | wc -l)
 
 		CONTEXTE=$(egrep -i -C 3 "$MOT" $FICHIER_DUMP)
-		FICHIER_CONTEXTE="../contextes/${LANGUE}-${lineno}.html"
+		FICHIER_CONTEXTE="../contextes/${LANGUE}-${lineno}.txt"
 		echo $CONTEXTE > $FICHIER_CONTEXTE
 
 		./concordancier.sh $MOT $lineno $FICHIER_CONTEXTE $LANGUE
@@ -81,10 +81,12 @@ if [ $response -eq 200 ];then
 				<td>$lineno</td><td>$URL</td><td><a href='$FICHIER_ASPIRATION'>Aspiration</a></td><td><a href='$FICHIER_DUMP'>Dump</a></td><td><a href='$FICHIER_CONTEXTE'>Contexte</a></td><td><a href='$CONCORDANCIER'>Concordancier</a></td><td>$response</td><td>$encoding</td><td>$COMPTE</td>
 		</tr>" >> $OUTPUT_FILE
 
+	else
+		FICHIER_ASPIRATION="NA"
+		echo "<tr>
+					<td>$lineno</td><td>$URL</td><td>$FICHIER_ASPIRATION</td><td>$FICHIER_DUMP</td><td>$FICHIER_CONTEXTE</td><td>$CONCORDANCIER</td><td>$response</td><td>$encoding</td><td>$COMPTE</td>
+			</tr>" >> $OUTPUT_FILE
 fi
-    echo "<tr>
-				<td>$lineno</td><td>$URL</td><td>$FICHIER_ASPIRATION</td><td>$FICHIER_DUMP</td><td>$FICHIER_CONTEXTE</td><td>$CONCORDANCIER</td><td>$response</td><td>$encoding</td><td>$COMPTE</td>
-		</tr>" >> $OUTPUT_FILE
     lineno=$(expr $lineno + 1)
 	echo "OK"
 done < "$URLS"

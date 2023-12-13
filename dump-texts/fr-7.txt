@@ -1,0 +1,1122 @@
+   REFRESH(600 sec):
+   file://localhost/home/val/M1_TAL/Semestre_1/PPE1/Repo_groupe/aspiration
+   s/fr-7.html
+   #Recherche sur Boursorama
+
+   Aller au contenu principal Activer le contraste adaptéDésactiver le
+   contraste adapté
+
+   Bourse
+
+   Boursomarkets
+   Plus de 40 000 produits accessibles à 0€ de frais de courtage
+   Découvrir Boursomarkets
+
+   ____________________
+   (BUTTON)
+   (BUTTON) Menu
+   Argent
+   22.64
+   -1.09%
+   CAC 40
+   7 566.59
+   +0.31%
+    1. (BUTTON)
+       Rechercher
+    2. Aide
+    3.
+         1. (BUTTON) Espace Membre
+         2. (BUTTON) Espace Client
+         3. (BUTTON) Connexion
+            (BUTTON)
+               o Sur quel site souhaitez-vous vous connecter ?
+               o (BUTTON) Accès Espace Client BoursoBank
+               o (BUTTON) Espace Membre Boursorama.com
+
+   (BUTTON) Menu
+
+    1. (BUTTON)
+       Rechercher
+    2. Aide
+    3.
+         1. (BUTTON) Espace Membre
+         2. (BUTTON) Espace Client
+         3. (BUTTON) Connexion
+            (BUTTON)
+               o Sur quel site souhaitez-vous vous connecter ?
+               o (BUTTON) Accès Espace Client BoursoBank
+               o (BUTTON) Espace Membre Boursorama.com
+
+   (BUTTON)
+
+   (BUTTON) Menu
+
+     * Actu & Éco
+     * Bourse
+          + Bourse
+          + Actualités
+               o Actualités
+               o Toute la rubrique Actualités
+               o Points de marchés
+               o Actualités financières
+               o Calendriers
+                    # Calendriers
+                    # Accueil Calendriers
+                    # Sociétés Cotées
+                    # Macroéconomique
+                    # SRD
+                    # Dividendes
+               o Paroles d'experts
+               o Dossiers spéciaux
+          + Actions
+               o Actions
+               o Cotations
+                    # Cotations
+                    # Accueil Cotations
+                    # Par marché
+                    # International
+                    # Secteurs
+                    # Marchés et horaires
+                    # Horaires étendus
+                    # Marchés américains
+               o Palmarès
+                    # Palmarès
+                    # Accueil Palmarès
+                    # France
+                    # International
+                    # Dividendes
+                    # Extrêmes annuels
+                    # PER
+               o Actualité des sociétés
+               o Introductions/Privatisations (IPO)
+                    # Introductions/Privatisations (IPO)
+                    # Accueil Introductions/Privatisations (IPO)
+                    # Toutes les Opérations
+                    # Actualités IPO/OST
+                    # Guide
+               o Consensus des Analystes
+                    # Consensus des Analystes
+                    # Accueil Consensus des Analystes
+                    # Reco Paris
+                    # Reco International
+               o Analyses
+               o Relations Actionnaires
+               o PME-ETI
+                    # PME-ETI
+                    # Accueil PME-ETI
+                    # Palmarès
+                    # Actualités PME-ETI
+                    # Analyses PME ETI
+                    # Présentation PEA-PME
+          + Indices
+               o Indices
+               o Toute la rubrique Indices
+               o Indices Bourse de Paris
+                    # Indices Bourse de Paris
+                    # Accueil Indices Bourse de Paris
+                    # CAC 40
+                    # SBF 120
+                    # CAC 40 ESG
+                    # CAC Mid & Small
+               o Indices Internationaux
+                    # Indices Internationaux
+                    # Accueil Indices Internationaux
+                    # Dow Jones
+                    # Nasdaq Composite
+                    # S&P 500
+                    # Eurostoxx 50
+                    # DAX
+                    # Ibex 35
+                    # FTSE MIB
+                    # Nikkei 225
+               o Futures
+               o Options
+               o Analyses
+          + Produits de Bourse
+               o Produits de Bourse
+               o Toute la rubrique Produits de Bourse
+               o Produits à effet de levier
+                    # Produits à effet de levier
+                    # Accueil Produits à effet de levier
+                    # Turbos
+                    # Warrants
+                    # Leverage & Short
+                    # Autres produits à effet de levier
+               o Produits d'investissement
+                    # Produits d'investissement
+                    # Accueil Produits d'investissement
+                    # Bonus Cappés
+                    # 100%
+                    # Autres produits d'investissement
+               o Partenaires
+                    # Partenaires
+                    # Accueil Partenaires
+                    # Société Générale
+                    # Goldman Sachs
+               o Actualités - Pédagogie
+          + Trackers - ETF
+               o Trackers - ETF
+               o Toute la rubrique Trackers - ETF
+               o ETF d'investissement
+                    # ETF d'investissement
+                    # Accueil ETF d'investissement
+                    # Palmarès
+                    # Actualités - Pédagogie
+                    # Partenaire
+               o ETF Leverage & Short
+          + OPCVM
+               o OPCVM
+               o Toute la rubrique OPCVM
+               o Palmarès
+                    # Palmarès
+                    # Accueil Palmarès
+                    # Palmarès des catégories
+                    # Palmarès Morningstar des fonds
+               o Actualités - Pédagogie
+                    # Actualités - Pédagogie
+                    # Accueil Actualités - Pédagogie
+                    # Dossiers OPCVM
+               o Partenaires
+                    # Partenaires
+                    # Accueil Partenaires
+                    # Amundi
+                    # BlackRock
+                    # Edmond de Rothschild AM
+                    # ODDO BHF
+                    # Sycomore
+               o FIP / FCPI 2023
+                    # FIP / FCPI 2023
+                    # Accueil FIP / FCPI 2023
+                    # Offre FCPI IR 2023
+                    # Offre FIP IR 2023
+                    # Définitions
+                    # Fiscalité
+                    # Simulateur
+                    # FAQ
+                    # Souscrire
+               o Private Equity (FCPR)
+               o ISR
+                    # ISR
+                    # Accueil ISR
+                    # Palmarès
+                    # Actualités ISR
+                    # Partenaires
+                    # Qu'est-ce que l'ISR ?
+                    # Forum
+          + Taux
+               o Taux
+               o Toute la rubrique Taux
+               o Souverains
+               o CDS
+               o Court Terme
+                    # Court Terme
+                    # Accueil Court Terme
+                    # Euribor
+                    # Eonia
+                    # Libor
+                    # Ester
+               o Obligations
+               o Actualités
+               o Avis d'expert
+               o FAQ
+               o Partenaire
+          + Devises
+               o Devises
+               o Toute la rubrique Devises
+               o Convertisseur
+                    # Convertisseur
+                    # Accueil Convertisseur
+                    # Convertisseur Euro - Dollar
+                    # Convertisseur Euro - Livre Sterling
+                    # Convertisseur Euro - Yen
+               o Taux de change
+                    # Taux de change
+                    # Accueil Taux de change
+                    # EUR/USD Spot
+                    # EUR/GBP Spot
+                    # EUR/YEN Spot
+               o Parité
+               o Cryptomonnaies
+                    # Cryptomonnaies
+                    # Accueil Cryptomonnaies
+                    # Bitcoin en euros
+                    # Ethereum en euros
+                    # Litecoin en euros
+                    # Ripple en euros
+               o Actualités
+          + Matières Premières
+               o Matières Premières
+               o Toute la rubrique Matières Premières
+               o Métaux
+                    # Métaux
+                    # Accueil Métaux
+                    # Cours de l'Or
+                    # Cours de l'Argent
+                    # Cours du Cuivre
+                    # Cours de l'Acier
+               o Energie
+                    # Energie
+                    # Accueil Energie
+                    # Cours du Pétrole Brent
+                    # Cours du Pétrole WTI
+               o Produits agricoles
+                    # Produits agricoles
+                    # Accueil Produits agricoles
+                    # Cours du Blé
+                    # Cours du Cacao
+               o Actualités
+               o Produits de Bourse
+          + Forum
+     * Patrimoine
+     * Conso
+     * Vidéos
+     * BoursoBank
+
+   Espace Membre Boursorama
+   (BUTTON)
+   Message d'erreur
+
+   Erreur d'authentification
+   Message d'erreur
+
+   Votre compte a été clôturé.
+   Message de confirmation
+
+   Vous êtes authentifié. Nous chargeons votre espace membre.
+   Message d'information
+
+   Message d'alerte
+
+   Pour des raisons de sécurité et pour continuer à accéder à votre espace
+   membre, nous vous remercions de bien vouloir valider votre compte
+   membre en cliquant sur le lien suivant : Je valide mon compte membre
+   Vous allez recevoir un email à l'adresse indiquée lorsque vous aviez
+   créé votre compte.
+   Cliquez ensuite sur le lien présent dans le mail. Vous pourrez alors de
+   nouveau accéder à votre compte membre.
+   Si vous n'avez pas reçu cet email, contactez-nous
+   Message d'erreur
+
+   Message de confirmation
+
+   Un email de confirmation vient de vous être adressé.
+   ____________________
+   ____________________ (BUTTON) Votre mot de passe est caché.
+     * 8 caractères minimum
+     * 1 majuscule
+     * 1 minuscule
+
+     * 1 chiffre
+     * 1 caractère spécial
+     * Différent de votre pseudo
+     * Les deux mots de passe sont identiques
+
+   [ ] Se souvenir de moi
+   (BUTTON) Mot de passe oublié ?
+     __________________________________________________________________
+
+   (BUTTON) Se connecter
+
+   Bénéficiez gratuitement de fonctionnalités et de services additionnels.
+   Devenez membre
+
+   Identifiant/Mot de passe oublié
+   (BUTTON)
+   Si vous êtes Membre de la Communauté Boursorama, veuillez indiquer
+   l'adresse email que vous avez fournie lors de votre enregistrement pour
+   recevoir votre identifiant et/ou ré-initialiser votre mot de passe :
+   ____________________
+     __________________________________________________________________
+
+   (BUTTON) Réinitialiser mon mot de passe
+
+   Nouveau sur Boursorama ? Devenez membre
+
+   Fermer
+   Message d'erreur
+
+   CAC 40
+   7 566.59
+   +0.31%
+   Indices
+     * NASDAQ
+       14 533.40
+       +0.70%
+     * DOW JONES
+       36 577.94
+       +0.48%
+
+     * NIKKEI
+       32 926.35
+       +0.25%
+     * DAX
+       16 824.26
+       +0.19%
+
+
+   Chiffres-clés
+     * Pétrole Brent
+       73,23 $US
+     * ONCE D'OR
+       1 981,34 $US
+
+     * EUR/USD
+       1,0776 $US
+     * VIX INDEX
+       12,26 $US
+
+
+   + fortes hausses et baisses SBF 120
+     * SOLUTIONS 30
+       +5.73%
+     * ARKEMA
+       +5.50%
+
+     * ORANGE
+       -3.24%
+     * CARREFOUR
+       -3.11%
+
+     * Accéder à l'accueil
+
+
+
+     Bourse
+
+
+
+     Matières Premières
+
+
+
+     Cours de l'Argent
+
+     * Cours
+     * Actualités
+     * Produits de Bourse
+     * Forum
+     * Historique
+     *
+
+   [ ]
+
+   Cours
+   Argent
+   [Argent___]
+   22.64 USD
+   -1.09%
+   valeur indicative 21.00 EUR
+
+XD0002746952 SI
+
+   Six - Forex 1 données temps réel
+   Politique d'exécution
+   Chargement...
+     * ouverture
+       22.78
+     * clôture veille
+       22.89
+     * + haut
+       22.82
+     * + bas
+       22.62
+
+     * volume
+       0
+     * dernier échange
+       13.12.23 / 11:28:22
+
+     * + haut 12 derniers mois
+       26.13
+     * + bas 12 derniers mois
+       19.89
+
+     *
+     * + Liste
+       (BUTTON) Ajouter à ma liste
+       Connectez-vous pour ajouter Argent à vos listes.
+       (BUTTON) Connexion membre Connexion client
+       Nouveau sur Boursorama ? Devenez membre gratuitement
+
+   (BUTTON) Quitter le mode plein écran
+   1J
+   5J
+   1M
+   3M
+   6M
+   1A
+   5A
+   10A
+   20A
+   1 MINUTE
+   5 MINUTES
+   10 MINUTES
+   15 MINUTES
+   30 MINUTES
+   1 HEURE
+   2 HEURES
+   4 HEURES
+   JOUR
+   HEBDO
+   MENSUEL
+   Indicateurs les plus utilisés
+   VOLUMES
+   MOYENNE MOBILE
+   RSI
+   MACD
+   Indicateurs principaux
+   ALLIGATOR
+   BANDES DE BOLLINGER
+   BANDES DE KELTNER
+   CANAL DE DONCHIAN
+   COURBE REGRESSION LINEAIRE
+   COURS MOYEN
+   DOUBLE EMA
+   DROITE REGRESSION LINEAIRE
+   ENVELOPPE MOYENNE MOBILE
+   GUPPY MMA
+   ICHIMOKU
+   MOYENNE MOBILE
+   MOYENNE MOBILE DE HULL
+   MOYENNE MOBILE EXPO.
+   MOYENNE MOBILE PONDEREE
+   MOYENNE TRIANGULAIRE
+   NOUVEAUX PLUS HAUTS/BAS
+   PARABOLIQUE SAR
+   POINTS PIVOTS
+   SUPERTREND
+   SUPPORTS/RESISTANCES
+   TRIPLE EMA
+   ZIG ZAG
+   Indicateurs secondaires
+   AWESOME OSCILLATOR
+   ACCUMULATION-DISTRIBUTION
+   ACCUMULATION SWING INDEX
+   ADX - ADXR
+   AROON
+   AVERAGE TRUE RANGE
+   BALANCE OF POWER
+   BOLLINGER %B
+   BOLLINGER BANDWITH
+   CCI
+   CHAIKIN MONEY FLOW
+   CHANDE MOMENTUM OSC.
+   COURBE DE COPPOCK
+   DEMAND INDEX
+   DETREND PRICE OSC.
+   DMI
+   EASE OF MOVEMENT
+   ELDER RAY - BULL POWER
+   ELDER RAY - BEAR POWER
+   FORCE INDEX
+   KNOW SURE THING
+   KLINGER VOLUME OSCILLATOR
+   MACD
+   MACD HISTOGRAMME
+   MACD ZERO LAG
+   MASS INDEX
+   MOMENTUM
+   MONEY FLOW INDEX
+   NEGATIVE VOLUME INDEX
+   ON BALANCE VOLUME
+   OSCILL. REGRESSION LINEAIRE
+   PERFORMANCE INDEX
+   PHASES DE LUNE
+   POSITIVE VOLUME INDEX
+   Q-STICK INDICATOR
+   RATE OF CHANGE (ROC)
+   RSI
+   STANDARD DEVIATION
+   STOCHASTIQUE
+   STOCHASTIQUE MOMENTUM
+   STOCHASTIQUE RSI
+   TRIX
+   TRUE STRENGTH INDEX
+   ULCER INDEX
+   ULTIMATE OSCILLATOR
+   VOLUMES (TITRES)
+   VOLUMES (CASH)
+   VOLUME ROC
+   VORTEX INDICATOR
+   WAVE TREND OSCILLATOR
+   WILLIAMS ACCUMULATION
+   WILLIAMS %R
+   Détections de figures
+   DOJI
+   ENGLOBANTES
+   FIGURES EN PINCE
+   GAPS
+   HARAMIS
+   KEY REVERSAL
+   MARTEAUX
+   MARUBOZU
+   PENDUS
+   3 SOLDATS
+   3 CORBEAUX
+   ETOILE FILANTE
+   DRAGONFLY
+   AIRE
+   BAR CHART COLORÉS
+   BOUGIES
+   HEIKIN ASHI
+   HOLLOW CANDLES
+   KAGI
+   LIGNE
+   LINE BREAK
+   PERFORMANCE
+   RENKO
+   Comparer
+   [Accès rapide SRD___.]
+   RETICULE
+   POINTEUR
+   GOMME
+   ZOOMER
+   DEZOOMER
+   1 MINUTE
+   5 MINUTES
+   10 MINUTES
+   15 MINUTES
+   30 MINUTES
+   1 HEURE
+   2 HEURES
+   4 HEURES
+   JOUR
+   HEBDO
+   MENSUEL
+   Indicateurs les plus utilisés
+   VOLUMES
+   MOYENNE MOBILE
+   RSI
+   MACD
+   Indicateurs principaux
+   ALLIGATOR
+   BANDES DE BOLLINGER
+   BANDES DE KELTNER
+   CANAL DE DONCHIAN
+   COURBE REGRESSION LINEAIRE
+   COURS MOYEN
+   DOUBLE EMA
+   DROITE REGRESSION LINEAIRE
+   ENVELOPPE MOYENNE MOBILE
+   GUPPY MMA
+   ICHIMOKU
+   MOYENNE MOBILE
+   MOYENNE MOBILE DE HULL
+   MOYENNE MOBILE EXPO.
+   MOYENNE MOBILE PONDEREE
+   MOYENNE TRIANGULAIRE
+   NOUVEAUX PLUS HAUTS/BAS
+   PARABOLIQUE SAR
+   POINTS PIVOTS
+   SUPERTREND
+   SUPPORTS/RESISTANCES
+   TRIPLE EMA
+   ZIG ZAG
+   Indicateurs secondaires
+   AWESOME OSCILLATOR
+   ACCUMULATION-DISTRIBUTION
+   ACCUMULATION SWING INDEX
+   ADX - ADXR
+   AROON
+   AVERAGE TRUE RANGE
+   BALANCE OF POWER
+   BOLLINGER %B
+   BOLLINGER BANDWITH
+   CCI
+   CHAIKIN MONEY FLOW
+   CHANDE MOMENTUM OSC.
+   COURBE DE COPPOCK
+   DEMAND INDEX
+   DETREND PRICE OSC.
+   DMI
+   EASE OF MOVEMENT
+   ELDER RAY - BULL POWER
+   ELDER RAY - BEAR POWER
+   FORCE INDEX
+   KNOW SURE THING
+   KLINGER VOLUME OSCILLATOR
+   MACD
+   MACD HISTOGRAMME
+   MACD ZERO LAG
+   MASS INDEX
+   MOMENTUM
+   MONEY FLOW INDEX
+   NEGATIVE VOLUME INDEX
+   ON BALANCE VOLUME
+   OSCILL. REGRESSION LINEAIRE
+   PERFORMANCE INDEX
+   PHASES DE LUNE
+   POSITIVE VOLUME INDEX
+   Q-STICK INDICATOR
+   RATE OF CHANGE (ROC)
+   RSI
+   STANDARD DEVIATION
+   STOCHASTIQUE
+   STOCHASTIQUE MOMENTUM
+   STOCHASTIQUE RSI
+   TRIX
+   TRUE STRENGTH INDEX
+   ULCER INDEX
+   ULTIMATE OSCILLATOR
+   VOLUMES (TITRES)
+   VOLUMES (CASH)
+   VOLUME ROC
+   VORTEX INDICATOR
+   WAVE TREND OSCILLATOR
+   WILLIAMS ACCUMULATION
+   WILLIAMS %R
+   Détections de figures
+   DOJI
+   ENGLOBANTES
+   FIGURES EN PINCE
+   GAPS
+   HARAMIS
+   KEY REVERSAL
+   MARTEAUX
+   MARUBOZU
+   PENDUS
+   3 SOLDATS
+   3 CORBEAUX
+   ETOILE FILANTE
+   DRAGONFLY
+     * CACHER / MONTRER
+     * ANGLE
+     * ANNOTATION
+     * FIBONACCI
+          + ARCS DE FIBONACCI
+          + CYCLES DE FIBONACCI
+          + FANIONS DE FIBONACCI
+          + EXTENSIONS FIBONACCI
+          + RETRACEMENTS FIBONACCI
+          + WEDGE FIBONACCI
+     * FIGURES
+          + ELLIPSE - CERCLE
+          + RECTANGLE
+          + TRIANGLE
+     * FLECHE
+     * FOURCHETTE D'ANDREWS
+     * ICONES
+          + FLECHE ACHAT
+          + FLECHE VENTE
+          + FLECHE DROITE
+          + FLECHE GAUCHE
+          + SMILEY 1
+          + SMILEY 2
+     * GANN
+          + GRILLE DE GANN
+          + ANGLES DE GANN
+     * HORIZONTALE
+     * MESURER
+          + MESURER
+          + MESURE VERTICALE
+          + MESURE HORIZONTALE
+     * OBLIQUE
+     * PARALLELES
+     * SUPPORT-RESISTANCE
+     * VERTICALE
+     * TOUT EFFACER
+
+   AIRE
+   BAR CHART COLORÉS
+   BOUGIES
+   HEIKIN ASHI
+   HOLLOW CANDLES
+   KAGI
+   LIGNE
+   LINE BREAK
+   PERFORMANCE
+   RENKO
+   Actualités
+   Evénements
+   Comparer
+   ____________________
+
+   ____________________ [BUTTON Input] (not implemented)__
+   Message d'information
+
+   Ouv.
+   +haut
+   +bas
+   Der.
+   Var.
+   Vol.
+   Chargement...
+   (BUTTON) Comparer
+
+Comparer
+
+   Fermer
+
+   Comparer avec un indice
+   [CAC 40_____________]
+   (BUTTON) Comparer
+
+   Comparer avec une autre valeur
+   ____________________
+
+   (BUTTON) Comparer
+   Connectez-vous pour partager votre analyse technique sur les forums
+   et/ou les réseaux sociaux.
+   (BUTTON) Connexion membre Connexion client
+   Nouveau sur Boursorama ? Devenez membre gratuitement
+   (BUTTON)
+
+Configurer le graphique
+
+   Fermer
+
+   Paramètres
+
+   Vos modifications sont automatiquement prises en compte. Fermez la
+   fenêtre une fois vos paramètres sélectionnés.
+   Couleur de fond
+   #333399_____________
+   Couleur textes
+   #333399_____________
+   Couleur grille
+   #333399_____________
+   Encadrés panneaux
+   #e0e0e0_____________
+   Couleur réticule
+   #114257_____________
+   Couleur par défaut des tracés
+   #114257_____________
+   Grille horizontale
+   [ ]
+   Grille verticale
+   [ ]
+   Tracé de la grille
+   (*) Trait continu
+   ( ) Trait pointillé
+   Valeurs des indicateurs
+   [ ]
+   Afficher dernière valeur
+   [ ]
+   Encadrés des panneaux
+   [ ]
+   Axe Y
+   (*) A droite
+   ( ) A gauche
+   Axe Y
+   (*) Linéaire
+   ( ) Logarithmique
+
+   (BUTTON) Rétablir les valeurs par défaut
+
+   Historique 5 jours
+   5 December05-12 6 December06-12 7 December07-12 8 December08-12 11
+   December11-12 12 December12-12 13 December13-12
+   Der. 24.145 23.915 23.795 23.025 22.835 22.775 22.645
+   Var. -5.18% -2.57% -1.61% -3.76% -0.70% -0.96% -1.05%
+   Ouv. 24.505 24.165 23.905 23.805 23.035 22.815 22.775
+   +Haut 24.635 24.355 24.025 23.895 23.095 23.085 22.815
+   +Bas 23.965 23.875 23.585 22.945 22.725 22.695 22.615
+   Vol. 0 0 0 0 0 0 0
+
+   Variation sur 5 jours : -5.31%
+
+   Données historiques
+
+période
+
+var.
+
++ haut
+
++ bas
+
+   1^er Janvier -5.28% 26.13 19.89
+   1 semaine -5.10% 24.36 22.62
+   1 mois +1.70% 25.88 21.89
+   3 mois -0.66% 25.88 20.69
+   6 mois -4.08% 25.88 20.69
+   1 an -4.16% 26.13 19.89
+   3 ans -5.12% 28.78 17.56
+   5 ans +54.23% 29.53 11.74
+   10 ans +16.03% 29.53 11.74
+   MM20 23.97
+   MM50 23.17
+   MM100 23.19
+   RSI14 51.52
+
+   Dernières informations à propos des matières premières
+     * mar.
+       Car, covoiturage, électrification : un groupe d'experts lance une
+       Alliance pour la décarbonation de la route
+       information fournie par •Boursorama avec Media Services
+       •3
+     *
+     * lun.
+       USA: Occidental Petroleum rachète CrownRock pour 12 milliards de
+       dollars
+       information fournie par •Boursorama avec AFP
+       •3
+     * lun.
+       Voitures électriques: l'arrivée d'anciens de Tesla propulse la
+       britannique DG Innovate
+       information fournie par •Boursorama avec AFP
+     * dim.
+       Essequibo: Maduro rencontrera jeudi son homologue du Guyana
+       information fournie par •AFP
+     * jeu.
+       Chimie: la réforme EDF du prix de l'électricité passe mal
+       information fournie par •Boursorama avec AFP
+     * jeu.
+       "Metaverse", nouvelle R5, maintenance prédictive : comment Renault
+       veut sabrer ses coûts de production
+       information fournie par •Boursorama avec Media Services
+       •1
+     * 06 déc.
+       Nestlé veut réduire ses émissions de CO2 dans le fret maritime
+       grâce aux biocarburants
+       information fournie par •Boursorama avec AFP
+     * 06 déc.
+       Vive tension entre le Guyana et le Venezuela après des déclarations
+       du président Maduro
+       information fournie par •AFP
+       •10
+     * 06 déc.
+       Climat : les 26 points de basculement qui menacent l'humanité de
+       catastrophes
+       information fournie par •Boursorama avec Media Services
+       •5
+     * 05 déc.
+       L'avion hybride-électrique EcoPulse a effectué son premier vol
+       information fournie par •Boursorama avec AFP
+       •2
+
+   Voir plus d'actualités Matières premières
+
+   Dernières analyses à propos des matières premières
+     * 10:12
+       LE POINT sur les changements de recommandations à Paris (actualisé)
+       information fournie par •Reuters
+     * 08:02
+       TOUR D'HORIZON DE LA RECHERCHE AUX ETATS-UNIS-Adobe, Costco
+       Wholesale, Synopsys
+       information fournie par •Reuters
+     * mar.
+       TOUR D'HORIZON DE LA RECHERCHE AUX ETATS-UNIS-Adobe, Oracle, Visa
+       information fournie par •Reuters
+     * mar.
+       Vue de la rue : Le rachat de CrownRock par Occidental semble
+       coûteux
+       information fournie par •Reuters
+     * mar.
+       TOUR D'HORIZON DE LA RECHERCHE AUX ETATS-UNIS-Adobe, Oracle, Visa
+       information fournie par •Reuters
+     * mar.
+       TOUR D'HORIZON DE LA RECHERCHE AUX ETATS-UNIS-Adobe, Oracle, Visa
+       information fournie par •Reuters
+     * mar.
+       TOUR D'HORIZON DE LA RECHERCHE AUX ETATS-UNIS-Adobe, Oracle, Visa
+       information fournie par •Reuters
+     * lun.
+       TOUR D'HORIZON DE LA RECHERCHE AUX ETATS-UNIS-Cigna Group, Datadog,
+       Landstar System
+       information fournie par •Reuters
+     * lun.
+       TOUR D'HORIZON DE LA RECHERCHE AUX ETATS-UNIS-Cigna Group, Datadog,
+       Landstar System
+       information fournie par •Reuters
+     * ven.
+       TOUR D'HORIZON DE LA RECHERCHE AU CANADA-Canadian Natural
+       Resources, EQB, Imperial Oil
+       information fournie par •Reuters
+
+   Fondamentaux - Argent
+
+   Le marché de l'argent est caractérisé par son double statut de métal
+   industriel et de valeur refuge en périodes d'incertitude. Son cours
+   reste ainsi corrélé à celui de l'or, tout en connaissant une volatilité
+   plus marquée.
+
+   Offre
+
+   L'offre mondiale d'argent était, selon les chiffres de 2013, issue pour
+   81% de l'extraction minière, tandis que 19% provenaient du recyclage de
+   métal déjà extrait.
+
+   Les quatre premiers producteurs mondiaux (Mexique, Pérou, Chine et
+   Australie) extraient ensemble plus de la moitié de la production
+   minière. Le développement des mines mexicaines a permis au pays de
+   remplacer le Pérou à la tête des pays producteurs, selon les données du
+   Silver Institute. Mais les plus importantes réserves connues se
+   situeraient en Pologne, qui reste encore à la huitième place mondiale
+   des pays producteurs. À noter que depuis plusieurs années, l'extraction
+   minière s'accroit (+3,4% en 2013 par rapport à 2012, atteignant 25 000
+   tonnes extraites au cours de l'année) alors que le recyclage du métal
+   aurait tendance à baisser (forte chute de 24% en 2013).
+
+   Demande
+
+   Métal précieux, l'argent reste principalement utilisé dans l'industrie
+   : 22% de la demande mondiale provenait en 2013 de l'industrie
+   électrique et électronique, 6% étaient à destination de brasures et
+   soudures, 5% à destination de la photographie argentique (en forte
+   décroissance), et 22% allaient vers d'autres usages industriels. En
+   dehors de l'industrie, la joaillerie représentait quant à elle 18% de
+   la demande, tandis que les 23% allaient à la fabrication de pièces et
+   lingots (pour l'investissement). De manière générale, la demande aurait
+   cru de 13% en 2013, principalement tirée par la demande en bijouterie
+   et en lingots. Cette tendance était déjà notable en 2009 et 2010,
+   années marquées par la recherche de valeurs-refuges.
+
+   Cotation
+
+   Tout comme l'or, l'argent est coté sur le London Bullion Market en
+   USD/once.
+
+   Evolution des prix
+
+   Depuis 2011, le cours de l'argent est en baisse marquée. Alors que
+   l'once s'échangeait à 50 dollars en avril 2011, son prix était retombé
+   sous les 20 dollars début 2015, retrouvant son niveau de 2008. Entre
+   2009 et 2011, les prix avaient fortement progressé alors que l'argent
+   était particulièrement recherché pour se prémunir des variations
+   erratiques des marchés boursiers.
+   Lire la suite Réduire
+
+   Mes listes
+   [Valeurs les plus consultéess]
+   Message d'alerte
+
+   Une erreur est survenue pendant le chargement de la liste
+   Cette liste ne contient aucune valeur.
+   Gérer mes listes
+   Connectez-vous pour gérer vos listes.
+   (BUTTON) Connexion membre Connexion client
+   Nouveau sur Boursorama ? Devenez membre gratuitement
+
+   Tous les produits de Bourse
+
+     * Tous
+     * Turbos
+     * Warrants
+     * Leverage & Short
+     * Autres leviers
+     * Produits d'investissement
+
+Isin
+
+Nature
+
+Echéance
+
+Prix ex.
+
+Var.
+
+Émetteurs
+
+Sous-jacent
+
+   NLGS0002CBM7
+   Turbos Illimités Best Put illimité 23.319 € 19.82% GOLDMAN SACHS Silver
+   NLGS0002CBJ3
+   Turbos Illimités Best Put illimité 23.549 € 15.89% GOLDMAN SACHS Silver
+   DE000VM6RJK9
+   Turbos Illimités Best Put illimité 23.480 € 13.33% VONTOBEL Silver
+   DE000KJ3KT98
+   Turbos Illimités Best Put illimité 24.001 € 10.61% CITIGROUP Silver
+   DE000VM6RJC6
+   Turbos Illimités/Infinis Put illimité 23.800 € 10.34% VONTOBEL Silver
+   Voir tous les produits de Bourse
+
+   Accès Directs
+     * Forum Matières Premières
+     * Actualités Matières Premières
+     * Points de Marchés
+     * Indices France
+     * Indices internationaux
+
+   Prix des principales matières premières
+     * Pétrole
+     * Blé
+     * Maïs
+     * Or
+
+     * Cuivre
+     * Argent
+     * Nickel
+     * Acier
+     * Aluminium
+
+   À découvrir
+     * Matiere premiere
+     * Cours blé
+
+     * Cours de l etain
+     * Cours cacao
+
+     * Cotation acier
+     * Cours sucre
+
+   Pages les plus populaires
+     * Accueil Bourse
+     * Tous les cours boursiers
+     * Cours CAC 40
+
+     * Indices boursiers internationaux
+     * Palmarès Bourse
+     * Cours du Pétrole (Brent)
+
+     * Convertisseur de devises
+     * Convertisseur dollar / euro
+     * Convertisseur euro / dollar
+
+     * Convertisseur livres / euro
+     * Convertisseur franc suisse / euro
+
+   L'offre BoursoBank
+     * Banque en ligne
+     * Compte bancaire en ligne
+     * Carte bancaire
+
+     * Assurance vie
+     * Crédit immobilier
+     * Prêt personnel
+
+     * Assurance prêt immobilier
+     * Investir en bourse
+     * PEA
+
+   Aide & Contact
+     * Accessibilité
+     * Contactez-nous
+     * Foire aux Questions
+     * Plan du site
+
+   Documentation Contractuelle
+     * CGU Membres
+     * Conditions générales
+     * Mentions Légales
+     * Politique d'exécution
+     * Rapport de meilleure sélection 2022
+
+   Sécurité et données personnelles
+     * Gérer mes cookies
+     * Politique de cookies
+     * Politique de protection des données membres et visiteurs
+     * Politique de protection des données prospects
+
+   Guides et brochures
+     * Solutions pour la Clientèle Fragile
+
+   Nos sites
+     * Affiliation
+     * BoursoBank
+     * Publicité
+     * Site Groupe & Recrutement
+     __________________________________________________________________
+
+   Copyright © 2023
+
+   Boursorama, SA au capital de 51 171 597,60 € – RCS Nanterre 351 058 151
+   – TVA FR 69 351 058 151 – 44 rue Traversière, CS 80134, 92772 BOULOGNE
+   BILLANCOURT CEDEX
+   Label B Corp
+
+     *
+     *
+     *

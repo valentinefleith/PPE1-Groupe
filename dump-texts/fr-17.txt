@@ -1,0 +1,911 @@
+   #alternate alternate alternate alternate
+
+   IFRAME: https://tss.gemmyo.com/ns.html?id=GTM-PQVQCQ
+
+   Sélection de Noël
+
+   Sélection de Noël
+   Nouveautés
+
+   Nouveautés
+   Entaille
+
+   Entaille
+   Bagues de fiançailles
+
+   Bagues de fiançailles
+   Alliances
+
+   Alliances
+   Horlogerie
+
+   Horlogerie
+     * (BUTTON) Joaillerie
+          + (BUTTON)
+            Joaillerie
+          + (BUTTON) Bijoux femme
+               o (BUTTON)
+                 Joaillerie > Bijoux femme
+               o Bijoux femme Tous les bijoux femme
+               o Bagues
+                 Bagues
+                 Pendentifs
+                 Pendentifs
+                 Boucles d'oreilles
+                 Boucles d'oreilles
+                 Bracelets
+                 Bracelets
+                 Haute Joaillerie
+                 Haute Joaillerie
+               o Tous les bijoux femme
+          + (BUTTON) Collections
+               o (BUTTON)
+                 Joaillerie > Collections
+               o Collections Toutes les collections
+               o Collection Entaille
+                 Entaille
+                 Collection EverBloom
+                 EverBloom
+                 Collection Lefkos
+                 Lefkos
+                 Collection Art Déco
+                 Art Déco
+                 Collection Paris 1901
+                 Paris 1901
+                 Collection RétroMilano
+                 RétroMilano
+                 Collection MET
+                 MET
+                 Collection PrimaRosa : Chapitre II
+                 PrimaRosa : Chapitre II
+               o Collections mariage
+                 Toutes les collections
+               o Collection Lady
+                 Lady
+                 Collection Rétromantique
+                 Rétromantique
+               o Toutes les collections
+          + (BUTTON) Sélections
+               o (BUTTON)
+                 Joaillerie > Sélections
+               o Sélections
+               o Sélection de Noël
+                 Sélection de Noël
+                 Livrés en 3 jours
+                 Livrés en 3 jours
+                 Nouveautés
+                 Nouveautés
+                 Accessoires
+                 Accessoires
+          + (BUTTON) Pierres d'exception
+               o (BUTTON)
+                 Joaillerie > Pierres d'exception
+               o Pierres d'exception
+               o Saphir Teal - <i>Édition limitée</i>
+                 Saphir Teal - Édition limitée
+                 Diamant chocolat
+                 Diamant chocolat
+                 Saphir vert
+                 Saphir vert
+                 Les archives
+                 Les archives
+          + (BUTTON) Bijoux homme
+               o (BUTTON)
+                 Joaillerie > Bijoux homme
+               o Bijoux homme Tous les bijoux homme
+               o Bagues homme
+                 Bagues homme
+                 Alliances homme
+                 Alliances homme
+               o Tous les bijoux homme
+          + Inspirations
+          + Collection Entaille
+            Entaille
+            Sélection de Noël
+            Sélection de Noël
+            Livrés en 3 jours
+            Livrés en 3 jours
+            Saphir Teal - <i>Édition limitée</i>
+            Saphir Teal - Édition limitée
+     * (BUTTON) Fiançailles
+          + (BUTTON)
+            Fiançailles
+          + Bagues de fiançailles Toutes les bagues de fiançailles
+          + Solitaires
+            Solitaires
+            Solitaires pavés
+            Solitaires pavés
+            Solitaires entourés
+            Solitaires entourés
+            Solitaires épaulés
+            Solitaires épaulés
+            Bagues créatives
+            Bagues créatives
+          + Toutes les bagues de fiançailles
+          + Collections
+          + Collection Lady
+            Lady
+            Collection Rétromantique
+            Rétromantique
+            Collection EverBloom
+            EverBloom
+          + Toutes les bagues de fiançailles
+     * (BUTTON) Mariage
+          + (BUTTON)
+            Mariage
+          + Alliances femme Toutes les alliances femme
+          + Alliances classiques
+            Alliances classiques
+            Alliances diamant
+            Alliances diamant
+            Alliances créatives
+            Alliances créatives
+          + Toutes les alliances femme
+          + Alliances homme Toutes les alliances homme
+          + Alliances demi-jonc
+            Alliances demi-jonc
+            Alliances ruban
+            Alliances ruban
+            Alliances biseautées
+            Alliances biseautées
+            Alliances créatives
+            Alliances créatives
+          + Toutes les alliances homme
+     * (BUTTON) Horlogerie
+          + (BUTTON)
+            Horlogerie
+          + Montres prima Toutes les montres femme
+          + La montre Prima
+            La montre Prima
+            Les bracelets
+            Les bracelets
+          + L'horlogerie Gemmyo
+          + L'horlogerie Gemmyo
+          + Comment choisir sa montre
+          + Les secrets de la montre Prima
+          + Services et garanties
+          + Toutes les montres femme
+     * (BUTTON) La Maison
+          + (BUTTON)
+            La Maison
+          + La Maison
+          + Histoire
+            Histoire
+            Engagements
+            Engagements
+            Les archives
+            Les archives
+            Nous contacter
+            Nous contacter
+     * (BUTTON) Boutiques
+          + (BUTTON)
+            Boutiques
+          + Les boutiques Toutes les boutiques
+          + Les boutiques
+          + Paris 6^e
+          + Paris 17^e
+          + Aix-en-Provence
+          + Bordeaux
+          + Lyon
+          + Toulouse
+          + Bruxelles
+          + Genève
+     * prendre rendez-vous
+     * Rendez-vous vidéo
+
+     (BUTTON) Guides
+     * (BUTTON)
+       Guides
+     * Guides et conseils
+     * Retrouvez tous nos conseils pour choisir votre prochain bijou
+     * Guides et conseils
+     * Sélection de Noël
+     * Choisir sa bague de fiançailles
+     * Choisir ses alliances de mariage
+     * Choisir sa taille de bague
+     * Nos métaux précieux
+     * Nos pierres précieuses
+     * Nos pierres de naissance
+     * Nos conseils d'entretien
+     * La préparation de votre bijou
+     *
+     * Choisir sa montre
+     * Tous les secrets de la montre Prima
+
+     (BUTTON) Le Carnet
+     * (BUTTON)
+       Le Carnet
+     * Les derniers articles
+       Tous les articles Les Inspirations
+       Les Inspirations
+       Nos coulisses
+       5 min de lecture
+       Les différentes tailles de pierre
+       Les différentes tailles de pierre
+       Le monde de la joaillerie
+       7 min de lecture
+       Les 5 bijoux à (s’)offrir
+       Les 5 bijoux à (s’)offrir
+       Nos conseils
+       7 min de lecture
+     * Voir tous les articles
+
+   Mon compte Prendre rendez-vous FAQ
+
+   Nous contacter
+
+   +33 1 42 46 90 89
+
+   hello@gemmyo.com
+
+   Nous livrons à l'international
+   fr/EUR
+
+   retrouvez notre sélection de bijoux disponibles immédiatement et livrés
+   à temps pour noël.
+     * fr/EUR
+     * Prendre RDV
+     * Nous contacter
+
+     * Joaillerie
+       Sélection de Noël Découvrir la sélection de Noël
+       Collections
+          + EverBloom
+          + Lefkos
+          + Entaille
+          + Paris 1901
+          + Art Déco
+          + RétroMilano
+          + MET
+          + PrimaRosa : Chapitre II
+       Collections mariage
+          + Lady
+          + Rétromantique
+          + Toutes les collections
+       Sélections
+          + Sélection de Noël
+          + Livrés en 3 jours
+          + Nouveautés
+          + Accessoires
+       Pierres d'exception
+          + Saphir Teal - Édition limitée
+          + Diamant chocolat
+          + Saphir vert
+          + Les archives
+       Bijoux femme
+          + Bagues
+          + Pendentifs
+          + Boucles d'oreilles
+          + Bracelets
+          + Haute Joaillerie
+          + Tous les bijoux femme
+       Bijoux homme
+          + Bagues homme
+          + Alliances homme
+          + Tous les bijoux homme
+     * Fiançailles
+       Bagues de fiançailles découvrir les bagues de fiançailles
+       Bagues de fiançailles
+          + Solitaires
+          + Solitaires pavés
+          + Solitaires épaulés
+          + Solitaires entourés
+          + Bagues créatives
+          + Toutes les bagues de fiançailles
+       Collections
+          + Lady
+          + Rétromantique
+          + EverBloom
+     * Mariage
+       Alliances Femme alliances femme
+       Alliances Homme alliances homme
+       Alliances femme
+          + Alliances classiques
+          + Alliances diamant
+          + Alliances créatives
+          + Toutes les alliances femme
+       Alliances homme
+          + Alliances demi-jonc
+          + Alliances ruban
+          + Alliances biseautées
+          + Alliances créatives
+          + Toutes les alliances homme
+     * Horlogerie
+       Montres découvrir la montre prima
+       Montres
+          + La montre Prima
+          + Les bracelets
+          + Toutes les montres femme
+       L'horlogerie Gemmyo
+          + Comment choisir sa montre
+          + Les secrets de la montre Prima
+          + Services et garanties
+     * La Maison
+       histoire histoire
+       engagements engagements
+       les archives les archives
+       nous contacter nous contacter
+     * Boutiques
+       Boutiques
+       Les boutiques
+          + Paris 6^e
+          + Paris 17^e
+          + Aix-en-Provence
+          + Bordeaux
+          + Lyon
+          + Toulouse
+          + Bruxelles
+          + Genève prendre rendez-vous
+          + rendez-vous vidéo
+     * Guides
+       Le Carnet Logo
+       Les inspirations
+          + Les Inspirations
+          + Nos coulisses
+          + 5 min de lecture
+       Les différentes tailles de pierre
+          + Les différentes tailles de pierre
+          + Le monde de la joaillerie
+          + 7 min de lecture
+       voir tous les articles
+       Guides et conseils
+          + Retrouvez tous nos conseils pour choisir votre prochain bijou
+          + Sélection de Noël
+          + Choisir sa bague de fiançailles
+          + Choisir ses alliances de mariage
+          + Choisir sa taille de bague
+          + Nos métaux précieux
+          + Nos pierres précieuses
+          + Nos pierres de naissance
+          + Nos conseils d'entretien
+          + La préparation de votre bijou
+          +
+          + Choisir sa montre
+          + Tous les secrets de la montre Prima
+
+   0
+
+   Logo home
+
+   Les Guides Gemmyo
+     * Fiançailles
+     * Alliances
+     * Taille de bague
+     * Métaux précieux
+     * Pierres précieuses
+     * Pierres de naissance
+     * Conseils d'entretien
+     * La préparation de votre bijou
+     * Horlogerie
+     * La montre Prima
+
+Argent 925 millièmes
+
+     * Fiançailles
+     * Alliances
+     * Taille de bague
+     * Métaux précieux
+     * Pierres précieuses
+     * Pierres de naissance
+
+     * Conseils d'entretien
+     * La préparation de votre bijou
+     * |
+     * Horlogerie
+     * La montre Prima
+
+menu
+
+menu
+
+     * Les notions de base
+     * Les grandes caractéristiques
+     * Que faut-il retenir de l'argent ?
+     * Pour conclure
+
+   Bague Argent Miaou Pavée
+
+   Même si vous n’êtes pas particulièrement spécialiste des métaux
+   précieux, vous avez forcément entendu parler de l’argent !
+
+   L’argent est un métal précieux relativement commun qui est utilisé dans
+   une multitude de domaines. Bien plus répandu que l’or par exemple, il
+   est utilisé dans les arts de la table, la fameuse argenterie, pour des
+   pièces de monnaie, pour des applications électriques ou électroniques
+   et même dans la fabrication d’instruments de musique, le plaquage de
+   certaines cordes de guitare.
+
+   C’est un métal qui a plusieurs avantages :
+     * Grâce à sa résistance et au fait qu’il soit malléable, nous pouvons
+       lui donner presque toutes les formes, c’est une des raisons pour
+       lesquelles il est si connu et répandu.
+     * L’argent est également un métal que l’on dit ductile c'est-à-dire
+       qui peut s'étirer sans se casser. Avec un 1 gramme d’argent on peut
+       étirer un fil de 2600 mètres !
+
+   Ses propriétés, sa couleur et le fait qu’il soit non allergène font de
+   l’argent le candidat idéal pour façonner des bijoux.
+
+   Mais alors, est-ce que l’argent que l’on utilise est le même partout ?
+   Existe-t-il différentes qualités d’argent ? Comment le reconnaître ?
+   Est-ce que l'argent est un métal adapté à une alliance ou une bague de
+   fiançailles ?
+
+   On répond à toutes vos questions !
+
+Les notions de base
+
+   Avant d’entrer dans le vif du sujet, commençons par revoir ensemble
+   quelques notions essentielles :
+
+——    1. Qu’est-ce que l’argent ?
+
+   Le mot argent vient de Ar-jun qui signifie brillant en langue
+   indo-européenne. Découvert à l’Antiquité, il a longtemps été convoité
+   par les civilisations Egyptiennes et Grecques, pour ne citer qu’elles,
+   en raison de sa couleur blanche aux reflets grisés.
+
+   Si pendant longtemps le moyen d’échange le plus répandu était le troc
+   d’objets ou de services, les premières pièces de monnaie frappées
+   étaient en argent (et également en or).
+
+   Ses reflets brillants ont permis à l’argent de se faire une place parmi
+   les métaux précieux fréquemment utilisés en orfèvrerie et en joaillerie
+   depuis des millénaires.
+
+   a. La couleur de l’argent
+
+   À la sortie de sa fabrication, un bijou en argent sera d’un blanc
+   éclatant. Il est à ce stade quasi impossible de le distinguer de l’or
+   blanc ou même du platine, les autres métaux blancs célèbres en
+   joaillerie.
+
+   Deux astuces pour devenir connaisseur :
+     * L’argent est un métal plus léger que l’or et le platine, vous
+       pouvez ainsi le sentir en les comparant au poids.
+     * Le poinçon est également un excellent moyen pour le reconnaître
+       très simplement, nous reviendrons sur ce point un peu plus loin.
+
+   Mais alors l’argent est-il naturellement blanc ? Et bien, pas tout à
+   fait.
+
+   La couleur blanche de l’argent vient d’une opération appelée le
+   rhodiage.
+
+   Le rhodiage est une technique permettant de déposer une fine couche de
+   métal liquide, le rhodium, sur la base du métal et ainsi lui donner
+   cette couleur blanche caractéristique.
+
+   Le saviez-vous ?
+
+   Le rhodium est un métal noble et très précieux de la famille du
+   platine. Il se caractérise par sa grande durabilité, sa conductivité
+   électrique et thermique peu élevée et sa dureté. Tout comme avec l’or
+   blanc ou l’or noir, le rhodium va certes venir donner la couleur finale
+   au métal, mais aussi agir comme un bouclier pour le protéger :)
+
+   Cette méthode permet donc de donner à l’argent sa couleur mais
+   attention, comme tous les métaux que l’on appelle rhodiés, la
+   contrepartie est que l’argent aura tendance à se patiner avec le temps.
+
+   Que signifie se patiner ?
+
+   On dit qu’un métal ou une matière se patine lorsqu’il montre des signes
+   du temps. De la même manière qu’une pièce de maroquinerie en cuir
+   laissera apparaître des petites griffures ou des marques liées à des
+   frottements, un bijou porté montrera des signes du temps, on dira alors
+   qu’il s’est patiné.
+
+   Pour faire simple, la patine est une usure normale liée à une
+   utilisation.
+
+   À quoi ressemble concrètement la patine d’un bijou en argent ?
+
+   Avec le temps, plus vous porterez votre bijou, plus la fine couche de
+   rhodium appliquée sur l’argent s’estompera. Au-delà des rayures, votre
+   métal sera alors moins éclatant, moins lumineux et aura un aspect plus
+   mat.
+
+   Une précision importante : Ce phénomène de patine est particulièrement
+   vrai pour une bague, car c’est un bijou qui est bien plus sujet aux
+   frottements, mouvements, et éventuels chocs. Pour un pendentif ou des
+   boucles d’oreilles, des bijoux moins exposés, cette patine sera plus
+   faible.
+
+   Au bout de combien de temps un bijou en argent se patine-t-il ?
+
+   C’est très difficile à dire, cela dépend de chacun mais globalement
+   sachez que plus votre bijou sera porté, manipulé, frotté, plus cette
+   patine arrivera rapidement.
+
+   Afin de retarder ce phénomène et garder votre métal dans son état
+   d’origine le plus longtemps possible, nous vous recommandons deux
+   réflexes importants :
+     * Éviter l’eau le plus possible !
+       L’argent est un métal qui s’oxyde au contact de l’humidité en
+       noircissant. Pour éviter cette réaction, il faut éviter de
+       l’immerger dans l’eau trop souvent. Si cela arrive, pensez à bien
+       le sécher rapidement !
+       Sachez ainsi que si votre bijou en argent noircit, cela ne signifie
+       pas que votre bijou est de mauvaise qualité : il s’agit simplement
+       d’une propriété chimique de l’argent et d’une réaction normale au
+       contact de l’humidité. Nous revenons sur ce point un peu plus loin
+       afin de vous guider dans cette situation :)
+     * Pensez à le nettoyer régulièrement.
+       Quel que soit le métal, nous vous conseillons de le nettoyer
+       régulièrement. C’est un point qui est particulièrement important
+       pour l’argent car c’est le métal précieux entre l’or et le platine
+       qui vieillira le moins bien dans le temps.
+       Vous avez peut-être d’ailleurs remarqué qu’il existe un grand
+       nombre de produits dans le commerce spécifique au nettoyage de
+       l’argent, que ce soit pour de l’argenterie ou des bijoux : ce n’est
+       pas un hasard !
+       Néanmoins, l’utilisation de ces produits n’est pas spécialement
+       nécessaire ni recommandée. Si vous souhaitez les utiliser soyez
+       très prudents, ils peuvent être dangereux pour vos pierres.
+
+   Retrouvez tous nos conseils pour entretenir votre bijou en toute
+   sécurité.
+
+   Que faire si la patine est trop importante ?
+
+   Comme pour tous les métaux, il est possible, dans la plupart des cas,
+   de faire disparaître toutes les traces du temps sur votre métal. Il
+   suffit de faire ce qu'on appelle un polissage rhodiage.
+
+   Cette opération consiste à totalement repolir la surface du métal afin
+   qu'elle soit bien lisse, sans aucune rayure ou impureté, pour ensuite
+   appliquer une nouvelle fois une fine couche de rhodium. Votre bijou
+   retrouvera ainsi tout son éclat, comme au premier jour ! C’est un
+   service que nous proposons pour tous les bijoux Gemmyo. Si vous
+   souhaitez l’effectuer, nous vous invitons à vous rapprocher de notre
+   service client qui vous transmettra un devis pour ces opérations.
+
+   b. Le prix de l’argent
+
+   L’argent a pour grand avantage d’avoir un prix peu élevé. Vous avez
+   peut-être déjà remarqué que le prix d’un bijou peut changer
+   radicalement si vous choisissez l’argent à la place d’un métal bien
+   plus rare comme le platine :
+
+   - une bague St-Germain 2 mm en argent - 165 €
+   - une bague St-Germain 2 mm en platine - 680 €
+
+   Est-ce que cette différence de prix signifie que l’argent est une
+   mauvaise qualité ? Non, rassurez-vous !
+
+   L’argent est simplement bien plus commun et bien moins rare que le
+   platine ; la rareté physique participe en grande partie aux prix des
+   métaux.
+
+——    2. Quelles sont les différentes qualités d’argent ?
+
+   Comme la majorité des métaux précieux, il existe plusieurs qualités
+   d’argent. Vous pourrez ainsi trouver de l’argent 800, 830, 895, 900 ou
+   encore 925 millièmes !
+
+   L’argent 925 millièmes est la seule et unique qualité d’argent que nous
+   proposons chez Gemmyo, comme la plupart des grandes Maisons, car il
+   s’agit de la meilleure composition pour qu’un bijou en argent résiste
+   au temps.
+
+   Vous devez certainement vous demander ce que veut dire 925
+   millièmes: c’est une bonne question :)
+
+   Les millièmes ou ‰ correspondent simplement à la quantité de métal pur
+   présent dans l’alliage et définissent alors la qualité d’un métal :
+   dans le jargon joaillier, on appelle cela le titrage. Ainsi lorsqu’on
+   parle d’argent 925 millièmes ou 925 ‰ cela signifie qu’il s’agit
+   d’argent pur à 92,5 %.
+
+   Un alliage vous dites ?
+
+   L’alliage correspond au métal dans son ensemble, pour faire très
+   simple : c’est le métal fini. Dans le cas de l’argent 925 millièmes,
+   l’alliage est donc composé à 92,5 % d’argent pur et 7,5 % d’autres
+   métaux, principalement du cuivre.
+
+   Appelé aussi argent sterling ou massif, l’argent 925 millièmes est l'un
+   des titrages les plus répandus, il est reconnaissable avant tout grâce
+   à son poinçon !
+
+   Le poinçon de titre ou de garantie est une marque officielle apposée
+   par l’Etat, la douane française, sur un métal précieux afin de marquer
+   son authenticité.
+
+   Chaque qualité de métal précieux à un poinçon unique : pour l’argent
+   925 millièmes, c’est une tête de Minerve !
+   poinçon
+
+   Une tête de Minerve ?
+
+   Dans la mythologie romaine, Minerve (appelée Athena dans la mythologie
+   grecque) est la déesse de la sagesse, des arts et la patronne des
+   artisans !
+
+   Où trouver ce poinçon sur un bijou ?
+
+   En France, tous les bijoux en argent pesant plus de 30 grammes doivent
+   être obligatoirement poinçonnés. Il existe plusieurs méthodes pour
+   apposer un poinçon sur un bijou. Chez Gemmyo, ils sont tous poinçonnés
+   de manière traditionnelle avec un petit burin et un marteau. Vous
+   retrouverez votre poinçon très souvent à l’opposé de votre(vos)
+   pierre(s) et à l’extérieur de la monture !
+
+   Pour les bijoux fins en argent d'un poids inférieur à 30 grammes, la
+   loi n'exige pas de poinçon, car le fait d'en apposer un risquerait de
+   les tordre.
+
+   Enfin, contrairement à ce qu’on peut penser, le poinçon n’est pas un
+   défaut, mais bien le gage de qualité d’un bijou. C’est en quelque sorte
+   l’étiquette du bijou :)
+
+   Maintenant que nous avons revu ensemble quelques notions de base, nous
+   pouvons rentrer un peu plus dans le détail afin de déterminer si
+   l’argent est le bon choix pour votre bijou !
+
+   Pour ce faire, nous allons parler plus en détails des grandes
+   caractéristiques de ce métal, puis nous aborderons quelques conseils et
+   enfin nous verrons ses avantages et ses inconvénients.
+
+Les grandes caractéristiques de l’argent
+
+   Disons-le tout de suite : l’argent n’est pas le métal le plus adapté
+   pour une bague qui doit s’inscrire dans le temps. Sa durabilité peut
+   poser problème lorsque l'on choisit une bague portée au quotidien, et
+   pour la vie.
+
+   Une des raisons principales à cela, au-delà de la patine due au
+   rhodiage, est que l’argent est un métal plus malléable que l’or ou le
+   platine, les deux autres grandes familles de métaux les plus utilisées
+   en joaillerie.
+
+   Que signifie malléable ?
+
+   Dire qu’un métal est plus malléable qu’un autre ne signifie pas qu’il
+   s’agit d’une moins bonne qualité, il s’agit simplement d’une donnée
+   factuelle qui désigne les caractéristiques physiques d’un matériau.
+
+   De la même manière qu’un diamant est plus dur et donc plus résistant
+   qu’une aigue-marine par exemple, un métal plus malléable est plus mou,
+   il est donc naturellement moins résistant aux rayures et pourra se
+   tordre aussi plus facilement.
+
+   De ce fait, nous vous déconseillons de choisir l’argent pour votre
+   alliance de mariage ou une bague de fiançailles car il s’agit de bijoux
+   que vous allez très peu enlever ! Dans ces situations, privilégiez
+   plutôt l’or ou le platine, des métaux dont les propriétés sont plus
+   adaptées pour être portés au quotidien.
+
+——    1. Quel bijou choisir en argent et quelle pierre y associer ?
+
+   Comme nous l’avons souligné, l’argent 925 millièmes est la meilleure
+   des qualités d’argent utilisées en joaillerie. C’est un métal neutre,
+   blanc, léger et peu onéreux ! Il a donc beaucoup de qualités :)
+
+   Pour une bague portée occasionnellement ou pour un pendentif par
+   exemple, c’est un métal qui est parfaitement adapté. C’est d’ailleurs
+   une alternative très intéressante à l’or blanc ou au platine, deux
+   métaux bien plus coûteux.
+
+   Que ce soit pour des peaux claires ou des carnations plus foncées,
+   l’argent est un métal blanc et neutre, il est donc impossible de faire
+   une faute de goût ! Toutes les associations sont possibles :)
+
+   De manière générale, un métal blanc permet de faire ressortir une
+   pierre de couleur et aidera même à son éclat... sur un solitaire par
+   exemple.
+
+   Pour vous aider à choisir la combinaison idéale, voici les pierres que
+   nous avons l’habitude de conseiller avec l’argent, le plus souvent les
+   pierres les plus associées par nos clients avec ce métal et également
+   quelques combinaisons à éviter :
+
+Pierres les plus associées
+
+   Quartz
+   Aigue-marine
+   Topaze
+   Saphir Tanzanite
+   Améthyste
+   Tourmaline
+   Péridot
+   Tsavorite
+   Spinelle noir
+
+Pierres les moins demandées
+
+   Diamant
+   Citrine
+   Emeraude Grenat Rubis
+
+——    2. Est-il possible d’associer l’argent à une pierre précieuse comme le
+diamant ?
+
+   Il est tout à fait possible de faire ce choix ! Mais...
+
+   L'argent est plus malléable et s'oxyde, il est donc par essence moins
+   durable que l’or ou le platine. C'est pourquoi on recommande plutôt ces
+   deux métaux pour des bijoux de grande valeur... par exemple des bijoux
+   ornés d'un beau diamant :)
+
+   Prenons un exemple pour illustrer ce point :
+
+   Vous êtes à la recherche d’un solitaire pour votre bague de
+   fiançailles, nous vous invitons d’ailleurs à découvrir notre guide à ce
+   sujet, et votre choix s’arrête sur un diamant ou un saphir en pierre de
+   centre. Les griffes qui maintiennent la pierre d’un solitaire sont
+   souvent très fines : c’est pourquoi l’argent n’est pas l’idéal dans ce
+   cas.
+
+   Une fois de plus, il ne s’agit pas d'une question de qualité ou de
+   prix, votre pierre sera tout simplement moins protégée dans le cas d’un
+   accrochage ou d’un petit choc car, l’argent est un métal moins dur que
+   l’or ou le platine. La griffe pourrait donc se tordre et laisser
+   échapper votre pierre.
+
+   Si vous souhaitez conserver un bijou le plus longtemps possible, le
+   transmettre, le porter tous les jours sans jamais l’enlever ou presque,
+   vous devrez choisir les matériaux les plus adaptés et donc les plus
+   résistants dans le temps, comme l’or ou le platine.
+
+Que faut-il retenir de l’argent ?
+
+——    Ses avantages :
+
+     * Il s’associe avec toutes les couleurs de pierre.
+     * Il plaît aussi bien aux femmes qu’aux hommes.
+     * Son prix abordable comparé à l’or ou au platine.
+
+——    Ses inconvénients :
+
+     * Il a tendance à s'oxyder et noircir avec le temps.
+     * C’est un métal qui sera plus sujet aux rayures que l’or ou le
+       platine.
+     * Il a tendance à se tordre facilement.
+
+Pour conclure
+
+   L’argent 925 millièmes est la meilleure qualité d’argent que vous
+   trouverez en joaillerie.
+
+   C’est un métal précieux neutre, léger, résistant et d’une très grande
+   qualité que nous recommandons particulièrement pour des bagues portées
+   occasionnellement, des pendentifs
+   ou encore des boucles d’oreilles.
+
+   En témoignent ses propriétés, l’argent est un métal moins adapté pour
+   des bagues portées en permanence. C’est un métal qui demandera une
+   attention particulière et de l’entretien pour durer dans le temps.
+
+   Pour vos alliances ou votre bague de fiançailles, vous n’avez pas
+   forcément envie de vous préoccuper de votre bijou constamment.
+   Choisissez la tranquilité avec des métaux plus adaptés à ce type de
+   bagues : l’or blanc ou le platine !
+
+menu
+
+     * Notions de base
+     * Les grandes caractéristiques
+     * Que faut-il retenir de l'argent ?
+     * Pour conclure
+
+Guides et conseils
+
+     * Choisir sa bague de fiançailles
+     * Choisir ses alliances de mariage
+     * Choisir sa taille de bague
+     * Nos pierres précieuses
+     * Nos métaux précieux
+     * Nos pierres de naissance
+     * Nos conseils d'entretien
+     * La préparation de votre bijou
+         ______________________________________________________________
+
+     * Choisir sa montre
+     * Tous les secrets de la montre Prima
+
+La garantie Gemmyo
+
+     * Retour gratuit
+     * Remise à taille des bagues offerte
+     * Livraison sécurisée
+     * Garantie et réparations
+         ______________________________________________________________
+
+     * Montres - Services et garanties
+
+menu
+
+     * Notions de base
+     * Les grandes caractéristiques
+     * Que faut-il retenir de l'argent ?
+     * Pour conclure
+
+   + __refine__
+   __selected_filters__
+   __price__
+
+   Engagements
+
+   Nos bijoux sont entièrement fabriqués en
+   France et nos montres dans une manufacture
+   située au coeur du Jura Suisse.
+
+   Garanties
+
+   Les remises à taille, échanges ou retours
+   sont offerts sous 30 jours après réception,
+   y compris pour les bijoux gravés.
+
+   Les remises à taille, échanges ou retours sont offerts 30 jours après
+   réception, y compris pour les bijoux gravés.
+
+   Nous contacter
+
+   Par téléphone +33 1 42 46 90 89
+   Par mail hello@gemmyo.com
+
+   Découvrez La Lettre
+
+   Invitation à découvrir nos nouvelles collections, inspirations ou
+   éditions limitées : entrez dans les coulisses de la Maison grâce à La
+   Lettre,
+   ce courrier exclusif de nous à vous.
+   ____________________ (BUTTON) En validant, j'accepte la politique de
+   confidentialité
+
+   Une question ?
+     * Appelez-nous au +33 1 42 46 90 89
+     * Par email sur hello@gemmyo.com
+     * Ou par WhatsApp au 07 55 53 68 17
+     * Demande de baguier
+     * Promesse de cadeau
+     * FAQ
+
+   La Maison
+     * Notre histoire
+     * Nos engagements
+     * Espace Presse
+     * Nous rejoindre
+
+   La garantie Gemmyo
+     * Retour gratuit sous 30 jours
+     * Remise à taille des bagues offerte
+     * Garantie et réparations
+     * Montres - Services et garanties
+     * Livraison sécurisée
+     * Paiement 3 fois sans frais
+     * Conditions Générales de Vente
+     * Mentions Légales
+
+   Nous rencontrer
+     * Les Boutiques
+     * Prendre rendez-vous
+     * Rendez-vous vidéo
+
+   Monogramme
+
+   © Gemmyo 2023. Tous droits réservés.
+
+   hello@gemmyo.com
+
+   Confirmez votre action
+
+   Êtes-vous sûr de vouloir effectuer cette action ?
+   Non
+   Oui
+
+   Il est encore temps
+
+   Découvrez notre sélection de modèles qui arriveront en un rien de temps
+   jusqu’à vous. La garantie d’un cadeau précieux pour Noël.
+
+   Pour une création sur mesure qui n'est pas réalisable à temps,
+   n’hésitez pas à nous demander une promesse de cadeau.
+   Nos bijoux disponibles immédiatement
+
+   Le site utilise des cookies. En poursuivant votre navigation, vous en
+   acceptez l'utilisation. Pour en savoir plus, consultez notre politique
+   de confidentialité Le site utilise des cookies. Pour en savoir plus,
+   consultez notre politique de confidentialité
