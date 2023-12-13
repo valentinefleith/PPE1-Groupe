@@ -77,12 +77,14 @@ if [ $response -eq 200 ];then
 
 		./concordancier.sh $MOT $lineno $FICHIER_CONTEXTE $LANGUE
 		CONCORDANCIER="../concordances/${LANGUE}-${lineno}.html"
-fi
     echo "<tr>
 				<td>$lineno</td><td>$URL</td><td><a href='$FICHIER_ASPIRATION'>Aspiration</a></td><td><a href='$FICHIER_DUMP'>Dump</a></td><td><a href='$FICHIER_CONTEXTE'>Contexte</a></td><td><a href='$CONCORDANCIER'>Concordancier</a></td><td>$response</td><td>$encoding</td><td>$COMPTE</td>
 		</tr>" >> $OUTPUT_FILE
 
-
+fi
+    echo "<tr>
+				<td>$lineno</td><td>$URL</td><td>$FICHIER_ASPIRATION</td><td>$FICHIER_DUMP</td><td>$FICHIER_CONTEXTE</td><td>$CONCORDANCIER</td><td>$response</td><td>$encoding</td><td>$COMPTE</td>
+		</tr>" >> $OUTPUT_FILE
     lineno=$(expr $lineno + 1)
 	echo "OK"
 done < "$URLS"
