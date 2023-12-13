@@ -17,9 +17,9 @@ echo "<lang=\"$langue\">\n" > $output_file
 
 # On boucle parmi tous les fichiers textes
 
-for fichier in $(ls ${dossier}/$langue*.html)
+for fichier in $(ls ${dossier}/$langue*.txt)
 do
-	page=$(basename -s .html $fichier)
+	page=$(basename -s .txt $fichier)
 	contenu=$(cat $fichier | sed 's/&/&amp;/g' | sed 's/</&lt;/g' | sed 's/>/&gt;/g')
 	echo "<page=\"${page}\">
 	<text>${contenu}</text>
