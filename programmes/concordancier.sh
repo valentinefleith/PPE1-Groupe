@@ -37,7 +37,8 @@ echo "<html>
 		</tr>" > $OUTPUT_FILE
 
 if [ $LANGUE = "zh" ]; then
-		egrep -o "([\p{Script=Han}]+){0,7}($MOT)([\p{Script=Han}]+){0,7}" $CONTEXTE | sed -E "s/(.*)(($MOT))(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> $OUTPUT_FILE
+		#grep -P -o "([\p{Script=Han}]+){0,7}($MOT)([\p{Script=Han}]+){0,7}" $CONTEXTE | sed -E "s/(.*)(($MOT))(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> $OUTPUT_FILE
+		grep -P -o "([\p{Han}]+){0,7}($MOT)([\p{Han}]+){0,7}" $CONTEXTE | sed -E "s/(.*)($MOT)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> $OUTPUT_FILE
 
 	else
 
