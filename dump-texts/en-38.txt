@@ -183,7 +183,7 @@ Receiving money via PayPal: good thing or bad thing?
    Dorothy Schaps
    Dorothy Schaps   Identity Verified
    Germany
-   Local time: 11:32
+   Local time: 11:52
    Member (2010)
    German to English
    May 5, 2015
@@ -242,7 +242,7 @@ Receiving money via PayPal: good thing or bad thing?
    Lincoln Hui
    Lincoln Hui   Identity Verified
    Hong Kong
-   Local time: 18:32
+   Local time: 18:52
    Member
    Chinese to English
    + ...
@@ -292,7 +292,7 @@ Receiving money via PayPal: good thing or bad thing?
    Thomas T. Frost
    Thomas T. Frost   Identity Verified
    Portugal
-   Local time: 10:32
+   Local time: 10:52
    Danish to English
    + ...
    Sometimes the least bad solution
@@ -352,7 +352,7 @@ Receiving money via PayPal: good thing or bad thing?
    Natalia Mackevich
    Natalia Mackevich   Identity Verified
    United Kingdom
-   Local time: 10:32
+   Local time: 10:52
    English to Russian
    + ...
    On budgeting
@@ -395,7 +395,7 @@ Receiving money via PayPal: good thing or bad thing?
    Sheila Wilson
    Sheila Wilson   Identity Verified
    Spain
-   Local time: 10:32
+   Local time: 10:52
    Member (2007)
    English
    + ...
@@ -453,7 +453,7 @@ Receiving money via PayPal: good thing or bad thing?
    Gabriele Demuth
    Gabriele Demuth   Identity Verified
    United Kingdom
-   Local time: 10:32
+   Local time: 10:52
    English to German
    Sheila
    May 5, 2015
@@ -497,7 +497,7 @@ Receiving money via PayPal: good thing or bad thing?
    Thomas T. Frost
    Thomas T. Frost   Identity Verified
    Portugal
-   Local time: 10:32
+   Local time: 10:52
    Danish to English
    + ...
    Usually free
@@ -615,7 +615,7 @@ Receiving money via PayPal: good thing or bad thing?
    Anton Konashenok
    Anton Konashenok   Identity Verified
    Czech Republic
-   Local time: 11:32
+   Local time: 11:52
    Russian to English
    + ...
    Don't forget about the conversion rates
@@ -645,7 +645,7 @@ Receiving money via PayPal: good thing or bad thing?
    Tom in London
    Tom in London
    United Kingdom
-   Local time: 10:32
+   Local time: 10:52
    Member (2008)
    Italian to English
    About PayPal
@@ -707,7 +707,7 @@ Receiving money via PayPal: good thing or bad thing?
    Tom in London
    Tom in London
    United Kingdom
-   Local time: 10:32
+   Local time: 10:52
    Member (2008)
    Italian to English
    Alternatives
@@ -796,7 +796,7 @@ Receiving money via PayPal: good thing or bad thing?
    Samuel Murray
    Samuel Murray   Identity Verified
    Netherlands
-   Local time: 11:32
+   Local time: 11:52
    Member (2006)
    English to Afrikaans
    + ...
@@ -928,21 +928,22 @@ Receiving money via PayPal: good thing or bad thing?
 
    Forum rules
    Help and orientation
-   Trados Studio 2022 Freelance
-   [d6ffccc8f84f5d6d468bd9253f1c91f9.png]
-   The leading translation software used by over 270,000 translators.
-   Designed with your feedback in mind, Trados Studio 2022 delivers an
-   unrivalled, powerful desktop and cloud solution, empowering you to work
-   in the most efficient and cost-effective way.
+   Protemos translation business management system
+   [6c12d761a0327ee571badca545896530.png]
+   Create your account in minutes, and start working! 3-month trial for
+   agencies, and free for freelancers!
+   The system lets you keep client/vendor database, with contacts and
+   rates, manage projects and assign jobs to vendors, issue invoices,
+   track payments, store and manage project files, generate business
+   reports on turnover profit per client/manager etc.
    More info »
-   CafeTran Espresso
-   [dc6d1bace3e7b8e9a3e6bbe793c5e56b.png]
-   You've never met a CAT tool this clever!
-   Translate faster & easier, using a sophisticated CAT tool built by a
-   translator / developer. Accept jobs from clients who use Trados, MemoQ,
-   Wordfast & major CAT tools. Download and start using CafeTran Espresso
-   -- for free
-   Buy now! »
+   Anycount & Translation Office 3000
+   [0df8fed723a731067c020b8add3279ee.png]
+   Translation Office 3000
+   Translation Office 3000 is an advanced accounting tool for freelance
+   translators and small agencies. TO3000 easily and seamlessly integrates
+   with the business life of professional freelance translators.
+   More info »
 
    X
    Sign in to your ProZ.com account...

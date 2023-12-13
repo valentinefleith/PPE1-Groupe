@@ -181,7 +181,7 @@ Rates for legal & financial translation?
 
    Anna Fredén
    Anna Fredén   Identity Verified
-   Local time: 11:32
+   Local time: 11:52
    French to Swedish
    + ...
    Sep 21, 2017
@@ -225,7 +225,7 @@ Rates for legal & financial translation?
    Sheila Wilson
    Sheila Wilson   Identity Verified
    Spain
-   Local time: 10:32
+   Local time: 10:52
    Member (2007)
    English
    + ...
@@ -321,7 +321,7 @@ Rates for legal & financial translation?
    implemented)______
    Anna Fredén
    Anna Fredén   Identity Verified
-   Local time: 11:32
+   Local time: 11:52
    French to Swedish
    + ...
    TOPIC STARTER
@@ -424,7 +424,7 @@ Rates for legal & financial translation?
    Phyllis Elago
    Phyllis Elago   Identity Verified
    United Kingdom
-   Local time: 10:32
+   Local time: 10:52
    Member (2014)
    French to English
    + ...
@@ -490,7 +490,7 @@ Rates for legal & financial translation?
    implemented)______
    Anna Fredén
    Anna Fredén   Identity Verified
-   Local time: 11:32
+   Local time: 11:52
    French to Swedish
    + ...
    TOPIC STARTER
@@ -533,7 +533,7 @@ Rates for legal & financial translation?
    Tina Vonhof (X)
    Tina Vonhof (X)
    Canada
-   Local time: 03:32
+   Local time: 03:52
    Dutch to English
    + ...
    To answer your question...
@@ -578,7 +578,7 @@ Rates for legal & financial translation?
    MK2010
    MK2010   Identity Verified
    United States
-   Local time: 05:32
+   Local time: 05:52
    Member (2017)
    French to English
    + ...
@@ -609,7 +609,7 @@ Rates for legal & financial translation?
    implemented)______
    The Misha
    The Misha
-   Local time: 05:32
+   Local time: 05:52
    Russian to English
    + ...
    Finally a voice of reason
@@ -650,7 +650,7 @@ Rates for legal & financial translation?
    implemented)______
    Anna Fredén
    Anna Fredén   Identity Verified
-   Local time: 11:32
+   Local time: 11:52
    French to Swedish
    + ...
    TOPIC STARTER
@@ -742,7 +742,7 @@ Rates for legal & financial translation?
    implemented)______
    Anna Fredén
    Anna Fredén   Identity Verified
-   Local time: 11:32
+   Local time: 11:52
    French to Swedish
    + ...
    TOPIC STARTER
@@ -801,21 +801,21 @@ Rates for legal & financial translation?
 
    Forum rules
    Help and orientation
-   Anycount & Translation Office 3000
-   [0df8fed723a731067c020b8add3279ee.png]
-   Translation Office 3000
-   Translation Office 3000 is an advanced accounting tool for freelance
-   translators and small agencies. TO3000 easily and seamlessly integrates
-   with the business life of professional freelance translators.
+   Trados Business Manager Lite
+   [b906eb6a0a3f5bafa326ddb2b68cb9b4.png]
+   Create customer quotes and invoices from within Trados Studio
+   Trados Business Manager Lite helps to simplify and speed up some of the
+   daily tasks, such as invoicing and reporting, associated with running
+   your freelance translation business.
    More info »
-   TM-Town
-   [5b0ad6904252d328dd6807e0c90f7639.png]
-   Manage your TMs and Terms ... and boost your translation business
-   Are you ready for something fresh in the industry? TM-Town is a unique
-   new site for you -- the freelance translator -- to store, manage and
-   share translation memories (TMs) and glossaries...and potentially meet
-   new clients on the basis of your prior work.
-   More info »
+   Wordfast Pro
+   [4b1068fb7ecebb0e790a2d08d89129f0.png]
+   Translation Memory Software for Any Platform
+   Exclusive discount for ProZ.com users! Save over 13% when purchasing
+   Wordfast Pro through ProZ.com. Wordfast is the world's #1 provider of
+   platform-independent Translation Memory software. Consistently ranked
+   the most user-friendly and highest value
+   Buy now! »
 
    X
    Sign in to your ProZ.com account...

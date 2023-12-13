@@ -33,7 +33,7 @@ News:
 
    Started by forummm « 1 2 3 4 5 »
    245 Replies
-   271619 Views Last post November 28, 2023, 08:59:47 AM
+   271620 Views Last post November 28, 2023, 08:59:47 AM
    by ixtap
    The Mustache Tax Guide (U.S. Version)
 
@@ -346,7 +346,6 @@ News:
    Locked Topic
    Sticky Topic
    Poll
-   [credit-cards-recommends-728.jpg]
      * SMF 2.0.17 | SMF © 2019, Simple Machines
        SMFAds for Free Forums
      * XHTML

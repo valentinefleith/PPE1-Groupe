@@ -1,1 +1,169 @@
-o Joint accounts o Direct debits o Unauthorised and mistaken transactions o Sending money overseas + Budgeting o How to do a budget o Track your spending -- o Managing on a casual income o Budget planner o Compound interest calculator o Simple money manager o Avoiding sales pressure + Saving o Savings goals calculator o Compound interest o Save for an emergency fund o Simple ways to save money o Term deposits o Save for a house deposit + Work and tax -- o Self-employment o Choosing an accountant + Family and relationships o Relationships and money o Getting married o Having a baby o Teaching kids about money o Reducing back-to-school costs o Cheap school holidays o Getting divorced or separating -- o Personal loans o Personal loan calculator o Payday loan calculator o Moneysmart cars app + Other ways to borrow o Buy now pay later services o Pay advance services -- o Interest-only mortgage calculator + Managing debt o Get debt under control o Urgent help with money o Financial counselling o Financial hardship o Problems paying your bills and fines -- o Reverse mortgage and home equity release o Reverse mortgage calculator + Living in retirement o Your money in retirement o Aged care o Your home in retirement o Wills and powers of attorney o Paying for your funeral o Supporting older Australians o Financial abuse o Memory loss, dementia and your money o Elder care and seniors support concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Insurance + How life insurance works -- o Investor alert list o What to do if you've been scammed concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Community resources + Find unclaimed money o Claim money from bank accounts and bank dividends o Money held by state governments o Interest paid on unclaimed money o ASIC gazette o Claim money from life insurance policies o Claim money from shares and investments + Moneysmart for teachers o Lesson plans o Teaching consumer and financial literacy + Student life and money o Studying o Moving out of home o Rental bonds and leases -- o Buying and running a car + Publications and resources o Publications o Money tips in other languages + Indigenous o Book up o Dealing with family pressure about money o Door-to-door sales o Managing large sums of money o Paying for funerals o Buying a hamper o Superannuation -- concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Glossary concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Media centre concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Like MoneySmart on Facebook concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Follow MoneySmart on Twitter concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Subscribe to MoneySmart on Youtube Australian Government crest -- Financial counselling Free help to sort out your money problems Page reading time: 2 minutes (BUTTON) On this page -- Mob Strong Debt Helpline - 1800 808 488 Mob Strong Debt Helpline is a free legal advice service about money matters for Aboriginal and Torres Strait Islander peoples from anywhere in Australia. -- concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Report a scam concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Report misconduct to ASIC We don't lend money, arrange loans or provide personal financial advice. If you are experiencing difficulties with money, the following pages can help: concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Urgent help with money concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py No or low interest loans concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Problems paying your bills or fines concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Problems paying your mortgage -- 2 min read concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Urgent help with money Where to get help if you're in crisis or struggling to make ends meet 2 min read -- concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Debt consolidation and refinancing Know the risks and make sure you will save money 3 min read concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py -- Work out your financial position 5 min read concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py MoneySmart logo concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py About us concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Contact us -- concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Subscribe concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Indigenous concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Like MoneySmart on Facebook concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Follow MoneySmart on Twitter concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Subscribe to MoneySmart on Youtube ASIC logo MoneySmart logo ____________________ (BUTTON) search
+               o Joint accounts
+               o Direct debits
+               o Unauthorised and mistaken transactions
+               o Sending money overseas
+          + Budgeting
+               o How to do a budget
+               o Track your spending
+--
+               o Managing on a casual income
+               o Budget planner
+               o Compound interest calculator
+               o Simple money manager
+               o Avoiding sales pressure
+          + Saving
+               o Savings goals calculator
+               o Compound interest
+               o Save for an emergency fund
+               o Simple ways to save money
+               o Term deposits
+               o Save for a house deposit
+          + Work and tax
+--
+               o Self-employment
+               o Choosing an accountant
+          + Family and relationships
+               o Relationships and money
+               o Getting married
+               o Having a baby
+               o Teaching kids about money
+               o Reducing back-to-school costs
+               o Cheap school holidays
+               o Getting divorced or separating
+--
+               o Personal loans
+               o Personal loan calculator
+               o Payday loan calculator
+               o Moneysmart cars app
+          + Other ways to borrow
+               o Buy now pay later services
+               o Pay advance services
+--
+               o Interest-only mortgage calculator
+          + Managing debt
+               o Get debt under control
+               o Urgent help with money
+               o Financial counselling
+               o Financial hardship
+               o Problems paying your bills and fines
+--
+               o Reverse mortgage and home equity release
+               o Reverse mortgage calculator
+          + Living in retirement
+               o Your money in retirement
+               o Aged care
+               o Your home in retirement
+               o Wills and powers of attorney
+               o Paying for your funeral
+               o Supporting older Australians
+               o Financial abuse
+               o Memory loss, dementia and your money
+               o Elder care and seniors support
+     * Insurance
+          + How life insurance works
+--
+               o Investor alert list
+               o What to do if you've been scammed
+     * Community resources
+          + Find unclaimed money
+               o Claim money from bank accounts and bank dividends
+               o Money held by state governments
+               o Interest paid on unclaimed money
+               o ASIC gazette
+               o Claim money from life insurance policies
+               o Claim money from shares and investments
+          + Moneysmart for teachers
+               o Lesson plans
+               o Teaching consumer and financial literacy
+          + Student life and money
+               o Studying
+               o Moving out of home
+               o Rental bonds and leases
+--
+               o Buying and running a car
+          + Publications and resources
+               o Publications
+               o Money tips in other languages
+          + Indigenous
+               o Book up
+               o Dealing with family pressure about money
+               o Door-to-door sales
+               o Managing large sums of money
+               o Paying for funerals
+               o Buying a hamper
+               o Superannuation
+--
+     * Glossary
+     * Media centre
+
+     * Like MoneySmart on Facebook
+     * Follow MoneySmart on Twitter
+     * Subscribe to MoneySmart on Youtube
+
+   Australian Government crest
+
+--
+
+Financial counselling
+
+   Free help to sort out your money problems
+
+   Page reading time: 2 minutes
+   (BUTTON) On this page
+--
+
+Mob Strong Debt Helpline - 1800 808 488
+
+   Mob Strong Debt Helpline is a free legal advice service about money
+   matters for Aboriginal and Torres Strait Islander peoples from anywhere
+   in Australia.
+
+--
+     * Report a scam
+     * Report misconduct to ASIC
+
+   We don't lend money, arrange loans or provide personal financial
+   advice.
+
+   If you are experiencing difficulties with money, the following pages
+   can help:
+     * Urgent help with money
+     * No or low interest loans
+     * Problems paying your bills or fines
+     * Problems paying your mortgage
+--
+       2 min read
+     *
+
+Urgent help with money
+       Where to get help if you're in crisis or struggling to make ends
+       meet
+       2 min read
+--
+     *
+
+Debt consolidation and refinancing
+       Know the risks and make sure you will save money
+       3 min read
+     *
+
+--
+       Work out your financial position
+       5 min read
+
+     * MoneySmart logo
+
+     * About us
+     * Contact us
+--
+     * Subscribe
+     * Indigenous
+
+     * Like MoneySmart on Facebook
+     * Follow MoneySmart on Twitter
+     * Subscribe to MoneySmart on Youtube
+
+   ASIC logo
+
+   MoneySmart logo
+   ____________________ (BUTTON) search

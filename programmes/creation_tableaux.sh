@@ -71,9 +71,9 @@ if [ $response -eq 200 ];then
 
 		COMPTE=$(egrep -i -o "$MOT" $FICHIER_DUMP | wc -l)
 
-		CONTEXTE=$(egrep -i -C 3 "$MOT" $FICHIER_DUMP)
+		#CONTEXTE=$(egrep -i -C 3 "$MOT" $FICHIER_DUMP)
 		FICHIER_CONTEXTE="../contextes/${LANGUE}-${lineno}.txt"
-		echo $CONTEXTE > $FICHIER_CONTEXTE
+		egrep -i -C 3 "$MOT" $FICHIER_DUMP > $FICHIER_CONTEXTE
 
 		./concordancier.sh $MOT $lineno $FICHIER_CONTEXTE $LANGUE
 		CONCORDANCIER="../concordances/${LANGUE}-${lineno}.html"

@@ -1187,7 +1187,7 @@ Domain Registrar and SEO
      * 1 {{ upvoteCount | shortNum }}
 
 How to create sitemap on blogger (free)
-       Wayan S 8 hours ago in Beginners Area
+       Wayan S 9 hours ago in Beginners Area
        Hi Guys, I would like to add site map to blogger(free) but I don't
        know how to create it. the site map will input to google search
        console, I have ... [read more]
