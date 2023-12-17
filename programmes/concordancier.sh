@@ -29,7 +29,7 @@ echo "<html>
 </head>
 <body>
     <div class=\"container\">
-        <h1 class=\"title is-1 has-text-centered has-text-grey\"><b>Tableau</b></h1>
+        <h1 class=\"title is-1 has-text-centered has-text-grey\"><b>Condordancier</b></h1>
         <div class=\"table-container\">
             <table class=\"table is-bordered is-striped is-hoverable is-fullwidth\">
                 <tr class=\"has-background-rose\">
