@@ -25,15 +25,14 @@
           + Americas
           + Middle East & North Africa
        Most Read
-          + Joe Biden warns Benjamin Netanyahu to change tack or risk
-            losing global support
-          + Rise in US core inflation highlights stubborn price pressures
-          + Argentina’s new government halves peso’s value and cuts
-            spending to jolt economy
-          + Countries reach ‘historic’ COP28 deal to transition from
-            fossil fuels
-          + Harvard board backs president amid campus antisemitism
-            backlash
+          + Israeli soldiers killed hostages waving a white flag after
+            mistaking them for Hamas fighters
+          + G7 moves closer to seizing Russian assets for Ukraine
+          + Cardinal convicted of embezzlement in landmark Vatican court
+            case
+          + Rudy Giuliani ordered to pay $148mn to 2020 election workers
+            in defamation case
+          + Kuwait’s ruler dies at 86 after brief reign
      * US
        Sections
           + US Home
@@ -55,15 +54,16 @@
           + Telecoms
           + Transport
        Most Read
-          + Netflix reveals viewing data across entire catalogue for the
-            first time
-          + Puma to end sponsorship of Israel’s national football team
-          + Insurers built €3bn exposure to struggling Signa property
-            empire
-          + Thames Water chair ‘sorry’ over loan described as equity at
-            parliamentary grilling
-          + KPMG growth lags that of Big Four rivals as it posts global
-            revenues
+          + Bang & Olufsen says it will defy luxury slowdown as ‘rich will
+            only become richer’
+          + Abrdn cuts employee benefits in latest round of cost
+            reductions
+          + Barclays risks centuries-old ties with Cambridge university
+            over fossil fuel financing
+          + The financial engineers behind Shohei Ohtani’s $700mn
+            mega-contract
+          + Turkish Airlines orders 200 Airbus aircraft worth tens of
+            billions of dollars
      * Tech
      * Markets
        Sections
@@ -81,15 +81,13 @@
           + Moral Money
           + ETF Hub
        Most Read
-          + News updates from December 12: Biden warns Netanyahu to change
-            tack or risk losing global support, Sunak wins Rwanda asylum
-            vote
-          + Countries reach ‘historic’ COP28 deal to transition from
-            fossil fuels
-          + COP28 heads for extra time as majority clashes with Saudi
-            Arabia
-          + Live news: Sterling falls on weak GDP figures
-          + Nigeria’s oil sector hit by an exodus of foreign companies
+          + COP28: the new climate commitments that really count
+          + Abrdn cuts employee benefits in latest round of cost
+            reductions
+          + A quant winter’s tale
+          + Shipping companies avoid Red Sea after Houthi attacks
+          + Investors ditch notion that interest rates will stay ‘higher
+            for longer’
      * Climate
      * Opinion
        Sections
@@ -100,12 +98,11 @@
           + Obituaries
           + Letters
        Most Read
-          + Sunak discovers that politics isn’t like business
-          + Britain desperately needs a growth strategy
-          + It’s time for the west and the rest to talk to each other as
-            equals
-          + Israel, Palestine and the mirage of a two-state solution
-          + Catalonia will pursue its right to a referendum
+          + The restorative power of ritual should not be underestimated
+          + Apple workers deserve iDorms as good as the technology
+          + The EU still has an Orbán problem
+          + Gao Yaojie, Chinese doctor and Aids activist, 1927-2023
+          + Does Sunak’s maths revival add up?
      * Work & Careers
        Sections
           + Work & Careers Home
@@ -117,13 +114,11 @@
           + Business Travel
           + Working It
        Most Read
-          + Tom Kerridge: The magic of restaurants requires ‘very hard
-            work’
-          + Can the planet really sustain any more ESG conferences?
-          + Workers and bosses opt for Christmas payments over parties
+          + From bison grilling to cold water swimming: how CEOs spend
+            Christmas
+          + The perils of mangling a name
           + I’ve progressed fast at work — how do I go further?
-          + Do me a favour: if you help someone at work, don’t expect
-            payback
+          + Can the planet really sustain any more ESG conferences?
      * Life & Arts
        Sections
           + Life & Arts Home
@@ -136,12 +131,12 @@
           + Travel
           + FT Globetrotter
        Most Read
-          + The culture wars dividing America’s most liberal church
-          + He blew the whistle on Amazon. He’s still paying the price
-          + Will a US-style upgrade draw homebuyers to Crans-Montana?
-          + The Beatles’ Abbey Road recording console comes up for auction
-          + Milton Friedman by Jennifer Burns — portrait of an economic
-            colossus
+          + What to do about disinformation
+          + AI scientist Fei-Fei Li: ‘Maths is pretty clean. Humans are
+            messy’
+          + Forget Santa, Hugh Grant is the face of Christmas
+          + The best champagnes and sparkling wines for Christmas
+          + The importance of the zero-star review
      * HTSI
 
    MenuSearch
@@ -224,7 +219,7 @@ Tools
 
 Community & Events
 
-   FT CommunityFT Live EventsFT ForumsFT Board DirectorBoard Director
+   FT CommunityFT Live EventsFT ForumsFT Board NetworkBoard Director
    Programme
 
 More from the FT Group

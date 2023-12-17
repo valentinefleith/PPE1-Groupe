@@ -3,8 +3,8 @@
    alternate alternate
 
    Zonebourse : site de bourse en ligne en temps réel
-   56c472e8338b89819fe.cqS-KYVtidn7LT1dtV_EdMVna_RQ91d9PJQnZ6w9S0Q.EPXtZLc
-   sw7i0ZnYTgDX0A6AfEYM5gRwnSfgUMs4JKHI748RI9wfZjYIfeA
+   3cf1.o0JMdsy7DPaab3vF24ljBUQSmRUjqHP4xRuGjSV0SPY.yiQKPo2IOcHTXC2GjtgxZD
+   Rr-m0QkEKv9CPy3Xo3McDHG3QauINPg60pIg
    ____________________ (BUTTON) Recherche avancée
    Recherche avancée
    Connexion
@@ -235,20 +235,20 @@
        Top consultations
        Listes Style d'investissement
        Accueil
+       Valeurs de qualité à prix raisonnable
+       Valeurs ESG
+       Dividend Aristocrats
+       Multibaggers
        Valeurs à dividendes
        Valeurs de croissance
-       Dividend Kings
-       Petites capitalisations
-       Valeurs de qualité
-       Valeurs de qualité à prix raisonnable
        Listes Thématiques
        Accueil
-       La mobilité du futur
-       Maison connectée
-       Les Adtechs
-       Données Financières
-       L'Amérique en PEA
-       Moat
+       REITs
+       Economie circulaire
+       Acquéreurs en série
+       L'innovation Israélienne
+       Le Luxe
+       Santé Digitale et Télémédecine
      * Palmarès
        Palmarès Variations
        Palmarès Variations
@@ -289,12 +289,12 @@
      * Screeners
        Accueil Stock Screener
        Sélections Thématiques
-       Les Family Business
-       La Silver Economie
-       Au pied du Mont-Blanc
-       Exploration Spatiale
-       Diabète
-       Métavers
+       La petite Reine
+       In Vino Veritas
+       L'Internet des objets
+       Blockchain
+       Intelligence artificielle
+       REITs
        Notations Techniques
        Actions survendues
        Actions surachetées
@@ -544,20 +544,20 @@
                o Top consultations
           + Listes Style d'investissement
                o Accueil
-               o Top ROE
+               o Valeurs de qualité
+               o Valeurs ESG
                o Valeurs décotées
-               o Valeurs momentum
                o Dividend Kings
-               o Multibaggers
-               o Valeurs à dividendes
+               o Petites capitalisations
+               o Dividend Aristocrats
           + Listes Thématiques
                o Accueil
-               o Cybersécurité
-               o La Silver Economie
-               o Private Equity
-               o Les Fintechs
-               o Les Oligopoles
-               o L'Internet des objets
+               o 5G
+               o Smart City
+               o Maison connectée
+               o Données Financières
+               o Cloud Computing
+               o Uranium
      * Palmarès
           + Palmarès Variations
                o Palmarès Variations
@@ -598,12 +598,12 @@
      * Screeners
           + Accueil Stock Screener
           + Sélections Thématiques
-               o Cloud Computing
-               o Informatique quantique
-               o La biotechnologie
+               o Eolien
+               o Maison connectée
+               o Blockchain
+               o Moat
                o Les SPAC
-               o Intelligence artificielle
-               o La Robotique
+               o In Vino Veritas
           + Notations Techniques
                o Actions survendues
                o Actions surachetées
@@ -668,13 +668,13 @@ Matière première
 
 XAGUSD
 
-   Marché Fermé - 11:14:26 13/12/2023 Graphique intraday de Silver Varia.
+   Marché Fermé - 23:00:01 15/12/2023 Graphique intraday de Silver Varia.
    5j. Varia. 1 janv.
-   22,69 ^USD -0,52 % -6,15 % -5,27 %
-   11:09 L'or progresse grâce à la baisse des rendements, les traders se
-   préparent au verdict de la Fed RE
-   10:16 Sunstone Metals lève 5 millions de dollars australiens pour
-   l'exploration de projets d'or et d'argent en Équateur MT
+   23,86 ^USD -1,09 % +3,70 % -0,40 %
+   15/12 Les marchés boursiers sont en hausse alors que les traders
+   évaluent les données macroéconomiques MT
+   15/12 Les marchés boursiers sont en hausse alors que les traders
+   évaluent les données macroéconomiques MT
 
    Synthèse
    Cotations
@@ -693,134 +693,142 @@ Graphique Silver
 
 Dernières actualités sur Argent
 
-   L'or progresse grâce à la baisse des rendements, les traders se
-   préparent au verdict de la Fed 11:09 RE
-   Sunstone Metals lève 5 millions de dollars australiens pour
-   l'exploration de projets d'or et d'argent en Équateur 10:16 MT
-   Thungela réduit sa production de charbon en raison d'une crise
-   ferroviaire 09:44 RE
-   Vertex lance une offre publique d'achat de 555 millions de dollars pour
-   acquérir Pagero Group 09:16 MT
-   Investigator Resources lève 5 millions de dollars australiens pour
-   l'étude de faisabilité définitive du projet d'argent de Paris ; les
-   actions chutent de 15%. 03:45 MT
-   L'or se maintient dans une fourchette étroite alors que les traders
-   attendent le verdict de la Fed 03:33 RE
-   L'or reste stable alors que les investisseurs se préparent au verdict
-   de la Fed 02:24 RE
-   Magnetic Resources dépose une demande de bail minier pour le gisement
-   Lady Julie 4 North 01:29 MT
-   Les marchés boursiers augmentent alors que les traders évaluent les
-   données sur l'inflation des consommateurs 12/12 MT
-   Les marchés boursiers augmentent alors que les traders évaluent les
-   données sur l'inflation des consommateurs 12/12 MT
-   Les marchés boursiers augmentent en intraday après le rapport sur l'IPC
-   12/12 MT
-   Les indices boursiers américains augmentent alors que les investisseurs
-   évaluent le rapport sur l'inflation de novembre 12/12 MT
-   Le rapport sur l'inflation laisse les fonds négociés en bourse mitigés,
-   les actions américaines en hausse 12/12 MT
-   Fortuna Silver Mines perd 2% et fait le point sur l'exploration de la
-   mine de Seguela, du projet Diamba Sud et de la mine de San Jose 12/12
-   MT
-   La Banque Nationale du Canada note les dernières analyses de Wesdome à
-   la mine Eagle River 12/12 MT
+   Les marchés boursiers sont en hausse alors que les traders évaluent les
+   données macroéconomiques 15/12 MT
+   Les marchés boursiers sont en hausse alors que les traders évaluent les
+   données macroéconomiques 15/12 MT
+   Le prix de l'uranium au plus haut depuis près de 17 ans 15/12 AW
+   Les marchés d'actions sont majoritairement en baisse en cours de
+   journée, les traders évaluant les données macroéconomiques 15/12 MT
+   Les indices boursiers américains et les rendements des obligations
+   d'Etat sont mitigés dans un contexte de spéculation sur les taux
+   d'intérêt après que la Réserve fédérale ait entraîné une hausse des
+   actions. 15/12 MT
+   Les rendements des bons du Trésor, les fonds négociés en bourse, les
+   actions américaines sont tous mitigés dans les échanges de vendredi
+   15/12 MT
+   Sous la pression de Shein, H&M se tourne vers les acheteurs haut de
+   gamme 15/12 RE
+   L'optimisme sur les réductions potentielles des taux d'intérêt pousse
+   les fonds négociés en bourse et les contrats à terme d'actions à la
+   hausse avant la cloche de vendredi. 15/12 MT
+   TotalEnergies lance la construction d’une centrale solaire en Afrique
+   du Sud 15/12 AO
+   West Cobar découvre une épaisse minéralisation de cuivre dans son
+   projet Bulla Park en Nouvelle-Galles du Sud ; les actions chutent de
+   8%. 15/12 MT
+   Le prix de l'or en passe de réaliser un gain hebdomadaire en raison des
+   prévisions de baisse des taux de la Fed 15/12 RE
+   Bannerman Energy obtient une licence minière pour le projet Etango en
+   Namibie ; les actions augmentent de 4%. 15/12 MT
+   Les marchés d'actions progressent grâce à la hausse surprise des ventes
+   au détail 14/12 MT
+   Les marchés d'actions progressent grâce à une hausse surprise des
+   ventes au détail 14/12 MT
+   Les marchés boursiers chutent en intraday après les données sur les
+   ventes au détail 14/12 MT
    Plus d'actualités
 
 Actualités dans d'autres langues sur Argent
 
-   Uranium Energy Corp. : Uranium Energy Corp: è in atto una nuova bolla
-   11:26
-   Gold creeps higher on weaker yields, traders brace for Fed verdict
-   11:09
-   Sunstone Metals Raises AU$5 Million for Exploration at Ecuador
-   Gold-Silver Projects 10:16
-   S.Africa's Thungela cuts coal production over rail crisis 09:44
-   New Polish government inherits troubled budget legacy 09:18
+   Turkey, Romania, Bulgaria to ink deal on floating Black Sea mines in
+   January 16/12
+   Nieuwe aankopen voor de Aziatische portefeuille 16/12
+   Brazil's Braskem bond back to downward path after Fitch cuts rating to
+   junk 16/12
+   Equity Markets Mostly Rise as Traders Weigh Macro Data 15/12
+   ADRs Close Lower; Fanhua Slips 16% 15/12
    Plus d'actualités
 
 Produits Dérivés Populaires sur Argent
 
-   f53a878904ae05e9a91f7b8ae691.m5xoo3W4SmnHm6my5_v1KKyRWMMcIeMJg-P1r2vSNP
-   c.1_UtzzyABDip1MHnoM6zEZ_3aaZSFY95zK-R4iaAWcfY7l_tN-1-X_HD3g
+   14c1654540735f8cad0978fea4c.-vnAxCEO1qHkNpZ6x0ySs1MPZY-5R_4Cr_J379jw_Sc
+   .nrKZoUR6g9SvQKQStznh6ztEIubBPa1Xx7YShr7Hsm2IrJetT1eF2b0C_Q
    Mnemo Type Type de produit Maturité Elasticité Levier Parité Cours
    Emetteur
    BNP Paribas 6225N Matière première Argent
    CALL
    CALL Certificat Turbo Stop Loss Illimité - 1
 
-   9,71 EUR
+   10,84 EUR
    BNP Paribas
    BNP Paribas 6592N Matière première Argent
    CALL
    CALL Certificat Turbo Stop Loss Illimité - 1
 
-   9,11 EUR
+   10,24 EUR
    BNP Paribas
    BNP Paribas R134B Matière première Argent
    PUT
    PUT Certificat Turbo Stop Loss Illimité - 10
 
-   0,855 EUR
+   0,715 EUR
    BNP Paribas
    Citi Q646C Matière première Argent
    PUT
    PUT Certificat Turbo Stop Loss Illimité - 1
 
-   8,66 EUR
+   7,3 EUR
    Citi
    BNP Paribas 67HYB Matière première Argent
    CALL
    CALL Certificat Turbo Illimité - 1
 
-   8,93 EUR
+   10,07 EUR
    BNP Paribas
    Plus de produits dérivés
 
 Actualités Matières Premières
 
-   Les actions attendent la décision de la Fed ; le pétrole s'effondre
-   11:14 RE
-   L'or progresse grâce à la baisse des rendements, les traders se
-   préparent au verdict de la Fed 11:09 RE
-   Les exportations ukrainiennes de denrées alimentaires par la route se
-   redressent après l'ouverture de la frontière polonaise - courtiers
-   11:08 RE
-   L'Italie est optimiste quant aux exportations vers l'Amérique latine,
-   mais le pacte du Mercosur serait plus efficace 11:00 RE
-   Le Japon sélectionne trois groupes pour le deuxième tour de l'appel
-   d'offres sur l'énergie éolienne en mer 10:54 RE
-   RWE remporte pour la première fois un appel d'offres pour un parc
-   éolien offshore au Japon 10:34 DP
-   Réactions à l'accord final sur le climat de la COP28 10:26 RE
-   Les Bourses focalisées sur la prochaine décision de la Fed 10:13 AW
-   Naturgy engage Morgan Stanley pour étudier la vente de son unité
-   australienne, selon l'Expansion 10:04 RE
-   Les actions dans le vert alors que tous les regards se tournent vers la
-   Fed américaine 09:58 AN
+   Des navires MSC et CMA CGM évitent le canal de Suez après des attaques
+   16/12 RE
+   Elon Musk estime que le pétrole et le gaz ne doivent pas être
+   diabolisés 16/12 RE
+   Washington met en garde Pyongyang contre toute attaque nucléaire 16/12
+   RE
+   La Hongrie menace de bloquer l'entrée de la Bulgarie dans l'espace
+   Schengen 16/12 RE
+   MSC détourne des navires du canal de Suez après une attaque en mer
+   Rouge 16/12 RE
+   Le pétrole et le gaz ne doivent pas être diabolisés, selon Elon Musk
+   16/12 RE
+   Le Viêt Nam accorde une licence à Tokyo Gas et à ses partenaires pour
+   la construction d'une centrale électrique au GNL d'une valeur de 2
+   milliards de dollars 16/12 RE
+   Gazprom expédiera 42,1 millions de m3 de gaz vers l'Europe via
+   l'Ukraine samedi 16/12 RE
+   Toute action hostile contre le Yémen aura des conséquences
+   désastreuses-responsable houthi 16/12 RE
+   Le gestionnaire du réseau électrique californien approuve la
+   construction d'une ligne de transport d'électricité vers l'Idaho 16/12
+   RE
    Plus d'actualités
 
 Cotations 5 jours
 
      Date   Cours Variation
-   13/12/23 22,69 -0,52 %
+   15/12/23 23,86 -1,09 %
+   14/12/23 24,12 +1,22 %
+   13/12/23 23,83 +4,49 %
    12/12/23 22,8  -0,03 %
    11/12/23 22,81 -1,07 %
-   10/12/23 23,06 +0,23 %
-   08/12/23 23,01 -3,17 %
 
    Cours en différé Autre
 
-   Dernière mise à jour Le 13 décembre 2023 à 11:14
+   Dernière mise à jour Le 15 décembre 2023 à 23:00
    Plus de cotations
 
 A la une
 
-   Tour d'horizon des matières premières : Le pétrole reste sous pression
+   Le prix de l'uranium au plus haut depuis près de 17 ans
+
+   Le prix de l'uranium au plus haut depuis près de 17 ans
+
+   Le 15 décembre 2023 à 21:00
 
    Tour d'horizon des matières premières : Le pétrole reste sous pression
-
    Le 11 décembre 2023 à 17:37
+   Tour d'horizon des matières premières : Le pétrole reste sous pression
 
    Uranium Energy Corp. : Nouvelle bulle en formation
    Le 12 décembre 2023 à 15:00
@@ -832,18 +840,14 @@ A la une
    Le bric-à-brac de Zonebourse : Les mineurs et l'Allemagne se
    réveillent, Orpéa à sa place
 
-   ETF : Capitaliser sur la longévité
-   Le 31 octobre 2023 à 13:43
-   ETF : Capitaliser sur la longévité
-
 Cotations et Performances
 
-   1 semaine      -5,67 %
-   Mois en cours  -10,05 %
-   1 mois         +2,28 %
-   3 mois         -1,06 %
-   6 mois         -5,22 %
-   Année en cours -4,79 %
+   1 semaine      +3,70 %
+   Mois en cours  -5,90 %
+   1 mois         +1,80 %
+   3 mois         +3,61 %
+   6 mois         -0,06 %
+   Année en cours -0,40 %
    Plus de cotations
 
    Indices Europe Amériques Asie
@@ -942,9 +946,9 @@ Cotations et Performances
    Copyright © 2023 Surperformance. Tous droits réservés.
    Les cotations sont fournies par Factset, Morningstar et S&P Capital IQ
 
-   Les meilleurs outils réservés aux abonnés pour augmenter la performance
-   de vos investissements !
-   Optimiser mes Profits
+   Sécurisez et Augmentez la Performance de vos Investissements grâce à
+   notre Équipe d'Experts à vos Côtés
+   Sécuriser mes Investissements
    fermer
 
    IFRAME:

@@ -1,170 +1,118 @@
+   #alternate alternate alternate
+
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KS2SD22
 
-   Gestion du consentement
+     * Evénements & conférences
+     * Boutique
+     * Éditions digitales
+     * Salle des marchés
+     * Le journal des opa
+     * La Lettre Recommandée
 
-   IFRAME:
-   //cstatic.weborama.fr/iframe/customers/premium.html?idEditeur=1178&idSi
-   te=266
+   ____________________ (BUTTON) Rechercher (BUTTON)
 
-   Aller au contenu principal
-
-     * Aller au contenu
-     * Aller au menu
-
-     * Evénements & salons
-     * Boutique le Revenu
-     * Espace personnel
-
-   Le Revenu, conseils boursiers et placements financiers en continu
-   ____________________
-   (BUTTON) Valider
-   S'abonner >
-   Accueil
    (BUTTON) Menu
-     * Accueil
-     * Accueil
-     * Placements
-       Actualités Placements
-          + Кроссовки оригинал спортивная обувь рибок reebok deep nike
-            adidas — цена 3500 грн в каталоге Кроссовки ✓ Купить женские
-            вещи по доступной цене на Шафе , deep nike sb striped gray and
-            black shoes outfit goals , Украина #103630691
-          + air jordan 1 mid outlet
-          + adidas outlet williamsburg va store directory mall
-          + Сникерсы — цена 1500 грн в каталоге Сникеры ✓ Купить женские
-            вещи по доступной цене на Шафе , Украина #133513232
-          + nike air jordan 1 outlet
-          + air jordan 4 white tech grey black fire red ct8527 100 release
-            date
-          + Air Jordan 1 Stage Haze Release Date 555088 108 1
-          + Air Jordan 4 White Tech CT8527 100 Release Date
-          + adidas Ultra Boost 2022 COLD.RDY Magic Grey GZ0128 Release
-            Date
-          + buy air jordan 1 twist panda cd0461 007 store list
+     * Lire les publications
+     * Newsletter
+     * Vidéos
+
+   Le Revenu
+   Accéder à la salle
+   des marchés
+
+   ____________________ (BUTTON)
+     * Réussir en Bourse
+          + Nos conseils Bourse
+          + Au cœur des opérations
+          + Transactions des dirigeants
+          + Avis des professionnels
+          + Analyse technique
+     * Diversifier vos placements
+          + Nos conseils placements
           + Assurance vie
-          + Livrets et placements bancaires
-          + Sicav et FCP
-          + Retraite
-          + Economie
-          + Epargne salariale
-          + Art, Vin et Collection
-       EVENEMENTS
-          + Réunions Placements
-       Comparateur de livrets
-     * Immobilier
-       Actualités Immobilier
-          + Prix de l'immobilier
+          + Livrets & épargne logement
+          + Épargne retraite
+          + Placements divers
+          + Gestion de patrimoine
+     * Investir dans l’immobilier
+          + Nos conseils immobilier
+          + Prix et tendances
+          + Crédits immobiliers
+          + SCPI et fonds immobiliers
           + Investissement locatif
-          + Prêt immobilier
-          + SCPI
-          + Défiscalisation immobilière
           + Copropriété
-          + Impôts locaux
-     * Bourse
-       Actualités Bourse
-          + Cours de bourse
-          + Cote Sicav & FCP
-          + Palmarès
-          + Devises
-          + Indices boursiers
-          + Or et matières premières
-          + Obligations
-          + Trackers
-          + Warrants et Turbos
-       CONSEILS
-          + Conseil du jour
-          + Valeurs en vue
-       AGENDA
-          + Réunions Actionnaires
-          + Evénements des sociétés
-       Comparateur de courtiers
-     * Impôts & droits
-       Actualités Impôts & Droits
+     * Réduire vos impôts
+          + Nos conseils impôts
           + Impôt sur le revenu
-          + Fiscalité des placements
-          + IFI (ex-ISF)
+          + Impôts fonciers
+          + Défiscalisation immobilière
+          + IFI - Impôt sur la fortune
+     * Préparer une succession
+          + Nos conseils succession
           + Droits de succession
-          + Défiscalisation
-          + Droits de la famille
-          + Droits du consommateur
-     * Finances privées
-       Actualités Finances privées
-          + Banque
-          + Assurance et prévoyance
-          + Gestion du patrimoine
-     * |
-     * TV
-       Le Revenu TV
-          + Bourse : la hausse/baisse du jour
-          + Chiffres Clés
-          + La parole aux dirigeants de sociétés
-          + Les entretiens d'experts de la finance
-          + Web Conférence
-          + L'Hebdo du Revenu
-          + Point Marchés
-          + Les Quiz du Revenu
-       Pédagogie
-          + La Minute Retraite
-          + La Minute de l'Assurance Vie
-          + Questions d'argent
-          + L'indicateur de l'immobilier
-          + Conseils Gagnants
-     * NEWSLETTER
+          + Donations
+          + Protection de la famille
+          + Transmission d'entreprise
 
-     * Déclaration Impôts 2023
-     * |
-     *
-     * |
-     * boutique
-     * mon compte
+     * Patrimoine à la loupe
+     * Les Sélections du revenu
+     * Les grands entretiens
 
-   IFRAME: //bourse.lerevenu.com/tickers/bourse/
+     * Accéder à la salle des marchés
+     * Lire les publications
+     * Newsletter
+     * Vidéos
 
-   Conseils en Bourse et Placements > Bourse > Or et matières premières >
-   L’argent métal : une valeur refuge délaissée à tort
+     * Événements et conférences
+     * Boutique
 
-   Abonnés, accédez à vos publications numériques
+   Newsletter
+   L’Hyper-Quot’
+
+   Chaque jour, du lundi au samedi,
+   recevez le plus punchy et pertinent de l’info des marchés.
    (BUTTON) Fermer
+   E-mail ____________________
+   Veuillez remplir le champ.
+   [ ] J’accepte que les informations renseignées ci-dessus soient
+   exploitées pour recevoir la newsletter du Revenu.
+   Veuillez accepter avant de soumettre.
+   (BUTTON) Je m’inscris pour ne rien manquer
+
+    1. Tribune libre
+    2. L’argent métal : une valeur refuge délaissée à tort
+
+   Retour
+   Tribune libre
 
 L’argent métal : une valeur refuge délaissée à tort
 
-   une tribune libre sur l'argent
-   Une tribune libre de Jean-François Faure sur l'argent. (© cc Garry
-   Knight / image recadrée)
-     * Facebook
-     * Twitter
-     * Google +
-     * Imprimer
-     * email
-     * email
+   Partager
+     *
+     *
+     *
+     * Plus d'options
+          +
+          +
+          +
 
-   Or et matières premières
+   Publié le 08/09/2018 à 08h12 | mis à jour le 30/08/2023 à 11h05
+   Cet article est réservé aux abonnés.
+     __________________________________________________________________
 
-   Par Jean-François Faure
-
-   Publié le 08/09/2018 à 08:12 - Mis à jour le 08/09/2018 à 08:12
-
-Quand on pense à la protection de son épargne, l’or physique est une bonne
-option. Ce n’est pas la seule : l’argent métal est aussi une façon d’assurer
-ses arrières. L’analyse de Jean-François Faure, président d’Aucoffre.com.
+   Tribune libre de Jean-François Faure pièces d'argent Tribune libre de
+   Jean-François Faure (© cc Garry Knight / image recadrée)
 
    Comme l’or, l’argent est un métal précieux qui a été utilisé comme
    monnaie pendant des siècles. Paradoxalement, c’est un métal qui est
-   délaissé. Il faut surtout croire qu’il n’est pas assez compris !
+   délaissé. Il faut surtout croire qu’il n’est pas assez compris!
+   À lire aussi
 
-A lire aussi
+   Où stocker ses pièces d’or ?
 
-   Publié le 04/09/2018
+   L’or est-il vraiment un placement refuge ?
 
-   Une pièce d'or australienne est valorisée plus d'un million d'euros
-
-   Publié le 02/08/2018
-
-   Or : le cours de l'once ne devrait pas remonter avant la rentrée
-
-   Publié le 30/07/2018
-
-   Faut-il acheter de l’or en cas de montée des tensions commerciales ?
+   Le cours de l’or passé au grill d’une inflation soutenue
 
 L’argent était encore une monnaie il y a quelques décennies
 
@@ -179,8 +127,8 @@ L’argent était encore une monnaie il y a quelques décennies
    Charlemagne fait ainsi passer le système monétaire occidental à
    l’étalon d’argent, faute d’approvisionnement suffisant en or.
 
-   Dans des périodes de crise extrême - la Seconde guerre mondiale par
-   exemple - l’argent métal reste une valeur sûre pour se procurer de quoi
+   Dans des périodes de crise extrême – la Seconde guerre mondiale par
+   exemple -l’argent métal reste une valeur sûre pour se procurer de quoi
    subsister dans la vie de tous les jours.
 
 Pourquoi les Français considèrent l’argent comme une solution fiable
@@ -188,19 +136,17 @@ Pourquoi les Français considèrent l’argent comme une solution fiable
    Même après la démonétisation de la Semeuse 5 Francs argent en France,
    les belles pièces en argent continuent de circuler.
 
-   Souvent sous forme de cadeau : la 50 Francs Hercule a longtemps fait
+   Souvent sous forme de cadeau: la 50 Francs Hercule a longtemps fait
    partie des pièces offertes en famille. L’occasion d’aider les jeunes à
    se constituer un premier patrimoine.
-
-   IFRAME: https://lerevenu-news.com/qlr/formulaire-qlr.php
 
    Et les 10 Francs, 50 Francs Hercule ou la Semeuse 5 Francs ne sont pas
    les seules pièces que l’on retrouve facilement chez soi. Les pièces
    françaises emblématiques sont tout aussi facilement transmises en
-   famille : la 5 Francs Napoléon III Tête laurée par exemple.
+   famille: la 5 Francs Napoléon III Tête laurée par exemple.
 
    Et avec quelques précautions, l’argent se conserve bien même s’il peut
-   s’oxyder - ce qui n’est pas le cas de l’or.
+   s’oxyder – ce qui n’est pas le cas de l’or.
 
    Avec des qualités proches à celles de l’or, l’argent constitue une
    valeur de confiance complémentaire. Il est surtout plus accessible et
@@ -232,29 +178,27 @@ Pourquoi les Français considèrent l’argent comme une solution fiable
 
 La demande est vouée à augmenter dans les prochaines années
 
-   Comme l’or, l’argent est un métal rare qui va le devenir de plus en
+   Comme l’or,l’argent est un métal rare qui va le devenir de plus en
    plus.
 
    Selon les chiffres du Silver Institute, l’extraction argentifère a
    montré une baisse en 2016 (et pour la première fois en 14 ans). Cette
    tendance s’est confirmée en 2017.
 
-   Les raisons sont simples et sont exactement les mêmes que pour l’or :
+   Les raisons sont simples et sont exactement les mêmes que pour l’or:
    les gisements les plus accessibles ont déjà été exploités, l’extraction
    est donc plus difficile et les coûts augmentent. Le recyclage, trop
    coûteux et difficile, n’apparaît pas comme une alternative
    envisageable.
 
    En parallèle, la demande d’argent dans l’industrie explose. Le métal
-   présente des qualités majeures : il résiste très bien à la corrosion
+   présente des qualités majeures: il résiste très bien à la corrosion
    même s’il subit l’oxydation, c’est un excellent conducteur thermique et
    électrique. Il est de plus en plus utilisé dans les processus
    industriels modernes.
 
-   IFRAME: https://lerevenu-news.com/qlr/formulaire-qlr.php
-
    Le seul secteur des applications photovoltaïques s’est montré très
-   gourmand en 2017 : 92 millions d’onces d’argent, selon le Silver
+   gourmand en 2017: 92 millions d’onces d’argent, selon le Silver
    Institute.
 
    Dans les années à venir, on devrait assister à une augmentation de la
@@ -282,9 +226,9 @@ Sous quelle forme choisir l’argent pour son épargne ?
    rien n’assure que l’organisme gérant l’ETF ne fera pas défaut à son
    tour.
 
-   Sous sa forme physique, l’argent conserve ce rôle de valeur refuge.
+Sous sa forme physique, l’argent conserve ce rôle de valeur refuge.
 
-   Deux choix sont alors possibles : les lingots d’argent, qui sont soumis
+   Deux choix sont alors possibles: les lingots d’argent, qui sont soumis
    à la TVA, encombrants et peu sécables. Ou les pièces d’argent
    d’investissement, qui bénéficient d’une fiscalité particulière et d’un
    effet prime.
@@ -298,7 +242,7 @@ Sous quelle forme choisir l’argent pour son épargne ?
    revente. Les pièces qui ont eu cours légal en France sont soumises à
    une taxe à la revente uniquement.
 
-Quelles pièces d'argent choisir ?
+Quelles pièces d’argent choisir ?
 
    Plusieurs pièces à court légal sont réputées comme incontournables en
    termes d’investissement.
@@ -339,251 +283,98 @@ Quelles pièces d'argent choisir ?
    Mais l’argent étant plus volatile, il faut être encore plus vigilant au
    moment où on l’achète, afin d’éviter des grosses déconvenues.
 
-   Comme pour l’or, le conseil d’un achat régulier - qui permet de lisser
-   les hausses et les baisses de cours - reste une idée qui a fait ses
+   Comme pour l’or, le conseil d’un achat régulier – qui permet de lisser
+   les hausses et les baisses de cours – reste une idée qui a fait ses
    preuves.
 
-   IFRAME: https://lerevenu-news.com/qlr/formulaire-qlr.php
+   L'auteur
+   Jean-François Faure
+   Président d'Aucoffre.com
+     __________________________________________________________________
 
-     * Tribune libre
-     * Or
+   Les plus lus
+   Catégorie
+   Où placer 200.000 euros avec des risques limités ?
+   Catégorie
+   Stellane Cohen (Altaprofits) : «L’assurance vie est résiliente»
+   Catégorie
+   Comment placer son argent ?
+   Catégorie
+   Devons-nous vendre nos parts de SCPI?
+   Catégorie
+   Épargne logement: le taux du PEL fixé à 2,25% au 1er janvier 2024
 
-6 bonnes raisons de vous abonner au Revenu
+Patrimoine
+à la loupe
 
-   decouverte
-     * 1. Bénéficiez d'une Offre Globale privilégiée.
-     * 2. Ne laissez passer aucun numéro et bénéficiez d'une économie
-       importante.
-     * 3. Dès le vendredi matin, consultez Le Revenu en édition numérique.
-     * 4. Profitez de Conseils privés.
-     * 5. Recevez 5 Guides Thématiques par an.
-     * 6. Le Revenu vous défend dans son journal.
+Où placer 500 euros d’épargne chaque mois?
+     __________________________________________________________________
 
-Découvrez le mode de lecture confortable
+Souscrire mon premier contrat d’assurance vie
+     __________________________________________________________________
 
-   Se connecter
+Placer judicieusement pour mieux vivre à la retraite
+     __________________________________________________________________
 
-A ne pas manquer
+Bâtir un patrimoine à transmettre aux enfants
+     __________________________________________________________________
 
-Les derniers articles Or et matières premières
+Je dépense la totalité de mes salaires et primes
 
-   Lingots et pièces d'or
+   Voir plus
 
-   L’or brille à nouveau
+Articles réservés aux abonnés
 
-   Or et matières premières
+   L’argent métal : une valeur refuge délaissée à tort
 
-   Par Olivier Dauzat
-   Matières premières
+Chine : tous les moteurs sont en panne
 
-   Matières premières : le calme entre deux tempêtes
+   L’argent métal : une valeur refuge délaissée à tort
 
-   Or et matières premières
+«Compte flexible» de Revolut : un placement en trompe-l’oeil !
 
-   Par Aline Fauvarque
-   lingot d'or
+   L’argent métal : une valeur refuge délaissée à tort
 
-   Quelles perspectives pour l'or ?
+Epargne : pourquoi ouvrir un PER à un enfant mineur ?
 
-   Or et matières premières
+   forêt (DR)
 
-   Par Olivier Dauzat
+Groupement forestier : Un placement de conviction assorti d’avantages fiscaux
 
-Tribune libre
+   L’argent métal : une valeur refuge délaissée à tort
 
-   Tribune libre de Benoît Berchebru
+Comment le Livret A ampute votre pouvoir d’achat en 2023
 
-   Epargne : pourquoi ouvrir un PER pour Noël à un enfant
+   L’argent métal : une valeur refuge délaissée à tort
 
-   Retraite
+Réforme des retraites : les mesures phare qui entrent en vigueur le 1er
+septembre 2023
 
-   Par Benoît Berchebru
-   Tribune Jean Joseph Haas
+     * Immobilier : qui doit acheter, vendre, transmettre en 2022
+     * Matières premières : le calme entre deux tempêtes
+     * Véronique Reille-Soult Présidente du cabinet Backbone Consulting
 
-   Les petites et moyennes valeurs, y aller ou pas ?
-
-   Bourse
-
-   Par Jean-Joseph Haas
-   Chloë Gauquelin
-
-   Propriétaires-bailleurs, faites de la rénovation énergétique une
-   opération gagnante
-
-   Immobilier
-
-   Par Chloë Gauquelin
-
-Les dernières vidéos
-
-   Vignette Tesla
-
-   61.000 dollars : le prix du modèle de base du Cybertruck de Tesla
-   Vignette immobilier Paris
-
-   9.760 euros : le prix moyen au mètre carré d'un appartement ancien à
-   Paris
-   Christian Fontaine
-
-   L'or au plus haut : faut-il acheter ou vendre ?
-
-Les derniers articles abonnés
-
-   Testament
-
-   Transmission : le testament nécessaire à la succession
-
-   Droits de succession
-
-   Par Le Revenu
-   Logo Herige
-
-   Herige : cession de la distribution à Samse
-
-   Conseil du jour
-
-   Par Olivier Dauzat
-   Courbes Bourses
-
-   5 valeurs à acheter en cas de récession
-
-   Valeurs en vue
-
-   Par Stanislas Feuillebois
-
-Vidéos à la une
-
-     * Vignette Tesla Chiffres clés
-
-61.000 dollars : le prix du modèle de base du Cybertruck de Tesla
-       Le pionnier des pick-ups électriques a été lancé.
-     * Vignette immobilier Paris Chiffres clés
-
-9.760 euros : le prix moyen au mètre carré d'un appartement ancien à Paris
-       Le marché immobilier résidentiel poursuit sa baisse dans la
-       capitale.
-     * Christian Fontaine Questions d'argent
-
-L'or au plus haut : faut-il acheter ou vendre ?
-       Le métal jaune a atteint un record historique en début de semaine,
-       à plus de 2100 dollars l'once . La stratégie à…
-     * Christopher Dembik Les entretiens d'experts de la finance
-
-Christopher Dembik : «les actions européennes n’attirent pas les flux de
-capitaux»
-       L’expert de Pictet AM a répondu aux questions du Revenu TV. Il
-       privilégie pour 2024 les obligations, les actions…
-     * Stellane Cohen (Altaprofits) Les entretiens d'experts de la finance
-
-Stellane Cohen (Altaprofits) : «L'assurance vie est résiliente»
-
-   Toutes les vidéos
-
-ÉVÈNEMENTS & SALONS
-
-   Tous les événéments
-
-   Abonnez vous au Revenu pour 8.90 euros par mois
-
-   Tous nos conseils boursiers
-
-   Agenda financier des entreprises cotées
-
-Devenir Abonné
-
-Le Revenu vous invite à aller plus loin en choisissant votre formule
-d’abonnement
-
-   S'abonner
-
-Services
-
-     * Comparateur de livrets
-     * |
-     * Comparateur de courtiers
-     * |
-     * Evénements
-     * |
-     * Abonnements
-     * |
-     * Kiosque
-     * |
-     * Librairie
-
-Placements
-
-     * Assurance vie
-     * Livrets d'épargne
-     * Placements bancaires
-     * Sicav et FCP
-     * Retraite
-     * Investissement entreprise
-     * Epargne salariale
-     * Art, vin et collections
-
-Immobilier
-
-     * Prix de l'immobilier
-     * Résidences principales et secondaires
-     * Investissement locatif
-     * Prêt immobilier
-     * SCPI
-     * Défiscalisation immobilière
-     * Copropriété
-     * Impôts locaux
-
-Bourse
-
-     * Cours de Bourse
-     * Palmarès
-     * Indices boursiers
-     * Côte Sicav & FCP
-     * Devises
-     * Or et matières premières
-     * Obligations
-     * Trackers
-     * Warrants et Turbos
-
-Impôts & droits
-
-     * Impôt sur le revenu
-     * Fiscalité des placements
-     * ISF
-     * Droits de succession
-     * Défiscalisation
-     * Droits de la famille
-     * Droits du consommateur
-
-Finances privées
-
-     * Banque
-     * Assurance et prévoyance
-     * Gestion de patrimoine
-     * Crédit consommation
-
-     * Le Revenu TV
-     * Boutique Le Revenu
-     * Espace personnel
-     * Posez nous vos questions
-     * Désabonnement
+   Liens utiles
+     * Mentions légales
+     * Paramètres des cookies
      * Lexique
-
-   Retour haut
-     * Accueil Le Revenu
-     * CGV
-     * |
-     * Mentions Légales
-     * |
-     * Questions fréquentes
-     * |
-     * Contact
-     * |
-     * Utilisation des Cookies
-     * |
+     * Gestion des cookies
      * Protection des données
-     * |
+     * Nous contacter
+     * Les journalistes du Revenu
+     * Index des articles par année
 
-   Logo Fideo Le Revenu adhère au code de bonne
-   conduite de l’association Fideo, ayant
-   pour but de favoriser la transparence
-   financière (www.fideo-france.org)
+   Services
+     * Événements et conférences
+     * Boutique
+
+   Accès direct
+     * Publications
+     * Newsletter
+     * Vidéos
+
+   Mon compte
+     * Se connecter
+     * S'abonner
+
+   © Le Revenu 2023

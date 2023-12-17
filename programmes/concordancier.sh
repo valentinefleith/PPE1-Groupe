@@ -42,7 +42,7 @@ if [ $LANGUE = "zh" ]; then
 
 	else
 
-		egrep -o "(\w+\W+){0,7} ($MOT) (\w+\W+){0,7}" $CONTEXTE | sed -E "s/(.*)($MOT)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" | sed "s/concordancier\.sh//g" | sed "s/creation_tableaux\.sh//g" | sed "s/make_itrameur_corpus\.sh//g" | sed "s/make_itrameur_corpus\.//g" | sed "s/creation_tableaux\.//g" | sed "s/concordancier\.sh//g"  >> $OUTPUT_FILE
+		egrep -o "(\w+\W+){0,5}($MOT)(\W+\w+){0,5}" $CONTEXTE | sed -E "s/(.*)($MOT)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" | sed "s/concordancier\.sh//g" | sed "s/creation_tableaux\.sh//g" | sed "s/make_itrameur_corpus\.sh//g" | sed "s/make_itrameur_corpus\.//g" | sed "s/creation_tableaux\.//g" | sed "s/concordancier\.sh//g"  >> $OUTPUT_FILE
 fi
 
 

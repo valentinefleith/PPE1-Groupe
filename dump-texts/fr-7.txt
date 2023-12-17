@@ -16,11 +16,11 @@
    (BUTTON)
    (BUTTON) Menu
    Argent
-   22.64
-   -1.09%
+   23.85
+   0.00%
    CAC 40
-   7 566.59
-   +0.31%
+   7 596.91
+   +0.28%
     1. (BUTTON)
        Rechercher
     2. Aide
@@ -336,46 +336,46 @@
    Message d'erreur
 
    CAC 40
-   7 566.59
-   +0.31%
+   7 596.91
+   +0.28%
    Indices
-     * NASDAQ
-       14 533.40
-       +0.70%
      * DOW JONES
-       36 577.94
-       +0.48%
+       37 305.16
+       +0.15%
+     * NASDAQ
+       14 813.92
+       +0.35%
 
      * NIKKEI
-       32 926.35
-       +0.25%
+       32 970.55
+       0.00%
      * DAX
-       16 824.26
-       +0.19%
+       16 751.44
+       0.00%
 
 
    Chiffres-clés
      * Pétrole Brent
-       73,23 $US
+       76,97 $US
      * ONCE D'OR
-       1 981,34 $US
+       2 019,12 $US
 
      * EUR/USD
-       1,0776 $US
+       1,0896 $US
      * VIX INDEX
-       12,26 $US
+       12,28 $US
 
 
    + fortes hausses et baisses SBF 120
-     * SOLUTIONS 30
-       +5.73%
-     * ARKEMA
-       +5.50%
+     * ATOS
+       +20.53%
+     * VOLTALIA
+       +6.56%
 
-     * ORANGE
-       -3.24%
-     * CARREFOUR
-       -3.11%
+     * ORPEA
+       -6.33%
+     * ELIOR GROUP
+       -2.90%
 
      * Accéder à l'accueil
 
@@ -403,9 +403,9 @@
    Cours
    Argent
    [Argent___]
-   22.64 USD
-   -1.09%
-   valeur indicative 21.00 EUR
+   23.85 USD
+   0.00%
+   valeur indicative 21.88 EUR
 
 XD0002746952 SI
 
@@ -413,18 +413,18 @@ XD0002746952 SI
    Politique d'exécution
    Chargement...
      * ouverture
-       22.78
+       24.18
      * clôture veille
-       22.89
+       23.85
      * + haut
-       22.82
+       24.29
      * + bas
-       22.62
+       23.76
 
      * volume
        0
      * dernier échange
-       13.12.23 / 11:28:22
+       15.12.23 / 22:34:42
 
      * + haut 12 derniers mois
        26.13
@@ -435,7 +435,7 @@ XD0002746952 SI
      * + Liste
        (BUTTON) Ajouter à ma liste
        Connectez-vous pour ajouter Argent à vos listes.
-       (BUTTON) Connexion membre Connexion client
+       (BUTTON) Connexion membre (BUTTON) Connexion Client
        Nouveau sur Boursorama ? Devenez membre gratuitement
 
    (BUTTON) Quitter le mode plein écran
@@ -757,7 +757,7 @@ Comparer
    (BUTTON) Comparer
    Connectez-vous pour partager votre analyse technique sur les forums
    et/ou les réseaux sociaux.
-   (BUTTON) Connexion membre Connexion client
+   (BUTTON) Connexion membre (BUTTON) Connexion Client
    Nouveau sur Boursorama ? Devenez membre gratuitement
    (BUTTON)
 
@@ -804,16 +804,16 @@ Configurer le graphique
    (BUTTON) Rétablir les valeurs par défaut
 
    Historique 5 jours
-   5 December05-12 6 December06-12 7 December07-12 8 December08-12 11
-   December11-12 12 December12-12 13 December13-12
-   Der. 24.145 23.915 23.795 23.025 22.835 22.775 22.645
-   Var. -5.18% -2.57% -1.61% -3.76% -0.70% -0.96% -1.05%
-   Ouv. 24.505 24.165 23.905 23.805 23.035 22.815 22.775
-   +Haut 24.635 24.355 24.025 23.895 23.095 23.085 22.815
-   +Bas 23.965 23.875 23.585 22.945 22.725 22.695 22.615
+   7 December07-12 8 December08-12 11 December11-12 12 December12-12 13
+   December13-12 14 December14-12 15 December15-12
+   Der. 23.795 23.025 22.835 22.775 23.785 24.155 23.845
+   Var. -1.61% -3.76% -0.70% -0.96% 3.93% 6.06% 0.00%
+   Ouv. 23.905 23.805 23.035 22.815 22.775 23.795 24.175
+   +Haut 24.025 23.895 23.095 23.085 23.805 24.215 24.285
+   +Bas 23.585 22.945 22.725 22.695 22.515 23.765 23.755
    Vol. 0 0 0 0 0 0 0
 
-   Variation sur 5 jours : -5.31%
+   Variation sur 5 jours : 4.42%
 
    Données historiques
 
@@ -825,75 +825,101 @@ var.
 
 + bas
 
-   1^er Janvier -5.28% 26.13 19.89
-   1 semaine -5.10% 24.36 22.62
-   1 mois +1.70% 25.88 21.89
-   3 mois -0.66% 25.88 20.69
-   6 mois -4.08% 25.88 20.69
-   1 an -4.16% 26.13 19.89
-   3 ans -5.12% 28.78 17.56
-   5 ans +54.23% 29.53 11.74
-   10 ans +16.03% 29.53 11.74
-   MM20 23.97
-   MM50 23.17
-   MM100 23.19
-   RSI14 51.52
+   1^er Janvier -0.48% 26.13 19.89
+   1 semaine +4.42% 24.29 22.52
+   1 mois +0.46% 25.88 22.52
+   3 mois +2.49% 25.88 20.69
+   6 mois -1.43% 25.88 20.69
+   1 an +2.74% 26.13 19.89
+   3 ans -4.24% 28.78 17.56
+   5 ans +62.89% 29.53 11.74
+   10 ans +18.07% 29.53 11.74
+   MM20 24.07
+   MM50 23.34
+   MM100 23.20
+   RSI14 57.80
 
    Dernières informations à propos des matières premières
+     * sam.
+       Les géants du transport maritime évitent la mer Rouge après des
+       attaques répétées
+       information fournie par •AFP
+     *
+     * sam.
+       Attaques en mer Rouge: l'armateur français CMA CGM suspend à son
+       tour la traversée "jusqu'à nouvel ordre"
+       information fournie par •AFP
+     * ven.
+       Commission d'enquête sénatoriale: Yannick Jadot veut "remettre
+       TotalEnergies dans le droit chemin"
+       information fournie par •Boursorama avec AFP
+       •8
+     * jeu.
+       Voiture électrique à 100 euros par mois : comment cela va-t-il
+       fonctionner ?
+       information fournie par •Boursorama avec Media Services
+     * jeu.
+       Atos: Onepoint monte à 11,4% du capital et redemande une hausse du
+       prix de cession à Kretinsky
+       information fournie par •Boursorama avec AFP
+       •2
+     * jeu.
+       BP juge que son ancien patron Bernard Looney a commis une "faute
+       grave"
+       information fournie par •Boursorama avec AFP
+       •2
+     * jeu.
+       Tarifs électricité: EDF s'engage à faire des propositions aux PME
+       et ETI "en janvier"
+       information fournie par •Boursorama avec AFP
+     * mer.
+       COP28: TotalEnergies salue un accord qui "conforte" sa stratégie,
+       notamment dans le gaz
+       information fournie par •Boursorama avec AFP
      * mar.
        Car, covoiturage, électrification : un groupe d'experts lance une
        Alliance pour la décarbonation de la route
        information fournie par •Boursorama avec Media Services
        •3
-     *
      * lun.
        USA: Occidental Petroleum rachète CrownRock pour 12 milliards de
        dollars
        information fournie par •Boursorama avec AFP
        •3
-     * lun.
-       Voitures électriques: l'arrivée d'anciens de Tesla propulse la
-       britannique DG Innovate
-       information fournie par •Boursorama avec AFP
-     * dim.
-       Essequibo: Maduro rencontrera jeudi son homologue du Guyana
-       information fournie par •AFP
-     * jeu.
-       Chimie: la réforme EDF du prix de l'électricité passe mal
-       information fournie par •Boursorama avec AFP
-     * jeu.
-       "Metaverse", nouvelle R5, maintenance prédictive : comment Renault
-       veut sabrer ses coûts de production
-       information fournie par •Boursorama avec Media Services
-       •1
-     * 06 déc.
-       Nestlé veut réduire ses émissions de CO2 dans le fret maritime
-       grâce aux biocarburants
-       information fournie par •Boursorama avec AFP
-     * 06 déc.
-       Vive tension entre le Guyana et le Venezuela après des déclarations
-       du président Maduro
-       information fournie par •AFP
-       •10
-     * 06 déc.
-       Climat : les 26 points de basculement qui menacent l'humanité de
-       catastrophes
-       information fournie par •Boursorama avec Media Services
-       •5
-     * 05 déc.
-       L'avion hybride-électrique EcoPulse a effectué son premier vol
-       information fournie par •Boursorama avec AFP
-       •2
 
    Voir plus d'actualités Matières premières
 
    Dernières analyses à propos des matières premières
-     * 10:12
-       LE POINT sur les changements de recommandations à Paris (actualisé)
+     * ven.
+       Les actions du secteur solaire gagnent du terrain, Jefferies ayant
+       initié une couverture
        information fournie par •Reuters
-     * 08:02
+     * ven.
+       TOUR D'HORIZON DE LA RECHERCHE AUX ETATS-UNIS-Entreprises Carlisle,
+       Fedex, Nike
+       information fournie par •Reuters
+     * ven.
+       TOUR D'HORIZON DE LA RECHERCHE AUX ETATS-UNIS-Entreprises Carlisle,
+       Fedex, Nike
+       information fournie par •Reuters
+     * jeu.
+       TOUR D'HORIZON DE LA RECHERCHE AU CANADA-Chemins de fer nationaux
+       du Canada, Dollarama, TFI International
+       information fournie par •Reuters
+     * jeu.
+       TOUR D'HORIZON DE LA RECHERCHE AUX ETATS-UNIS-Goldman Sachs, IBM,
+       JPMorgan Chase & Co
+       information fournie par •Reuters
+     * jeu.
+       TOUR D'HORIZON DE LA RECHERCHE AUX ETATS-UNIS-Goldman Sachs, IBM,
+       JP Morgan
+       information fournie par •Reuters
+     * mer.
        TOUR D'HORIZON DE LA RECHERCHE AUX ETATS-UNIS-Adobe, Costco
        Wholesale, Synopsys
+       information fournie par •Reuters
+     * mer.
+       LE POINT sur les changements de recommandations à Paris (actualisé)
        information fournie par •Reuters
      * mar.
        TOUR D'HORIZON DE LA RECHERCHE AUX ETATS-UNIS-Adobe, Oracle, Visa
@@ -901,27 +927,6 @@ var.
      * mar.
        Vue de la rue : Le rachat de CrownRock par Occidental semble
        coûteux
-       information fournie par •Reuters
-     * mar.
-       TOUR D'HORIZON DE LA RECHERCHE AUX ETATS-UNIS-Adobe, Oracle, Visa
-       information fournie par •Reuters
-     * mar.
-       TOUR D'HORIZON DE LA RECHERCHE AUX ETATS-UNIS-Adobe, Oracle, Visa
-       information fournie par •Reuters
-     * mar.
-       TOUR D'HORIZON DE LA RECHERCHE AUX ETATS-UNIS-Adobe, Oracle, Visa
-       information fournie par •Reuters
-     * lun.
-       TOUR D'HORIZON DE LA RECHERCHE AUX ETATS-UNIS-Cigna Group, Datadog,
-       Landstar System
-       information fournie par •Reuters
-     * lun.
-       TOUR D'HORIZON DE LA RECHERCHE AUX ETATS-UNIS-Cigna Group, Datadog,
-       Landstar System
-       information fournie par •Reuters
-     * ven.
-       TOUR D'HORIZON DE LA RECHERCHE AU CANADA-Canadian Natural
-       Resources, EQB, Imperial Oil
        information fournie par •Reuters
 
    Fondamentaux - Argent
@@ -985,7 +990,7 @@ var.
    Cette liste ne contient aucune valeur.
    Gérer mes listes
    Connectez-vous pour gérer vos listes.
-   (BUTTON) Connexion membre Connexion client
+   (BUTTON) Connexion membre (BUTTON) Connexion Client
    Nouveau sur Boursorama ? Devenez membre gratuitement
 
    Tous les produits de Bourse
@@ -1011,16 +1016,17 @@ Var.
 
 Sous-jacent
 
-   NLGS0002CBM7
-   Turbos Illimités Best Put illimité 23.319 € 19.82% GOLDMAN SACHS Silver
-   NLGS0002CBJ3
-   Turbos Illimités Best Put illimité 23.549 € 15.89% GOLDMAN SACHS Silver
-   DE000VM6RJK9
-   Turbos Illimités Best Put illimité 23.480 € 13.33% VONTOBEL Silver
-   DE000KJ3KT98
-   Turbos Illimités Best Put illimité 24.001 € 10.61% CITIGROUP Silver
-   DE000VM6RJC6
-   Turbos Illimités/Infinis Put illimité 23.800 € 10.34% VONTOBEL Silver
+   NLGS0002CAK3
+   Turbos Illimités Best Put illimité 24.584 € 79.01% GOLDMAN SACHS Silver
+   FRBNPP0691Y9
+   Turbos Illimités Best Put illimité 24.511 € 76.60% BNP PARIBAS Silver
+   DE000VM6DXD5
+   Turbos Illimités Best Put illimité 24.500 € 66.67% VONTOBEL Silver
+   DE000SU5L5M0
+   Turbos Illimités Best Put illimité 24.461 € 65.96% SOCIETE GENERALE
+   Silver
+   DE000VM6D266
+   Turbos Illimités/Infinis Put illimité 24.300 € 58.33% VONTOBEL Silver
    Voir tous les produits de Bourse
 
    Accès Directs

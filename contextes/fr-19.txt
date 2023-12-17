@@ -1,1 +1,81 @@
-Préparer son départ Argent concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py (BUTTON) Augmenter la taille de la police concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py (BUTTON) Réduire la taille de la police concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Ajouter notre fil RSS Argent Partager concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Partager sur Twitter -- Sommaire concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Argent concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Carte bancaire concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Transfert d’argent Argent Vérifier de disposer de moyens de paiement suffisants (liquidités, chèques de voyage, carte de crédit…) pour couvrir les frais de séjour -- La carte de paiement est aujourd’hui un moyen de paiement accepté dans la plupart des pays du monde. Aussi, il n’est pas nécessaire, dans la majorité des cas, de transporter d’importantes sommes d’argent liquide. En cas de besoin, des distributeurs automatiques se trouvent dans la plupart des aéroports et des grandes villes. Néanmoins, le montant des retraits par carte bancaire est limité à une certaine somme par jour et -- Aucun frais bancaire n’est appliqué sur les paiements par carte et les retraits sont soumis aux mêmes conditions tarifaires qu’en France. Néanmoins, en cas de visite de zones reculées, il est conseillé de disposer d’argent liquide. Pour trouver le distributeur le plus proche, il est recommandé d’utiliser les outils de géolocalisation des distributeurs automatiques de billets proposés notamment par : concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py VISA -- Si la langue française n’est pas disponible à un distributeur automatique, il est possible de sélectionner l’anglais. concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py « Retrait » se dit alors « withdrawal ». concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py S’il est demandé de choisir entre retirer de l’argent d’un « checking account » (compte courant), d’un « credit account » (compte crédit) ou d’un « saving account » (compte épargne), choisir « checking account ». -- En cas d’erreur, le seul risque est que la transaction soit refusée. Transfert d’argent Il est possible de se retrouver à court d’argent lors d’un séjour à l’étranger (liquidités ou carte de crédit perdues ou volées, carte de crédit rejetée…). L’ambassade ou le consulat de France n’ont pas la possibilité de consentir une avance d’argent. Des solutions rapides et sûres pour envoyer ou se faire envoyer de l’argent existent. Il convient de s’adresser à (liste non exhaustive) : concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Western Union + Depuis la France : 0800 900407 (appel gratuit, de 8h00 à 23h00) -- concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py MoneyGram + Pour les transferts en ligne : www.moneygram.com En dernier recours, il est possible de transférer une somme d’argent par l’intermédiaire de l’ambassade ou du consulat le plus proche ; il s’agit d’un transfert par voie de chancellerie. Celui-ci peut exiger un délai de 3 jours ouvrés. -- # Formalités administratives # Santé # Assurances # Argent # Transport aérien o Législation o Assistance aux Français
+
+     Préparer son départ
+
+     Argent
+
+     * (BUTTON) Augmenter la taille de la police
+     * (BUTTON) Réduire la taille de la police
+     * Ajouter notre fil RSS
+
+Argent
+
+   Partager
+     * Partager sur Twitter
+--
+
+Sommaire
+
+     * Argent
+     * Carte bancaire
+     * Transfert d’argent
+
+Argent
+
+   Vérifier de disposer de moyens de paiement suffisants (liquidités,
+   chèques de voyage, carte de crédit…) pour couvrir les frais de séjour
+--
+
+   La carte de paiement est aujourd’hui un moyen de paiement accepté dans
+   la plupart des pays du monde. Aussi, il n’est pas nécessaire, dans la
+   majorité des cas, de transporter d’importantes sommes d’argent liquide.
+   En cas de besoin, des distributeurs automatiques se trouvent dans la
+   plupart des aéroports et des grandes villes. Néanmoins, le montant des
+   retraits par carte bancaire est limité à une certaine somme par jour et
+--
+   Aucun frais bancaire n’est appliqué sur les paiements par carte et les
+   retraits sont soumis aux mêmes conditions tarifaires qu’en France.
+   Néanmoins, en cas de visite de zones reculées, il est conseillé de
+   disposer d’argent liquide. Pour trouver le distributeur le plus proche,
+   il est recommandé d’utiliser les outils de géolocalisation des
+   distributeurs automatiques de billets proposés notamment par :
+     * VISA
+--
+   Si la langue française n’est pas disponible à un distributeur
+   automatique, il est possible de sélectionner l’anglais.
+     * « Retrait » se dit alors « withdrawal ».
+     * S’il est demandé de choisir entre retirer de l’argent d’un
+       « checking account » (compte courant), d’un « credit account »
+       (compte crédit) ou d’un « saving account » (compte épargne),
+       choisir « checking account ».
+--
+
+   En cas d’erreur, le seul risque est que la transaction soit refusée.
+
+Transfert d’argent
+
+   Il est possible de se retrouver à court d’argent lors d’un séjour à
+   l’étranger (liquidités ou carte de crédit perdues ou volées, carte de
+   crédit rejetée…). L’ambassade ou le consulat de France n’ont pas la
+   possibilité de consentir une avance d’argent.
+
+   Des solutions rapides et sûres pour envoyer ou se faire envoyer de
+   l’argent existent. Il convient de s’adresser à (liste non exhaustive) :
+     * Western Union
+          + Depuis la France : 0800 900407 (appel gratuit, de 8h00 à
+            23h00)
+--
+     * MoneyGram
+          + Pour les transferts en ligne : www.moneygram.com
+
+   En dernier recours, il est possible de transférer une somme d’argent
+   par l’intermédiaire de l’ambassade ou du consulat le plus proche ; il
+   s’agit d’un transfert par voie de chancellerie. Celui-ci peut exiger un
+   délai de 3 jours ouvrés.
+--
+                    # Formalités administratives
+                    # Santé
+                    # Assurances
+                    # Argent
+                    # Transport aérien
+               o Législation
+               o Assistance aux Français

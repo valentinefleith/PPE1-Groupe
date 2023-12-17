@@ -37,7 +37,7 @@ CNN values your feedback
    2024 Elections
    More
    SCOTUS Congress Facts First 2024 Elections
-   Audio Live TV (BUTTON)
+   Watch Audio Live TV (BUTTON)
 
    (BUTTON) (BUTTON) (BUTTON) Log In
    My Account
@@ -57,7 +57,7 @@ CNN values your feedback
    Your CNN account Log in to your CNN account
      __________________________________________________________________
 
-   Live TV Audio
+   Live TV Audio Watch
      __________________________________________________________________
 
    Edition
@@ -154,7 +154,7 @@ CNN values your feedback
           + Climbing
           + Esports
           + Hockey
-     * Videos
+     * Watch
           + Live TV
           + Digital Studios
           + CNN Films
@@ -280,7 +280,7 @@ divided on whether to provide more
    Your CNN account Log in to your CNN account
      __________________________________________________________________
 
-   Live TV Audio
+   Live TV Listen Watch
      __________________________________________________________________
 
      * World
@@ -346,7 +346,7 @@ divided on whether to provide more
           + Climbing
           + Esports
           + Hockey
-     * Videos
+     * Watch
           + Live TV
           + Digital Studios
           + CNN Films
@@ -377,7 +377,7 @@ divided on whether to provide more
           + Work for CNN
      __________________________________________________________________
 
-   Audio Live TV
+   Watch Listen Live TV
    Follow CNN Politics
      *
      *

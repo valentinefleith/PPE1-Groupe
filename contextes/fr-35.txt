@@ -1,1 +1,92 @@
-OR PÉTROLE WTI PÉTROLE BRENT ARGENT PLATINE Cryptomonnaies Accueil -- o OR o PÉTROLE WTI o PÉTROLE BRENT o ARGENT o PLATINE + Cryptomonnaies o Accueil -- o Outils o Formation vidéo ARGENT (BUTTON) Ajouter à une liste Ajouter à une liste Pour utiliser cette fonction vous devez être client ou membre ConnexionInscription (BUTTON) Retour Cours Argent Matière première -- 11:09 L'or progresse grâce à la baisse des rendements, les traders se préparent au verdict de la Fed RE 10:16 Sunstone Metals lève 5 millions de dollars australiens pour l'exploration de projets d'or et d'argent en Équateur MT Synthèse Cotations -- Graphique dynamique Dernières actualités sur Argent L'or progresse grâce à la baisse des rendements, les traders se préparent au verdict de la Fed 11:09 RE Sunstone Metals lève 5 millions de dollars australiens pour l'exploration de projets d'or et d'argent en Équateur 10:16 MT Thungela réduit sa production de charbon en raison d'une crise ferroviaire 09:44 RE Vertex lance une offre publique d'achat de 555 millions de dollars pour acquérir Pagero Group 09:16 MT Investigator Resources lève 5 millions de dollars australiens pour l'étude de faisabilité définitive du projet d'argent de Paris ; les actions chutent de 15%. 03:45 MT L'or se maintient dans une fourchette étroite alors que les traders attendent le verdict de la Fed 03:33 RE -- la mine Eagle River 12/12 MT Plus d'actualités Actualités dans d'autres langues sur Argent Uranium Energy Corp. : Uranium Energy Corp: è in atto una nuova bolla 11:26 -- New Polish government inherits troubled budget legacy 09:18 Plus d'actualités Produits Dérivés Populaires sur Argent f53a878904ae05e9a91f7b8ae691.m5xoo3W4SmnHm6my5_v1KKyRWMMcIeMJg-P1r2vSNP c.1_UtzzyABDip1MHnoM6zEZ_3aaZSFY95zK-R4iaAWcfY7l_tN-1-X_HD3g Mnemo Type Type de produit Maturité Elasticité Levier Parité Cours Emetteur BNP Paribas 6225N Matière première Argent CALL CALL Certificat Turbo Stop Loss Illimité - 1 9,71 EUR BNP Paribas BNP Paribas 6592N Matière première Argent CALL CALL Certificat Turbo Stop Loss Illimité - 1 9,11 EUR BNP Paribas BNP Paribas R134B Matière première Argent PUT PUT Certificat Turbo Stop Loss Illimité - 10 0,855 EUR BNP Paribas Citi Q646C Matière première Argent PUT PUT Certificat Turbo Stop Loss Illimité - 1 8,66 EUR Citi BNP Paribas 67HYB Matière première Argent CALL CALL Certificat Turbo Illimité - 1 -- Matiï¿½res premiï¿½res Matière première Argent RUBRIQUES concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Indices
+       OR
+       PÉTROLE WTI
+       PÉTROLE BRENT
+       ARGENT
+       PLATINE
+       Cryptomonnaies
+       Accueil
+--
+               o OR
+               o PÉTROLE WTI
+               o PÉTROLE BRENT
+               o ARGENT
+               o PLATINE
+          + Cryptomonnaies
+               o Accueil
+--
+               o Outils
+               o Formation vidéo
+
+   ARGENT
+   (BUTTON) Ajouter à une liste
+   Ajouter à une liste
+   Pour utiliser cette fonction vous devez être client ou membre
+   ConnexionInscription
+   (BUTTON) Retour
+
+Cours Argent
+
+Matière première
+
+--
+
+   Graphique dynamique
+
+Dernières actualités sur Argent
+
+   Les marchés boursiers sont en hausse alors que les traders évaluent les
+   données macroéconomiques 15/12 MT
+--
+   ventes au détail 14/12 MT
+   Plus d'actualités
+
+Actualités dans d'autres langues sur Argent
+
+   Turkey, Romania, Bulgaria to ink deal on floating Black Sea mines in
+   January 16/12
+--
+   ADRs Close Lower; Fanhua Slips 16% 15/12
+   Plus d'actualités
+
+Produits Dérivés Populaires sur Argent
+
+   14c1654540735f8cad0978fea4c.-vnAxCEO1qHkNpZ6x0ySs1MPZY-5R_4Cr_J379jw_Sc
+   .nrKZoUR6g9SvQKQStznh6ztEIubBPa1Xx7YShr7Hsm2IrJetT1eF2b0C_Q
+   Mnemo Type Type de produit Maturité Elasticité Levier Parité Cours
+   Emetteur
+   BNP Paribas 6225N Matière première Argent
+   CALL
+   CALL Certificat Turbo Stop Loss Illimité - 1
+
+   10,84 EUR
+   BNP Paribas
+   BNP Paribas 6592N Matière première Argent
+   CALL
+   CALL Certificat Turbo Stop Loss Illimité - 1
+
+   10,24 EUR
+   BNP Paribas
+   BNP Paribas R134B Matière première Argent
+   PUT
+   PUT Certificat Turbo Stop Loss Illimité - 10
+
+   0,715 EUR
+   BNP Paribas
+   Citi Q646C Matière première Argent
+   PUT
+   PUT Certificat Turbo Stop Loss Illimité - 1
+
+   7,3 EUR
+   Citi
+   BNP Paribas 67HYB Matière première Argent
+   CALL
+   CALL Certificat Turbo Illimité - 1
+
+--
+
+     Matiï¿½res premiï¿½res
+
+     Matière première Argent
+
+   RUBRIQUES
+     * Indices

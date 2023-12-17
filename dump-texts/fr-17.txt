@@ -5,6 +5,11 @@
    Sélection de Noël
 
    Sélection de Noël
+   gemmyo.header.jewellery_blue_grey_sapphire_mobiles
+
+   Saphir bleu gris
+
+   édition limitée
    Nouveautés
 
    Nouveautés
@@ -81,7 +86,9 @@
                o (BUTTON)
                  Joaillerie > Pierres d'exception
                o Pierres d'exception
-               o Saphir Teal - <i>Édition limitée</i>
+               o Saphir bleu gris - <i>Édition limitée</i>
+                 Saphir bleu gris - Édition limitée
+                 Saphir Teal - <i>Édition limitée</i>
                  Saphir Teal - Édition limitée
                  Diamant chocolat
                  Diamant chocolat
@@ -268,6 +275,7 @@
           + Nouveautés
           + Accessoires
        Pierres d'exception
+          + Saphir bleu gris - Édition limitée
           + Saphir Teal - Édition limitée
           + Diamant chocolat
           + Saphir vert
@@ -363,6 +371,17 @@
           + Choisir sa montre
           + Tous les secrets de la montre Prima
 
+   Surprise
+
+Surprise
+
+   Notre boîte à bijoux bleu Teal se glisse dans toutes les commandes
+   passées en boutique jusqu'au 23 décembre.
+   Grande nouvelle
+
+Grande nouvelle
+
+   Le saphir bleu gris est disponible en quantité très limitée.
    0
 
    Logo home
@@ -896,14 +915,31 @@ menu
    Non
    Oui
 
-   Il est encore temps
+   Bague Lefkos 4 mm pavée saphir bleu gris
 
-   Découvrez notre sélection de modèles qui arriveront en un rien de temps
-   jusqu’à vous. La garantie d’un cadeau précieux pour Noël.
+   Noël avant l’heure
 
-   Pour une création sur mesure qui n'est pas réalisable à temps,
-   n’hésitez pas à nous demander une promesse de cadeau.
-   Nos bijoux disponibles immédiatement
+   À quelques jours des fêtes, nos gemmologues ont redoublé d'effort pour
+   exaucer vos souhaits : le saphir bleu gris est disponible en quantité
+   très limitée.
+
+   Il est encore temps de déposer un écrin ou une promesse de cadeau sous
+   le sapin. Découvrez nos modèles sertis de cette pierre convoitée ou
+   issus de notre sélection de Noël.
+   N'attendez plus
+
+   Boite à bijoux Teal
+
+   Surprise
+
+   Notre boîte à bijoux bleu Teal est offerte pour toute commande
+   effectuée en boutique jusqu’au 23 décembre inclus*.
+
+   L’accessoire idéal pour compléter avec élégance vos derniers cadeaux de
+   Noël.
+   prendre rendez-vous
+
+   *sans minimum d’achat, dans la limite des stocks disponibles
 
    Le site utilise des cookies. En poursuivant votre navigation, vous en
    acceptez l'utilisation. Pour en savoir plus, consultez notre politique

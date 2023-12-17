@@ -2,17 +2,17 @@
    Comptoir National de l'Or
 
      * Platine
-       865.03 €
-       - 0.07 %
+       869.25 €
+       - 0.90 %
      * Or
-       1 838.10 €
-       + 0.24 %
+       1 853.45 €
+       + 0.08 %
      * ArgentAg
-       21.03 €
-       - 0.60 %
+       21.92 €
+       - 0.23 %
      * Palladium
-       907.44 €
-       - 0.73 %
+       1 088.86 €
+       + 7.70 %
 
    N° Vert Actuellement indisponible appel gratuit depuis un poste fixe
    Comptoir National de l'Or
@@ -55,7 +55,7 @@
 
      Cours de l'Argent
 
-Cours et Cotation de l'Argent au mercredi 13 décembre 2023, 10h19
+Cours et Cotation de l'Argent au vendredi 15 décembre 2023, 21h59
 
 Cours de l'argent
 
@@ -68,71 +68,69 @@ Cours de l'argent
    sans rendez-vous. Le cours actuel de l'argent en fait un produit
    fiable, mais il est néanmoins important de comprendre comment est
    déterminé son prix.
-   imprimer le tableau
 
 Cours de l'Argent
 
    Intitulé Cours Variation. Prime
-   Lingot Argent 1Kg Lingot Argent 1Kg 790.19 € - 0.60 % 17,0 %
-   Maple Leaf 1 Oz 2022 Maple Leaf 1 Oz 2022 25.86 € - 0.60 % 23,0 %
-   Vienna Philharmonic 1 Oz 2022 Vienna Philharmonic 1 Oz 2022 25.84 € -
-   0.60 % 23,0 %
-   Kangourou 1 Oz 2022 Kangourou 1 Oz 2022 25.86 € - 0.60 % 23,0 %
-   Britannia 1 Oz Britannia 1 Oz 25.84 € - 0.60 % 23,0 %
-   American Eagle 1 Oz American Eagle 1 Oz 28.36 € - 0.60 % 35,0 %
-   Krugerrand Argent 1 Oz Krugerrand Argent 1 Oz 25.63 € - 0.60 % 22,0 %
-   China Panda 30g China Panda 30g 32.42 € - 0.60 % 60,0 %
-   Kookaburra 1Kg Kookaburra 1Kg 878.78 € - 0.60 % 30,0 %
-   Intitulé Cours Variation. Prime
-   Koala Argent 1Kg 2022 Koala Argent 1Kg 2022 877.99 € - 0.60 % 30,0 %
-   20 Francs Turin en Argent 20 Francs Turin en Argent 9.84 € - 0.60 % 7,0
-   %
-   50 Francs Hercule 50 Francs Hercule 20.99 € - 0.60 % 15,0 %
-   5 Francs Semeuse en Argent 5 Francs Semeuse en Argent 7.32 € - 0.60 %
+   Lingot Argent 1Kg Lingot Argent 1Kg 823.79 € - 0.23 % 17,0 %
+   Maple Leaf 1 Oz 2022 Maple Leaf 1 Oz 2022 26.96 € - 0.23 % 23,0 %
+   Vienna Philharmonic 1 Oz 2022 Vienna Philharmonic 1 Oz 2022 26.94 € -
+   0.23 % 23,0 %
+   Kangourou 1 Oz 2022 Kangourou 1 Oz 2022 26.96 € - 0.23 % 23,0 %
+   Britannia 1 Oz Britannia 1 Oz 26.94 € - 0.23 % 23,0 %
+   American Eagle 1 Oz American Eagle 1 Oz 29.56 € - 0.23 % 35,0 %
+   Krugerrand Argent 1 Oz Krugerrand Argent 1 Oz 26.72 € - 0.23 % 22,0 %
+   China Panda 30g China Panda 30g 33.80 € - 0.23 % 60,0 %
+   Kookaburra 1Kg Kookaburra 1Kg 916.15 € - 0.23 % 30,0 %
+   Koala Argent 1Kg 2022 Koala Argent 1Kg 2022 915.32 € - 0.23 % 30,0 %
+   20 Francs Turin en Argent 20 Francs Turin en Argent 10.26 € - 0.23 %
+   7,0 %
+   50 Francs Hercule 50 Francs Hercule 21.88 € - 0.23 % 15,0 %
+   5 Francs Semeuse en Argent 5 Francs Semeuse en Argent 7.63 € - 0.23 %
    8,0 %
-   10 Francs Hercule 10 Francs Hercule 17.49 € - 0.60 % 15,0 %
-   10 Francs Turin 10 Francs Turin 4.92 € - 0.60 % 7,0 %
-   5 Francs Hercule en Argent (Ecu) 5 Francs Hercule en Argent (Ecu) 18.56
-   € - 0.60 % 22,0 %
-   100 Francs en Argent 100 Francs en Argent 10.50 € - 0.60 % 15,0 %
+   10 Francs Hercule 10 Francs Hercule 18.24 € - 0.23 % 15,0 %
+   10 Francs Turin 10 Francs Turin 5.13 € - 0.23 % 7,0 %
+   5 Francs Hercule en Argent (Ecu) 5 Francs Hercule en Argent (Ecu) 19.35
+   € - 0.23 % 22,0 %
+   100 Francs en Argent 100 Francs en Argent 10.94 € - 0.23 % 15,0 %
 
 Cours de l'Argent (International)
 
    €$
 
-Temps réel NYC, mercredi 13 décembre 2023 10h19
+Temps réel NYC, vendredi 15 décembre 2023 21h59
 
                    cours min max moy var
    Once d'Argent
-   22.66 $
-   21.03 €
-   22.65 $
-   21.01 €
-   22.84 $
-   21.15 €
-   22.84 $
-   21.15 €
-   - 0.78 %- 0.60 %
+   23.88 $
+   21.92 €
+   23.80 $
+   21.85 €
+   24.31 $
+   22.18 €
+   24.14 $
+   21.97 €
+   - 1.06 %- 0.23 %
    Lingot d'Argent
-   728.68 $
-   675.98 €
-   728.33 $
-   675.33 €
-   734.43 $
-   680.08 €
-   734.43 $
-   680.03 €
-   - 0.78 %- 0.60 %
+   767.87 $
+   704.73 €
+   765.32 $
+   702.63 €
+   781.67 $
+   713.03 €
+   776.12 $
+   706.38 €
+   - 1.06 %- 0.23 %
    Gramme d'Argent
-   0,73 $
-   0,68 €
-   0.73 $
-   0.68 €
-   0.73 $
-   0.68 €
-   0.73 $
-   0.68 €
-   - 0.78 %- 0.60 %
+   0,77 $
+   0,70 €
+   0.77 $
+   0.70 €
+   0.78 $
+   0.71 €
+   0.78 $
+   0.71 €
+   - 1.06 %- 0.23 %
 
 Le prix de l'argent
 
@@ -315,6 +313,20 @@ Actualité de l’Or et des métaux précieux
    Découvrez toute l’actualité de l’Or et des métaux précieux, le cours de
    l’Or, les enjeux sur le marché et autres impacts dus aux politiques.
 
+Interview de Laurent Schwartz sur BFM Business – Nouveau record historique de
+l’or en décembre
+
+   En ce début du mois du décembre le cours de l’or bat des records
+   historiques, notamment le 3 décembre avec un pique à 2135$ l’once ...
+   vendredi 15 décembre 2023
+
+Nouveau record historique de l’or en décembre
+
+   Dans cette lettre mensuelle, vous trouverez un point sur la performance
+   de l’or ainsi que plusieurs actualités et analyses sur des sujets qui
+   influencent ...
+   jeudi 14 décembre 2023
+
 Interview de Laurent Schwartz sur BFM Business – Qu’est ce qui fait bouger le
 cours de l’or ?
 
@@ -371,22 +383,6 @@ Cours de l’or : un été plutôt calme
    de l’or ainsi que plusieurs actualités et analyses sur des sujets qui
    influencent ...
    vendredi 11 août 2023
-
-Le Comptoir National de l’or cité par Télé 7 jours 29/07 – Revendre ses
-bijoux : une occasion en or !
-
-   Certains bijoux dorment dans vos tiroirs ? N’attendez plus et
-   vendez-les ! Leader français dans l’expertise, le Comptoir National de
-   l’Or rachète vos bijoux, signés ou non ...
-   mardi 8 août 2023
-
-Le Comptoir National de l’or cité par Capital 06/07 – L’or pourrait
-surprendre positivement selon Société générale
-
-   Selon Société générale, le cours de l’or pourrait connaître une
-   trajectoire satisfaisante, sur fond d’inflation récalcitrante dans les
-   grandes puissances et les autres pays développés ...
-   mercredi 19 juillet 2023
    Voir plus d'actualités
 
 FAQ
@@ -497,13 +493,13 @@ Le Comptoir National de l’Or dans la presse
      * Notre catalogue
 
    Nos dernières news
-   jeudi 9 novembre 2023
+   vendredi 15 décembre 2023
 
-Interview de Laurent Schwartz sur BFM Business – Qu’est ce qui fait b…
+Interview de Laurent Schwartz sur BFM Business – Nouveau record histo…
 
-   jeudi 9 novembre 2023
+   jeudi 14 décembre 2023
 
-Le risque géopolitique fait s’envoler le cours de l’or
+Nouveau record historique de l’or en décembre
 
    [footer_instagram.png]
    Newsletter

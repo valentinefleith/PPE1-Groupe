@@ -446,16 +446,17 @@
     2. Argent
     3. Pièces modernes
 
-   Nugget 1 Once Argent
+   Signe du Zodiaque : Taureau 1 Once Argent
    En ce moment à la vente pour
-   25.10 €
-   Nugget 1 Once Argent Nugget 1 Once Argent Voir ce produit
+   23.50 €
+   Signe du Zodiaque : Taureau 1 Once Argent Signe du Zodiaque : Taureau 1
+   Once Argent Voir ce produit
      Métal      Cours    Variation
-   Or        59 108.80 € +0.26 %
-   Once d'or 1 838.49 €  +0.26 %
-   Argent    675.410 €   -0.41 %
-   Platine   27 535.90 € -0.94 %
-   Palladium 28 965.90 € -0.74 %
+   Or        59 602.70 € 0.00 %
+   Once d'or 1 853.85 €  0.00 %
+   Argent    704.570 €   0.00 %
+   Platine   27 840.10 € 0.00 %
+   Palladium 34 733.10 € 0.00 %
    AFFICHER LES PRODUITS EN LIGNES / BLOCS
    TRIER
    Trier par
@@ -490,7 +491,7 @@
    Tokélaou
    États-Unis
    Prix
-   0€ ____________________ 890€
+   0€ ____________________ 930€
    (BUTTON) VIDER LES FILTRES
    (BUTTON) APPLIQUER
    VOIR AUSSI
@@ -504,12 +505,12 @@
      * Nouveautés
      * Archives
 
-   vendre
-   Prix de rachat 100% garantis
-   godotpro
-   Professionnels ? Les meilleures conditions sur notre site Pro
-   delivery
-   Livraison : tableau des frais de port
+   rendez-vous
+   Prenez rendez-vous dans l'une de nos agences
+   reseau-franchise
+   Rejoignez notre réseau : devenez franchisé
+   help
+   Comment acheter sur le site ? Suivez le guide !
    medias
    La presse parle de nous !
    Tube vide PhilharmoniqueTube vide Maple LeafTête d'Indien 1 Once
@@ -543,12 +544,12 @@
    //cl.avis-verifies.com/fr/cache/d/d/f/ddf75175-6a4c-0f44-45d6-7d02938ca
    d74/widget4/ddf75175-6a4c-0f44-45d6-7d02938cad74horizontal_index.html
 
-   prix
-   TRANSPARENCE DES PRIX
    paiement
    PAIEMENT SECURISÉ
    livraison
    LIVRAISON ASSURÉE
+   prix
+   TRANSPARENCE DES PRIX
 
    Mentions légales Conditions générales de vente CGV Gardienor Cookies
    Nous contacter Qui sommes-nous ? Nos agences
@@ -631,8 +632,7 @@ nos newsletters
 
    Achat-Or-et-Argent.fr © 2023 Godot & Fils Net
 
-   Or : 59 108.80 € +0.26 % Once d'or : 1 838.49 € +0.26 % Argent :
-   675.410 € -0.41 % Platine : 27 535.90 € -0.94 % Palladium : 28 965.90 €
-   -0.74 %
+   Or : 59 602.70 € 0.00 % Once d'or : 1 853.85 € 0.00 % Argent : 704.570
+   € 0.00 % Platine : 27 840.10 € 0.00 % Palladium : 34 733.10 € 0.00 %
 
    0

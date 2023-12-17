@@ -325,10 +325,10 @@ d'argent ?
    Retrouvez le cours de l'argent de 10 grammes, de l'once d'argent
    physique et d'un kilo d'argent.
    Cours de l'argent
-   Once d'argent           21,03 €  ↘ Loading...
-   Lingot d'argent 1kg     811,84 € ↘ Loading...
-   Vera Silver LSP         25,25 €  ↘ Loading...
-   Vera Silver Cours Légal 28,41 €  ↘ Loading...
+   Once d'argent           21,91 €  → Loading...
+   Lingot d'argent 1kg     845,43 € → Loading...
+   Vera Silver LSP         26,30 €  → Loading...
+   Vera Silver Cours Légal 29,58 €  → Loading...
 
    Voir les 353 cotations
 
@@ -339,83 +339,81 @@ La cotation en temps réel des pièces d'argent d'investissement
    les pièces d'argent les plus demandées sur notre plateforme.
    Intitulé Variation Cours Prime
    [mtype_6_3.jpg] 10 grammes d'argent pur - Britannia (LSP)
-   Britannia ↘ -0.862 % Loading... 8,12 € 20.12% Acheter
+   Britannia → 0 % Loading... 8,45 € 19.94% Acheter
    [mtype_6_3.jpg] 100 grammes d'argent pur - Britannia (LSP)
-   Britannia ↘ -0.887 % Loading... 77,80 € 15.09% Acheter
+   Britannia → 0 % Loading... 81,02 € 15.00% Acheter
    [mtype_6_3.jpg] 25 Britannia Argent 1 once (LSP)
-   Britannia ↘ -0.883 % Loading... 656,99 € 25.10% Acheter
+   Britannia → 0 % Loading... 684,17 € 25.00% Acheter
    [mtype_7_3.jpg] 100 grammes d'argent pur - Maple Leaf (LSP)
-   Dollars Canadien ↘ -0.887 % Loading... 77,80 € 15.09% Acheter
+   Dollars Canadien → 0 % Loading... 81,02 € 15.00% Acheter
    [mtype_7_3.jpg] 1000 Maple Leaf Argent 1 once (LSP)
-   Dollars Canadien ↘ -0.884 % Loading... 23 146,87 € 10.09% Acheter
+   Dollars Canadien → 0 % Loading... 24 104,57 € 10.00% Acheter
    [mtype_7_3.jpg] 25 Maple Leaf Argent 1 once (LSP)
-   Dollars Canadien ↘ -0.884 % Loading... 657,58 € 25.10% Acheter
+   Dollars Canadien → 0 % Loading... 684,78 € 25.00% Acheter
    [mtype_7_3.jpg] 25 Maple Leaf Argent 1 once (Non LSP)
-   Dollars Canadien ↘ -0.886 % Loading... 631,27 € 20.10% Acheter
+   Dollars Canadien → 0 % Loading... 657,39 € 20.00% Acheter
    [mtype_7_3.jpg] 500 Maple Leaf Argent 1 once (LSP)
-   Dollars Canadien ↘ -0.884 % Loading... 12 625,56 € 20.10% Acheter
+   Dollars Canadien → 0 % Loading... 12 982,46 € 18.49% Acheter
    [mtype_30_3.jpg] 10 Francs Hercule
-   Hercule ↘ -0.896 % Loading... 16,74 € 10.06% Acheter
+   Hercule → 0 % Loading... 17,44 € 10.02% Acheter
    [mtype_30_3.jpg] 100 grammes d'argent pur - 10 Francs Hercule (LSP)
-   Hercule ↘ -0.876 % Loading... 76,45 € 13.10% Acheter
+   Hercule → 0 % Loading... 79,61 € 13.00% Acheter
    [mtype_30_3.jpg] 100 grammes d'argent pur - 50 Francs Hercule (LSP)
-   Hercule ↘ -0.879 % Loading... 78,48 € 16.10% Acheter
+   Hercule → 0 % Loading... 81,73 € 16.01% Acheter
    [mtype_30_3.jpg] 50 Francs Hercule
-   Hercule ↘ -0.87 % Loading... 19,55 € 7.12% Acheter
+   Hercule → 0 % Loading... 20,35 € 6.98% Acheter
    [mtype_30_3.jpg] Lot 25 pièces Hercule 10 Francs
-   Hercule ↘ -0.884 % Loading... 418,61 € 10.09% Acheter
+   Hercule → 0 % Loading... 435,93 € 10.00% Acheter
    [mtype_30_3.jpg] Lot 4 pieces Hercule 50 Francs
-   Hercule ↘ -0.881 % Loading... 84,03 € 15.10% Acheter
+   Hercule → 0 % Loading... 87,50 € 15.00% Acheter
    [mtype_30_3.jpg] Lot 50 pièces Hercule 50 Francs
-   Hercule ↘ -0.883 % Loading... 977,26 € 7.09% Acheter
+   Hercule → 0 % Loading... 1 017,69 € 7.00% Acheter
    [mtype_10_3.jpg] 10 grammes d'argent pur - Philharmonique de Vienne
    (LSP)
-   Philharmonique de Vienne ↘ -0.862 % Loading... 8,12 € 20.12% Acheter
+   Philharmonique de Vienne → 0 % Loading... 8,45 € 19.94% Acheter
    [mtype_10_3.jpg] 100 grammes d'argent pur - Philharmonique de Vienne
    (LSP)
-   Philharmonique de Vienne ↘ -0.887 % Loading... 77,80 € 15.09% Acheter
+   Philharmonique de Vienne → 0 % Loading... 81,02 € 15.00% Acheter
    [mtype_10_3.jpg] 1000 Philharmonique de Vienne Argent 1 once (LSP)
-   Philharmonique de Vienne ↘ -0.884 % Loading... 23 146,42 € 10.09%
-   Acheter
+   Philharmonique de Vienne → 0 % Loading... 24 104,09 € 10.00% Acheter
    [mtype_10_3.jpg] 20 Philharmonique de Vienne Argent 1 once (Expédiées)
-   Philharmonique de Vienne ↘ -0.881 % Loading... 485,98 € 15.57% Acheter
+   Philharmonique de Vienne → 0 % Loading... 506,00 € 15.46% Acheter
    [mtype_10_3.jpg] 20 Philharmonique de Vienne Argent 1 once (LSP)
-   Philharmonique de Vienne ↘ -0.884 % Loading... 496,60 € 18.10% Acheter
+   Philharmonique de Vienne → 0 % Loading... 517,15 € 18.00% Acheter
    [mtype_10_3.jpg] 500 Philharmonique de Vienne Argent 1 once (LSP)
-   Philharmonique de Vienne ↘ -0.884 % Loading... 11 047,37 € 5.09%
-   Acheter
+   Philharmonique de Vienne → 0 % Loading... 11 504,45 € 5.00% Acheter
    [mtype_35_3.jpg] 100 kilos d'argent pur - Vera Silver (LSP)
-   Vera Valor ↘ -0.884 % Loading... 66 300,42 € -1.92% Acheter
+   Vera Valor → 0 % Loading... 69 043,57 € -2.00% Acheter
    [mtype_35_3.jpg] Lot 10 Vera Silver 1 once (Cours Légal - LSP)
-   Vera Valor ↘ -0.882 % Loading... 251,82 € 19.10% Acheter
+   Vera Valor → 0 % Loading... 262,24 € 19.00% Acheter
    [mtype_35_3.jpg] Lot 10 Vera Silver 1 once (LSP - 40MM)
-   Vera Valor ↘ -0.883 % Loading... 250,41 € 19.10% Acheter
+   Vera Valor → 0 % Loading... 260,77 € 19.00% Acheter
    [mtype_35_3.jpg] Lot 10 Vera Silver 1 once (LSP)
-   Vera Valor ↘ -0.882 % Loading... 251,82 € 19.10% Acheter
+   Vera Valor → 0 % Loading... 262,24 € 19.00% Acheter
    [mtype_35_3.jpg] Lot 10 Vera Silver 1 once - 2021 (Cours Légal - LSP)
-   Vera Valor ↘ -0.884 % Loading... 251,01 € 19.10% Acheter
+   Vera Valor → 0 % Loading... 261,40 € 19.00% Acheter
    [mtype_35_3.jpg] Lot 100 Vera Silver 1 once (Cours Légal - LSP)
-   Vera Valor ↘ -0.884 % Loading... 2 497,02 € 18.10% Acheter
+   Vera Valor → 0 % Loading... 2 600,33 € 18.00% Acheter
    [mtype_35_3.jpg] Lot 100 Vera Silver 1 once (LSP - 40MM)
-   Vera Valor ↘ -0.884 % Loading... 2 483,03 € 18.10% Acheter
+   Vera Valor → 0 % Loading... 2 585,76 € 18.00% Acheter
    [mtype_35_3.jpg] Lot 100 Vera Silver 1 once (LSP)
-   Vera Valor ↘ -0.884 % Loading... 2 497,02 € 18.10% Acheter
+   Vera Valor → 0 % Loading... 2 600,33 € 18.00% Acheter
    [mtype_35_3.jpg] Lot 1000 Vera Silver 1 once (LSP)
-   Vera Valor ↘ -0.884 % Loading... 24 619,86 € 17.10% Acheter
+   Vera Valor → 0 % Loading... 25 638,49 € 17.00% Acheter
    [mtype_35_3.jpg] Lot 15 Vera Silver 1 once (Cours Légal - LSP)
-   Vera Valor ↘ -0.884 % Loading... 377,73 € 19.10% Acheter
+   Vera Valor → 0 % Loading... 393,35 € 19.00% Acheter
    [mtype_35_3.jpg] Vera Silver 1 once (Cours Légal - 40MM)
-   Vera Valor ↘ -0.88 % Loading... 28,41 € 35.12% Acheter
+   Vera Valor → 0 % Loading... 29,58 € 34.98% Acheter
    [mtype_35_3.jpg] Vera Silver 1 once (Cours Légal - NON LSP)
-   Vera Valor ↘ -0.907 % Loading... 26,45 € 25.10% Acheter
+   Vera Valor → 0 % Loading... 27,55 € 25.02% Acheter
    [mtype_35_3.jpg] Vera Silver 1 once (LSP - 40MM)
-   Vera Valor ↘ -0.911 % Loading... 25,25 € 20.09% Acheter
+   Vera Valor → 0 % Loading... 26,30 € 20.02% Acheter
    [mtype_35_3.jpg] Vera Silver 1 once (LSP)
-   Vera Valor ↘ -0.906 % Loading... 25,39 € 20.08% Acheter
+   Vera Valor → 0 % Loading... 26,44 € 19.98% Acheter
    [mtype_35_3.jpg] Vera Silver 1 once 2021 (Cours Légal - LSP)
-   Vera Valor ↘ -0.909 % Loading... 25,31 € 20.09% Acheter
+   Vera Valor → 0 % Loading... 26,36 € 20.00% Acheter
    [mtype_35_3.jpg] Vera Silver 1 once Perso
-   Vera Valor ↘ -0.906 % Loading... 25,38 € 20.08% Acheter
+   Vera Valor → 0 % Loading... 26,43 € 19.98% Acheter
 
    Avant d'acheter de l'argent ou de l'or, il est important de vous tenir
    informé des évolutions du cours de l'argent métal. Chez Aucoffre.com,

@@ -1,1 +1,31 @@
-+ Travail - Formation + Logement + Transports - Mobilité + Argent - Impôts - Consommation + Voir tous les thèmes concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py (BUTTON) Démarches et outils -- (BUTTON) Voir le fil d'ariane 1. Accueil 2. Argent - Impôts - Consommation concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py (BUTTON) -- Le lien vers cette page a été envoyé avec succès aux destinataires. Argent - Impôts - Consommation Assurance -- concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Travail - Formation concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Logement concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Transports - Mobilité concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Argent - Impôts - Consommation concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Justice concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Étranger - Europe concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Loisirs - Sports - Culture
+          + Travail - Formation
+          + Logement
+          + Transports - Mobilité
+          + Argent - Impôts - Consommation
+          + Voir tous les thèmes
+     * (BUTTON) Démarches
+       et outils
+--
+
+   (BUTTON) Voir le fil d'ariane
+    1. Accueil
+    2. Argent - Impôts - Consommation
+
+     *
+     * (BUTTON)
+--
+
+Le lien vers cette page a été envoyé avec succès aux destinataires.
+
+Argent - Impôts - Consommation
+
+Assurance
+
+--
+     * Travail - Formation
+     * Logement
+     * Transports - Mobilité
+     * Argent - Impôts - Consommation
+     * Justice
+     * Étranger - Europe
+     * Loisirs - Sports - Culture

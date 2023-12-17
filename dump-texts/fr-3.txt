@@ -140,8 +140,6 @@
           + Espace presse
        [pushmenu-institution 2.jpg]
        Une question ? Nous contacter
-       [pushmenu-institution 1.jpg]
-       Espace presse Nos communiqués de presse Découvrir
 
    Logo Monnaie de Paris
    (BUTTON)
@@ -435,32 +433,31 @@ Euros Or et Argent
        Disney - 100ème anniversaire Set duo Mickey 10€ + 50€  -  Qualité
        courante Millésime 2023
        73,00 €
-    8. Mascotte, Jeux Olympiques, Mascotte des JO, sports, Saut
-       d’obstacles, Paris 2024, 10€, Argent, Monnaie argent
-       Mascotte - Saut d'obstacles Monnaie de 10€ Argent  -  Qualité
-       courante millésime 2023
-       12,00 €
-    9. Mascotte, sports, phryge, Jeux Olympiques, Jeux paralympiques,
-       mascotte des Jeux, Paris 2024
-       Mascotte Lot de 10€ Argent Vague 2  -  Qualité courante millésime
-       2023
-       118,00 €
-   10. Mascotte, Jeux Olympiques, Mascotte des JO, sports, Volleyball,
+    8. Mascotte, Jeux Olympiques, Mascotte des JO, sports, Volleyball,
        Paris 2024, 10€, Argent, Monnaie argent
        Mascotte - Volleyball Monnaie de 10€ Argent  -  Qualité courante
        millésime 2023
        12,00 €
-   11. Mascotte, Jeux Olympiques, Mascotte des JO, sports, Judo, Paris
+    9. Mascotte, Jeux Olympiques, Mascotte des JO, sports, Judo, Paris
        2024, 10€, Argent, Monnaie argent
        Mascotte - Judo Monnaie de 10€ argent  -  Qualité courante
        millésime 2023
        12,00 €
-   12. Mascotte, Jeux Paralympiques, Mascotte des Jeux, sports, podium,
-       champions, Paris 2024, 50€, Argent, Monnaie argent, monnaie
-       colorisée
-       Mascotte - Champions Monnaie de 50€ argent  -  Qualité courante
+   10. Mascotte, Jeux Olympiques, Mascotte des JO, sports, Saut
+       d’obstacles, Paris 2024, 10€, Argent, Monnaie argent
+       Mascotte - Saut d'obstacles Monnaie de 10€ Argent  -  Qualité
+       courante millésime 2023
+       12,00 €
+   11. Mascotte, sports, phryge, Jeux Olympiques, Jeux paralympiques,
+       mascotte des Jeux, Paris 2024
+       Mascotte Lot de 10€ Argent Vague 2  -  Qualité courante millésime
+       2023
+       118,00 €
+   12. Mascotte, Jeux Olympiques, Mascotte des JO, sports, boxe, Paris
+       2024, 10€, Argent, Monnaie argent, monnaie colorisée
+       Mascotte - Boxe Monnaie de 10€ Argent  -  Qualité courante
        millésime 2023
-       59,00 €
+       14,00 €
 
    Page
      * Vous lisez actuellement la page 1

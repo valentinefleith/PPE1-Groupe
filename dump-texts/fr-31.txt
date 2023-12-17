@@ -97,107 +97,107 @@ Pièces Argent Françaises
      * Prix net
 
      * 50 Francs Hercule
-       22,50 €
+       23,40 €
        50 Francs Hercule
        La quantité minimale d'achat est de 10
    Pureté/titre : 900‰
        Poids : 30g
        Valeur Faciale : 50 Francs
-       Au 13/12/2023
-       18,56 €
+       Au 17/12/2023
+       19,00 €
        0.00 %
-       22,50 €
-       10__________________ = 225,00 €
+       23,40 €
+       10__________________ = 234,00 €
        Ajouter au panier
      * 10 Francs Hercule
-       19,10 €
+       19,90 €
        10 Francs Hercule
        La quantité minimale d'achat est de 10
    Pureté/titre : 900‰
        Poids : 25g
        Valeur Faciale : 10 Francs
-       Au 13/12/2023
-       15,47 €
+       Au 17/12/2023
+       15,83 €
        0.00 %
-       19,10 €
-       10__________________ = 191,00 €
+       19,90 €
+       10__________________ = 199,00 €
        Ajouter au panier
      * Ecu 5 Francs
-       20,30 €
+       21,10 €
        Ecu 5 Francs
        La quantité minimale d'achat est de 10
    Pureté/titre : 900‰
        Poids : 25g
        Valeur Faciale : 5 Francs
-       Au 13/12/2023
-       15,47 €
+       Au 17/12/2023
+       15,83 €
        0.00 %
-       20,30 €
-       10__________________ = 203,00 €
+       21,10 €
+       10__________________ = 211,00 €
        Ajouter au panier
      * 100 Francs Argent
-       11,20 €
+       11,70 €
        100 Francs Argent
        La quantité minimale d'achat est de 30
    Pureté/titre : 900‰
        Poids : 15g
        Valeur Faciale : 100 Francs
-       Au 13/12/2023
-       9,28 €
+       Au 17/12/2023
+       9,50 €
        0.00 %
-       11,20 €
-       30__________________ = 336,00 €
+       11,70 €
+       30__________________ = 351,00 €
        Ajouter au panier
      * 5 Francs semeuse
-       7,80 €
+       8,20 €
        5 Francs semeuse
        La quantité minimale d'achat est de 30
    Pureté/titre : 835‰
        Poids : 12g
        Valeur Faciale : 5 Francs
-       Au 13/12/2023
-       6,89 €
+       Au 17/12/2023
+       7,05 €
        0.00 %
-       7,80 €
-       30__________________ = 234,00 €
+       8,20 €
+       30__________________ = 246,00 €
        Ajouter au panier
      * 2 Francs Semeuse
-       7,60 €
+       7,90 €
        2 Francs Semeuse
        La quantité minimale d'achat est de 50
    Pureté/titre : 835‰
        Poids : 10g
        Valeur Faciale : 2 Francs
-       Au 13/12/2023
-       5,74 €
+       Au 17/12/2023
+       5,87 €
        0.00 %
-       7,60 €
-       50__________________ = 380,00 €
+       7,90 €
+       50__________________ = 395,00 €
        Ajouter au panier
      * 1 Franc Semeuse
-       3,50 €
+       3,60 €
        1 Franc Semeuse
        La quantité minimale d'achat est de 50
    Pureté/titre : 835‰
        Poids : 5g
        Valeur Faciale : 1 Francs
-       Au 13/12/2023
-       2,87 €
+       Au 17/12/2023
+       2,94 €
        0.00 %
-       3,50 €
-       50__________________ = 175,00 €
+       3,60 €
+       50__________________ = 180,00 €
        Ajouter au panier
      * 50 Cts Semeuse
-       1,90 €
+       2,00 €
        50 Cts Semeuse
        La quantité minimale d'achat est de 50
    Pureté/titre : 835‰
        Poids : 2.5
-       Au 13/12/2023
-       1,44 €
+       Au 17/12/2023
+       1,47 €
        0.00 %
-       1,90 €
-       50__________________ = 95,00 €
+       2,00 €
+       50__________________ = 100,00 €
        Ajouter au panier
 
    VOIR AUSSI ...
@@ -231,11 +231,11 @@ Pièces Argent Françaises
 
    OR
 
-   59,11 €/g
+   59,60 €/g
 
    ARGENT
 
-   0,68 €/g
+   0,70 €/g
 
    Newsletter
    __________________ (BUTTON) Ok

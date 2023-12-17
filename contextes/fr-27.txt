@@ -1,1 +1,124 @@
-#Mairie d'Argent sur Sauldre RSS Aller au contenu principal Accueil Mairie d'Argent sur Sauldre Place de l’hôtel de ville Téléphone : 02 48 81 50 60 -- des jeunes o Communauté de communes SAULDRE et SOLOGNE + Le bulletin municipal + Argent Infos o Argent Infos hiver 2023 o Argent Infos automne 2023 + Discours des vœux concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Vie quotidienne + Environnement -- + Patrimoine historique et naturel o Eglise Saint-André + Musée des Métiers d'Antan + Cinéma "l'Argentis" + Bibliothèque o Infos pratiques + Balades au fil de l'eau -- o La Sauldre, rivière de 1ère catégorie o Etang du Puits concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Sports et loisirs + Cinéma l'Argentis + Bibliothèque + Calendrier des manifestations + Equipements sportifs -- o Ambulances / VSL o Taxis + Séniors o EHPAD Les Roses d'Argent o ADMR + Démarches pratiques o Etat Civil -- L'école de musique Si Fa Si La organise son traditionnel concert de Noël le vendredi 15 décembre 2023 à 20h00 à la salle des fêtes Jacques Prévert à Argent-sur-Sauldre. Organisateur : -- concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Vos élus concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Contact - Plan concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Le bulletin municipal concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Argent Infos concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Discours des vœux Vie Quotidienne -- Culture et tourisme concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Patrimoine historique et naturel concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Musée des Métiers d'Antan concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Cinéma "l'Argentis" concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Bibliothèque concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Balades au fil de l'eau concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Promenades, randonnées, jeux -- Sports et loisirs concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Associations concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Cinéma l'Argentis concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Bibliothèque concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Calendrier des manifestations concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Equipements sportifs -- concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Séniors concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Démarches pratiques S'abonner à Mairie d'Argent sur Sauldre RSS Mairie d'Argent sur Sauldre Place de l'hôtel de ville Tél : 02 48 81 50 60 Fax : 02 48 81 50 65 -- des jeunes o Communauté de communes SAULDRE et SOLOGNE + Le bulletin municipal + Argent Infos o Argent Infos hiver 2023 o Argent Infos automne 2023 + Discours des vœux concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Vie quotidienne + Environnement -- + Patrimoine historique et naturel o Eglise Saint-André + Musée des Métiers d'Antan + Cinéma "l'Argentis" + Bibliothèque o Infos pratiques + Balades au fil de l'eau -- o Associations culturelles et de loisirs o Associations caritatives et de services à la personne o Associations d'intérêt local + Cinéma l'Argentis + Bibliothèque + Calendrier des manifestations + Equipements sportifs -- o Ambulances / VSL o Taxis + Séniors o EHPAD Les Roses d'Argent o ADMR + Démarches pratiques o Etat Civil -- concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Mentions légales concordancier.sh creation_tableaux.sh make_itrameur_corpus.sh tokeniser.ipynb tokeniser.py Charte pour la protection des données © Mairie d'Argent sur Sauldre - Réalisation par Atmedia Communication
+   #Mairie d'Argent sur Sauldre RSS
+
+   Aller au contenu principal
+
+   Accueil
+   Mairie d'Argent sur Sauldre
+   Place de l’hôtel de ville
+   Téléphone : 02 48 81 50 60
+
+--
+                 des jeunes
+               o Communauté de communes SAULDRE et SOLOGNE
+          + Le bulletin municipal
+          + Argent Infos
+               o Argent Infos hiver 2023
+               o Argent Infos automne 2023
+          + Discours des vœux
+     * Vie quotidienne
+          + Environnement
+--
+          + Patrimoine historique et naturel
+               o Eglise Saint-André
+          + Musée des Métiers d'Antan
+          + Cinéma "l'Argentis"
+          + Bibliothèque
+               o Infos pratiques
+          + Balades au fil de l'eau
+--
+               o La Sauldre, rivière de 1ère catégorie
+               o Etang du Puits
+     * Sports et loisirs
+          + Cinéma l'Argentis
+          + Bibliothèque
+          + Calendrier des manifestations
+          + Equipements sportifs
+--
+               o Ambulances / VSL
+               o Taxis
+          + Séniors
+               o EHPAD Les Roses d'Argent
+               o ADMR
+          + Démarches pratiques
+               o Etat Civil
+--
+
+   L'école de musique Si Fa Si La organise son traditionnel concert de
+   Noël le vendredi 15 décembre 2023 à 20h00 à la salle des fêtes Jacques
+   Prévert à Argent-sur-Sauldre.
+
+
+   Organisateur :
+--
+     * Vos élus
+     * Contact - Plan
+     * Le bulletin municipal
+     * Argent Infos
+     * Discours des vœux
+
+   Vie Quotidienne
+--
+   Culture et tourisme
+     * Patrimoine historique et naturel
+     * Musée des Métiers d'Antan
+     * Cinéma "l'Argentis"
+     * Bibliothèque
+     * Balades au fil de l'eau
+     * Promenades, randonnées, jeux
+--
+
+   Sports et loisirs
+     * Associations
+     * Cinéma l'Argentis
+     * Bibliothèque
+     * Calendrier des manifestations
+     * Equipements sportifs
+--
+     * Séniors
+     * Démarches pratiques
+
+   S'abonner à Mairie d'Argent sur Sauldre RSS
+
+   Mairie d'Argent sur Sauldre
+   Place de l'hôtel de ville
+   Tél : 02 48 81 50 60
+   Fax : 02 48 81 50 65
+--
+                 des jeunes
+               o Communauté de communes SAULDRE et SOLOGNE
+          + Le bulletin municipal
+          + Argent Infos
+               o Argent Infos hiver 2023
+               o Argent Infos automne 2023
+          + Discours des vœux
+     * Vie quotidienne
+          + Environnement
+--
+          + Patrimoine historique et naturel
+               o Eglise Saint-André
+          + Musée des Métiers d'Antan
+          + Cinéma "l'Argentis"
+          + Bibliothèque
+               o Infos pratiques
+          + Balades au fil de l'eau
+--
+               o Associations culturelles et de loisirs
+               o Associations caritatives et de services à la personne
+               o Associations d'intérêt local
+          + Cinéma l'Argentis
+          + Bibliothèque
+          + Calendrier des manifestations
+          + Equipements sportifs
+--
+               o Ambulances / VSL
+               o Taxis
+          + Séniors
+               o EHPAD Les Roses d'Argent
+               o ADMR
+          + Démarches pratiques
+               o Etat Civil
+--
+     * Mentions légales
+     * Charte pour la protection des données
+
+   © Mairie d'Argent sur Sauldre - Réalisation par Atmedia Communication
