@@ -1,27 +1,44 @@
-/* Add a black background color to the top navigation */
-.topnav {
-  background-color: #ffc7ff;
-  overflow: hidden;
+body {
+  background-image: url("background.png"); 
+  height: 100vh; /* Full height */
+  background-position: center;
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.navbar {
+  font-family: 'Montserrat', sans-serif;
 }
 
-/* Style the links inside the navigation bar */
-.topnav a {
-  float: left;
-  color: #1e1e2f;
+.titleContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+  padding-top: 15%;
+  padding-right: 45%;
 }
 
-/* Change the color of links on hover */
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-/* Add a color to the active/current link */
-.topnav a.active {
-  background-color: #6d084c;
+.titleText{
   color: white;
+  font-size: 5rem;
+  font-weight: bolder;
+  font-family: 'DM Serif Display', serif;
+}
+
+.wordContainer {
+  padding-bottom: 30px;
+}
+
+.authorText1, .authorText2, .authorText3{
+  color: white;
+  font-size: 0.9rem;
+  font-weight: lighter;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.wordText {
+  color: white;
+  font-size: 2rem;
+  font-family: 'DM Serif Display', serif;
 }
