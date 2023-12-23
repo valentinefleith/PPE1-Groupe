@@ -1,37 +1,29 @@
     1. Accueil
-    2. Tableau pÃ©riodique
+    2. Tableau périodique
     3. Elements
     4. Argent
 
 Argent - Ag
 
-PropriÃ©tÃ©s chimiques - Effets de l'argent sur la santÃ© - Impact de l'argent
+ Propriétés chimiques - Effets de l'argent sur la santé - Impact de l'argent
                              sur l'environnement
-
-   NumÃ©ro atomique 47 [Ag.htm12.jpg]
 --
    Potentiel standard 0,779 V (Ag^+ / Ag )
-   DÃ©couverte : DÃ¨s l' antiquitÃ© il Ã©tait connu
+   Découverte : Dès l' antiquité il était connu
 
-Effets de l'argent sur la santÃ©
+Effets de l'argent sur la santé
 
-   Les sels argentÃ©s solubles, particuliÃ¨rement AgNO [3 ], sont mortels
-   avec des concentrations allant jusqu'Ã  2g (0,070 onces). Les composÃ©s
-   d'argent peuvent Ãªtre lentement absorbÃ©s par les tissus de corps, avec
-   comme consÃ©quence une pigmentation bleuÃ¢tre ou noirÃ¢tre de la peau
+   Les sels argentés solubles, particulièrement AgNO [3 ], sont mortels
+   avec des concentrations allant jusqu'à 2g (0,070 onces). Les composés
+   d'argent peuvent être lentement absorbés par les tissus de corps, avec
+   comme conséquence une pigmentation bleuâtre ou noirâtre de la peau
    (argiria).
 
 --
-   Ã©thylique mÃ©thylique peut augmenter le pouvoir des neurotoxines telles
-   que l'hexane si les expositions se produisent en mÃªme temps.
+   éthylique méthylique peut augmenter le pouvoir des neurotoxines telles
+   que l'hexane si les expositions se produisent en même temps.
 
    Effets de l'argent sur l'environnement
 
    Pour les informations ci-dessous:
 
-   Niveaux environnementaux
-   - Effets des organismes dans le laboratoire et le domaine
-   - Environnement aquatique: ToxicitÃ© des composÃ©s d'argent aux espÃ¨ces
-   aquatiques
-   - Environnement terrestre
-   - Ã‰valuation des effets

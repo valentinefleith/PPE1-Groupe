@@ -3,14 +3,14 @@
    Skip to main content
 
    An official website of the United States government
-     * Español
-     * 中文
-     * Tiếng Việt
-     * 한국어
+     * Espa�ol
+     *
+     * Tie>'ng Vie>-.t
+     *
      * Tagalog
-     * Pусский
-     * العربية
-     * Kreyòl Ayisyen
+     * Pusskij
+     * a+l+e+r+b+y+tm
+     * Krey�l Ayisyen
 
    (855) 411-2372
 
@@ -88,7 +88,7 @@
           + Research Hub
           + Consumer Complaint Database
           + Mortgage Database (HMDA)
-          + Small Business Lending Database
+          + Small business lending database
           + Public Data Inventory
           + Consumer Credit Trends
           + Mortgage Performance Trends
@@ -104,18 +104,18 @@
           + Testimony
           + Statements
           + Blog
-          + Director’s Notebook
+          + Director's Notebook
           + Recent Updates
           + Consumer Advisories
 
-     * Español
-     * 中文
-     * Tiếng Việt
-     * 한국어
+     * Espa�ol
+     *
+     * Tie>'ng Vie>-.t
+     *
      * Tagalog
-     * Pусский
-     * العربية
-     * Kreyòl Ayisyen
+     * Pusskij
+     * a+l+e+r+b+y+tm
+     * Krey�l Ayisyen
 
    (855) 411-2372
 
@@ -125,15 +125,15 @@ Your Money, Your Goals
    organizations that help people meet their financial goals by increasing
    their knowledge, skills, and resources.
 
-   Whether you’re helping people get a job, find a place to live, or deal
+   Whether you're helping people get a job, find a place to live, or deal
    with a legal problem, money always comes up. You can use these tools to
    start the conversation.
 
 Resources for the people you serve
 
    Your Money, Your Goals materials can be used in many different
-   settings. If you’re working with people to help set goals and solve
-   financial problems, you’ll find helpful tools and information here.
+   settings. If you're working with people to help set goals and solve
+   financial problems, you'll find helpful tools and information here.
    Behind on Bills toolkit
 
 Toolkit
@@ -169,7 +169,7 @@ Training and implementation
 
    We have everything you need to bring Your Money, Your Goals to your
    organization. Review our Implementation Guide, watch the trainer
-   videos, adapt the training slides, and you’re on your way.
+   videos, adapt the training slides, and you're on your way.
      * Get started bringing these tools to your organization
 
 Videos to spark action
@@ -200,8 +200,8 @@ Blog
      * Financial struggles in Puerto Rico bite deeper than the rest of the
        United States
        JUL 27, 2023
-     * Las dificultades financieras son más duras en Puerto Rico, que en
-       el resto del país
+     * Las dificultades financieras son m�s duras en Puerto Rico, que en
+       el resto del pa�s
        JUL 27, 2023
      * Strengthening information accessibility for consumers with limited
        English proficiency

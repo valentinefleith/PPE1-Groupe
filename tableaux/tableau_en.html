@@ -1,158 +1,254 @@
-<html>
+<!DOCTYPE html>
+<html lang=fr>
 <head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
-    <style>
-        .table-container {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-        .has-background-rose {
-            background-color: #FFE7FE;
-        }
-    </style>
+	<!--Métadonnées-->
+	<meta charset=UTF-8/>
+	<title>Tableaux- PPE1 Projet Groupe</title>
+    <meta name = author content = valentinefleith, ashleyratier, lidanzhang/>
+    <meta name = keywords content = Argent/>
+    <meta name = description content = Projet Groupe PPE1/>
+
+	<!--Bootstrap-->
+    <link href=https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN crossorigin=anonymous>
+    <script src=https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js integrity=sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL crossorigin=anonymous></script>
+    <link rel=stylesheet type=text/css href=methode.css>
 </head>
 <body>
-    <div class="container is-fullhd">
-        <h1 class="title is-1 has-text-centered has-text-grey"><b>Tableau</b></h1>
-        <div class="table-container">
-            <table class="table is-bordered is-striped is-hoverable is-fullwidth">
-                <tr class="has-background-rose">
-                    <th>Numero ligne</th><th class='is-one-quarter'>URL</th><th>Aspiration</th><th>Dump</th><th>Contexte</th><th>Concordancier</th><th>Code HTTP</th><th>Encodage</th><th>Compte</th>
-                </tr>
-<tr>
-				<td>1</td><td>https://www.investopedia.com/insights/what-is-money/</td><td><a href='../aspirations/en-1.html'>Aspiration</a></td><td><a href='../dump-texts/en-1.txt'>Dump</a></td><td><a href='../contextes/en-1.txt'>Contexte</a></td><td><a href='../concordances/en-1.html'>Concordancier</a></td><td>200</td><td></td><td>102</td>
+    <table class="table table-striped-columns">
+		<thead>
+		  <tr>
+			<th scope=col>Nº ligne</th>
+			<th scope=col>URL</th>
+			<th scope=col>Aspiration</th>
+			<th scope=col>Dump</th>
+			<th scope=col>Contexte</th>
+			<th scope=col>Concordancier</th>
+			<th scope=col>Code HTTP</th>
+			<th scope=col>Encodage</th>
+			<th scope=col>Compte</th>
+		  </tr>
+		</thead>
+<tbody>
+		<tr>
+				<th>1</th><td>https://www.investopedia.com/insights/what-is-money/</td><td><a href='../aspirations/en-1.html'>Aspiration</a></td><td><a href='../dump-texts/en-1.txt'>Dump</a></td><td><a href='../contextes/en-1.txt'>Contexte</a></td><td><a href='../concordances/en-1.html'>Concordancier</a></td><td>200</td><td></td><td>     105</td>
 		</tr>
-<tr>
-				<td>2</td><td>https://forum.mrmoneymustache.com/taxes/?PHPSESSID=hsdqh4aeb9uiif7fmdm5r94ogm</td><td><a href='../aspirations/en-2.html'>Aspiration</a></td><td><a href='../dump-texts/en-2.txt'>Dump</a></td><td><a href='../contextes/en-2.txt'>Contexte</a></td><td><a href='../concordances/en-2.html'>Concordancier</a></td><td>200</td><td>ISO-8859-1</td><td>7</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>2</th><td>https://forum.mrmoneymustache.com/taxes/?PHPSESSID=hsdqh4aeb9uiif7fmdm5r94ogm</td><td><a href='../aspirations/en-2.html'>Aspiration</a></td><td><a href='../dump-texts/en-2.txt'>Dump</a></td><td><a href='../contextes/en-2.txt'>Contexte</a></td><td><a href='../concordances/en-2.html'>Concordancier</a></td><td>200</td><td>ISO-8859-1</td><td>       7</td>
 		</tr>
-<tr>
-				<td>3</td><td>https://forum.mrmoneymustache.com/entrepreneurship/who-has-a-side-gigjob-that-brings-in-extra-cash-share-with-us!/?PHPSESSID=hsdqh4aeb9uiif7fmdm5r94ogm</td><td><a href='../aspirations/en-3.html'>Aspiration</a></td><td><a href='../dump-texts/en-3.txt'>Dump</a></td><td><a href='../contextes/en-3.txt'>Contexte</a></td><td><a href='../concordances/en-3.html'>Concordancier</a></td><td>200</td><td>ISO-8859-1</td><td>21</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>3</th><td>https://forum.mrmoneymustache.com/entrepreneurship/who-has-a-side-gigjob-that-brings-in-extra-cash-share-with-us!/?PHPSESSID=hsdqh4aeb9uiif7fmdm5r94ogm</td><td><a href='../aspirations/en-3.html'>Aspiration</a></td><td><a href='../dump-texts/en-3.txt'>Dump</a></td><td><a href='../contextes/en-3.txt'>Contexte</a></td><td><a href='../concordances/en-3.html'>Concordancier</a></td><td>200</td><td>ISO-8859-1</td><td>      21</td>
 		</tr>
-<tr>
-				<td>4</td><td>https://forum.mrmoneymustache.com/entrepreneurship/'finances-coaching'-as-a-job-hobby/?PHPSESSID=hsdqh4aeb9uiif7fmdm5r94ogm</td><td><a href='../aspirations/en-4.html'>Aspiration</a></td><td><a href='../dump-texts/en-4.txt'>Dump</a></td><td><a href='../contextes/en-4.txt'>Contexte</a></td><td><a href='../concordances/en-4.html'>Concordancier</a></td><td>200</td><td>ISO-8859-1</td><td>13</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>4</th><td>https://forum.mrmoneymustache.com/entrepreneurship/'finances-coaching'-as-a-job-hobby/?PHPSESSID=hsdqh4aeb9uiif7fmdm5r94ogm</td><td><a href='../aspirations/en-4.html'>Aspiration</a></td><td><a href='../dump-texts/en-4.txt'>Dump</a></td><td><a href='../contextes/en-4.txt'>Contexte</a></td><td><a href='../concordances/en-4.html'>Concordancier</a></td><td>200</td><td>ISO-8859-1</td><td>      13</td>
 		</tr>
-<tr>
-				<td>5</td><td>https://community.hmrc.gov.uk/customerforums/pt/4acbefbe-16a4-ea11-8b71-00155d9caa1c</td><td><a href='../aspirations/en-5.html'>Aspiration</a></td><td><a href='../dump-texts/en-5.txt'>Dump</a></td><td><a href='../contextes/en-5.txt'>Contexte</a></td><td><a href='../concordances/en-5.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>18</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>5</th><td>https://community.hmrc.gov.uk/customerforums/pt/4acbefbe-16a4-ea11-8b71-00155d9caa1c</td><td><a href='../aspirations/en-5.html'>Aspiration</a></td><td><a href='../dump-texts/en-5.txt'>Dump</a></td><td><a href='../contextes/en-5.txt'>Contexte</a></td><td><a href='../concordances/en-5.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>      18</td>
 		</tr>
-<tr>
-				<td>6</td><td>https://money.com/social-security-overpayments-money-back/</td><td><a href='../aspirations/en-6.html'>Aspiration</a></td><td><a href='../dump-texts/en-6.txt'>Dump</a></td><td><a href='../contextes/en-6.txt'>Contexte</a></td><td><a href='../concordances/en-6.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>50</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>6</th><td>https://money.com/social-security-overpayments-money-back/</td><td><a href='../aspirations/en-6.html'>Aspiration</a></td><td><a href='../dump-texts/en-6.txt'>Dump</a></td><td><a href='../contextes/en-6.txt'>Contexte</a></td><td><a href='../concordances/en-6.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>      49</td>
 		</tr>
-<tr>
-				<td>7</td><td>https://makemoneyforum.co.uk/</td><td><a href='../aspirations/en-7.html'>Aspiration</a></td><td><a href='../dump-texts/en-7.txt'>Dump</a></td><td><a href='../contextes/en-7.txt'>Contexte</a></td><td><a href='../concordances/en-7.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>16</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>7</th><td>https://makemoneyforum.co.uk/</td><td><a href='../aspirations/en-7.html'>Aspiration</a></td><td><a href='../dump-texts/en-7.txt'>Dump</a></td><td><a href='../contextes/en-7.txt'>Contexte</a></td><td><a href='../concordances/en-7.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>      15</td>
 		</tr>
-<tr>
-				<td>8</td><td>https://makemoneyforum.co.uk/betfair-scalper-review/</td><td><a href='../aspirations/en-8.html'>Aspiration</a></td><td><a href='../dump-texts/en-8.txt'>Dump</a></td><td><a href='../contextes/en-8.txt'>Contexte</a></td><td><a href='../concordances/en-8.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>47</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>8</th><td>https://makemoneyforum.co.uk/betfair-scalper-review/</td><td><a href='../aspirations/en-8.html'>Aspiration</a></td><td><a href='../dump-texts/en-8.txt'>Dump</a></td><td><a href='../contextes/en-8.txt'>Contexte</a></td><td><a href='../concordances/en-8.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>      46</td>
 		</tr>
-<tr>
-				<td>9</td><td>https://makemoneyforum.co.uk/new-profit-maximiser-reviews-mike-cruickshank-shows-how-to-make-easy-profits/</td><td><a href='../aspirations/en-9.html'>Aspiration</a></td><td><a href='../dump-texts/en-9.txt'>Dump</a></td><td><a href='../contextes/en-9.txt'>Contexte</a></td><td><a href='../concordances/en-9.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>84</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>9</th><td>https://makemoneyforum.co.uk/new-profit-maximiser-reviews-mike-cruickshank-shows-how-to-make-easy-profits/</td><td><a href='../aspirations/en-9.html'>Aspiration</a></td><td><a href='../dump-texts/en-9.txt'>Dump</a></td><td><a href='../contextes/en-9.txt'>Contexte</a></td><td><a href='../concordances/en-9.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>      83</td>
 		</tr>
-<tr>
-				<td>10</td><td>https://en.wikipedia.org/wiki/Money</td><td><a href='../aspirations/en-10.html'>Aspiration</a></td><td><a href='../dump-texts/en-10.txt'>Dump</a></td><td><a href='../contextes/en-10.txt'>Contexte</a></td><td><a href='../concordances/en-10.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>237</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>10</th><td>https://en.wikipedia.org/wiki/Money</td><td><a href='../aspirations/en-10.html'>Aspiration</a></td><td><a href='../dump-texts/en-10.txt'>Dump</a></td><td><a href='../contextes/en-10.txt'>Contexte</a></td><td><a href='../concordances/en-10.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>     237</td>
 		</tr>
-<tr>
-				<td>11</td><td>https://www.canadianmoneyforum.com/threads/investing-vs-contributing-to-the-economy.145516/</td><td><a href='../aspirations/en-11.html'>Aspiration</a></td><td><a href='../dump-texts/en-11.txt'>Dump</a></td><td><a href='../contextes/en-11.txt'>Contexte</a></td><td><a href='../concordances/en-11.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>71</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>11</th><td>https://www.canadianmoneyforum.com/threads/investing-vs-contributing-to-the-economy.145516/</td><td><a href='../aspirations/en-11.html'>Aspiration</a></td><td><a href='../dump-texts/en-11.txt'>Dump</a></td><td><a href='../contextes/en-11.txt'>Contexte</a></td><td><a href='../concordances/en-11.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>      71</td>
 		</tr>
-<tr>
-				<td>12</td><td>https://www.canadianmoneyforum.com/threads/dismantling-the-cpp-alberta.145497/</td><td><a href='../aspirations/en-12.html'>Aspiration</a></td><td><a href='../dump-texts/en-12.txt'>Dump</a></td><td><a href='../contextes/en-12.txt'>Contexte</a></td><td><a href='../concordances/en-12.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>19</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>12</th><td>https://www.canadianmoneyforum.com/threads/dismantling-the-cpp-alberta.145497/</td><td><a href='../aspirations/en-12.html'>Aspiration</a></td><td><a href='../dump-texts/en-12.txt'>Dump</a></td><td><a href='../contextes/en-12.txt'>Contexte</a></td><td><a href='../concordances/en-12.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>      19</td>
 		</tr>
-<tr>
-				<td>13</td><td>https://www.usa.gov/unclaimed-money</td><td><a href='../aspirations/en-13.html'>Aspiration</a></td><td><a href='../dump-texts/en-13.txt'>Dump</a></td><td><a href='../contextes/en-13.txt'>Contexte</a></td><td><a href='../concordances/en-13.html'>Concordancier</a></td><td>200</td><td></td><td>23</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>13</th><td>https://www.usa.gov/unclaimed-money</td><td><a href='../aspirations/en-13.html'>Aspiration</a></td><td><a href='../dump-texts/en-13.txt'>Dump</a></td><td><a href='../contextes/en-13.txt'>Contexte</a></td><td><a href='../concordances/en-13.html'>Concordancier</a></td><td>200</td><td></td><td>      23</td>
 		</tr>
-<tr>
-				<td>14</td><td>https://www.moneyhelper.org.uk/en/family-and-care/talk-money/talk-learn-do/how-to-talk-to-your-children-about-money</td><td><a href='../aspirations/en-14.html'>Aspiration</a></td><td><a href='../dump-texts/en-14.txt'>Dump</a></td><td><a href='../contextes/en-14.txt'>Contexte</a></td><td><a href='../concordances/en-14.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>120</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>14</th><td>https://www.moneyhelper.org.uk/en/family-and-care/talk-money/talk-learn-do/how-to-talk-to-your-children-about-money</td><td><a href='../aspirations/en-14.html'>Aspiration</a></td><td><a href='../dump-texts/en-14.txt'>Dump</a></td><td><a href='../contextes/en-14.txt'>Contexte</a></td><td><a href='../concordances/en-14.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>     119</td>
 		</tr>
-<tr>
-				<td>15</td><td>https://www.moneyhelper.org.uk/en/everyday-money/banking/running-your-bank-account</td><td><a href='../aspirations/en-15.html'>Aspiration</a></td><td><a href='../dump-texts/en-15.txt'>Dump</a></td><td><a href='../contextes/en-15.txt'>Contexte</a></td><td><a href='../concordances/en-15.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>85</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>15</th><td>https://www.moneyhelper.org.uk/en/everyday-money/banking/running-your-bank-account</td><td><a href='../aspirations/en-15.html'>Aspiration</a></td><td><a href='../dump-texts/en-15.txt'>Dump</a></td><td><a href='../contextes/en-15.txt'>Contexte</a></td><td><a href='../concordances/en-15.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>      84</td>
 		</tr>
-<tr>
-				<td>16</td><td>https://maps.org.uk/en/publications/research/2023/mental-health-and-money-guidance-for-supporting-customers#Mental-Health-and-Money:-Guidance-for-supporting-customers</td><td><a href='../aspirations/en-16.html'>Aspiration</a></td><td><a href='../dump-texts/en-16.txt'>Dump</a></td><td><a href='../contextes/en-16.txt'>Contexte</a></td><td><a href='../concordances/en-16.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>22</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>16</th><td>https://maps.org.uk/en/publications/research/2023/mental-health-and-money-guidance-for-supporting-customers#Mental-Health-and-Money:-Guidance-for-supporting-customers</td><td><a href='../aspirations/en-16.html'>Aspiration</a></td><td><a href='../dump-texts/en-16.txt'>Dump</a></td><td><a href='../contextes/en-16.txt'>Contexte</a></td><td><a href='../concordances/en-16.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>      22</td>
 		</tr>
-<tr>
-				<td>17</td><td>https://www.ecb.europa.eu/ecb/educational/explainers/tell-me-more/html/what_is_money.en.html</td><td><a href='../aspirations/en-17.html'>Aspiration</a></td><td><a href='../dump-texts/en-17.txt'>Dump</a></td><td><a href='../contextes/en-17.txt'>Contexte</a></td><td><a href='../concordances/en-17.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>38</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>17</th><td>https://www.ecb.europa.eu/ecb/educational/explainers/tell-me-more/html/what_is_money.en.html</td><td><a href='../aspirations/en-17.html'>Aspiration</a></td><td><a href='../dump-texts/en-17.txt'>Dump</a></td><td><a href='../contextes/en-17.txt'>Contexte</a></td><td><a href='../concordances/en-17.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>      38</td>
 		</tr>
-<tr>
-				<td>18</td><td>https://www.bbc.com/news/business-67294888</td><td><a href='../aspirations/en-18.html'>Aspiration</a></td><td><a href='../dump-texts/en-18.txt'>Dump</a></td><td><a href='../contextes/en-18.txt'>Contexte</a></td><td><a href='../concordances/en-18.html'>Concordancier</a></td><td>200</td><td></td><td>2</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>18</th><td>https://www.bbc.com/news/business-67294888</td><td><a href='../aspirations/en-18.html'>Aspiration</a></td><td><a href='../dump-texts/en-18.txt'>Dump</a></td><td><a href='../contextes/en-18.txt'>Contexte</a></td><td><a href='../concordances/en-18.html'>Concordancier</a></td><td>200</td><td></td><td>       2</td>
 		</tr>
-<tr>
-				<td>19</td><td>https://www.bbc.com/news/uk-67302048</td><td><a href='../aspirations/en-19.html'>Aspiration</a></td><td><a href='../dump-texts/en-19.txt'>Dump</a></td><td><a href='../contextes/en-19.txt'>Contexte</a></td><td><a href='../concordances/en-19.html'>Concordancier</a></td><td>200</td><td></td><td>1</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>19</th><td>https://www.bbc.com/news/uk-67302048</td><td><a href='../aspirations/en-19.html'>Aspiration</a></td><td><a href='../dump-texts/en-19.txt'>Dump</a></td><td><a href='../contextes/en-19.txt'>Contexte</a></td><td><a href='../concordances/en-19.html'>Concordancier</a></td><td>200</td><td></td><td>       1</td>
 		</tr>
-<tr>
-				<td>20</td><td>https://www.ebf.eu/europeanmoneyweek/</td><td><a href='../aspirations/en-20.html'>Aspiration</a></td><td><a href='../dump-texts/en-20.txt'>Dump</a></td><td><a href='../contextes/en-20.txt'>Contexte</a></td><td><a href='../concordances/en-20.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>25</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>20</th><td>https://www.ebf.eu/europeanmoneyweek/</td><td><a href='../aspirations/en-20.html'>Aspiration</a></td><td><a href='../dump-texts/en-20.txt'>Dump</a></td><td><a href='../contextes/en-20.txt'>Contexte</a></td><td><a href='../concordances/en-20.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>      25</td>
 		</tr>
-<tr>
-				<td>21</td><td>https://moneysmart.gov.au/managing-debt/financial-counselling</td><td><a href='../aspirations/en-21.html'>Aspiration</a></td><td><a href='../dump-texts/en-21.txt'>Dump</a></td><td><a href='../contextes/en-21.txt'>Contexte</a></td><td><a href='../concordances/en-21.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>24</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>21</th><td>https://moneysmart.gov.au/managing-debt/financial-counselling</td><td><a href='../aspirations/en-21.html'>Aspiration</a></td><td><a href='../dump-texts/en-21.txt'>Dump</a></td><td><a href='../contextes/en-21.txt'>Contexte</a></td><td><a href='../concordances/en-21.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>      35</td>
 		</tr>
-<tr>
-				<td>22</td><td>https://www.citizensadvice.org.uk/debt-and-money/get-help-with-the-cost-of-living/</td><td><a href='../aspirations/en-22.html'>Aspiration</a></td><td><a href='../dump-texts/en-22.txt'>Dump</a></td><td><a href='../contextes/en-22.txt'>Contexte</a></td><td><a href='../concordances/en-22.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>20</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>22</th><td>https://www.citizensadvice.org.uk/debt-and-money/get-help-with-the-cost-of-living/</td><td><a href='../aspirations/en-22.html'>Aspiration</a></td><td><a href='../dump-texts/en-22.txt'>Dump</a></td><td><a href='../contextes/en-22.txt'>Contexte</a></td><td><a href='../concordances/en-22.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>      20</td>
 		</tr>
-<tr>
-				<td>23</td><td>https://edition.cnn.com/2023/11/03/politics/white-house-ukraine-aid-money/index.html</td><td><a href='../aspirations/en-23.html'>Aspiration</a></td><td><a href='../dump-texts/en-23.txt'>Dump</a></td><td><a href='../contextes/en-23.txt'>Contexte</a></td><td><a href='../concordances/en-23.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>5</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>23</th><td>https://edition.cnn.com/2023/11/03/politics/white-house-ukraine-aid-money/index.html</td><td><a href='../aspirations/en-23.html'>Aspiration</a></td><td><a href='../dump-texts/en-23.txt'>Dump</a></td><td><a href='../contextes/en-23.txt'>Contexte</a></td><td><a href='../concordances/en-23.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>       5</td>
 		</tr>
-<tr>
-				<td>24</td><td>https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/</td><td><a href='../aspirations/en-24.html'>Aspiration</a></td><td><a href='../dump-texts/en-24.txt'>Dump</a></td><td><a href='../contextes/en-24.txt'>Contexte</a></td><td><a href='../concordances/en-24.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>13</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>24</th><td>https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/</td><td><a href='../aspirations/en-24.html'>Aspiration</a></td><td><a href='../dump-texts/en-24.txt'>Dump</a></td><td><a href='../contextes/en-24.txt'>Contexte</a></td><td><a href='../concordances/en-24.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>      13</td>
 		</tr>
-<tr>
-				<td>25</td><td>https://www.ft.com/content/630a62f2-7117-43e5-89a3-3e16e73c99b6</td><td><a href='../aspirations/en-25.html'>Aspiration</a></td><td><a href='../dump-texts/en-25.txt'>Dump</a></td><td><a href='../contextes/en-25.txt'>Contexte</a></td><td><a href='../concordances/en-25.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>4</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>25</th><td>https://www.ft.com/content/630a62f2-7117-43e5-89a3-3e16e73c99b6</td><td><a href='../aspirations/en-25.html'>Aspiration</a></td><td><a href='../dump-texts/en-25.txt'>Dump</a></td><td><a href='../contextes/en-25.txt'>Contexte</a></td><td><a href='../concordances/en-25.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>       5</td>
 		</tr>
-<tr>
-				<td>26</td><td>https://www.cnbc.com/2023/11/02/cfp-what-a-sunny-day-fund-is-and-why-you-need-one.html</td><td><a href='../aspirations/en-26.html'>Aspiration</a></td><td><a href='../dump-texts/en-26.txt'>Dump</a></td><td><a href='../contextes/en-26.txt'>Contexte</a></td><td><a href='../concordances/en-26.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>15</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>26</th><td>https://www.cnbc.com/2023/11/02/cfp-what-a-sunny-day-fund-is-and-why-you-need-one.html</td><td><a href='../aspirations/en-26.html'>Aspiration</a></td><td><a href='../dump-texts/en-26.txt'>Dump</a></td><td><a href='../contextes/en-26.txt'>Contexte</a></td><td><a href='../concordances/en-26.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>      15</td>
 		</tr>
-<tr>
-				<td>27</td><td>https://economictimes.indiatimes.com/definition/money</td><td><a href='../aspirations/en-27.html'>Aspiration</a></td><td><a href='../dump-texts/en-27.txt'>Dump</a></td><td><a href='../contextes/en-27.txt'>Contexte</a></td><td><a href='../concordances/en-27.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>58</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>27</th><td>https://economictimes.indiatimes.com/definition/money</td><td><a href='../aspirations/en-27.html'>Aspiration</a></td><td><a href='../dump-texts/en-27.txt'>Dump</a></td><td><a href='../contextes/en-27.txt'>Contexte</a></td><td><a href='../concordances/en-27.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>      59</td>
 		</tr>
-<tr>
-				<td>28</td><td>https://www.moneymag.com.au/bank-loan-criteria</td><td><a href='../aspirations/en-28.html'>Aspiration</a></td><td><a href='../dump-texts/en-28.txt'>Dump</a></td><td><a href='../contextes/en-28.txt'>Contexte</a></td><td><a href='../concordances/en-28.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>25</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>28</th><td>https://www.moneymag.com.au/bank-loan-criteria</td><td><a href='../aspirations/en-28.html'>Aspiration</a></td><td><a href='../dump-texts/en-28.txt'>Dump</a></td><td><a href='../contextes/en-28.txt'>Contexte</a></td><td><a href='../concordances/en-28.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>      25</td>
 		</tr>
-<tr>
-					<td>29</td><td>https://www.mind.org.uk/information-support/tips-for-everyday-living/money-and-mental-health/</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>403</td><td>UTF-8</td><td>0</td>
+		</tbody>
+<tbody>
+			<tr>
+				<th>29</th><td>https://www.mind.org.uk/information-support/tips-for-everyday-living/money-and-mental-health/</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>403</td><td>UTF-8</td><td>0</td>
 			</tr>
-<tr>
-				<td>30</td><td>https://www.thisismoney.co.uk/money/investing/article-11469587/What-capital-gains-tax-it.html</td><td><a href='../aspirations/en-30.html'>Aspiration</a></td><td><a href='../dump-texts/en-30.txt'>Dump</a></td><td><a href='../contextes/en-30.txt'>Contexte</a></td><td><a href='../concordances/en-30.html'>Concordancier</a></td><td>200</td><td></td><td>28</td>
+			</tbody>
+<tbody>
+		<tr>
+				<th>30</th><td>https://www.thisismoney.co.uk/money/investing/article-11469587/What-capital-gains-tax-it.html</td><td><a href='../aspirations/en-30.html'>Aspiration</a></td><td><a href='../dump-texts/en-30.txt'>Dump</a></td><td><a href='../contextes/en-30.txt'>Contexte</a></td><td><a href='../concordances/en-30.html'>Concordancier</a></td><td>200</td><td></td><td>      29</td>
 		</tr>
-<tr>
-				<td>31</td><td>https://www.nytimes.com/2023/11/04/nyregion/eric-adams-straw-donor-scheme.html</td><td><a href='../aspirations/en-31.html'>Aspiration</a></td><td><a href='../dump-texts/en-31.txt'>Dump</a></td><td><a href='../contextes/en-31.txt'>Contexte</a></td><td><a href='../concordances/en-31.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>3</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>31</th><td>https://www.nytimes.com/2023/11/04/nyregion/eric-adams-straw-donor-scheme.html</td><td><a href='../aspirations/en-31.html'>Aspiration</a></td><td><a href='../dump-texts/en-31.txt'>Dump</a></td><td><a href='../contextes/en-31.txt'>Contexte</a></td><td><a href='../concordances/en-31.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>       9</td>
 		</tr>
-<tr>
-					<td>32</td><td>https://onlinelibrary.wiley.com/doi/full/10.1111/jmcb.13106</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>403</td><td>UTF-8</td><td>0</td>
+		</tbody>
+<tbody>
+			<tr>
+				<th>32</th><td>https://onlinelibrary.wiley.com/doi/full/10.1111/jmcb.13106</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>403</td><td>UTF-8</td><td>0</td>
 			</tr>
-<tr>
-				<td>33</td><td>https://www.imf.org/external/pubs/ft/fandd/2012/09/basics.htm</td><td><a href='../aspirations/en-33.html'>Aspiration</a></td><td><a href='../dump-texts/en-33.txt'>Dump</a></td><td><a href='../contextes/en-33.txt'>Contexte</a></td><td><a href='../concordances/en-33.html'>Concordancier</a></td><td>200</td><td></td><td>50</td>
+			</tbody>
+<tbody>
+		<tr>
+				<th>33</th><td>https://www.imf.org/external/pubs/ft/fandd/2012/09/basics.htm</td><td><a href='../aspirations/en-33.html'>Aspiration</a></td><td><a href='../dump-texts/en-33.txt'>Dump</a></td><td><a href='../contextes/en-33.txt'>Contexte</a></td><td><a href='../concordances/en-33.html'>Concordancier</a></td><td>200</td><td></td><td>      50</td>
 		</tr>
-<tr>
-				<td>34</td><td>https://press.princeton.edu/books/hardcover/9780691171517/love-money-and-parenting</td><td><a href='../aspirations/en-34.html'>Aspiration</a></td><td><a href='../dump-texts/en-34.txt'>Dump</a></td><td><a href='../contextes/en-34.txt'>Contexte</a></td><td><a href='../concordances/en-34.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>11</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>34</th><td>https://press.princeton.edu/books/hardcover/9780691171517/love-money-and-parenting</td><td><a href='../aspirations/en-34.html'>Aspiration</a></td><td><a href='../dump-texts/en-34.txt'>Dump</a></td><td><a href='../contextes/en-34.txt'>Contexte</a></td><td><a href='../concordances/en-34.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>      11</td>
 		</tr>
-<tr>
-				<td>35</td><td>https://www.moneyadvicescotland.org.uk/news/money-advice-scotland-featured-in-bbc-disclosure-the-debt-dealers</td><td><a href='../aspirations/en-35.html'>Aspiration</a></td><td><a href='../dump-texts/en-35.txt'>Dump</a></td><td><a href='../contextes/en-35.txt'>Contexte</a></td><td><a href='../concordances/en-35.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>17</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>35</th><td>https://www.moneyadvicescotland.org.uk/news/money-advice-scotland-featured-in-bbc-disclosure-the-debt-dealers</td><td><a href='../aspirations/en-35.html'>Aspiration</a></td><td><a href='../dump-texts/en-35.txt'>Dump</a></td><td><a href='../contextes/en-35.txt'>Contexte</a></td><td><a href='../concordances/en-35.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>      17</td>
 		</tr>
-<tr>
-				<td>36</td><td>https://forum.wordreference.com/threads/claim-your-money-back.2734360/</td><td><a href='../aspirations/en-36.html'>Aspiration</a></td><td><a href='../dump-texts/en-36.txt'>Dump</a></td><td><a href='../contextes/en-36.txt'>Contexte</a></td><td><a href='../concordances/en-36.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>16</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>36</th><td>https://forum.wordreference.com/threads/claim-your-money-back.2734360/</td><td><a href='../aspirations/en-36.html'>Aspiration</a></td><td><a href='../dump-texts/en-36.txt'>Dump</a></td><td><a href='../contextes/en-36.txt'>Contexte</a></td><td><a href='../concordances/en-36.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>      16</td>
 		</tr>
-<tr>
-				<td>37</td><td>https://forum.wordreference.com/threads/has-somebody-ever-eaten-your-money.2242998/</td><td><a href='../aspirations/en-37.html'>Aspiration</a></td><td><a href='../dump-texts/en-37.txt'>Dump</a></td><td><a href='../contextes/en-37.txt'>Contexte</a></td><td><a href='../concordances/en-37.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>24</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>37</th><td>https://forum.wordreference.com/threads/has-somebody-ever-eaten-your-money.2242998/</td><td><a href='../aspirations/en-37.html'>Aspiration</a></td><td><a href='../dump-texts/en-37.txt'>Dump</a></td><td><a href='../contextes/en-37.txt'>Contexte</a></td><td><a href='../concordances/en-37.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>      24</td>
 		</tr>
-<tr>
-				<td>38</td><td>https://www.proz.com/forum/money_matters/285437-receiving_money_via_paypal_good_thing_or_bad_thing.html</td><td><a href='../aspirations/en-38.html'>Aspiration</a></td><td><a href='../dump-texts/en-38.txt'>Dump</a></td><td><a href='../contextes/en-38.txt'>Contexte</a></td><td><a href='../concordances/en-38.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>28</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>38</th><td>https://www.proz.com/forum/money_matters/285437-receiving_money_via_paypal_good_thing_or_bad_thing.html</td><td><a href='../aspirations/en-38.html'>Aspiration</a></td><td><a href='../dump-texts/en-38.txt'>Dump</a></td><td><a href='../contextes/en-38.txt'>Contexte</a></td><td><a href='../concordances/en-38.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>      27</td>
 		</tr>
-<tr>
-				<td>39</td><td>https://www.proz.com/forum/money_matters/318850-rates_for_legal_financial_translation.html</td><td><a href='../aspirations/en-39.html'>Aspiration</a></td><td><a href='../dump-texts/en-39.txt'>Dump</a></td><td><a href='../contextes/en-39.txt'>Contexte</a></td><td><a href='../concordances/en-39.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>9</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>39</th><td>https://www.proz.com/forum/money_matters/318850-rates_for_legal_financial_translation.html</td><td><a href='../aspirations/en-39.html'>Aspiration</a></td><td><a href='../dump-texts/en-39.txt'>Dump</a></td><td><a href='../contextes/en-39.txt'>Contexte</a></td><td><a href='../concordances/en-39.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>       8</td>
 		</tr>
-<tr>
-				<td>40</td><td>https://www.proz.com/forum/money_matters/317620-how_to_recover_my_2700_dollars.html</td><td><a href='../aspirations/en-40.html'>Aspiration</a></td><td><a href='../dump-texts/en-40.txt'>Dump</a></td><td><a href='../contextes/en-40.txt'>Contexte</a></td><td><a href='../concordances/en-40.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>11</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>40</th><td>https://www.proz.com/forum/money_matters/317620-how_to_recover_my_2700_dollars.html</td><td><a href='../aspirations/en-40.html'>Aspiration</a></td><td><a href='../dump-texts/en-40.txt'>Dump</a></td><td><a href='../contextes/en-40.txt'>Contexte</a></td><td><a href='../concordances/en-40.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>      10</td>
 		</tr>
-<tr>
-				<td>41</td><td>https://www.usingenglish.com/forum/threads/foodstuff-with-less-price-is-to-save-more-money.203534/</td><td><a href='../aspirations/en-41.html'>Aspiration</a></td><td><a href='../dump-texts/en-41.txt'>Dump</a></td><td><a href='../contextes/en-41.txt'>Contexte</a></td><td><a href='../concordances/en-41.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>8</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>41</th><td>https://www.usingenglish.com/forum/threads/foodstuff-with-less-price-is-to-save-more-money.203534/</td><td><a href='../aspirations/en-41.html'>Aspiration</a></td><td><a href='../dump-texts/en-41.txt'>Dump</a></td><td><a href='../contextes/en-41.txt'>Contexte</a></td><td><a href='../concordances/en-41.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>       8</td>
 		</tr>
-<tr>
-				<td>42</td><td>https://forum.egosoft.com/viewtopic.php?t=342617</td><td><a href='../aspirations/en-42.html'>Aspiration</a></td><td><a href='../dump-texts/en-42.txt'>Dump</a></td><td><a href='../contextes/en-42.txt'>Contexte</a></td><td><a href='../concordances/en-42.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>9</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>42</th><td>https://forum.egosoft.com/viewtopic.php?t=342617</td><td><a href='../aspirations/en-42.html'>Aspiration</a></td><td><a href='../dump-texts/en-42.txt'>Dump</a></td><td><a href='../contextes/en-42.txt'>Contexte</a></td><td><a href='../concordances/en-42.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>       9</td>
 		</tr>
-<tr>
-				<td>43</td><td>https://forum.giants-software.com/viewtopic.php?t=115589</td><td><a href='../aspirations/en-43.html'>Aspiration</a></td><td><a href='../dump-texts/en-43.txt'>Dump</a></td><td><a href='../contextes/en-43.txt'>Contexte</a></td><td><a href='../concordances/en-43.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>36</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>43</th><td>https://forum.giants-software.com/viewtopic.php?t=115589</td><td><a href='../aspirations/en-43.html'>Aspiration</a></td><td><a href='../dump-texts/en-43.txt'>Dump</a></td><td><a href='../contextes/en-43.txt'>Contexte</a></td><td><a href='../concordances/en-43.html'>Concordancier</a></td><td>200</td><td>UTF-8</td><td>      36</td>
 		</tr>
-<tr>
-				<td>44</td><td>https://www.warriorforum.com/main-internet-marketing-discussion-forum/1047918-how-start-making-money-non-english-speaker.html</td><td><a href='../aspirations/en-44.html'>Aspiration</a></td><td><a href='../dump-texts/en-44.txt'>Dump</a></td><td><a href='../contextes/en-44.txt'>Contexte</a></td><td><a href='../concordances/en-44.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>35</td>
+		</tbody>
+<tbody>
+		<tr>
+				<th>44</th><td>https://www.warriorforum.com/main-internet-marketing-discussion-forum/1047918-how-start-making-money-non-english-speaker.html</td><td><a href='../aspirations/en-44.html'>Aspiration</a></td><td><a href='../dump-texts/en-44.txt'>Dump</a></td><td><a href='../contextes/en-44.txt'>Contexte</a></td><td><a href='../concordances/en-44.html'>Concordancier</a></td><td>200</td><td>utf-8</td><td>      34</td>
 		</tr>
-            </table>
+		</tbody>
+         </table>
         </div>
     </div>
 </body>

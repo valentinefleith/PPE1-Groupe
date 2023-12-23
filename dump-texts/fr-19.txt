@@ -8,122 +8,122 @@
 
      * Emplois et concoursEmplois et concours
      * Salle de presseSalle de presse
-     * Archives et traitÃ©sArchives et traitÃ©s
+     * Archives et traitésArchives et traités
      * FALC
      * Malentendants ? Sourds ? Contactez-nous avec ACCEO
 
-   Choisissez votre langue [FranÃ§ais_____.]
+   Choisissez votre langue [Français]
 
-   Le ministÃ¨re
-   (BUTTON) Fermer le menu 'Le ministÃ¨re'
+   Le ministère
+   (BUTTON) Fermer le menu 'Le ministère'
 
-   Le ministÃ¨re
+   Le ministère
      * Les ministres
-     * Les missions du ministÃ¨re de lâ€™Europe et des Affaires Ã©trangÃ¨res
-     * Les mÃ©tiers de la diplomatie
-     * La diversitÃ© au ministÃ¨re
-     * Lâ€™Ã©galitÃ© femmes - hommes au ministÃ¨re
-     * Plan de transformation numÃ©rique du ministÃ¨re
-     * Le Centre dâ€™analyse, de prÃ©vision et de stratÃ©gie
+     * Les missions du ministère de l'Europe et des Affaires étrangères
+     * Les métiers de la diplomatie
+     * La diversité au ministère
+     * L'égalité femmes - hommes au ministère
+     * Plan de transformation numérique du ministère
+     * Le Centre d'analyse, de prévision et de stratégie
      * Le Centre de crise et de soutien
-     * Lanceurs dâ€™alerte
-     * Le CollÃ¨ge des hautes Ã©tudes de lâ€™Institut diplomatique
-     * PrivilÃ¨ges et immunitÃ©s diplomatiques et consulaires
-     * Les opÃ©rateurs sous la tutelle du ministÃ¨re
+     * Lanceurs d'alerte
+     * Le Collège des hautes études de l'Institut diplomatique
+     * Privilèges et immunités diplomatiques et consulaires
+     * Les opérateurs sous la tutelle du ministère
      * Organisation et annuaires
-     * ReprÃ©sentations Ã©trangÃ¨res en France
-     * MarchÃ©s publics
+     * Représentations étrangères en France
+     * Marchés publics
      * Publications
-     * ActualitÃ©s du ministÃ¨re
+     * Actualités du ministère
      * Bulletin officiel
 
-   AccÃ©der Ã  la rubrique
-   Politique Ã©trangÃ¨re
-   (BUTTON) Fermer le menu 'Politique Ã©trangÃ¨re'
+   Accéder à la rubrique
+   Politique étrangère
+   (BUTTON) Fermer le menu 'Politique étrangère'
 
-   Politique Ã©trangÃ¨re
-     * Action extÃ©rieure des collectivitÃ©s territoriales
-     * Action humanitaire dâ€™urgence
+   Politique étrangère
+     * Action extérieure des collectivités territoriales
+     * Action humanitaire d'urgence
      * Climat et environnement
-     * DÃ©veloppement
+     * Développement
      * Diplomatie culturelle
-     * Diplomatie Ã©conomique et commerce extÃ©rieur
-     * Diplomatie fÃ©ministe
-     * Diplomatie numÃ©rique
+     * Diplomatie économique et commerce extérieur
+     * Diplomatie féministe
+     * Diplomatie numérique
      * Diplomatie scientifique et universitaire
      * Diplomatie sportive
-     * Droits de lâ€™Homme
-     * La France et lâ€™Europe
+     * Droits de l'Homme
+     * La France et l'Europe
      * Enjeux globaux
-     * Francophonie et langue franÃ§aise
+     * Francophonie et langue française
      * Justice internationale
      * La France et les Nations unies
-     * SÃ©curitÃ©, dÃ©sarmement et non-prolifÃ©ration
-     * SociÃ©tÃ© civile et volontariat
+     * Sécurité, désarmement et non-prolifération
+     * Société civile et volontariat
      * Tourisme
-     * ActualitÃ©s et Ã©vÃ¨nements
+     * Actualités et évènements
 
-   AccÃ©der Ã  la rubrique
+   Accéder à la rubrique
    Dossiers pays
    (BUTTON) Fermer le menu 'Dossiers pays'
 
    Dossiers pays
      * AfriqueAfrique
      * Afrique du nord / Moyen-OrientAfrique du nord / Moyen-Orient
-     * AmÃ©riquesAmÃ©riques
+     * AmériquesAmériques
      * AntarctiqueAntarctique
      * ArctiqueArctique
-     * Asie - OcÃ©anieAsie - OcÃ©anie
+     * Asie - OcéanieAsie - Océanie
      * EuropeEurope
      * IndopacifiqueIndopacifique
-     * Politique mÃ©diterranÃ©enne de la FrancePolitique mÃ©diterranÃ©enne de
+     * Politique méditerranéenne de la FrancePolitique méditerranéenne de
        la France
 
-   AccÃ©der Ã  la rubrique
+   Accéder à la rubrique
    Conseils aux Voyageurs
    (BUTTON) Fermer le menu 'Conseils aux Voyageurs'
 
    Conseils aux Voyageurs
      * Conseils par pays/destination
-     * DerniÃ¨res minutes
+     * Dernières minutes
      * Informations pratiques
      * Foire aux questions
 
-   AccÃ©der Ã  la rubrique
-   Services aux FranÃ§ais
-   (BUTTON) Fermer le menu 'Services aux FranÃ§ais'
+   Accéder à la rubrique
+   Services aux Français
+   (BUTTON) Fermer le menu 'Services aux Français'
 
-   Services aux FranÃ§ais
-     * PrÃ©parer son expatriation
-     * Sâ€™inscrire au registre des FranÃ§ais Ã©tablis hors de France
+   Services aux Français
+     * Préparer son expatriation
+     * S'inscrire au registre des Français établis hors de France
      * Ce que le consulat peut faire pour vous
-     * Documents officiels Ã  lâ€™Ã©tranger
-     * LÃ©galisation
-     * Ã‰tat civil et nationalitÃ© franÃ§aise
-     * Adopter Ã  lâ€™Ã©tranger
-     * Voter Ã  lâ€™Ã©tranger
+     * Documents officiels à l'étranger
+     * Légalisation
+     * État civil et nationalité française
+     * Adopter à l'étranger
+     * Voter à l'étranger
      * Conseils aux familles
-     * Comment rÃ©agir en cas dâ€™imprÃ©vu Ã  lâ€™Ã©tranger ?
-     * PrÃ©parer son retour en France
+     * Comment réagir en cas d'imprévu à l'étranger ?
+     * Préparer son retour en France
      * Notariat
-     * Lâ€™action consulaire : missions, chiffres-clÃ©s
-     * Rapport du Gouvernement sur la situation des FranÃ§ais Ã©tablis hors
+     * L'action consulaire : missions, chiffres-clés
+     * Rapport du Gouvernement sur la situation des Français établis hors
        de France
      * Brexit en pratique
 
-   AccÃ©der Ã  la rubrique
+   Accéder à la rubrique
    Venir en France
    (BUTTON) Fermer le menu 'Venir en France'
 
    Venir en France
      * Demander un visa pour la France
      * Visiter la France
-     * Ã‰tudier en France
+     * Étudier en France
      * Entreprendre et investir en France
-     * Lâ€™entrÃ©e dans lâ€™espace Schengen : la future mise en place des
-       systÃ¨mes EES et ETIAS
+     * L'entrée dans l'espace Schengen : la future mise en place des
+       systèmes EES et ETIAS
 
-   AccÃ©der Ã  la rubrique
+   Accéder à la rubrique
 
    Recherche
 
@@ -133,12 +133,12 @@
 
      Informations pratiques
 
-     PrÃ©parer son dÃ©part
+     Préparer son départ
 
      Argent
 
      * (BUTTON) Augmenter la taille de la police
-     * (BUTTON) RÃ©duire la taille de la police
+     * (BUTTON) Réduire la taille de la police
      * Ajouter notre fil RSS
 
 Argent
@@ -153,151 +153,151 @@ Sommaire
 
      * Argent
      * Carte bancaire
-     * Transfert dâ€™argent
+     * Transfert d'argent
 
 Argent
 
-   VÃ©rifier de disposer de moyens de paiement suffisants (liquiditÃ©s,
-   chÃ¨ques de voyage, carte de crÃ©ditâ€¦) pour couvrir les frais de sÃ©jour
+   Vérifier de disposer de moyens de paiement suffisants (liquidités,
+   chèques de voyage, carte de crédit...) pour couvrir les frais de séjour
    et le retour.
 
-   Le montant des retraits par carte bancaire est limitÃ© Ã  une certaine
-   somme par semaine. Se renseigner auprÃ¨s de sa banque avant le dÃ©part.
+   Le montant des retraits par carte bancaire est limité à une certaine
+   somme par semaine. Se renseigner auprès de sa banque avant le départ.
 
-   Pour toute entrÃ©e ou sortie de France de sommes, titres ou valeur dâ€™un
-   montant Ã©gal ou supÃ©rieur Ã  10 000 euros, il convient dâ€™Ã©tablir une
-   dÃ©claration prÃ©alable au bureau des douanes.
+   Pour toute entrée ou sortie de France de sommes, titres ou valeur d'un
+   montant égal ou supérieur à 10 000 euros, il convient d'établir une
+   déclaration préalable au bureau des douanes.
 
    En savoir plus : Bureau des douanes
 
 Carte bancaire
 
-   La carte de paiement est aujourdâ€™hui un moyen de paiement acceptÃ© dans
-   la plupart des pays du monde. Aussi, il nâ€™est pas nÃ©cessaire, dans la
-   majoritÃ© des cas, de transporter dâ€™importantes sommes dâ€™argent liquide.
+   La carte de paiement est aujourd'hui un moyen de paiement accepté dans
+   la plupart des pays du monde. Aussi, il n'est pas nécessaire, dans la
+   majorité des cas, de transporter d'importantes sommes d'argent liquide.
    En cas de besoin, des distributeurs automatiques se trouvent dans la
-   plupart des aÃ©roports et des grandes villes. NÃ©anmoins, le montant des
-   retraits par carte bancaire est limitÃ© Ã  une certaine somme par jour et
-   par semaine. Se renseigner auprÃ¨s de sa banque avant le dÃ©part.
+   plupart des aéroports et des grandes villes. Néanmoins, le montant des
+   retraits par carte bancaire est limité à une certaine somme par jour et
+   par semaine. Se renseigner auprès de sa banque avant le départ.
 
-   En cas de perte ou de vol dâ€™une carte de paiement, il convient de
-   contacter son Ã©tablissement bancaire dans les plus brefs dÃ©lais afin de
+   En cas de perte ou de vol d'une carte de paiement, il convient de
+   contacter son établissement bancaire dans les plus brefs délais afin de
    faire opposition. Voici une liste non exhaustive de contacts utiles
-   pour dÃ©clarer une perte ou un vol de carte :
+   pour déclarer une perte ou un vol de carte :
      * Carte VISA
      * Carte Mastercard
      * Carte American Express
 
-   DiffÃ©rentes cartes de paiement proposent un service dâ€™assistance
-   mÃ©dicale Ã  lâ€™Ã©tranger. Avant de partir, il convient de se renseigner
-   sur les garanties dont le voyageur dispose auprÃ¨s de son Ã©tablissement
+   Différentes cartes de paiement proposent un service d'assistance
+   médicale à l'étranger. Avant de partir, il convient de se renseigner
+   sur les garanties dont le voyageur dispose auprès de son établissement
    bancaire.
 
 Voyage en Zone Euro
 
-   Aucun frais bancaire nâ€™est appliquÃ© sur les paiements par carte et les
-   retraits sont soumis aux mÃªmes conditions tarifaires quâ€™en France.
-   NÃ©anmoins, en cas de visite de zones reculÃ©es, il est conseillÃ© de
-   disposer dâ€™argent liquide. Pour trouver le distributeur le plus proche,
-   il est recommandÃ© dâ€™utiliser les outils de gÃ©olocalisation des
-   distributeurs automatiques de billets proposÃ©s notamment par :
+   Aucun frais bancaire n'est appliqué sur les paiements par carte et les
+   retraits sont soumis aux mêmes conditions tarifaires qu'en France.
+   Néanmoins, en cas de visite de zones reculées, il est conseillé de
+   disposer d'argent liquide. Pour trouver le distributeur le plus proche,
+   il est recommandé d'utiliser les outils de géolocalisation des
+   distributeurs automatiques de billets proposés notamment par :
      * VISA
      * Mastercard
      * American Express
 
-   En paiement comme en retrait, lâ€™utilisation de la carte est aussi
-   sÃ©curisÃ©e au sein de la zone Euro quâ€™en France. Le rÃ¨glement sâ€™effectue
-   de la mÃªme faÃ§on dans la majoritÃ© des pays europÃ©ens : le voyageur
-   insÃ¨re sa carte dans le terminal de paiement et tape son code
-   confidentiel Ã  lâ€™abri des regards.
+   En paiement comme en retrait, l'utilisation de la carte est aussi
+   sécurisée au sein de la zone Euro qu'en France. Le règlement s'effectue
+   de la même façon dans la majorité des pays européens : le voyageur
+   insère sa carte dans le terminal de paiement et tape son code
+   confidentiel à l'abri des regards.
 
 Voyage hors zone euro
 
    Dans un certain nombre de pays, il est possible de payer ou retirer des
-   espÃ¨ces comme en France. Pour certaines destinations, comme les
-   Etats-Unis, la mÃ©thode peut cependant varier. Par exemple, pour le
-   paiement, il est demandÃ© dâ€™apposer sa signature sur le reÃ§u au lieu de
+   espèces comme en France. Pour certaines destinations, comme les
+   Etats-Unis, la méthode peut cependant varier. Par exemple, pour le
+   paiement, il est demandé d'apposer sa signature sur le reçu au lieu de
    composer son code confidentiel sur le lecteur de carte. Pour le
-   retrait, le fonctionnement est souvent similaire Ã  un retrait en
+   retrait, le fonctionnement est souvent similaire à un retrait en
    France.
-   Hors zone Euro, des frais bancaires sâ€™appliquent, ceux-ci varient en
-   fonction des banques. Se renseigner auprÃ¨s de son Ã©tablissement
+   Hors zone Euro, des frais bancaires s'appliquent, ceux-ci varient en
+   fonction des banques. Se renseigner auprès de son établissement
    bancaire avant de partir.
    Guide pratique : utiliser le distributeur automatique en langue
    anglaise
-   Si la langue franÃ§aise nâ€™est pas disponible Ã  un distributeur
-   automatique, il est possible de sÃ©lectionner lâ€™anglais.
-     * Â« Retrait Â» se dit alors Â« withdrawal Â».
-     * Sâ€™il est demandÃ© de choisir entre retirer de lâ€™argent dâ€™un
-       Â« checking account Â» (compte courant), dâ€™un Â« credit account Â»
-       (compte crÃ©dit) ou dâ€™un Â« saving account Â» (compte Ã©pargne),
-       choisir Â« checking account Â».
-     * Entre une opÃ©ration de dÃ©bit ou de crÃ©dit, sÃ©lectionner Â« dÃ©bit Â».
-     * Indiquer le montant (Â« amount Â») souhaitÃ© et valider (Â« enter Â»).
+   Si la langue française n'est pas disponible à un distributeur
+   automatique, il est possible de sélectionner l'anglais.
+     * « Retrait » se dit alors « withdrawal ».
+     * S'il est demandé de choisir entre retirer de l'argent d'un
+       « checking account » (compte courant), d'un « credit account »
+       (compte crédit) ou d'un « saving account » (compte épargne),
+       choisir « checking account ».
+     * Entre une opération de débit ou de crédit, sélectionner « débit ».
+     * Indiquer le montant (« amount ») souhaité et valider (« enter »).
 
-   En cas dâ€™erreur, le seul risque est que la transaction soit refusÃ©e.
+   En cas d'erreur, le seul risque est que la transaction soit refusée.
 
-Transfert dâ€™argent
+Transfert d'argent
 
-   Il est possible de se retrouver Ã  court dâ€™argent lors dâ€™un sÃ©jour Ã 
-   lâ€™Ã©tranger (liquiditÃ©s ou carte de crÃ©dit perdues ou volÃ©es, carte de
-   crÃ©dit rejetÃ©eâ€¦). Lâ€™ambassade ou le consulat de France nâ€™ont pas la
-   possibilitÃ© de consentir une avance dâ€™argent.
+   Il est possible de se retrouver à court d'argent lors d'un séjour à
+   l'étranger (liquidités ou carte de crédit perdues ou volées, carte de
+   crédit rejetée...). L'ambassade ou le consulat de France n'ont pas la
+   possibilité de consentir une avance d'argent.
 
-   Des solutions rapides et sÃ»res pour envoyer ou se faire envoyer de
-   lâ€™argent existent. Il convient de sâ€™adresser Ã  (liste non exhaustive) :
+   Des solutions rapides et sûres pour envoyer ou se faire envoyer de
+   l'argent existent. Il convient de s'adresser à (liste non exhaustive) :
      * Western Union
-          + Depuis la France : 0800 900407 (appel gratuit, de 8h00 Ã 
+          + Depuis la France : 0800 900407 (appel gratuit, de 8h00 à
             23h00)
-          + Depuis lâ€™Ã©tranger : +32 (0)2 639 7105
+          + Depuis l'étranger : +32 (0)2 639 7105
           + Pour les transferts en ligne : www.westernunion.fr
      * MoneyGram
           + Pour les transferts en ligne : www.moneygram.com
 
-   En dernier recours, il est possible de transfÃ©rer une somme dâ€™argent
-   par lâ€™intermÃ©diaire de lâ€™ambassade ou du consulat le plus proche ; il
-   sâ€™agit dâ€™un transfert par voie de chancellerie. Celui-ci peut exiger un
-   dÃ©lai de 3 jours ouvrÃ©s.
+   En dernier recours, il est possible de transférer une somme d'argent
+   par l'intermédiaire de l'ambassade ou du consulat le plus proche ; il
+   s'agit d'un transfert par voie de chancellerie. Celui-ci peut exiger un
+   délai de 3 jours ouvrés.
 
      * Conseils aux Voyageurs
           + Conseils par pays/destination
-          + DerniÃ¨res minutes
+          + Dernières minutes
           + Informations pratiques
-               o PrÃ©parer son dÃ©part
-                    # Fil dâ€™Ariane
-                    # FormalitÃ©s administratives
-                    # SantÃ©
+               o Préparer son départ
+                    # Fil d'Ariane
+                    # Formalités administratives
+                    # Santé
                     # Assurances
                     # Argent
-                    # Transport aÃ©rien
-               o LÃ©gislation
-               o Assistance aux FranÃ§ais
+                    # Transport aérien
+               o Législation
+               o Assistance aux Français
                o Risques
           + Foire aux questions
 
-   Suivre le ministÃ¨re sur les rÃ©seaux sociaux
-     * Notre page Twitter - (nouvelle fenÃªtre)
-     * Notre page Facebook - (nouvelle fenÃªtre)
-     * Notre page Instagram - (nouvelle fenÃªtre)
-     * Notre page Youtube - (nouvelle fenÃªtre)
-     * Notre page Flickr - (nouvelle fenÃªtre)
-     * Notre page Linkedin - (nouvelle fenÃªtre)
+   Suivre le ministère sur les réseaux sociaux
+     * Notre page Twitter - (nouvelle fenêtre)
+     * Notre page Facebook - (nouvelle fenêtre)
+     * Notre page Instagram - (nouvelle fenêtre)
+     * Notre page Youtube - (nouvelle fenêtre)
+     * Notre page Flickr - (nouvelle fenêtre)
+     * Notre page Linkedin - (nouvelle fenêtre)
      * Notre page RSS
-     * Lettres dâ€™information
-     * Notre page Telegram - (nouvelle fenÃªtre)
+     * Lettres d'information
+     * Notre page Telegram - (nouvelle fenêtre)
 
      * Malentendants ? Sourds ? Contactez-nous avec ACCEO
      * FALC
      * Plan du site
-     * Nous Ã©crireNous Ã©crire
+     * Nous écrireNous écrire
      * FAQFAQ
-     * Mentions lÃ©galesMentions lÃ©gales
-     * AccessibilitÃ© : partiellement conformeAccessibilitÃ© : partiellement
+     * Mentions légalesMentions légales
+     * Accessibilité : partiellement conformeAccessibilité : partiellement
        conforme
-     * AccessibilitÃ© des sites du MEAEAccessibilitÃ© des sites du MEAE
+     * Accessibilité des sites du MEAEAccessibilité des sites du MEAE
      * Gestion des cookies
 
-   Tous droits rÃ©servÃ©s - MinistÃ¨re de lâ€™Europe et des Affaires Ã©trangÃ¨res
+   Tous droits réservés - Ministère de l'Europe et des Affaires étrangères
    - 2023
      * service-public.fr
      * legifrance.gouv.fr

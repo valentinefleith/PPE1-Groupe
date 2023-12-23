@@ -1,10 +1,10 @@
 
-     Préparer son départ
+     Pr�parer son d�part
 
      Argent
 
      * (BUTTON) Augmenter la taille de la police
-     * (BUTTON) Réduire la taille de la police
+     * (BUTTON) R�duire la taille de la police
      * Ajouter notre fil RSS
 
 Argent
@@ -17,65 +17,41 @@ Sommaire
 
      * Argent
      * Carte bancaire
-     * Transfert d’argent
+     * Transfert d'argent
 
 Argent
 
-   Vérifier de disposer de moyens de paiement suffisants (liquidités,
-   chèques de voyage, carte de crédit…) pour couvrir les frais de séjour
+   V�rifier de disposer de moyens de paiement suffisants (liquidit�s,
+   ch�ques de voyage, carte de cr�dit...) pour couvrir les frais de s�jour
 --
-
-   La carte de paiement est aujourd’hui un moyen de paiement accepté dans
-   la plupart des pays du monde. Aussi, il n’est pas nécessaire, dans la
-   majorité des cas, de transporter d’importantes sommes d’argent liquide.
-   En cas de besoin, des distributeurs automatiques se trouvent dans la
-   plupart des aéroports et des grandes villes. Néanmoins, le montant des
-   retraits par carte bancaire est limité à une certaine somme par jour et
---
-   Aucun frais bancaire n’est appliqué sur les paiements par carte et les
-   retraits sont soumis aux mêmes conditions tarifaires qu’en France.
-   Néanmoins, en cas de visite de zones reculées, il est conseillé de
-   disposer d’argent liquide. Pour trouver le distributeur le plus proche,
-   il est recommandé d’utiliser les outils de géolocalisation des
-   distributeurs automatiques de billets proposés notamment par :
+   Aucun frais bancaire n'est appliqu� sur les paiements par carte et les
+   retraits sont soumis aux m�mes conditions tarifaires qu'en France.
+   N�anmoins, en cas de visite de zones recul�es, il est conseill� de
+   disposer d'argent liquide. Pour trouver le distributeur le plus proche,
+   il est recommand� d'utiliser les outils de g�olocalisation des
+   distributeurs automatiques de billets propos�s notamment par :
      * VISA
 --
-   Si la langue française n’est pas disponible à un distributeur
-   automatique, il est possible de sélectionner l’anglais.
-     * « Retrait » se dit alors « withdrawal ».
-     * S’il est demandé de choisir entre retirer de l’argent d’un
-       « checking account » (compte courant), d’un « credit account »
-       (compte crédit) ou d’un « saving account » (compte épargne),
-       choisir « checking account ».
+
+   En cas d'erreur, le seul risque est que la transaction soit refus�e.
+
+Transfert d'argent
+
+   Il est possible de se retrouver � court d'argent lors d'un s�jour �
+   l'�tranger (liquidit�s ou carte de cr�dit perdues ou vol�es, carte de
 --
+   possibilit� de consentir une avance d'argent.
 
-   En cas d’erreur, le seul risque est que la transaction soit refusée.
-
-Transfert d’argent
-
-   Il est possible de se retrouver à court d’argent lors d’un séjour à
-   l’étranger (liquidités ou carte de crédit perdues ou volées, carte de
-   crédit rejetée…). L’ambassade ou le consulat de France n’ont pas la
-   possibilité de consentir une avance d’argent.
-
-   Des solutions rapides et sûres pour envoyer ou se faire envoyer de
-   l’argent existent. Il convient de s’adresser à (liste non exhaustive) :
+   Des solutions rapides et s�res pour envoyer ou se faire envoyer de
+   l'argent existent. Il convient de s'adresser � (liste non exhaustive) :
      * Western Union
-          + Depuis la France : 0800 900407 (appel gratuit, de 8h00 à
+          + Depuis la France : 0800 900407 (appel gratuit, de 8h00 �
             23h00)
 --
-     * MoneyGram
-          + Pour les transferts en ligne : www.moneygram.com
-
-   En dernier recours, il est possible de transférer une somme d’argent
-   par l’intermédiaire de l’ambassade ou du consulat le plus proche ; il
-   s’agit d’un transfert par voie de chancellerie. Celui-ci peut exiger un
-   délai de 3 jours ouvrés.
---
-                    # Formalités administratives
-                    # Santé
+                    # Formalit�s administratives
+                    # Sant�
                     # Assurances
                     # Argent
-                    # Transport aérien
-               o Législation
-               o Assistance aux Français
+                    # Transport a�rien
+               o L�gislation
+               o Assistance aux Fran�ais

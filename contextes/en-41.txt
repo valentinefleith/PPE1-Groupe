@@ -43,7 +43,7 @@ foodstuff with less price is to save more money
    When you have foodstuff with less price and at the same time you save
    more money, how do we say that in English? In other words, imagine you
    have a grocery and you want to write that on this board:
-   ​
+   &#8203;
    Click to expand...
 --
    period, they are said to be "on special", or "on sale". For examples,

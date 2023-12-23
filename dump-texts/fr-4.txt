@@ -3,196 +3,184 @@
    Consulter
    le journal
    (BUTTON) Navigation
-   Le Monde - retour Ã  la une
-   Se connecter Se connecter Sâ€™abonner dÃ¨s 5,49 â‚¬/mois
+   Le Monde - retour à la une
+   Se connecter Se connecter S'abonner dès 5,49 EUR/mois
 
      *
-     * Ã€ la une nav_back_to_home
+     * À la une nav_back_to_home
      * En continu
-     * ActualitÃ©s
+     * Actualités
        En ce moment
-          + Guerre IsraÃ«l-Hamas
+          + Loi « immigration »
+          + Guerre Israël-Hamas
           + Guerre en Ukraine
-          + COP28
-          + Projet de loi immigration
-          + AntisÃ©mitisme
+          + Antisémitisme
           + Inflation
           + Jeux olympiques de Paris 2024
-          + Chine
-          + Argentine
-          + Toute lâ€™actualitÃ© en continu
-       ActualitÃ©s
+          + Le rire malgré tout
+          + Toute l'actualité en continu
+       Actualités
           + International
           + Politique
-          + SociÃ©tÃ©
-          + PlanÃ¨te
+          + Société
+          + Planète
           + Climat
           + Le Monde Afrique
-          + Les DÃ©codeurs
+          + Les Décodeurs
           + Sport
           + Education
           + M Campus
-          + SantÃ©
-          + IntimitÃ©s
+          + Santé
+          + Intimités
           + Sciences
           + Pixels
           + Disparitions
           + Le Fil Good
           + Podcasts
           + Le Monde & Vous
-     * Ã‰conomie
-          + Ã‰conomie
-          + Ã‰conomie mondiale
-          + Ã‰conomie franÃ§aise
-          + MÃ©dias
+     * Économie
+          + Économie
+          + Économie mondiale
+          + Économie française
+          + Médias
           + Emploi
           + Argent & placements
-          + Tribunes Ã©co
+          + Tribunes éco
           + Cities
-          + Le Club de lâ€™Ã©conomie
-       A la gare RER Stade de France, le 14 octobre 2023. A la gare RER
-       Stade de France, le 14 octobre 2023.
-       Ã‰conomie
-       Un train sur deux sur le RER B lundi en raison dâ€™un mouvement de
-       grÃ¨ve localisÃ©
-       Epic-Games. Epic-Games. Chronique
-       Article rÃ©servÃ© aux abonnÃ©s
-       Google, Apple vs Epic Games : Â« Le monopole des gÃ©ants du numÃ©rique
-       sâ€™Ã©rode trop doucement Â»
-       Philippe Escande
-       Une ruche dâ€™abeilles, Ã  Saint-Philbert-sur-Risle (Eure), le 12 aoÃ»t
-       2023. Une ruche dâ€™abeilles, Ã  Saint-Philbert-sur-Risle (Eure), le
-       12 aoÃ»t 2023.
+          + Le Club de l'économie
        Chronique
-       Article rÃ©servÃ© aux abonnÃ©s
-       MatiÃ¨res premiÃ¨res : Â« Rayon de soleil pour le miel Â»
-       Laurence Girard
+       Article réservé aux abonnés
+       « La vague montante du caviar chinois déstabilise les marchés »
+       Epic-Games. Epic-Games. Chronique
+       Article réservé aux abonnés
+       Google, Apple vs Epic Games : « Le monopole des géants du numérique
+       s'érode trop doucement »
+       Philippe Escande
+       Les bureaux de Tencent, à Shenzhen, en Chine, le 22 décembre 2023.
+       Les bureaux de Tencent, à Shenzhen, en Chine, le 22 décembre 2023.
+       Chronique
+       Article réservé aux abonnés
+       Jeux vidéo : « Pas de Noël pour Tencent »
+       Philippe Escande
        Tribune
-       Article rÃ©servÃ© aux abonnÃ©s
-       Transport sanitaire : Â« Lâ€™absence de dialogue avec les artisans
-       taxis et de mesures dâ€™accompagnement tÃ©moigne dâ€™une gestion
-       technocratique et centralisÃ©e Â»
-       Pascal Perez
-       Economiste
-     * VidÃ©os
-          + VidÃ©os
-          + Lâ€™actualitÃ©
+       Article réservé aux abonnés
+       « Défendre la richesse des réseaux de manière étendue, c'est aussi
+       enrichir les ressources qu'exploitent les intelligences
+       artificielles »
+       Jean Cattan
+       Secrétaire général du Conseil national du numérique
+     * Vidéos
+          + Vidéos
+          + L'actualité
           + Les explications
-          + EnquÃªtes vidÃ©o
-          + Les mini-sÃ©ries
-       Le prÃ©sident de la COP28, Sultan al-Jaber Ã  DubaÃ¯ le mercredi
-       13 dÃ©cembre 2023 (AP Photo/Peter Dejong) Le prÃ©sident de la COP28,
-       Sultan al-Jaber Ã  DubaÃ¯ le mercredi 13 dÃ©cembre 2023 (AP
-       Photo/Peter Dejong)
-       PlanÃ¨te
-       En images : Ã  la COP28, un rapport final qui mentionne les Ã©nergies
-       fossiles Â« pour la toute premiÃ¨re fois Â»
-       Vladimir Poutine lors de sa confÃ©rence de presse Ã  Moscou, le
-       14 dÃ©cembe 2023 REUTERS/Alexey Pavlishak Vladimir Poutine lors de
-       sa confÃ©rence de presse Ã  Moscou, le 14 dÃ©cembe 2023 REUTERS/Alexey
-       Pavlishak
+          + Enquêtes vidéo
+          + Les mini-séries
+       Le Monde Afrique
+       Article réservé aux abonnés
+       Comment la France a-t-elle été chassée du Sahel ?
        International
-       En images : Vladimir Poutine rÃ©itÃ¨re son objectif en Ukraine
-       SociÃ©tÃ©
-       Â« DubaÃ¯ connexion, comment blanchir cinquante millions de
-       dollars Â» : dÃ©couvrez le troisiÃ¨me Ã©pisode de notre sÃ©rie vidÃ©o
-       Â« Narco Business Â»
+       Israël-Palestine : que veut vraiment le Hamas ?
+       Comprendre en 3 minutes
+       Où en est-on après un an et dix mois de guerre en Ukraine ?
+       Comprendre en trois minutes
        International
-       Bande de Gaza : avant la guerre, un territoire Ã  lâ€™agonie
-     * DÃ©bats
-          + DÃ©bats
+       Bande de Gaza : avant la guerre, un territoire à l'agonie
+     * Débats
+          + Débats
           + Editoriaux
           + Chroniques
-          + EnquÃªtes idÃ©es
+          + Enquêtes idées
           + Notions
-          + Entretiens idÃ©es
+          + Entretiens idées
           + Analyses
           + Tribunes
-       Ã‰ditorial
-       Voiture Ã©lectrique : une dÃ©mocratisation difficile
-       Analyse
-       Article rÃ©servÃ© aux abonnÃ©s
-       La guerre IsraÃ«l-Hamas donne lâ€™occasion Ã  lâ€™Egypte de retrouver une
-       influence diplomatique
-       EnquÃªte
-       Article rÃ©servÃ© aux abonnÃ©s
-       AmÃ©liorer le rÃ©fÃ©rendum pour le rendre enfin Â« dÃ©mocratiquement
-       correct Â»
+       Donald Trump, à Waterloo (Iowa), le 19 décembre 2023. Donald Trump,
+       à Waterloo (Iowa), le 19 décembre 2023.
+       Éditorial
+       Le dilemme des Etats-Unis face à Donald Trump
+       Des activistes climatiques manifestent, le 8 décembre 2023 à Dubai,
+       lors de la COP28 organisée aux Emirats arabes unis. Des activistes
+       climatiques manifestent, le 8 décembre 2023 à Dubai, lors de la
+       COP28 organisée aux Emirats arabes unis.
+       Chronique
+       Article réservé aux abonnés
+       « Pour 2024, nous avons besoin d'un nouveau récit susceptible
+       d'esquisser une transition verte »
+       Marie Charrel
+       Enquête
+       Article réservé aux abonnés
+       La longue histoire de la ménopause
        Tribune
-       Article rÃ©servÃ© aux abonnÃ©s
-       Transport sanitaire : Â« Lâ€™absence de dialogue avec les artisans
-       taxis et de mesures dâ€™accompagnement tÃ©moigne dâ€™une gestion
-       technocratique et centralisÃ©e Â»
-       Pascal Perez
-       Economiste
+       Article réservé aux abonnés
+       « Un vrai débat sur l'immigration ne laisserait pas la définition
+       des objectifs et des priorités à l'extrême droite »
+       Collectif
      * Culture
           + Culture
-          + CinÃ©ma
-          + TÃ©lÃ©vision
+          + Cinéma
+          + Télévision
           + Le Monde des livres
           + Musiques
           + Arts
-          + ScÃ¨nes
-       Entretien
-       Article rÃ©servÃ© aux abonnÃ©s
-       Paul Giamatti, acteur dans Â« Winter Break Â» : Â« Les choses les plus
-       captivantes que jâ€™ai faites concernaient les seconds rÃ´les Â»
-       Denis Kambouchner, Ã  Paris, en 2019. Denis Kambouchner, Ã  Paris, en
-       2019.
+          + Scènes
+       Frank Cassenti, à Tours, lors du festival De l'encre à l'écran, en
+       mars 2005. Frank Cassenti, à Tours, lors du festival De l'encre à
+       l'écran, en mars 2005. Disparitions
+       Article réservé aux abonnés
+       Frank Cassenti, réalisateur engagé et passionné de jazz, est mort
        Le Monde des livres
-       Article rÃ©servÃ© aux abonnÃ©s
-       Denis Kambouchner : Â« Jâ€™ai appris Ã  lire avec Derrida et Ã  Ã©crire
-       avec Descartes Â»
-       sÃ©rie Â« Yosi, lâ€™espion repenti Â», crÃ©Ã©e par Daniel Burman. sÃ©rie
-       Â« Yosi, lâ€™espion repenti Â», crÃ©Ã©e par Daniel Burman.
+       Article réservé aux abonnés
+       « Le Temps du monde », de Francis Wolff : métaphysique de l'énigme
+       ultime
+       Squeezie, lors de son « Interview face cachée » par Hugo Travers
+       (alias HugoDécrypte), sur France 2. Squeezie, lors de son
+       « Interview face cachée » par Hugo Travers (alias HugoDécrypte),
+       sur France 2.
        Culture
-       Article rÃ©servÃ© aux abonnÃ©s
-       Â« Yosi, lâ€™espion repenti Â» sur Prime Video, une histoire mÃ©connue
-       de lâ€™Argentine
-       Une capture dâ€™Ã©cran du compte instagram Â« Miss France Officiel Â»
-       Une capture dâ€™Ã©cran du compte instagram Â« Miss France Officiel Â»
-       TÃ©lÃ©visions & Radio
-       Article rÃ©servÃ© aux abonnÃ©s
-       Â« Pour la premiÃ¨re fois, il y a une miss qui a les cheveux
-       courts Â» : le concours Miss France, la diversitÃ© Ã  tout petits pas
-     * Le GoÃ»t du monde
-          + Le GoÃ»t du monde
-          + Le Monde passe Ã  table
+       « Interview face cachée » sur France 2 : Hugo Travers invite
+       Squeezie, autre star des réseaux sociaux
+       Culture
+       Article réservé aux abonnés
+       Les albums préférés du « Monde » en 2023
+     * Le Goût du monde
+          + Le Goût du monde
+          + Le Monde passe à table
           + Voyage
-          + Design & dÃ©co
+          + Design & déco
           + Mode
-          + BeautÃ©
+          + Beauté
           + Horlogerie & Joaillerie
           + M le mag
-          + Lâ€™Ã©poque
-       Le GoÃ»t du Monde
-       Un pays, des envies, cinq possibilitÃ©s : lâ€™Allemagne
-       Guillaume Laidet, Ã  Paris, en juin 2023. Guillaume Laidet, Ã  Paris,
-       en juin 2023.
-       Le GoÃ»t du Monde
-       Guillaume Laidet, maÃ®tre des horloges
-       Le Monde passe Ã  table
-       La casserole japonaise, chauds bouillons
-       Mathilde BlÃ©zat, Ã  Maseille en 2022. Mathilde BlÃ©zat, Ã  Maseille en
-       2022. Entretien
-       Article rÃ©servÃ© aux abonnÃ©s
-       Mathilde BlÃ©zat, journaliste : Â« Avec lâ€™autodÃ©fense fÃ©ministe,
-       lâ€™objectif est de casser le sentiment de vulnÃ©rabilitÃ© des femmes Â»
+          + L'époque
+       Le Goût du Monde
+       Peut-on mixer les parfums au pif ?
+       Le Goût du Monde
+       Article réservé aux abonnés
+       La cuisine du partage, un art du vivre ensemble
+       L'accueil de la coopérative Nicolas Feuillatte, à Chouilly (Marne).
+       L'accueil de la coopérative Nicolas Feuillatte, à Chouilly (Marne).
+       Le Monde passe à table
+       Article réservé aux abonnés
+       L'irrésistible ascension du champagne Nicolas Feuillatte
+       Enquête
+       Article réservé aux abonnés
+       Soirées prestigieuses, promoteurs et champagne à volonté : « Dans
+       le carré VIP, les filles sont du bétail »
      * Services
        Services Le Monde
           + Les ateliers du Monde
-          + MÃ©morable : amÃ©liorer sa culture gÃ©nÃ©rale
-          + Mots croisÃ©s / Sudokus
-          + Guides dâ€™achat
+          + Mémorable : améliorer sa culture générale
+          + Mots croisés / Sudokus
+          + Guides d'achat
           + Boutique Le Monde
           + Newsletters
        Services partenaires
-          + Cours dâ€™anglais
+          + Cours d'anglais
           + Formation professionnelle
           + Jardinage
-          + Jeux dâ€™Arcade
+          + Jeux d'Arcade
           + Paroles de chansons
-          + Cours dâ€™italien
+          + Cours d'italien
           + Formation en audiovisuel
        Service Codes Promo
           + Codes Promo
@@ -205,725 +193,732 @@
           + Codes Promo Cdiscount
           + Codes Promo Uber Eats
           + Codes Promo NordVPN
-       SupplÃ©ments partenaires
-          + Lâ€™occasion, une valeur durable
+       Suppléments partenaires
+          + L'occasion, une valeur durable
           + Entreprendre, innover, initier
-          + Futurs dÃ©sirables
-          + PrÃªts pour demain
-          + La technologie au service de la sÃ©curitÃ©
-          + Des piÃ¨ces pour les fÃªtes
+          + Futurs désirables
+          + Prêts pour demain
+          + La technologie au service de la sécurité
+          + Des pièces pour les fêtes
+          + La Macif engagée pour la jeunesse
+          + Copenhague capitale mondiale de l'architecture en 2023
           + Gestion des cookies
      * Recherche
 
-     * Ã‰conomie
+     * Économie
 
                               Argent & Placements
 
    [ ]
 
-   Immobilier Bourse Assurance vie Ã‰pargne retraite ImpÃ´ts CrÃ©dits Livrets
-   d'Ã©pargne MarchÃ© de l'art Question Ã  un expert Vie quotidienne Famille
-   Les grands prix de la finance solidaire PhilatÃ©lie au quotidien
+   Immobilier Bourse Assurance vie Épargne retraite Impôts Crédits Livrets
+   d'épargne Marché de l'art Question à un expert Vie quotidienne Famille
+   Les grands prix de la finance solidaire Philatélie au quotidien
 
-   Retraite complÃ©mentaire : que change la fin du bonus-malus ? Retraite
-   complÃ©mentaire : que change la fin du bonus-malus ? Article rÃ©servÃ© Ã 
-   nos abonnÃ©s
+   Immobilier : comment investir dans l'hôtellerie ? Immobilier : comment
+   investir dans l'hôtellerie ? Article réservé à nos abonnés
 
-  Retraite complÃ©mentaire : que change la fin du bonus-malus ?
+  Immobilier : comment investir dans l'hôtellerie ?
 
-   Faudra-t-il ouvrir un PEL au nouveau taux de 2,25 % ? Faudra-t-il
-   ouvrir un PEL au nouveau taux de 2,25 % ? Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Panneaux photovoltaïques : ce qu'il faut savoir avant de se lancer
+   Panneaux photovoltaïques : ce qu'il faut savoir avant de se lancer
+   Article réservé à nos abonnés
 
-  Faudra-t-il ouvrir un PEL au nouveau taux de 2,25 % ?
+  Panneaux photovoltaïques : ce qu'il faut savoir avant de se lancer
 
-   GrÃ¢ce au PER, rÃ©duire son imposition en Ã©tant prÃ©voyant GrÃ¢ce au PER,
-   rÃ©duire son imposition en Ã©tant prÃ©voyant Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Masque fang de valeur : les premiers propriétaires ne peuvent annuler
+   leur vente Masque fang de valeur : les premiers propriétaires ne
+   peuvent annuler leur vente Article réservé à nos abonnés
 
-  GrÃ¢ce au PER, rÃ©duire son imposition en Ã©tant prÃ©voyant
+  Masque fang de valeur : les premiers propriétaires ne peuvent annuler leur
+  vente
 
-   Des virements instantanÃ©s bientÃ´t gratuits partout ? Des virements
-   instantanÃ©s bientÃ´t gratuits partout ? Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Cashback : quand votre carte bancaire vous rapporte de l'argent
+   Cashback : quand votre carte bancaire vous rapporte de l'argent Article
+   réservé à nos abonnés
 
-  Des virements instantanÃ©s bientÃ´t gratuits partout ?
+  Cashback : quand votre carte bancaire vous rapporte de l'argent
 
-  Article rÃ©servÃ© Ã  nos abonnÃ©s Banques : des tarifs en hausse en 2024, mais pas
-  au niveau de lâ€™inflation
+  Article réservé à nos abonnés Banques : des tarifs en hausse en 2024, mais pas
+  au niveau de l'inflation
 
-   Ã‰dition du jour
+   Édition du jour
 
-   DatÃ© du lundi 18 dÃ©cembre
-   Lire le journal numÃ©rique
+   Daté du mardi 26 décembre
+   Lire le journal numérique
 
    [svg%3E]
 
    Cours du soir
 
-   Affinez vos connaissances avec FranÃ§oise Barbe-Gall, historienne de
-   lâ€™art.
+   Affinez vos connaissances avec Françoise Barbe-Gall, historienne de
+   l'art.
 
-   DÃ©couvrir
+   Découvrir
 
    [svg%3E]
 
-   Mots croisÃ©s
+   Mots croisés
 
-   DÃ©couvrez chaque jour une nouvelle grille de mots croisÃ©s.
+   Découvrez chaque jour une nouvelle grille de mots croisés.
 
    Jouer
 
-   Explications
+   Article réservé à nos abonnés
 
-Peut-on faire un prÃªt sans intÃ©rÃªt Ã  lâ€™un de ses enfants ?
+Le crowdfunding immobilier traverse sa première tempête
 
-   Alors que le coÃ»t du crÃ©dit sâ€™est renchÃ©ri, le prÃªt familial est une
-   option, mais il convient de respecter certaines obligations, dÃ©taille
-   CÃ©cile Dupain, notaire associÃ©e Ã  lâ€™Ã©tude KL Conseil.
+   Dix ans après ses débuts en France, le financement participatif
+   immobilier est en difficultés. Après avoir surfé sur un marché
+   florissant, ce placement alternatif est impacté par la baisse des
+   ventes et des prix.
 
-   PubliÃ© aujourdâ€™hui Ã  06h00 CÃ©cile Dupain
+   Publié aujourd'hui à 06h00 Laurence Boccara
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Reportage Article réservé à nos abonnés
 
-Avec le bijou dâ€™artiste, sâ€™offrir une Å“uvre Ã  un prix abordable
+Dans les vignes et les chais d'Occitanie, quelques raisons à la colère
 
-   Plus accessible que celui des Å“uvres dâ€™art, ce marchÃ© reste stable,
-   portÃ© par lâ€™engouement rÃ©cent pour la joaillerie Â« couture Â».
+   Face à une baisse générale de la consommation, une inflation galopante
+   et un recul des exportations, la filière viticole de la région, en
+   crise, tente de se réorganiser.
 
-   PubliÃ© hier Ã  06h00 Roxana Azimi
+   Publié le 21 décembre 2023 à 16h00 Philippe Gagnebet
+
+   Chronique Article réservé à nos abonnés
+
+La mutuelle, le salaire et les négociations annuelles obligatoires
+
+   Si les salariés perçoivent les dispositifs de prévention santé ou de
+   prévoyance comme un avantage, ils ne les assimilent pas à une
+   rémunération, lors des négociations annuelles obligatoires (NAO),
+   explique la journaliste du « Monde » Anne Rodier dans sa chronique.
+
+   Publié le 19 décembre 2023 à 08h50 Anne Rodier
+
+   Reportage Article réservé à nos abonnés
+
+Le grand retour du préfabriqué dans la construction
+
+   Massification du bas carbone, finitions de qualité, délais raccourcis,
+   meilleures conditions de travail... Le hors-site, qui consiste à
+   préparer des éléments en usine avant leur assemblage sur le chantier,
+   doit permettre de répondre aux défis du secteur.
+
+   Publié le 19 décembre 2023 à 06h15, modifié le 19 décembre 2023 à 10h10
+   Emeline Cazi
+
+   Article réservé à nos abonnés
+
+Immobilier : la réforme du prêt à taux zéro n'entrera pas en vigueur en
+janvier 2024
+
+   La version élargie du prêt à taux zéro devrait être disponible entre
+   début février et début avril 2024.
+
+   Publié le 19 décembre 2023 à 06h00, modifié le 19 décembre 2023 à 11h03
+   Agnès Lambert
+
+   Article réservé à nos abonnés
+
+Culture financière : où en sont les Français ?
+
+   Sur les questions d'argent, les Français sont... moyens, confirme une
+   nouvelle étude, qui sacre les Allemands. Pour améliorer le niveau
+   général, une initiation à l'éducation financière sera désormais
+   obligatoire dans toutes les classes de 4e.
+
+   Publié le 18 décembre 2023 à 16h00 Aurélie Blondel
+
+   Chronique Article réservé à nos abonnés
+
+Quand des cadeaux de Noël permettent de déshériter un enfant
+
+   Un héritier s'estimant discriminé depuis la révélation de son
+   homosexualité réclame en vain l'intégration à la succession de
+   427 500 euros d'étrennes versées à ses frères et soeurs.
+
+   Publié le 18 décembre 2023 à 06h00 Rafaële Rivais
+
+   Tribune Article réservé à nos abonnés
+
+« Le législateur devrait proposer une formule de calcul de la participation
+spécifique pour les entreprises de moins de 50 salariés »
+
+   L'économiste et juriste Nicolas Cuzacq dénonce, dans une tribune au
+   « Monde », la fausse ambition de la loi du 29 novembre 2023 concernant
+   le partage de la valeur au sein des PME et des très petites
+   entreprises.
+
+   Publié le 18 décembre 2023 à 06h00 Nicolas Cuzacq
+
+   Article réservé à nos abonnés
+
+Avec le bijou d'artiste, s'offrir une oeuvre à un prix abordable
+
+   Plus accessible que celui des oeuvres d'art, ce marché reste stable,
+   porté par l'engouement récent pour la joaillerie « couture ».
+
+   Publié le 16 décembre 2023 à 06h00 Roxana Azimi
 
 La Bourse de Paris repasse au-dessus des 7 500 points, au plus haut depuis
 avril
 
    Les valeurs du luxe, poids lourd de la cote parisienne, ont largement
-   progressÃ© vendredi, bÃ©nÃ©ficiant des preuves de rÃ©silience de lâ€™Ã©conomie
-   amÃ©ricaine, un marchÃ© important pour le secteur.
+   progressé vendredi, bénéficiant des preuves de résilience de l'économie
+   américaine, un marché important pour le secteur.
 
-   PubliÃ© le 15 dÃ©cembre 2023 Ã  21h55 Le Monde avec AFP
+   Publié le 15 décembre 2023 à 21h55 Le Monde avec AFP
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Explications Article réservé à nos abonnés
 
-Le groupe Lazard sâ€™associe au fonds Elaia pour investir dans les start-up
-franÃ§aises
+Retraite complémentaire : que change la fin du bonus-malus ?
 
-   Les deux partenaires vont crÃ©er une structure commune dÃ©tenue en
-   majoritÃ© par Lazard.
+   L'accord des partenaires sociaux qui gèrent l'Agirc-Arrco, le régime de
+   retraite complémentaire des salariés, entre en vigueur.
 
-   PubliÃ© le 14 dÃ©cembre 2023 Ã  17h26, modifiÃ© le 14 dÃ©cembre 2023 Ã  18h46
+   Publié le 15 décembre 2023 à 06h00, modifié le 15 décembre 2023 à 09h49
+   Nathalie Cheysson-Kaplan
+
+   Article réservé à nos abonnés
+
+Le groupe Lazard s'associe au fonds Elaia pour investir dans les start-up
+françaises
+
+   Les deux partenaires vont créer une structure commune détenue en
+   majorité par Lazard.
+
+   Publié le 14 décembre 2023 à 17h26, modifié le 14 décembre 2023 à 18h46
    Vincent Fagot
 
-   Chronique Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Chronique Article réservé à nos abonnés
 
-Eclatement de Vivendi : Â« Lâ€™opÃ©ration est la reconnaissance dâ€™un Ã©chec
-stratÃ©gique, celui de constituer un grand groupe de mÃ©dias unifiÃ© Â»
+Eclatement de Vivendi : « L'opération est la reconnaissance d'un échec
+stratégique, celui de constituer un grand groupe de médias unifié »
 
-   En bon financier, Vincent BollorÃ©, qui Ã©tudie la mise en Bourse de ses
-   filiales, va extraire une valeur supplÃ©mentaire de ces actifs. La
-   stratÃ©gie financiÃ¨re de court terme a encore de beaux jours devant
-   elle, estime Philippe Escande, Ã©ditorialiste Ã©conomique au Â« Monde Â».
+   En bon financier, Vincent Bolloré, qui étudie la mise en Bourse de ses
+   filiales, va extraire une valeur supplémentaire de ces actifs. La
+   stratégie financière de court terme a encore de beaux jours devant
+   elle, estime Philippe Escande, éditorialiste économique au « Monde ».
 
-   PubliÃ© le 14 dÃ©cembre 2023 Ã  11h30, modifiÃ© le 14 dÃ©cembre 2023 Ã  16h45
+   Publié le 14 décembre 2023 à 11h30, modifié le 14 décembre 2023 à 16h45
    Philippe Escande
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Explications Article réservé à nos abonnés
 
-La loi sur le mÃ©cÃ©nat fÃªte ses 20 ans en attendant un enrichissement
+Faudra-t-il ouvrir un PEL au nouveau taux de 2,25 % ?
 
-   Jean-Jacques Aillagon, ancien ministre de la culture et Ã  lâ€™initiative
-   du texte, propose dâ€™y intÃ©grer le bÃ©nÃ©volat et dâ€™affecter Ã  chaque
-   citoyen un crÃ©dit dâ€™impÃ´t destinÃ© Ã  la cause de son choix.
+   Les plans d'épargne-logement ouverts à partir du 1er janvier 2024
+   rapporteront 2,25 % brut. C'est moins que le Livret A, mais ce produit
+   réglementé permettra d'emprunter, dans quatre ans, au taux de 3,45 %
+   pour financer sa résidence principale.
 
-   PubliÃ© le 12 dÃ©cembre 2023 Ã  16h14 Nicole Vulser
+   Publié le 14 décembre 2023 à 09h40, modifié le 14 décembre 2023 à 12h33
+   Agnès Lambert
 
-   EnquÃªte Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Article réservé à nos abonnés
 
-Le prÃ©sident de la SociÃ©tÃ© des amis du Louvre sur la sellette
+Grâce au PER, réduire son imposition en étant prévoyant
 
-   Le prÃ©sident de lâ€™association, Louis-Antoine Prat, qui pourrait briguer
-   un troisiÃ¨me mandat en 2024, est accusÃ© dâ€™antisÃ©mitisme par un marchand
-   parisien Ã  la suite de la publication dâ€™un recueil de nouvelles.
+   Les versements réalisés sur un plan d'épargne-retraite sont déductibles
+   des revenus imposables. Plus votre tranche marginale d'imposition est
+   élevée, plus l'économie sera grande.
 
-   PubliÃ© le 12 dÃ©cembre 2023 Ã  15h27, modifiÃ© le 13 dÃ©cembre 2023 Ã  10h03
+   Publié le 14 décembre 2023 à 06h00, modifié le 14 décembre 2023 à 10h19
+   Aurélie Fardeau
+
+   Article réservé à nos abonnés
+
+Des virements instantanés bientôt gratuits partout ?
+
+   De nombreuses banques facturent ces opérations exécutées en moins de
+   dix secondes. Elles seront bientôt incitées par l'Union européenne à
+   revoir leur tarification.
+
+   Publié le 13 décembre 2023 à 06h00 Agnès Lambert
+
+   Article réservé à nos abonnés
+
+La loi sur le mécénat fête ses 20 ans en attendant un enrichissement
+
+   Jean-Jacques Aillagon, ancien ministre de la culture et à l'initiative
+   du texte, propose d'y intégrer le bénévolat et d'affecter à chaque
+   citoyen un crédit d'impôt destiné à la cause de son choix.
+
+   Publié le 12 décembre 2023 à 16h14 Nicole Vulser
+
+   Enquête Article réservé à nos abonnés
+
+Le président de la Société des amis du Louvre sur la sellette
+
+   Le président de l'association, Louis-Antoine Prat, qui pourrait briguer
+   un troisième mandat en 2024, est accusé d'antisémitisme par un marchand
+   parisien à la suite de la publication d'un recueil de nouvelles.
+
+   Publié le 12 décembre 2023 à 15h27, modifié le 13 décembre 2023 à 10h03
    Roxana Azimi
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Article réservé à nos abonnés
 
-Les SCPI sans droits dâ€™entrÃ©e sont-elles vraiment moins chÃ¨res ?
+Les SCPI sans droits d'entrée sont-elles vraiment moins chères ?
 
-   La plupart des fonds prÃ©voient une commission de souscription comprise
+   La plupart des fonds prévoient une commission de souscription comprise
    entre 7 % et 12 %. Quelques nouveaux venus cassent les prix mais
-   affichent des frais de gestion supÃ©rieurs.
+   affichent des frais de gestion supérieurs.
 
-   PubliÃ© le 12 dÃ©cembre 2023 Ã  06h00 AgnÃ¨s Lambert
+   Publié le 12 décembre 2023 à 06h00 Agnès Lambert
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Article réservé à nos abonnés
 
 Immobilier : des prix et des transactions en baisse
 
    Les prix baissent dans les grandes villes, sauf autour du bassin
-   mÃ©diterranÃ©en, mais cela ne compense pas la perte du pouvoir dâ€™achat
-   liÃ©e aux taux dâ€™intÃ©rÃªt Ã©levÃ©s.
+   méditerranéen, mais cela ne compense pas la perte du pouvoir d'achat
+   liée aux taux d'intérêt élevés.
 
-   PubliÃ© le 11 dÃ©cembre 2023 Ã  16h00, modifiÃ© le 12 dÃ©cembre 2023 Ã  13h04
+   Publié le 11 décembre 2023 à 16h00, modifié le 12 décembre 2023 à 13h04
    Nathalie Coulaud
 
-   Ã‰ditorial Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Éditorial Article réservé à nos abonnés
 
-BaromÃ¨tre des tarifs 2024 : des banques en ligne compÃ©titives
+Baromètre des tarifs 2024 : des banques en ligne compétitives
 
-   Â« Le Monde Â» publie en exclusivitÃ© lâ€™Ã©tude rÃ©alisÃ©e par Panorabanques,
-   qui dÃ©taille les coÃ»ts annuels facturÃ©s Ã  sept profils de clients.
+   « Le Monde » publie en exclusivité l'étude réalisée par Panorabanques,
+   qui détaille les coûts annuels facturés à sept profils de clients.
 
-   PubliÃ© le 11 dÃ©cembre 2023 Ã  08h00 Le Monde
+   Publié le 11 décembre 2023 à 08h00 Le Monde
 
-   Chronique Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Article réservé à nos abonnés
+
+Banques : des tarifs en hausse en 2024, mais pas au niveau de l'inflation
+
+   Les prix augmenteront en moyenne de 2,4 % dans les banques
+   traditionnelles, selon l'étude annuelle Panorabanques-« Le Monde ». Nos
+   sept profils de clients débourseront entre 31 et 255 euros.
+
+   Publié le 11 décembre 2023 à 06h00, modifié le 11 décembre 2023 à 11h35
+   Agnès Lambert
+
+   Chronique Article réservé à nos abonnés
 
 Mediator : les victimes ont plus de temps pour demander leur indemnisation
 
-   Ceux qui rÃ©clament lâ€™indemnisation de leur prÃ©judice corporel sans
-   attendre le procÃ¨s pÃ©nal lointain ne peuvent se voir opposer des dÃ©lais
+   Ceux qui réclament l'indemnisation de leur préjudice corporel sans
+   attendre le procès pénal lointain ne peuvent se voir opposer des délais
    de prescription courts, juge la Cour de cassation.
 
-   PubliÃ© le 11 dÃ©cembre 2023 Ã  06h00, modifiÃ© le 11 dÃ©cembre 2023 Ã  14h11
-   RafaÃ«le Rivais
+   Publié le 11 décembre 2023 à 06h00, modifié le 11 décembre 2023 à 14h11
+   Rafaële Rivais
 
    Explications
 
 Cumul emploi-retraite ou retraite progressive, comment choisir ?
 
-   Deux dispositifs permettent de toucher Ã  la fois ses pensions et des
-   revenus dâ€™activitÃ©, dÃ©taille FranÃ§oise Kleinbauer, PDG du cabinet de
+   Deux dispositifs permettent de toucher à la fois ses pensions et des
+   revenus d'activité, détaille Françoise Kleinbauer, PDG du cabinet de
    conseil France Retraite.
 
-   PubliÃ© le 10 dÃ©cembre 2023 Ã  06h00 FranÃ§oise Kleinbauer
+   Publié le 10 décembre 2023 à 06h00 Françoise Kleinbauer
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Article réservé à nos abonnés
 
-Des fonds dâ€™investissement dÃ©volus aux Ã©nergies renouvelables
+Des fonds d'investissement dévolus aux énergies renouvelables
 
-   Le nombre de fonds spÃ©cialisÃ©s sur cette thÃ©matique ne cesse de
-   sâ€™Ã©toffer pour les Ã©pargnants, notamment sur le segment du capital
+   Le nombre de fonds spécialisés sur cette thématique ne cesse de
+   s'étoffer pour les épargnants, notamment sur le segment du capital
    investissement.
 
-   PubliÃ© le 09 dÃ©cembre 2023 Ã  08h00 Romain Thomas
+   Publié le 09 décembre 2023 à 08h00 Romain Thomas
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Article réservé à nos abonnés
 
 Tableaux anciens : place aux artistes femmes
 
-   Le marchÃ©, qui pÃ¢tit dâ€™une rarÃ©faction croissante des Å“uvres Ã  vendre,
-   rÃ©compense les plus originales, en bon Ã©tat, de prÃ©fÃ©rence signÃ©es par
+   Le marché, qui pâtit d'une raréfaction croissante des oeuvres à vendre,
+   récompense les plus originales, en bon état, de préférence signées par
    des femmes.
 
-   PubliÃ© le 09 dÃ©cembre 2023 Ã  07h00 Roxana Azimi
+   Publié le 09 décembre 2023 à 07h00 Roxana Azimi
 
-   Analyse Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Analyse Article réservé à nos abonnés
 
-En 2023, coup de froid sur le marchÃ© de lâ€™art
+En 2023, coup de froid sur le marché de l'art
 
-   MalgrÃ© une pluie de records en novembre, le volume des ventes est en
-   recul par rapport Ã  2022.
+   Malgré une pluie de records en novembre, le volume des ventes est en
+   recul par rapport à 2022.
 
-   PubliÃ© le 09 dÃ©cembre 2023 Ã  07h00 Roxana Azimi
+   Publié le 09 décembre 2023 à 07h00 Roxana Azimi
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Article réservé à nos abonnés
 
-Investir dans un chÃ¢teau : un achat coup de cÅ“ur rarement rentable
+Investir dans un château : un achat coup de coeur rarement rentable
 
-   Si certains de ces monuments historiques peuvent Ãªtre relativement
-   accessibles Ã  lâ€™achat, leur entretien se rÃ©vÃ¨le trÃ¨s coÃ»teux.
+   Si certains de ces monuments historiques peuvent être relativement
+   accessibles à l'achat, leur entretien se révèle très coûteux.
 
-   PubliÃ© le 08 dÃ©cembre 2023 Ã  06h00, modifiÃ© le 08 dÃ©cembre 2023 Ã  15h14
+   Publié le 08 décembre 2023 à 06h00, modifié le 08 décembre 2023 à 15h14
    Laurence Boccara
 
-Assurance auto : le gouvernement acte la fin de la vignette verte Ã  partir
-dâ€™avril 2024
+Assurance auto : le gouvernement acte la fin de la vignette verte à partir
+d'avril 2024
 
-   La non-apposition de la vignette et la non-prÃ©sentation de
-   lâ€™attestation sont actuellement (et jusquâ€™au 1er avril) sanctionnÃ©es
-   dâ€™une amende de 35 euros.
+   La non-apposition de la vignette et la non-présentation de
+   l'attestation sont actuellement (et jusqu'au 1er avril) sanctionnées
+   d'une amende de 35 euros.
 
-   PubliÃ© le 07 dÃ©cembre 2023 Ã  19h09 Le Monde avec AFP
+   Publié le 07 décembre 2023 à 19h09 Le Monde avec AFP
 
-   Chronique Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Chronique Article réservé à nos abonnés
 
 La finance peut-elle devenir plus vertueuse ?
 
-   Si le secteur nâ€™est pas capable de changer spontanÃ©ment, la rÃ©gulation
-   permet de limiter ses excÃ¨s rÃ©currents et de contribuer Ã  son
-   verdissement. Mais il reste beaucoup Ã  faire.
+   Si le secteur n'est pas capable de changer spontanément, la régulation
+   permet de limiter ses excès récurrents et de contribuer à son
+   verdissement. Mais il reste beaucoup à faire.
 
-   PubliÃ© le 07 dÃ©cembre 2023 Ã  07h00, modifiÃ© le 07 dÃ©cembre 2023 Ã  15h00
+   Publié le 07 décembre 2023 à 07h00, modifié le 07 décembre 2023 à 15h00
    Marie Charrel
 
-   Explications Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Explications Article réservé à nos abonnés
 
-Epargne durable : comment se lancer, en quatre Ã©tapes
+Epargne durable : comment se lancer, en quatre étapes
 
-   Sâ€™assurer que ses placements ne favorisent pas le dÃ©veloppement
-   dâ€™entreprises contraires Ã  vos valeurs, voire quâ€™ils contribuent Ã 
-   financer des changements sociÃ©taux qui vous importent, est un processus
+   S'assurer que ses placements ne favorisent pas le développement
+   d'entreprises contraires à vos valeurs, voire qu'ils contribuent à
+   financer des changements sociétaux qui vous importent, est un processus
    complexe.
 
-   PubliÃ© le 07 dÃ©cembre 2023 Ã  06h00, modifiÃ© le 07 dÃ©cembre 2023 Ã  14h54
-   AurÃ©lie Blondel
+   Publié le 07 décembre 2023 à 06h00, modifié le 07 décembre 2023 à 14h54
+   Aurélie Blondel
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Article réservé à nos abonnés
 
-Croyez-vous au pouvoir de lâ€™argent ? Une enquÃªte dÃ©cortique le rapport des
-FranÃ§ais Ã  leur banque
+Croyez-vous au pouvoir de l'argent ? Une enquête décortique le rapport des
+Français à leur banque
 
-   Certains estiment que leur argent, bien placÃ©, peut contribuer Ã 
-   rÃ©parer la sociÃ©tÃ©, dâ€™autres nâ€™y croient pas du toutâ€¦ Mais la situation
-   nâ€™est pas si simple, note le dernier Observatoire du sens de lâ€™argent,
-   une Ã©tude publiÃ©e en mars.
+   Certains estiment que leur argent, bien placé, peut contribuer à
+   réparer la société, d'autres n'y croient pas du tout... Mais la
+   situation n'est pas si simple, note le dernier Observatoire du sens de
+   l'argent, une étude publiée en mars.
 
-   PubliÃ© le 06 dÃ©cembre 2023 Ã  18h00, modifiÃ© le 07 dÃ©cembre 2023 Ã  14h56
-   AurÃ©lie Blondel
+   Publié le 06 décembre 2023 à 18h00, modifié le 07 décembre 2023 à 14h56
+   Aurélie Blondel
 
-   Explications Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Explications Article réservé à nos abonnés
 
-Que faire si jâ€™ai reÃ§u un avis de taxe dâ€™habitation (ou de taxe sur les
+Que faire si j'ai reçu un avis de taxe d'habitation (ou de taxe sur les
 logements vacants) par erreur ?
 
-   Les contribuables ont jusquâ€™au 20 dÃ©cembre pour payer la taxe
-   dâ€™habitation relative Ã  leur rÃ©sidence secondaire.
+   Les contribuables ont jusqu'au 20 décembre pour payer la taxe
+   d'habitation relative à leur résidence secondaire.
 
-   PubliÃ© le 06 dÃ©cembre 2023 Ã  06h00, modifiÃ© le 06 dÃ©cembre 2023 Ã  11h51
+   Publié le 06 décembre 2023 à 06h00, modifié le 06 décembre 2023 à 11h51
    Nathalie Cheysson-Kaplan
 
-   Analyse Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Analyse Article réservé à nos abonnés
 
-Transition Ã©cologique, placements Ã©thiques : lâ€™Ã©pargne contribue-t-elle Ã 
-transformer la sociÃ©tÃ© ?
+Transition écologique, placements éthiques : l'épargne contribue-t-elle à
+transformer la société ?
 
-   Par leurs placements, les mÃ©nages peuvent participer Ã  financer la
-   transition Ã©cologique et Ã  rÃ©pondre Ã  dâ€™autres grands dÃ©fis coÃ»teux.
-   Mais les pouvoirs de lâ€™Ã©pargne se heurtent en pratique Ã  une sÃ©rie
-   dâ€™obstacles.
+   Par leurs placements, les ménages peuvent participer à financer la
+   transition écologique et à répondre à d'autres grands défis coûteux.
+   Mais les pouvoirs de l'épargne se heurtent en pratique à une série
+   d'obstacles.
 
-   PubliÃ© le 06 dÃ©cembre 2023 Ã  05h15, modifiÃ© le 06 dÃ©cembre 2023 Ã  09h58
-   AurÃ©lie Blondel
+   Publié le 06 décembre 2023 à 05h15, modifié le 06 décembre 2023 à 09h58
+   Aurélie Blondel
 
    Podcast
 
-Climat : comment rÃ©ussir la rÃ©novation des logements ?
+Climat : comment réussir la rénovation des logements ?
 
-   Pour mener Ã  bien le chantier du siÃ¨cle, il faut plus dâ€™investissement
-   dans la formation et une rÃ©flexion sur les matÃ©riaux, souligne
-   Christine Leconte, prÃ©sidente de lâ€™ordre des architectes, dans cet
-   Ã©pisode du podcast Â« Chaleur humaine Â».
+   Pour mener à bien le chantier du siècle, il faut plus d'investissement
+   dans la formation et une réflexion sur les matériaux, souligne
+   Christine Leconte, présidente de l'ordre des architectes, dans cet
+   épisode du podcast « Chaleur humaine ».
 
-   PubliÃ© le 05 dÃ©cembre 2023 Ã  08h00, modifiÃ© le 05 dÃ©cembre 2023 Ã  15h57
+   Publié le 05 décembre 2023 à 08h00, modifié le 05 décembre 2023 à 15h57
    Nabil Wakim
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Article réservé à nos abonnés
 
 Epargne-retraite : comment bien choisir son PER
 
-   Frais et qualitÃ© des investissements sont les deux critÃ¨res
-   indispensables Ã  Ã©tudier avant de souscrire un plan dâ€™Ã©pargne-retraite.
-   Le reste dÃ©pend de vos prioritÃ©s.
+   Frais et qualité des investissements sont les deux critères
+   indispensables à étudier avant de souscrire un plan d'épargne-retraite.
+   Le reste dépend de vos priorités.
 
-   PubliÃ© le 05 dÃ©cembre 2023 Ã  06h00, modifiÃ© le 05 dÃ©cembre 2023 Ã  10h24
-   AurÃ©lie Fardeau
+   Publié le 05 décembre 2023 à 06h00, modifié le 05 décembre 2023 à 10h24
+   Aurélie Fardeau
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Article réservé à nos abonnés
 
-Plus dâ€™un millier dâ€™arrestations dans le monde aprÃ¨s une opÃ©ration
-antiblanchiment menÃ©e par les Pays-Bas
+Plus d'un millier d'arrestations dans le monde après une opération
+antiblanchiment menée par les Pays-Bas
 
-   Les services policiers et judiciaires mobilisÃ©s depuis le mois de juin
-   ont identifiÃ© 10 736 transactions frauduleuses. Selon Europol,
-   lâ€™opÃ©ration a permis dâ€™Ã©viter la dissimulation de 32 millions dâ€™euros.
+   Les services policiers et judiciaires mobilisés depuis le mois de juin
+   ont identifié 10 736 transactions frauduleuses. Selon Europol,
+   l'opération a permis d'éviter la dissimulation de 32 millions d'euros.
 
-   PubliÃ© le 04 dÃ©cembre 2023 Ã  23h35, modifiÃ© le 04 dÃ©cembre 2023 Ã  23h37
+   Publié le 04 décembre 2023 à 23h35, modifié le 04 décembre 2023 à 23h37
    Jean-Pierre Stroobants
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Article réservé à nos abonnés
 
-Nouveaux assouplissements ciblÃ©s pour le crÃ©dit immobilier
+Nouveaux assouplissements ciblés pour le crédit immobilier
 
-   Le Haut Conseil de stabilitÃ© financiÃ¨re a dÃ©cidÃ©, lundi 4 dÃ©cembre,
-   dâ€™ajuster Ã  la marge les rÃ¨gles encadrant les emprunts afin de faire
-   repartir le marchÃ©.
+   Le Haut Conseil de stabilité financière a décidé, lundi 4 décembre,
+   d'ajuster à la marge les règles encadrant les emprunts afin de faire
+   repartir le marché.
 
-   PubliÃ© le 04 dÃ©cembre 2023 Ã  16h28 Marc Angrand
+   Publié le 04 décembre 2023 à 16h28 Marc Angrand
 
-   DÃ©cryptage Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Décryptage Article réservé à nos abonnés
 
-LBO : la grande panne des fonds dâ€™investissement
+LBO : la grande panne des fonds d'investissement
 
-   De janvier Ã  septembre, les fonds dâ€™investissement ont vendu pour
-   225 milliards dâ€™euros dâ€™actifs dans le monde, selon Dealogic, soit une
-   chute de 51 % par rapport Ã  la mÃªme pÃ©riode en 2022.
+   De janvier à septembre, les fonds d'investissement ont vendu pour
+   225 milliards d'euros d'actifs dans le monde, selon Dealogic, soit une
+   chute de 51 % par rapport à la même période en 2022.
 
-   PubliÃ© le 04 dÃ©cembre 2023 Ã  13h00 Isabelle Chaperon
+   Publié le 04 décembre 2023 à 13h00 Isabelle Chaperon
 
-   Chronique Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Chronique Article réservé à nos abonnés
 
-Immobilier : quand lâ€™acheteur dâ€™un logement refuse le prÃªt de la banque
+Immobilier : quand l'acheteur d'un logement refuse le prêt de la banque
 
-   Lâ€™acquÃ©reur ne doit pas payer de clause pÃ©nale sâ€™il dÃ©cline une offre
-   de crÃ©dit infÃ©rieure au montant maximal prÃ©vu dans le contrat, juge la
+   L'acquéreur ne doit pas payer de clause pénale s'il décline une offre
+   de crédit inférieure au montant maximal prévu dans le contrat, juge la
    Cour de cassation.
 
-   PubliÃ© le 04 dÃ©cembre 2023 Ã  07h16, modifiÃ© le 04 dÃ©cembre 2023 Ã  07h16
-   RafaÃ«le Rivais
+   Publié le 04 décembre 2023 à 07h16, modifié le 04 décembre 2023 à 07h16
+   Rafaële Rivais
 
    Explications
 
-Quelles prÃ©cautions pour donner de lâ€™argent aux enfants et aux petits-enfants
-Ã  NoÃ«l ?
+Quelles précautions pour donner de l'argent aux enfants et aux petits-enfants
+à Noël ?
 
    Mieux vaut garder la preuve de la date du don et faire en sorte que
-   celui-ci demeure Â« modeste Â», explique GrÃ©gory Dumont, avocat associÃ©
+   celui-ci demeure « modeste », explique Grégory Dumont, avocat associé
    chez CMS Francis Lefebvre Avocats.
 
-   PubliÃ© le 03 dÃ©cembre 2023 Ã  06h00 GrÃ©gory Dumont
+   Publié le 03 décembre 2023 à 06h00 Grégory Dumont
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Article réservé à nos abonnés
 
-Couples sÃ©parÃ©s : Â« Le pÃ¨re de mon fils gagne quatre fois mon salaire Â»
+Couples séparés : « Le père de mon fils gagne quatre fois mon salaire »
 
-   De nombreux anciens conjoints connaissent des situations financiÃ¨res
-   inÃ©gales. Ce dÃ©sÃ©quilibre entraÃ®ne souvent crispations et tensions pour
-   les dÃ©penses liÃ©es aux enfants, au risque parfois dâ€™Ã©branler la
-   confiance du parent le plus prÃ©caire.
+   De nombreux anciens conjoints connaissent des situations financières
+   inégales. Ce déséquilibre entraîne souvent crispations et tensions pour
+   les dépenses liées aux enfants, au risque parfois d'ébranler la
+   confiance du parent le plus précaire.
 
-   PubliÃ© le 03 dÃ©cembre 2023 Ã  05h15 Tiphaine Thuillier
+   Publié le 03 décembre 2023 à 05h15 Tiphaine Thuillier
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Article réservé à nos abonnés
 
-Lâ€™intelligence artificielle attise lâ€™appÃ©tit des fonds dâ€™investissement
+L'intelligence artificielle attise l'appétit des fonds d'investissement
 
    Compte tenu des perspectives de croissance du secteur, les
-   investisseurs aussi misent sur lâ€™intelligence artificielle et des fonds
-   spÃ©cialisÃ©s sur cette thÃ©matique ont vu le jour ces derniÃ¨res annÃ©es.
+   investisseurs aussi misent sur l'intelligence artificielle et des fonds
+   spécialisés sur cette thématique ont vu le jour ces dernières années.
 
-   PubliÃ© le 02 dÃ©cembre 2023 Ã  06h00 Romain Thomas
+   Publié le 02 décembre 2023 à 06h00 Romain Thomas
 
-   DÃ©cryptage Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Décryptage Article réservé à nos abonnés
 
-Le lent dÃ©blocage des verrous du crÃ©dit immobilier
+Le lent déblocage des verrous du crédit immobilier
 
-   La demande de prÃªts reste affaiblie mÃªme si les banques relancent des
-   offres. Et le dÃ©bat sur lâ€™encadrement des prÃªts continue.
+   La demande de prêts reste affaiblie même si les banques relancent des
+   offres. Et le débat sur l'encadrement des prêts continue.
 
-   PubliÃ© le 01 dÃ©cembre 2023 Ã  21h25, modifiÃ© le 05 dÃ©cembre 2023 Ã  12h08
+   Publié le 01 décembre 2023 à 21h25, modifié le 05 décembre 2023 à 12h08
    Marc Angrand
 
-   Explications Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Explications Article réservé à nos abonnés
 
-Le nombre de villes concernÃ©es par lâ€™encadrement des loyers devrait tripler
-dans les mois Ã  venir
+Le nombre de villes concernées par l'encadrement des loyers devrait tripler
+dans les mois à venir
 
-   La liste des villes oÃ¹ les loyers sont encadrÃ©s sâ€™allonge. Les
-   professionnels de lâ€™immobilier craignent un dÃ©couragement des
+   La liste des villes où les loyers sont encadrés s'allonge. Les
+   professionnels de l'immobilier craignent un découragement des
    bailleurs.
 
-   PubliÃ© le 01 dÃ©cembre 2023 Ã  06h00, modifiÃ© le 01 dÃ©cembre 2023 Ã  15h02
+   Publié le 01 décembre 2023 à 06h00, modifié le 01 décembre 2023 à 15h02
    Nathalie Coulaud
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Article réservé à nos abonnés
 
-Ce qui change le 1áµ‰Ê³ dÃ©cembre pour votre budget, et les Ã©chÃ©ances fiscales Ã 
+Ce qui change le 1<r> décembre pour votre budget, et les échéances fiscales à
 ne pas oublier avant fin 2023
 
-   Le malus sur les retraites Agirc-Arrco est en partie supprimÃ© et une
-   aide financiÃ¨re voit le jour pour les victimes de violences conjugales.
-   Quant au taux maximal des crÃ©dits immobiliers, il augmente Ã  nouveau.
+   Le malus sur les retraites Agirc-Arrco est en partie supprimé et une
+   aide financière voit le jour pour les victimes de violences conjugales.
+   Quant au taux maximal des crédits immobiliers, il augmente à nouveau.
 
-   PubliÃ© le 30 novembre 2023 Ã  18h00 AurÃ©lie Blondel
+   Publié le 30 novembre 2023 à 18h00 Aurélie Blondel
 
-   DÃ©cryptage Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Décryptage Article réservé à nos abonnés
 
-Immobilier Ã  Paris : les prix passent sous la barre symbolique des
-10 000 euros le mÃ¨tre carrÃ©
+Immobilier à Paris : les prix passent sous la barre symbolique des
+10 000 euros le mètre carré
 
-   Dâ€™aprÃ¨s les indicateurs avancÃ©s des notaires, le prix des appartements
-   dans la capitale devrait sâ€™Ã©tablir en janvier 2024 Ã  9 760 euros le
-   mÃ¨tre carrÃ©, en recul de 6,3 % sur un an.
+   D'après les indicateurs avancés des notaires, le prix des appartements
+   dans la capitale devrait s'établir en janvier 2024 à 9 760 euros le
+   mètre carré, en recul de 6,3 % sur un an.
 
-   PubliÃ© le 30 novembre 2023 Ã  17h41, modifiÃ© le 01 dÃ©cembre 2023 Ã  13h11
-   VÃ©ronique Chocron
+   Publié le 30 novembre 2023 à 17h41, modifié le 01 décembre 2023 à 13h11
+   Véronique Chocron
 
-   Tribune Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Tribune Article réservé à nos abonnés
 
-Â« Si les propriÃ©taires privÃ©s peinent Ã  gÃ©rer leurs forÃªts, câ€™est avant tout
-faute de rentabilitÃ© Â»
+« Si les propriétaires privés peinent à gérer leurs forêts, c'est avant tout
+faute de rentabilité »
 
-   Erwan Le MÃ©nÃ©, professionnel du secteur forestier, critique, dans une
-   tribune au Â« Monde Â», les mesures envisagÃ©es par le plan national pour
-   le renouvellement forestier, destinÃ© Ã  contraindre les 3,5 millions de
-   propriÃ©taires privÃ©s Ã  exploiter leurs parcelles.
+   Erwan Le Méné, professionnel du secteur forestier, critique, dans une
+   tribune au « Monde », les mesures envisagées par le plan national pour
+   le renouvellement forestier, destiné à contraindre les 3,5 millions de
+   propriétaires privés à exploiter leurs parcelles.
 
-   PubliÃ© le 30 novembre 2023 Ã  17h15 Erwan Le MÃ©nÃ©
+   Publié le 30 novembre 2023 à 17h15 Erwan Le Méné
 
-   Tribune Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Tribune Article réservé à nos abonnés
 
-Â« Des milliers de personnes sont spoliÃ©es par la rÃ©forme des pensions
-dâ€™invaliditÃ© Â»
+« Des milliers de personnes sont spoliées par la réforme des pensions
+d'invalidité »
 
-   La rÃ©forme du cumul entre pension dâ€™invaliditÃ© et revenus
-   professionnels implique la rÃ©duction, voire la suspension, des pensions
-   de certains bÃ©nÃ©ficiaires. Dans une tribune au Â« Monde Â», un collectif
-   de responsables associatifs appelle le gouvernement Ã  revenir sur ces
+   La réforme du cumul entre pension d'invalidité et revenus
+   professionnels implique la réduction, voire la suspension, des pensions
+   de certains bénéficiaires. Dans une tribune au « Monde », un collectif
+   de responsables associatifs appelle le gouvernement à revenir sur ces
    dispositions.
 
-   PubliÃ© le 30 novembre 2023 Ã  17h00, modifiÃ© le 01 dÃ©cembre 2023 Ã  00h49
+   Publié le 30 novembre 2023 à 17h00, modifié le 01 décembre 2023 à 00h49
    Collectif
 
-   Explications Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Explications Article réservé à nos abonnés
 
-Les pompes Ã  chaleur, trÃ¨s en vogue, sont-elles toujours la bonne option ?
+Les pompes à chaleur, très en vogue, sont-elles toujours la bonne option ?
 
-   Les pompes Ã  chaleur devraient se dÃ©velopper encore dans les annÃ©es Ã 
-   venir, Ã  la faveur notamment dâ€™une hausse des aides financiÃ¨res
-   accordÃ©es Ã  leur installation. Mais des prÃ©cautions sâ€™imposent avant de
+   Les pompes à chaleur devraient se développer encore dans les années à
+   venir, à la faveur notamment d'une hausse des aides financières
+   accordées à leur installation. Mais des précautions s'imposent avant de
    se lancer.
 
-   PubliÃ© le 30 novembre 2023 Ã  06h00 Nathalie Coulaud
+   Publié le 30 novembre 2023 à 06h00 Nathalie Coulaud
 
-   Explications Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Explications Article réservé à nos abonnés
 
-Pourquoi le plan dâ€™Ã©pargne-retraite peut aussi Ãªtre un outil de transmission
+Pourquoi le plan d'épargne-retraite peut aussi être un outil de transmission
 
-   Si vous nâ€™utilisez pas les capitaux logÃ©s dans votre plan
-   dâ€™Ã©pargne-retraite, ils seront transmis. Peu favorable Ã  premiÃ¨re vue,
-   la fiscalitÃ© du PER lors du dÃ©cÃ¨s sâ€™avÃ¨re dans certains cas finalement
+   Si vous n'utilisez pas les capitaux logés dans votre plan
+   d'épargne-retraite, ils seront transmis. Peu favorable à première vue,
+   la fiscalité du PER lors du décès s'avère dans certains cas finalement
    avantageuse.
 
-   PubliÃ© le 29 novembre 2023 Ã  06h00, modifiÃ© le 29 novembre 2023 Ã  10h42
-   AurÃ©lie Fardeau
+   Publié le 29 novembre 2023 à 06h00, modifié le 29 novembre 2023 à 10h42
+   Aurélie Fardeau
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Article réservé à nos abonnés
 
-Affaire Helvet Immo : condamnation confirmÃ©e en appel pour une filiale de BNP
+Affaire Helvet Immo : condamnation confirmée en appel pour une filiale de BNP
 Paribas
 
-   Reconnue coupable de Â« pratique commerciale trompeuse Â» et Â« recel Â»,
+   Reconnue coupable de « pratique commerciale trompeuse » et « recel »,
    BNP Paribas Personal Finance doit indemniser des centaines de clients.
 
-   PubliÃ© le 28 novembre 2023 Ã  17h10, modifiÃ© le 28 novembre 2023 Ã  17h31
+   Publié le 28 novembre 2023 à 17h10, modifié le 28 novembre 2023 à 17h31
    Marc Angrand
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Article réservé à nos abonnés
 
-La crise de lâ€™immobilier rejaillit sur lâ€™assurance-vie
+La crise de l'immobilier rejaillit sur l'assurance-vie
 
-   La sociÃ©tÃ© civile immobiliÃ¨re Capimmo, leader du secteur, a dÃ©crochÃ© de
-   prÃ¨s de 12 % depuis le dÃ©but de lâ€™annÃ©e. Ses dÃ©boires pourraient
-   entraÃ®ner un sentiment de dÃ©fiance Ã  lâ€™Ã©gard de lâ€™ensemble du secteur.
+   La société civile immobilière Capimmo, leader du secteur, a décroché de
+   près de 12 % depuis le début de l'année. Ses déboires pourraient
+   entraîner un sentiment de défiance à l'égard de l'ensemble du secteur.
 
-   PubliÃ© le 28 novembre 2023 Ã  06h30 AurÃ©lie Fardeau
+   Publié le 28 novembre 2023 à 06h30 Aurélie Fardeau
 
-   Chronique Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Chronique Article réservé à nos abonnés
 
-Arnaques Ã  lâ€™assurance de tÃ©lÃ©phone portable : une victime surendettÃ©e
+Arnaques à l'assurance de téléphone portable : une victime surendettée
 obtient gain de cause en justice
 
-   Un tribunal condamne la sociÃ©tÃ© Hubside, ex-SFAM, Ã  rembourser les
-   sommes quâ€™elle avait prÃ©levÃ©es, en vertu dâ€™un contrat inexistant.
+   Un tribunal condamne la société Hubside, ex-SFAM, à rembourser les
+   sommes qu'elle avait prélevées, en vertu d'un contrat inexistant.
 
-   PubliÃ© le 28 novembre 2023 Ã  06h00 RafaÃ«le Rivais
+   Publié le 28 novembre 2023 à 06h00 Rafaële Rivais
 
-   Chronique Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Chronique Article réservé à nos abonnés
 
-La justice sanctionne les banques en retard sur lâ€™authentification forte des
+La justice sanctionne les banques en retard sur l'authentification forte des
 paiements en ligne
 
-   Le client victime de paiements frauduleux doit Ãªtre remboursÃ© si son
-   Ã©tablissement bancaire nâ€™a pas mis en place Ã  temps un systÃ¨me de
+   Le client victime de paiements frauduleux doit être remboursé si son
+   établissement bancaire n'a pas mis en place à temps un système de
    double identification.
 
-   PubliÃ© le 27 novembre 2023 Ã  06h00, modifiÃ© le 27 novembre 2023 Ã  13h07
-   RafaÃ«le Rivais
+   Publié le 27 novembre 2023 à 06h00, modifié le 27 novembre 2023 à 13h07
+   Rafaële Rivais
 
    Explications
 
-Assurance-vie : peut-on modifier sa clause bÃ©nÃ©ficiaire Ã  tout moment ?
+Assurance-vie : peut-on modifier sa clause bénéficiaire à tout moment ?
 
-   Dans certaines circonstances, il peut Ãªtre risquÃ© de changer le ou les
-   bÃ©nÃ©ficiaires de son contrat dâ€™assurance-vie, explique ValÃ©rie Bentz,
-   responsable des Ã©tudes patrimoniales Ã  lâ€™Union financiÃ¨re de France.
+   Dans certaines circonstances, il peut être risqué de changer le ou les
+   bénéficiaires de son contrat d'assurance-vie, explique Valérie Bentz,
+   responsable des études patrimoniales à l'Union financière de France.
 
-   PubliÃ© le 26 novembre 2023 Ã  06h00 ValÃ©rie Bentz
+   Publié le 26 novembre 2023 à 06h00 Valérie Bentz
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Article réservé à nos abonnés
 
-La ville de Blois visÃ©e par une enquÃªte prÃ©liminaire pour soupÃ§ons de
-dÃ©tournements de fonds
+La ville de Blois visée par une enquête préliminaire pour soupçons de
+détournements de fonds
 
-   AccusÃ©e de procÃ©der Ã  une Â« grande braderie Â» de son patrimoine, la
-   ville fait lâ€™objet dâ€™une enquÃªte prÃ©liminaire pour avoir cÃ©dÃ©, pour
-   80 000 euros, un terrain qui a coÃ»tÃ© plusieurs millions dâ€™argent
+   Accusée de procéder à une « grande braderie » de son patrimoine, la
+   ville fait l'objet d'une enquête préliminaire pour avoir cédé, pour
+   80 000 euros, un terrain qui a coûté plusieurs millions d'argent
    public.
 
-   PubliÃ© le 25 novembre 2023 Ã  09h55, modifiÃ© le 26 novembre 2023 Ã  19h34
+   Publié le 25 novembre 2023 à 09h55, modifié le 26 novembre 2023 à 19h34
    Jordan Pouille
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Article réservé à nos abonnés
 
-Clap de fin pour le plan dâ€™Ã©pargne-retraite des mineurs
+Clap de fin pour le plan d'épargne-retraite des mineurs
 
-   A partir de 2024, il devrait Ãªtre interdit dâ€™ouvrir un plan
-   dâ€™Ã©pargne-retraite pour un mineur. Bercy veut faire place nette pour
-   son nouveau plan dâ€™Ã©pargne avenir climat, dÃ©diÃ© aux jeunes.
+   A partir de 2024, il devrait être interdit d'ouvrir un plan
+   d'épargne-retraite pour un mineur. Bercy veut faire place nette pour
+   son nouveau plan d'épargne avenir climat, dédié aux jeunes.
 
-   PubliÃ© le 25 novembre 2023 Ã  06h00 AurÃ©lie Fardeau
+   Publié le 25 novembre 2023 à 06h00 Aurélie Fardeau
 
-   Tribune Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Tribune Article réservé à nos abonnés
 
-Â« Lâ€™immobilier et les infrastructures ont Ã©tÃ© financiarisÃ©s Ã  mesure de la
-place croissante quâ€™y occupe la finance de marchÃ© Â»
+« L'immobilier et les infrastructures ont été financiarisés à mesure de la
+place croissante qu'y occupe la finance de marché »
 
-   Les chercheurs Antoine Guironnet et Ludovic Halbert dÃ©crivent, dans une
-   tribune au Â« Monde Â», lâ€™irrÃ©sistible ascension du secteur de la
-   Â« gestion dâ€™actifs immobiliers Â», qui reprÃ©sente aujourdâ€™hui
-   11 000 milliards dâ€™euros dâ€™actifs Ã  lâ€™Ã©chelle mondiale.
+   Les chercheurs Antoine Guironnet et Ludovic Halbert décrivent, dans une
+   tribune au « Monde », l'irrésistible ascension du secteur de la
+   « gestion d'actifs immobiliers », qui représente aujourd'hui
+   11 000 milliards d'euros d'actifs à l'échelle mondiale.
 
-   PubliÃ© le 24 novembre 2023 Ã  12h15, modifiÃ© le 24 novembre 2023 Ã  15h06
+   Publié le 24 novembre 2023 à 12h15, modifié le 24 novembre 2023 à 15h06
    Antoine Guironnet Ludovic Halbert
 
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
+   Article réservé à nos abonnés
 
-Le gouvernement sâ€™engage Ã  faire adopter une loi Â« grand Ã¢ge Â» en 2024
+Le gouvernement s'engage à faire adopter une loi « grand âge » en 2024
 
-   Un rapport du ministÃ¨re de la santÃ© Ã©value Ã  4,6 milliards dâ€™euros le
-   coÃ»t dâ€™une rÃ©forme qui imposerait un effectif de six soignants pour dix
-   rÃ©sidents en Ehpad.
+   Un rapport du ministère de la santé évalue à 4,6 milliards d'euros le
+   coût d'une réforme qui imposerait un effectif de six soignants pour dix
+   résidents en Ehpad.
 
-   PubliÃ© le 24 novembre 2023 Ã  11h33, modifiÃ© le 24 novembre 2023 Ã  13h21
-   BÃ©atrice JÃ©rÃ´me
-
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
-
-RÃ©ductions ou dÃ©ductions dâ€™impÃ´t, le point sur les principaux dispositifs en
-matiÃ¨re de placements
-
-   Tradition de fin dâ€™annÃ©e parmi dâ€™autres, les contribuables se voient
-   proposer des placements dÃ©fiscalisants pour allÃ©ger leur impÃ´t sur le
-   revenu : Ã©pargne retraite, investissement dans les PME, dans le cinÃ©ma,
-   etc.
-
-   PubliÃ© le 24 novembre 2023 Ã  06h30 Laurence Boccara
-
-   DÃ©cryptage Article rÃ©servÃ© Ã  nos abonnÃ©s
-
-DÃ©fiscalisation de fin dâ€™annÃ©e : pourquoi la mÃ©fiance est de mise
-
-   En matiÃ¨re de placements, cÃ©der aux sirÃ¨nes de la dÃ©fiscalisation
-   rÃ©serve parfois de mauvaises surprises. Outre un blocage des sommes
-   pour plusieurs annÃ©es, le retour sur investissement peut dÃ©cevoir, et
-   les risques ne sont pas toujours compris.
-
-   PubliÃ© le 24 novembre 2023 Ã  06h00 Laurence Boccara
-
-Proposition de loi Â« bien vieillir Â» : les dÃ©putÃ©s adoptent largement le
-texte en premiÃ¨re lecture
-
-   La proposition de loi portÃ©e par Renaissance, Â« pour bÃ¢tir la sociÃ©tÃ©
-   du bien vieillir Â», a Ã©tÃ© approuvÃ©e par 116 voix contre 31. Seuls les
-   groupes communiste et Â« insoumis Â» ont votÃ© contre, quand Les
-   RÃ©publicains nâ€™ont pas pris part au vote.
-
-   PubliÃ© le 23 novembre 2023 Ã  22h44, modifiÃ© le 23 novembre 2023 Ã  23h09
-   Le Monde avec AFP
-
-Erreurs de taxe dâ€™habitation : Bruno Le Maire reconnaÃ®t Â« un bug Â» et assure
-que Â« la correction sera automatique Â»
-
-   Depuis le dÃ©but du mois, des milliers de personnes ont reÃ§u par erreur
-   des avis de taxes dâ€™habitation, notamment des mineurs pour une
-   Â« rÃ©sidence secondaire Â» qui serait le domicile de leurs parents.
-
-   PubliÃ© le 23 novembre 2023 Ã  17h34 Le Monde avec AFP
-
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
-
-Messagerie IRL : un nouveau caillou dans la chaussure de SoftBank ?
-
-   Des cofondateurs de la start-up amÃ©ricaine, qui a dÃ» fermer en juin,
-   ont portÃ© plainte contre lâ€™un de ses investisseurs, le fonds Vision
-   Fund du conglomÃ©rat japonais SoftBank, lui reprochant un Â« mensonge
-   flagrant et scandaleux Â» afin de la Â« dÃ©truire Â».
-
-   PubliÃ© le 23 novembre 2023 Ã  09h22, modifiÃ© le 23 novembre 2023 Ã  09h54
-   Vincent Fagot
-
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
-
-Assurance-vie : câ€™est lâ€™heure du grand mÃ©nage dans les unitÃ©s de compte
-
-   Le rÃ©gulateur a demandÃ© aux assureurs de passer en revue leur catalogue
-   dâ€™unitÃ©s de compte (les supports non garantis de lâ€™assurance-vie) pour
-   Ã©liminer les produits dont le rapport qualitÃ©-prix laisse Ã  dÃ©sirer en
-   raison de frais trop Ã©levÃ©s.
-
-   PubliÃ© le 23 novembre 2023 Ã  06h00 AurÃ©lie Fardeau
-
-Timbres : un bloc de quatre du 1 franc vermillon en vente chez Roumet
-
-   1 franc vermillon, 1 centime noir sur bleu de Prusse, Â« Paul en
-   Arlequin Â» sans sa valeur facialeâ€¦ Les bonnes piÃ¨ces ne manquent pas
-   dans cette vente de fin dâ€™annÃ©e.
-
-   PubliÃ© le 22 novembre 2023 Ã  19h00 Le Monde
-
-   Article rÃ©servÃ© Ã  nos abonnÃ©s
-
-Offres Â« vertes Â» chez les fournisseurs dâ€™Ã©nergie : quelles garanties ?
-
-   Pour lâ€™Ã©lectricitÃ©, un label de lâ€™Agence de la transition Ã©cologique,
-   baptisÃ© Â« VertVolt Â», distingue deux niveaux dâ€™engagement.
-
-   PubliÃ© le 22 novembre 2023 Ã  08h00, modifiÃ© le 23 novembre 2023 Ã  10h12
-   Nathalie Coulaud
-
-   Explications Article rÃ©servÃ© Ã  nos abonnÃ©s
-
-Gaz, Ã©lectricitÃ© : comment comparer les offres pour optimiser ses factures
-
-   Changer de fournisseur dâ€™Ã©nergie pour rÃ©aliser des Ã©conomies peut Ãªtre
-   intÃ©ressantâ€¦ Ã  condition de ne pas regarder uniquement le prix de base
-   et dâ€™Ãªtre attentif Ã  son Ã©volution future, ainsi quâ€™Ã  la qualitÃ© du
-   service.
-
-   PubliÃ© le 22 novembre 2023 Ã  06h00 Nathalie Coulaud
-
-   EnquÃªte Article rÃ©servÃ© Ã  nos abonnÃ©s
-
-En Ã©cole de commerce, lâ€™endettement des Ã©tudiants sâ€™aggrave : Â« Je nâ€™ai pas
-le droit Ã  lâ€™erreur et plus vraiment de flexibilitÃ© dans le choix de mon
-orientation Â»
-
-   La hausse des frais de scolaritÃ© en Ã©cole de commerce et lâ€™inflation
-   ont fait flamber le montant moyen des prÃªts Ã©tudiants : une sacrÃ©e
-   pression sur les Ã©paules de ces jeunes, bloquÃ©s sâ€™ils veulent se
-   rÃ©orienter.
-
-   PubliÃ© le 22 novembre 2023 Ã  05h00, modifiÃ© le 22 novembre 2023 Ã  20h32
-   Iris DerÅ“ux
-
-   En graphiques Article rÃ©servÃ© Ã  nos abonnÃ©s
-
-Le Livret A cale, le Livret dâ€™Ã©pargne populaire sâ€™emballe
-
-   Le Livret A, dont le taux de rÃ©munÃ©ration a Ã©tÃ© gelÃ© Ã  3 %
-   jusquâ€™en 2025, a perdu 3,77 milliards dâ€™euros dâ€™Ã©pargne en octobre.
-   Accessible sous condition de revenus, le Livret dâ€™Ã©pargne populaire
-   frÃ´le les 5 milliards de collecte.
-
-   PubliÃ© le 21 novembre 2023 Ã  18h45, modifiÃ© le 21 novembre 2023 Ã  19h21
-   AurÃ©lie Blondel
-
-   Explications Article rÃ©servÃ© Ã  nos abonnÃ©s
-
-Assurance-vie : des bonus un peu trop sÃ©duisants
-
-   Les campagnes promotionnelles se multiplient. Mais avant de cÃ©der aux
-   sirÃ¨nes de ces taux boostÃ©s, validez leur pertinence.
-
-   PubliÃ© le 21 novembre 2023 Ã  06h00 AurÃ©lie Fardeau
+   Publié le 24 novembre 2023 à 11h33, modifié le 24 novembre 2023 à 13h21
+   Béatrice Jérôme
    (BUTTON) Voir plus
 
    1 2
@@ -933,10 +928,10 @@ Assurance-vie : des bonus un peu trop sÃ©duisants
   Services Le Monde
 
      * Les ateliers du Monde
-     * MÃ©morable : travailler sa mÃ©moire
-     * Mots croisÃ©s
+     * Mémorable : travailler sa mémoire
+     * Mots croisés
      * Sudokus
-     * RÃ©sultats Ã©lections
+     * Résultats élections
      * Education
      * Gastronomie
 
@@ -946,7 +941,7 @@ Assurance-vie : des bonus un peu trop sÃ©duisants
 
      * Les meilleures imprimantes laser
      * Les meilleurs aspirateurs robots
-     * Jeux de sociÃ©tÃ© pour adultes
+     * Jeux de société pour adultes
 
    [ ]
 
@@ -958,16 +953,16 @@ Assurance-vie : des bonus un peu trop sÃ©duisants
 
    [ ]
 
-  Le Monde Ã  l'international
+  Le Monde à l'international
 
      * Le Monde in English
-     * AlgÃ©rie
+     * Algérie
      * Belgique
      * Canada
-     * CÃ´te dâ€™Ivoire
+     * Côte d'Ivoire
      * Mali
      * Maroc
-     * SÃ©nÃ©gal
+     * Sénégal
      * Suisse
      * Tunisie
 
@@ -975,7 +970,7 @@ Assurance-vie : des bonus un peu trop sÃ©duisants
 
   Services Partenaires
 
-     * DÃ©couvrir le jardinage
+     * Découvrir le jardinage
      * Hits du moment
      * Formation professionnelle
 
@@ -983,18 +978,18 @@ Assurance-vie : des bonus un peu trop sÃ©duisants
 
   Sites du groupe
 
-     * Le Monde EvÃ¨nements
+     * Le Monde Evènements
      * Courrier International
-     * TÃ©lÃ©rama
+     * Télérama
      * La Vie
      * Le HuffPost
-     * Lâ€™Obs
+     * L'Obs
      * Le Monde diplomatique
-     * La sociÃ©tÃ© des lecteurs du Monde
+     * La société des lecteurs du Monde
      * Talents
-     * Source SÃ»re
-     * Le Club de lâ€™Ã©conomie
-     * M PublicitÃ©
+     * Source Sûre
+     * Le Club de l'économie
+     * M Publicité
      * Le carnet du Monde
 
    Newsletters du monde
@@ -1006,24 +1001,24 @@ Assurance-vie : des bonus un peu trop sÃ©duisants
      * Sur Android
 
    Abonnement
-   Archives du Monde Sâ€™abonner Se connecter Consulter le Journal du jour
-   Ã‰venements abonnÃ©s Jeux-concours abonnÃ©s Contacter Le Monde
+   Archives du Monde S'abonner Se connecter Consulter le Journal du jour
+   Évenements abonnés Jeux-concours abonnés Contacter Le Monde
 
    [ ]
 
-  Informations lÃ©gales le Monde
+  Informations légales le Monde
 
-     * Mentions lÃ©gales
-     * Conditions gÃ©nÃ©rales
+     * Mentions légales
+     * Conditions générales
      * Charte du Groupe
-     * Politique de confidentialitÃ©
+     * Politique de confidentialité
      * Aide (FAQ)
 
-     * Mentions lÃ©gales
+     * Mentions légales
      * Charte du Groupe
-     * Politique de confidentialitÃ©
+     * Politique de confidentialité
      * Gestion des cookies
-     * Conditions gÃ©nÃ©rales
+     * Conditions générales
      * Aide (FAQ)
 
    Suivez Le Monde

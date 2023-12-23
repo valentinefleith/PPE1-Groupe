@@ -1,9 +1,15 @@
-   #PiÃ¨ces Argent FranÃ§aises
+   #Pièces Argent Françaises
 
    IFRAME:
    https://www.googletagmanager.com/ns.html?id=GTM-WHD9PSF&nojscript=true
 
-   SpÃ©cialiste de l'achat et de la vente de mÃ©taux prÃ©cieux et de devises
+   Chers clients, nous tenons à vous informer que pour des raisons de
+   logistique, les délais d'expédition seront rallongés du 22 Décembre
+   2023 au 1er Janvier 2024 inclus.
+   Nous vous remercions pour votre compréhension et nous vous souhaitons
+   de joyeuses fêtes de fin d'année !
+
+   Spécialiste de l'achat et de la vente de métaux précieux et de devises
    Devenir Pro
    login Connexion login Inscription
    Change de la Bourse
@@ -16,20 +22,20 @@
    ____________________ (BUTTON) OK
    ____________________ (BUTTON) Rechercher
    Entrez votre adresse email
-   ____________________ (qp_passreco) RÃ©-initialiser
+   ____________________ (qp_passreco) Ré-initialiser
    Processing
    Mon Panier 0
 
    Aucun produit
-   Ã€ dÃ©finir Livraison
-   0,00 â‚¬ Total
+   À définir Livraison
+   0,00 EUR Total
    (hors port)
 
    Commander
-   Produit ajoutÃ© au panier avec succÃ¨s
+   Produit ajouté au panier avec succès
    Prix Unitaire
    Prix Rachat
-   QuantitÃ©
+   Quantité
 
    La coupure minimum est de
    Total
@@ -38,43 +44,43 @@
    Total produits TTC
    Total TTC (hors frais de port)
    Continuer mes achats Commander
-   Prix en temps rÃ©el
+   Prix en temps réel
 
-   En fonction des cours les plus compÃ©titifs
-   Garantie de la qualitÃ©
-   Transaction sÃ©curisÃ©e
-   FiscalitÃ© avantageuse
-   Fermer la fenÃªtre Layer popup Produit ajoutÃ© au panier avec succÃ¨s
+   En fonction des cours les plus compétitifs
+   Garantie de la qualité
+   Transaction sécurisée
+   Fiscalité avantageuse
+   Fermer la fenêtre Layer popup Produit ajouté au panier avec succès
    []
    Prix Unitaire:
-   QuantitÃ©: 1
+   Quantité: 1
 
    La coupure minimum est de
    Total:
    Il y a 1 produits dans votre panier.
    Total produits TTC
    Continuer mes achats Vendre
-   Prix en temps rÃ©el
+   Prix en temps réel
 
-   En fonction des cours les plus compÃ©titifs
-   Garantie de la qualitÃ©
-   Transaction sÃ©curisÃ©e
-   FiscalitÃ© avantageuse
+   En fonction des cours les plus compétitifs
+   Garantie de la qualité
+   Transaction sécurisée
+   Fiscalité avantageuse
      * Or
           + Lingots / Lingotins
-          + PiÃ¨ces d'or d'investissement
-          + PiÃ¨ces d'or modernes
+          + Pièces d'or d'investissement
+          + Pièces d'or modernes
           + COURS DE L'OR
           + Or
      * Argent
           + Lingots / Lingotins
-          + PiÃ¨ces Argent FranÃ§aises
-          + PiÃ¨ces Argent Modernes
+          + Pièces Argent Françaises
+          + Pièces Argent Modernes
           + Gros Volumes Argent
           + Argent
      * Platine
           + Lingots / Lingotins en Platine
-          + PiÃ¨ces en Platine Modernes
+          + Pièces en Platine Modernes
           + Platine
      * Devises
           + Devises Principales
@@ -82,160 +88,160 @@
           + Devises
      * vieil or
 
-   N'hÃ©sitez pas Ã  nous appeler :
+   N'hésitez pas à nous appeler :
 
      01 40 28 11 11
 
      >
-    1. Argent>PiÃ¨ces Argent FranÃ§aises
+    1. Argent>Pièces Argent Françaises
 
-PiÃ¨ces Argent FranÃ§aises
+Pièces Argent Françaises
 
-     * DÃ©nomination
+     * Dénomination
      * Poids et titre
      * Cotation
      * Prix net
 
      * 50 Francs Hercule
-       23,40 â‚¬
+       23,50 EUR
        50 Francs Hercule
-       La quantitÃ© minimale d'achat est de 10
-   PuretÃ©/titre : 900â€°
+       La quantité minimale d'achat est de 10
+   Pureté/titre : 900 0/00
        Poids : 30g
        Valeur Faciale : 50 Francs
-       Au 17/12/2023
-       19,00 â‚¬
+       Au 23/12/2023
+       19,00 EUR
        0.00 %
-       23,40 â‚¬
-       10__________________ = 234,00 â‚¬
+       23,50 EUR
+       10__________________ = 235,00 EUR
        Ajouter au panier
      * 10 Francs Hercule
-       19,90 â‚¬
+       19,90 EUR
        10 Francs Hercule
-       La quantitÃ© minimale d'achat est de 10
-   PuretÃ©/titre : 900â€°
+       La quantité minimale d'achat est de 10
+   Pureté/titre : 900 0/00
        Poids : 25g
        Valeur Faciale : 10 Francs
-       Au 17/12/2023
-       15,83 â‚¬
+       Au 23/12/2023
+       15,84 EUR
        0.00 %
-       19,90 â‚¬
-       10__________________ = 199,00 â‚¬
+       19,90 EUR
+       10__________________ = 199,00 EUR
        Ajouter au panier
      * Ecu 5 Francs
-       21,10 â‚¬
+       21,20 EUR
        Ecu 5 Francs
-       La quantitÃ© minimale d'achat est de 10
-   PuretÃ©/titre : 900â€°
+       La quantité minimale d'achat est de 10
+   Pureté/titre : 900 0/00
        Poids : 25g
        Valeur Faciale : 5 Francs
-       Au 17/12/2023
-       15,83 â‚¬
+       Au 23/12/2023
+       15,84 EUR
        0.00 %
-       21,10 â‚¬
-       10__________________ = 211,00 â‚¬
+       21,20 EUR
+       10__________________ = 212,00 EUR
        Ajouter au panier
      * 100 Francs Argent
-       11,70 â‚¬
+       11,70 EUR
        100 Francs Argent
-       La quantitÃ© minimale d'achat est de 30
-   PuretÃ©/titre : 900â€°
+       La quantité minimale d'achat est de 30
+   Pureté/titre : 900 0/00
        Poids : 15g
        Valeur Faciale : 100 Francs
-       Au 17/12/2023
-       9,50 â‚¬
+       Au 23/12/2023
+       9,50 EUR
        0.00 %
-       11,70 â‚¬
-       30__________________ = 351,00 â‚¬
+       11,70 EUR
+       30__________________ = 351,00 EUR
        Ajouter au panier
      * 5 Francs semeuse
-       8,20 â‚¬
+       8,20 EUR
        5 Francs semeuse
-       La quantitÃ© minimale d'achat est de 30
-   PuretÃ©/titre : 835â€°
+       La quantité minimale d'achat est de 30
+   Pureté/titre : 835 0/00
        Poids : 12g
        Valeur Faciale : 5 Francs
-       Au 17/12/2023
-       7,05 â‚¬
+       Au 23/12/2023
+       7,05 EUR
        0.00 %
-       8,20 â‚¬
-       30__________________ = 246,00 â‚¬
+       8,20 EUR
+       30__________________ = 246,00 EUR
        Ajouter au panier
      * 2 Francs Semeuse
-       7,90 â‚¬
+       7,90 EUR
        2 Francs Semeuse
-       La quantitÃ© minimale d'achat est de 50
-   PuretÃ©/titre : 835â€°
+       La quantité minimale d'achat est de 50
+   Pureté/titre : 835 0/00
        Poids : 10g
        Valeur Faciale : 2 Francs
-       Au 17/12/2023
-       5,87 â‚¬
+       Au 23/12/2023
+       5,88 EUR
        0.00 %
-       7,90 â‚¬
-       50__________________ = 395,00 â‚¬
+       7,90 EUR
+       50__________________ = 395,00 EUR
        Ajouter au panier
      * 1 Franc Semeuse
-       3,60 â‚¬
+       3,60 EUR
        1 Franc Semeuse
-       La quantitÃ© minimale d'achat est de 50
-   PuretÃ©/titre : 835â€°
+       La quantité minimale d'achat est de 50
+   Pureté/titre : 835 0/00
        Poids : 5g
        Valeur Faciale : 1 Francs
-       Au 17/12/2023
-       2,94 â‚¬
+       Au 23/12/2023
+       2,94 EUR
        0.00 %
-       3,60 â‚¬
-       50__________________ = 180,00 â‚¬
+       3,60 EUR
+       50__________________ = 180,00 EUR
        Ajouter au panier
      * 50 Cts Semeuse
-       2,00 â‚¬
+       2,00 EUR
        50 Cts Semeuse
-       La quantitÃ© minimale d'achat est de 50
-   PuretÃ©/titre : 835â€°
+       La quantité minimale d'achat est de 50
+   Pureté/titre : 835 0/00
        Poids : 2.5
-       Au 17/12/2023
-       1,47 â‚¬
+       Au 23/12/2023
+       1,47 EUR
        0.00 %
-       2,00 â‚¬
-       50__________________ = 100,00 â‚¬
+       2,00 EUR
+       50__________________ = 100,00 EUR
        Ajouter au panier
 
    VOIR AUSSI ...
      * Lingots / Lingotins
-     * PiÃ¨ces Argent FranÃ§aises
-     * PiÃ¨ces Argent Modernes
+     * Pièces Argent Françaises
+     * Pièces Argent Modernes
      * Gros Volumes Argent
 
    COMMENT ACHETER
      * Suivez le guide
 
    AVANTAGES
-     * PiÃ¨ces sous scellÃ©s
-     * Livraison sÃ©curisÃ©e
-     * Prix compÃ©titifs
-     * Transactions sÃ©curisÃ©es
-     * AgrÃ©Ã© par la Banque de France
+     * Pièces sous scellés
+     * Livraison sécurisée
+     * Prix compétitifs
+     * Transactions sécurisées
+     * Agréé par la Banque de France
 
    CONTACTEZ-NOUS
 
    CHANGE DE LA BOURSE
    28 rue Vivienne, 75002 Paris
    Tel : 01 40 28 11 11
-   Ouverture : Du lundi au vendredi de 9h30 Ã  18h
+   Ouverture : Du lundi au vendredi de 9h30 à 18h
    ENVOYER UN MESSAGE ENVOYER UN MESSAGE
    LE RACHAT DE VOTRE OR
-     * DÃ©couvrir nos services de rachat
+     * Découvrir nos services de rachat
 
      * OR
      * ARGENT
 
    OR
 
-   59,60 â‚¬/g
+   59,93 EUR/g
 
    ARGENT
 
-   0,70 â‚¬/g
+   0,71 EUR/g
 
    Newsletter
    __________________ (BUTTON) Ok
@@ -245,16 +251,16 @@ PiÃ¨ces Argent FranÃ§aises
      * Twitter
      * Google Plus
 
-   Prix en temps rÃ©el
+   Prix en temps réel
 
-   en fonction des cours les plus compÃ©titifs
-   Garantie de la qualitÃ©
-   Transaction sÃ©curisÃ©e
-   FiscalitÃ© avantageuse
+   en fonction des cours les plus compétitifs
+   Garantie de la qualité
+   Transaction sécurisée
+   Fiscalité avantageuse
 
    OR
      * OR d'investissement
-     * PiÃ¨ces modernes
+     * Pièces modernes
      * Lingots / Lingotins
      * Vendre ses bijoux
 
@@ -271,29 +277,29 @@ PiÃ¨ces Argent FranÃ§aises
      * Comment acheter
      * 5 raisons d'acheter de l'or
      * Conditionnement et facturation
-     * FiscalitÃ©
+     * Fiscalité
      * Service aux professionnels
-     * LÃ©gislation
+     * Législation
      * Lutte contre le blanchiment d'argent et le financement du
        terrorisme (LAB-FT)
      * Gardiennage
      * CGV
 
    GARANTIES
-     * Livraisons rapides et sÃ©curisÃ©es
-     * PiÃ¨ces sous scellÃ©s bancaire gratuits
-     * Prix calculÃ©s en fonction des cours de bourse
+     * Livraisons rapides et sécurisées
+     * Pièces sous scellés bancaire gratuits
+     * Prix calculés en fonction des cours de bourse
      * Partage et succession
      * ISF
 
      * Qui sommes nous
-     * Mentions lÃ©gales
+     * Mentions légales
      * CGV
      * Nous Contacter
      * Gardiennage
      * Blog
 
-   Â© 2022 Change de la Bourse
+   © 2022 Change de la Bourse
    Les Cookies nous aident dans le bon fonctionnement de nos services. En
    utilisant nos services, vous acceptez l'utilisation de cookies  .
    J'accepte

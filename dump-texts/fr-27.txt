@@ -4,8 +4,8 @@
 
    Accueil
    Mairie d'Argent sur Sauldre
-   Place de lâ€™hÃ´tel de ville
-   TÃ©lÃ©phone : 02 48 81 50 60
+   Place de l'hôtel de ville
+   Téléphone : 02 48 81 50 60
 
 Formulaire de recherche
 
@@ -16,183 +16,181 @@ Formulaire de recherche
           + Histoire et Patrimoine
                o Histoire
                o Situation
-               o BÃ¢timents communaux, gymnase, stades, dojo, etc.
-          + Vos Ã©lus
+               o Bâtiments communaux, gymnase, stades, dojo, etc.
+          + Vos élus
                o Conseil Municipal
                o Commissions
                o Permanences des adjoints
                o Comptes rendus du Conseil
-               o ArrÃªtÃ©s prÃ©fectoraux
-               o ArrÃªtÃ©s municipaux
+               o Arrêtés préfectoraux
+               o Arrêtés municipaux
           + Contact - Plan
                o Services municipaux : mairie, cantine, garderie, maisons
                  des jeunes
-               o CommunautÃ© de communes SAULDRE et SOLOGNE
+               o Communauté de communes SAULDRE et SOLOGNE
           + Le bulletin municipal
           + Argent Infos
                o Argent Infos hiver 2023
                o Argent Infos automne 2023
-          + Discours des vÅ“ux
+          + Discours des voeux
      * Vie quotidienne
           + Environnement
-               o Ordures mÃ©nagÃ¨res
+               o Ordures ménagères
                o Les points d'apports volontaires
                o Collecte des encombrants
-               o La dÃ©chÃ¨terie
+               o La déchèterie
                o Fleurissement et embellissement
           + Urbanisme et Travaux
                o Urbanisme
                o Les Travaux
           + Civisme
-               o RÃ¨gles de civisme
-               o OpÃ©ration voisins vigilants
-               o PrÃ©vention cambriolage
-          + SantÃ©
-               o MÃ©decins, infirmiÃ¨res, pharmacie, KinÃ©sithÃ©rapeutes,
+               o Règles de civisme
+               o Opération voisins vigilants
+               o Prévention cambriolage
+          + Santé
+               o Médecins, infirmières, pharmacie, Kinésithérapeutes,
                  Ambulances/VSL
                o Urgences
           + Infos
-               o MarchÃ©
+               o Marché
                o Agence postale communale
                o Location de salles
-               o BÃ¢timents Ã  louer / Terrains Ã  vendre
+               o Bâtiments à louer / Terrains à vendre
      * Economie
-          + MarchÃ©
-          + CommerÃ§ants - Artisans
+          + Marché
+          + Commerçants - Artisans
           + Entreprises
      * Culture et tourisme
           + Patrimoine historique et naturel
-               o Eglise Saint-AndrÃ©
-          + MusÃ©e des MÃ©tiers d'Antan
-          + CinÃ©ma "l'Argentis"
-          + BibliothÃ¨que
+               o Eglise Saint-André
+          + Musée des Métiers d'Antan
+          + Cinéma "l'Argentis"
+          + Bibliothèque
                o Infos pratiques
           + Balades au fil de l'eau
-          + Promenades, randonnÃ©es, jeux
+          + Promenades, randonnées, jeux
                o Canal de la Sauldre
-               o La Sauldre, riviÃ¨re de 1Ã¨re catÃ©gorie
+               o La Sauldre, rivière de 1ère catégorie
                o Etang du Puits
           + Restaurants
-          + HÃ©bergement
-               o HÃ´tels
-               o GÃ®tes
-          + Chasse / pÃªche
-               o La Sauldre, riviÃ¨re de 1Ã¨re catÃ©gorie
+          + Hébergement
+               o Hôtels
+               o Gîtes
+          + Chasse / pêche
+               o La Sauldre, rivière de 1ère catégorie
                o Etang du Puits
      * Sports et loisirs
-          + CinÃ©ma l'Argentis
-          + BibliothÃ¨que
+          + Cinéma l'Argentis
+          + Bibliothèque
           + Calendrier des manifestations
           + Equipements sportifs
           + Associations
                o Associations sportives
                o Associations culturelles et de loisirs
-               o Associations caritatives et de services Ã  la personne
-               o Associations d'intÃ©rÃªt local
+               o Associations caritatives et de services à la personne
+               o Associations d'intérêt local
      * Services
           + Enfance / Jeunesse
-               o Petite enfance - crÃ¨che
+               o Petite enfance - crèche
                o Assistantes maternelles - RAM
                o Centre de loisirs
                o Maison des jeunes
           + Scolaire
                o Ecole - Vie scolaire
-               o Accueils PÃ©riscolaires / NAP
+               o Accueils Périscolaires / NAP
                o Restauration scolaire
-               o CollÃ¨ge
-               o LycÃ©es
-          + SantÃ©
-               o MÃ©decins, infirmiÃ¨res, pharmacie, KinÃ©sithÃ©rapeutes,
+               o Collège
+               o Lycées
+          + Santé
+               o Médecins, infirmières, pharmacie, Kinésithérapeutes,
                  Ambulances/VSL
                o Urgences
           + Actions sociales
-               o Services Ã  domicile (ADMR, FASILAVI...)
+               o Services à domicile (ADMR, FASILAVI...)
                o Permanences : CDAD, assistante sociale, mission locale,
                  CPAM
                o Logement
                     # OPAH
                     # FRANCE LOIRE
-                    # Terrains / BÃ¢timents / A louer / A vendre
+                    # Terrains / Bâtiments / A louer / A vendre
           + Transports
                o Cars Scolaires REMI
                o REMI (ex Ligne 18)
                o Ambulances / VSL
                o Taxis
-          + SÃ©niors
+          + Séniors
                o EHPAD Les Roses d'Argent
                o ADMR
-          + DÃ©marches pratiques
+          + Démarches pratiques
                o Etat Civil
-                    # Carte Nationale d'IdentitÃ©
+                    # Carte Nationale d'Identité
                     # Passeport
                o Elections
-               o Urbanisme (permis, dÃ©claration prÃ©alable)
+               o Urbanisme (permis, déclaration préalable)
                o Inscriptions scolaires
-               o VÃ©hicules / permis de conduire
-               o Permis de dÃ©tention de chien catÃ©gorisÃ©s
+               o Véhicules / permis de conduire
+               o Permis de détention de chien catégorisés
 
    1
    2
    3
 
-ActualitÃ©s
+Actualités
+
+   19 déc 2023
+
+Cabinet médical itinérant : dates en 2024
 
    14 nov 2023
 
-Avis d'enquÃªte publique sur une demande d'autorisation environnementale
+Avis d'enquête publique sur une demande d'autorisation environnementale
 
-   02 aoÃ» 2023
-
-Avis aux contribuables - DÃ©grÃ¨vement d'impÃ´ts directs
-
-   > Voir toutes les actualitÃ©s
+   > Voir toutes les actualités
 
 L'info du jour
 
-   Fermeture agence postale et bibliothÃ¨que
+   Fermeture agence postale et bibliothèque
 
 Agenda
 
-   16 dÃ©c au 17 dÃ©c
-
-MarchÃ© de NoÃ«l
-
-   Animation
-   17 dÃ©c
-
-Loto
-
-   Animation
-   19 dÃ©c
-
-Don du sang
-
-   31 dÃ©c
+   31 déc
 
 Nuit de la Saint Sylvestre
 
    Animation
+   07 fév
+
+Balayage des rues : secteurs n°1 et n°3
+
+   13 mar
+
+Ramassage des monstres
+
+   03 avr
+
+Balayage des rues : secteur n°2
+
    > Voir tout l'agenda
 
-   Le risque de l'Influenza Aviaire est passÃ©e au niveau de risque Ã©levÃ© :
+   Le risque de l'Influenza Aviaire est passée au niveau de risque élevé :
    https://www.legifrance.gouv.fr/loda/id/JORFTEXT000046542255?init=true&p
    age=1&query=agrg2231899a&searchField=ALL&tab_selection=all
 
-   TÃ©lÃ©chargez l'arrÃªtÃ© ministÃ©riel du 8 novembre 2022 qualifiant le
-   niveau de risque en matiÃ¨re d'influenza aviaire hautement pathogÃ¨ne
+   Téléchargez l'arrêté ministériel du 8 novembre 2022 qualifiant le
+   niveau de risque en matière d'influenza aviaire hautement pathogène
 
-   Le service SantÃ©, Protection Animales et Environnement de la DDETSPP du
-   Cher s'est aperÃ§u que trÃ¨s peu de volailles sont claustrÃ©es. Les
-   volailles doivent soit Ãªtre enfermÃ©es soit mises sous filet.
+   Le service Santé, Protection Animales et Environnement de la DDETSPP du
+   Cher s'est aperçu que très peu de volailles sont claustrées. Les
+   volailles doivent soit être enfermées soit mises sous filet.
 
    Pour rappel, il s'agit d'une obligation.
 
    La situation actuelle indique une hausse des foyers chez des
-   particuliers, cette rÃ©glementation permet de limiter la propagation du
+   particuliers, cette réglementation permet de limiter la propagation du
    virus.
 
-   Ci-dessous le lien permettant de se dÃ©clarer en tant que basse-cours
-   particuliÃ¨re https://www.mesdemarches.agriculture.gouv.fr/demarches/par
+   Ci-dessous le lien permettant de se déclarer en tant que basse-cours
+   particulière https://www.mesdemarches.agriculture.gouv.fr/demarches/par
    ticulier/effectuer-une-declaration-55/article/lutter-contre-l-influenza
    -aviaire-498
 
@@ -201,101 +199,101 @@ Nuit de la Saint Sylvestre
    ite-pour-les-operateurs-professionnels-et-les-particuliers
 
    Merci d'avance pour votre vigilance et votre action dans le cadre de la
-   prÃ©vention de l'influenza aviaire.
+   prévention de l'influenza aviaire.
 
 
    Date:
    Lundi, novembre 14, 2022
    Image:
-   15 dÃ©c 2023
+   15 déc 2023
 
-   L'Ã©cole de musique Si Fa Si La organise son traditionnel concert de
-   NoÃ«l le vendredi 15 dÃ©cembre 2023 Ã  20h00 Ã  la salle des fÃªtes Jacques
-   PrÃ©vert Ã  Argent-sur-Sauldre.
+   L'école de musique Si Fa Si La organise son traditionnel concert de
+   Noël le vendredi 15 décembre 2023 à 20h00 à la salle des fêtes Jacques
+   Prévert à Argent-sur-Sauldre.
 
 
    Organisateur :
 
-   L'Ã©cole de musique Si Fa Si La
+   L'école de musique Si Fa Si La
 
 
    Type agenda:
    Culture
    02 oct 2024
 
-   Le balayage des rues des secteurs nÂ°1 (vert) et nÂ°3 (rouge) aura lieu
-   le mercredi 2 octobre 2024.ï»¿
+   Le balayage des rues des secteurs n°1 (vert) et n°3 (rouge) aura lieu
+   le mercredi 2 octobre 2024.
 
    Afin d'assurer un nettoyage optimal, nous vous prions de ne pas
-   stationner votre vÃ©hicule sur la chaussÃ©e ce jour.
+   stationner votre véhicule sur la chaussée ce jour.
 
-   Nous vous remercions pour votre comprÃ©hension.
+   Nous vous remercions pour votre compréhension.
 
 
    05 juin 2024
 
-   Le balayage des rues des secteurs nÂ°1 (vert) et nÂ°3 (rouge) aura lieu
-   le mercredi 5 juin 2024.ï»¿
+   Le balayage des rues des secteurs n°1 (vert) et n°3 (rouge) aura lieu
+   le mercredi 5 juin 2024.
 
    Afin d'assurer un nettoyage optimal, nous vous prions de ne pas
-   stationner votre vÃ©hicule sur la chaussÃ©e ce jour.
+   stationner votre véhicule sur la chaussée ce jour.
 
-   Nous vous remercions pour votre comprÃ©hension.
-
-
-   07 fÃ©v 2024
-
-   Le balayage des rues des secteurs nÂ°1 (vert) et nÂ°3 (rouge) aura lieu
-   le mercredi 7 fÃ©vrier 2024.ï»¿
-
-   Afin d'assurer un nettoyage optimal, nous vous prions de ne pas
-   stationner votre vÃ©hicule sur la chaussÃ©e ce jour.
-
-   Nous vous remercions pour votre comprÃ©hension.
+   Nous vous remercions pour votre compréhension.
 
 
-   04 dÃ©c 2024
+   07 fév 2024
 
-   Le balayage des rues du secteur nÂ°2 (jaune) aura lieu le mercredi
-   4 dÃ©cembre 2024.ï»¿
+   Le balayage des rues des secteurs n°1 (vert) et n°3 (rouge) aura lieu
+   le mercredi 7 février 2024.
 
    Afin d'assurer un nettoyage optimal, nous vous prions de ne pas
-   stationner votre vÃ©hicule sur la chaussÃ©e ce jour.
+   stationner votre véhicule sur la chaussée ce jour.
 
-   Nous vous remercions pour votre comprÃ©hension.
+   Nous vous remercions pour votre compréhension.
 
 
-   07 aoÃ» 2024
+   04 déc 2024
 
-   Le balayage des rues du secteur nÂ°2 (jaune) aura lieu le mercredi 7
-   aoÃ»t 2024.ï»¿
+   Le balayage des rues du secteur n°2 (jaune) aura lieu le mercredi
+   4 décembre 2024.
 
    Afin d'assurer un nettoyage optimal, nous vous prions de ne pas
-   stationner votre vÃ©hicule sur la chaussÃ©e ce jour.
+   stationner votre véhicule sur la chaussée ce jour.
 
-   Nous vous remercions pour votre comprÃ©hension.
+   Nous vous remercions pour votre compréhension.
+
+
+   07 aoû 2024
+
+   Le balayage des rues du secteur n°2 (jaune) aura lieu le mercredi 7
+   août 2024.
+
+   Afin d'assurer un nettoyage optimal, nous vous prions de ne pas
+   stationner votre véhicule sur la chaussée ce jour.
+
+   Nous vous remercions pour votre compréhension.
 
 
    03 avr 2024
 
-   Le balayage des rues du secteur nÂ°2 (jaune) aura lieu le mercredi 3
-   avril 2024.ï»¿
+   Le balayage des rues du secteur n°2 (jaune) aura lieu le mercredi 3
+   avril 2024.
 
    Afin d'assurer un nettoyage optimal, nous vous prions de ne pas
-   stationner votre vÃ©hicule sur la chaussÃ©e ce jour.
+   stationner votre véhicule sur la chaussée ce jour.
 
-   Nous vous remercions pour votre comprÃ©hension.
+   Nous vous remercions pour votre compréhension.
 
 
-   11 dÃ©c 2024
+   11 déc 2024
 
-   Ramassage des monstres le mercredi 11 dÃ©cembre 2024.
+   Ramassage des monstres le mercredi 11 décembre 2024.
 
    Merci de vous inscrire en mairie 8 jours avant : 02 48 81 50 60
 
-   Il est rappelÃ© que seuls les objets Ã  base de ferraille seront
-   ramassÃ©s. ï»¿Les gravats, la porcelaine, le bois... devront Ãªtre mis Ã  la
-   dÃ©chetterie.
+   Il est rappelé que seuls les objets à base de ferraille seront
+   ramassés. Les gravats, la porcelaine, le bois... devront être mis à la
+   déchetterie.
 
    11 sep 2024
 
@@ -303,9 +301,9 @@ Nuit de la Saint Sylvestre
 
    Merci de vous inscrire en mairie 8 jours avant : 02 48 81 50 60
 
-   Il est rappelÃ© que seuls les objets Ã  base de ferraille seront
-   ramassÃ©s. ï»¿Les gravats, la porcelaine, le bois... devront Ãªtre mis Ã  la
-   dÃ©chetterie.
+   Il est rappelé que seuls les objets à base de ferraille seront
+   ramassés. Les gravats, la porcelaine, le bois... devront être mis à la
+   déchetterie.
 
 Pages
 
@@ -314,186 +312,186 @@ Pages
      * 3
      * 4
      * 5
-     * suivant â€º
-     * dernier Â»
+     * suivant >
+     * dernier »
 
    Votre ville
      * Histoire et Patrimoine
-     * Vos Ã©lus
+     * Vos élus
      * Contact - Plan
      * Le bulletin municipal
      * Argent Infos
-     * Discours des vÅ“ux
+     * Discours des voeux
 
    Vie Quotidienne
      * Environnement
      * Urbanisme et Travaux
      * Civisme
-     * SantÃ©
+     * Santé
      * Infos
 
    Economie
-     * MarchÃ©
-     * CommerÃ§ants - Artisans
+     * Marché
+     * Commerçants - Artisans
      * Entreprises
 
    Culture et tourisme
      * Patrimoine historique et naturel
-     * MusÃ©e des MÃ©tiers d'Antan
-     * CinÃ©ma "l'Argentis"
-     * BibliothÃ¨que
+     * Musée des Métiers d'Antan
+     * Cinéma "l'Argentis"
+     * Bibliothèque
      * Balades au fil de l'eau
-     * Promenades, randonnÃ©es, jeux
+     * Promenades, randonnées, jeux
      * Restaurants
-     * HÃ©bergement
-     * Chasse / pÃªche
+     * Hébergement
+     * Chasse / pêche
 
    Sports et loisirs
      * Associations
-     * CinÃ©ma l'Argentis
-     * BibliothÃ¨que
+     * Cinéma l'Argentis
+     * Bibliothèque
      * Calendrier des manifestations
      * Equipements sportifs
 
    Services
      * Enfance / Jeunesse
      * Scolaire
-     * SantÃ©
+     * Santé
      * Actions sociales
      * Transports
-     * SÃ©niors
-     * DÃ©marches pratiques
+     * Séniors
+     * Démarches pratiques
 
-   S'abonner Ã  Mairie d'Argent sur Sauldre RSS
+   S'abonner à Mairie d'Argent sur Sauldre RSS
 
    Mairie d'Argent sur Sauldre
-   Place de l'hÃ´tel de ville
-   TÃ©l : 02 48 81 50 60
+   Place de l'hôtel de ville
+   Tél : 02 48 81 50 60
    Fax : 02 48 81 50 65
-   Du lundi au mercredi de 9h Ã  12h et de 14h Ã  17h30
-   Jeudi de 9h Ã  12h
-   Vendredi de 9h Ã  12h et de 14h Ã  17h
+   Du lundi au mercredi de 9h à 12h et de 14h à 17h30
+   Jeudi de 9h à 12h
+   Vendredi de 9h à 12h et de 14h à 17h
    Logo
      * Votre ville
           + Histoire et Patrimoine
                o Histoire
                o Situation
-               o BÃ¢timents communaux, gymnase, stades, dojo, etc.
-          + Vos Ã©lus
+               o Bâtiments communaux, gymnase, stades, dojo, etc.
+          + Vos élus
                o Conseil Municipal
                o Commissions
                o Permanences des adjoints
                o Comptes rendus du Conseil
-               o ArrÃªtÃ©s prÃ©fectoraux
-               o ArrÃªtÃ©s municipaux
+               o Arrêtés préfectoraux
+               o Arrêtés municipaux
           + Contact - Plan
                o Services municipaux : mairie, cantine, garderie, maisons
                  des jeunes
-               o CommunautÃ© de communes SAULDRE et SOLOGNE
+               o Communauté de communes SAULDRE et SOLOGNE
           + Le bulletin municipal
           + Argent Infos
                o Argent Infos hiver 2023
                o Argent Infos automne 2023
-          + Discours des vÅ“ux
+          + Discours des voeux
      * Vie quotidienne
           + Environnement
-               o Ordures mÃ©nagÃ¨res
+               o Ordures ménagères
                o Les points d'apports volontaires
                o Collecte des encombrants
-               o La dÃ©chÃ¨terie
+               o La déchèterie
                o Fleurissement et embellissement
           + Urbanisme et Travaux
                o Urbanisme
                o Les Travaux
           + Civisme
-               o RÃ¨gles de civisme
-               o OpÃ©ration voisins vigilants
-               o PrÃ©vention cambriolage
-          + SantÃ©
-               o MÃ©decins, infirmiÃ¨res, pharmacie, KinÃ©sithÃ©rapeutes,
+               o Règles de civisme
+               o Opération voisins vigilants
+               o Prévention cambriolage
+          + Santé
+               o Médecins, infirmières, pharmacie, Kinésithérapeutes,
                  Ambulances/VSL
                o Urgences
           + Infos
-               o MarchÃ©
+               o Marché
                o Agence postale communale
                o Location de salles
-               o BÃ¢timents Ã  louer / Terrains Ã  vendre
+               o Bâtiments à louer / Terrains à vendre
      * Economie
-          + MarchÃ©
-          + CommerÃ§ants - Artisans
+          + Marché
+          + Commerçants - Artisans
           + Entreprises
      * Culture et tourisme
           + Patrimoine historique et naturel
-               o Eglise Saint-AndrÃ©
-          + MusÃ©e des MÃ©tiers d'Antan
-          + CinÃ©ma "l'Argentis"
-          + BibliothÃ¨que
+               o Eglise Saint-André
+          + Musée des Métiers d'Antan
+          + Cinéma "l'Argentis"
+          + Bibliothèque
                o Infos pratiques
           + Balades au fil de l'eau
-          + Promenades, randonnÃ©es, jeux
+          + Promenades, randonnées, jeux
                o Canal de la Sauldre
-               o La Sauldre, riviÃ¨re de 1Ã¨re catÃ©gorie
+               o La Sauldre, rivière de 1ère catégorie
                o Etang du Puits
           + Restaurants
-          + HÃ©bergement
-               o HÃ´tels
-               o GÃ®tes
-          + Chasse / pÃªche
-               o La Sauldre, riviÃ¨re de 1Ã¨re catÃ©gorie
+          + Hébergement
+               o Hôtels
+               o Gîtes
+          + Chasse / pêche
+               o La Sauldre, rivière de 1ère catégorie
                o Etang du Puits
      * Sports et loisirs
           + Associations
                o Associations sportives
                o Associations culturelles et de loisirs
-               o Associations caritatives et de services Ã  la personne
-               o Associations d'intÃ©rÃªt local
-          + CinÃ©ma l'Argentis
-          + BibliothÃ¨que
+               o Associations caritatives et de services à la personne
+               o Associations d'intérêt local
+          + Cinéma l'Argentis
+          + Bibliothèque
           + Calendrier des manifestations
           + Equipements sportifs
      * Services
           + Enfance / Jeunesse
-               o Petite enfance - crÃ¨che
+               o Petite enfance - crèche
                o Assistantes maternelles - RAM
                o Centre de loisirs
                o Maison des jeunes
           + Scolaire
                o Ecole - Vie scolaire
-               o Accueils PÃ©riscolaires / NAP
+               o Accueils Périscolaires / NAP
                o Restauration scolaire
-               o CollÃ¨ge
-               o LycÃ©es
-          + SantÃ©
-               o MÃ©decins, infirmiÃ¨res, pharmacie, KinÃ©sithÃ©rapeutes,
+               o Collège
+               o Lycées
+          + Santé
+               o Médecins, infirmières, pharmacie, Kinésithérapeutes,
                  Ambulances/VSL
                o Urgences
           + Actions sociales
-               o Services Ã  domicile (ADMR, FASILAVI...)
+               o Services à domicile (ADMR, FASILAVI...)
                o Permanences : CDAD, assistante sociale, mission locale,
                  CPAM
                o Logement
                     # OPAH
                     # FRANCE LOIRE
-                    # Terrains / BÃ¢timents / A louer / A vendre
+                    # Terrains / Bâtiments / A louer / A vendre
           + Transports
                o Cars Scolaires REMI
                o REMI (ex Ligne 18)
                o Ambulances / VSL
                o Taxis
-          + SÃ©niors
+          + Séniors
                o EHPAD Les Roses d'Argent
                o ADMR
-          + DÃ©marches pratiques
+          + Démarches pratiques
                o Etat Civil
-                    # Carte Nationale d'IdentitÃ©
+                    # Carte Nationale d'Identité
                     # Passeport
                o Elections
-               o Urbanisme (permis, dÃ©claration prÃ©alable)
+               o Urbanisme (permis, déclaration préalable)
                o Inscriptions scolaires
-               o VÃ©hicules / permis de conduire
-               o Permis de dÃ©tention de chien catÃ©gorisÃ©s
+               o Véhicules / permis de conduire
+               o Permis de détention de chien catégorisés
 
-     * Mentions lÃ©gales
-     * Charte pour la protection des donnÃ©es
+     * Mentions légales
+     * Charte pour la protection des données
 
-   Â© Mairie d'Argent sur Sauldre - RÃ©alisation par Atmedia Communication
+   © Mairie d'Argent sur Sauldre - Réalisation par Atmedia Communication

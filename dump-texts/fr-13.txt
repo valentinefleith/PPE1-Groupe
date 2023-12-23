@@ -4,7 +4,7 @@
    Logo
    Logo
 
-   L'expertise technique et scientifique de rÃ©fÃ©rence
+   L'expertise technique et scientifique de référence
    ____________________ (BUTTON)
 
    (BUTTON)
@@ -19,48 +19,48 @@
                               Inscrivez-vous !
 
    Vous n'avez pas encore de compte ?
-   CRÃ‰ER UN COMPTE
+   CRÉER UN COMPTE
    (BUTTON)
      * Accueil
      * Ressources documentaires
      * Parcours Pratiques
-     * Le magazine dâ€™actualitÃ©
+     * Le magazine d'actualité
      * CerT.I.
      * Contact
-     * Ã€ propos
+     * À propos
      * Contenu gratuit
 
    [picto-parcours-pratiques-rouge.svg]
    [picto-parcours-pratiques-blanc.svg]
 
-   RECHERCHEZ parmi plus de 10 000 articles de rÃ©fÃ©rence ou pratiques et 4
-   000 articles d'actualitÃ©
+   RECHERCHEZ parmi plus de 10 000 articles de référence ou pratiques et 4
+   000 articles d'actualité
 
    PAR DOMAINE D'EXPERTISE
      * Automatique - Robotique
-     * BiomÃ©dical - Pharma
+     * Biomédical - Pharma
      * Construction et travaux publics
-     * Ã‰lectronique - Photonique
-     * Ã‰nergies
-     * Environnement - SÃ©curitÃ©
-     * GÃ©nie industriel
-     * IngÃ©nierie des transports
+     * Électronique - Photonique
+     * Énergies
+     * Environnement - Sécurité
+     * Génie industriel
+     * Ingénierie des transports
 
      * Innovation
-     * MatÃ©riaux
-     * MÃ©canique
+     * Matériaux
+     * Mécanique
      * Mesures - Analyses
-     * ProcÃ©dÃ©s chimie - bio - agro
+     * Procédés chimie - bio - agro
      * Sciences fondamentales
      * Technologies de l'information
      * Archives
 
    PAR SECTEUR INDUSTRIEL
-     * AÃ©rospatial
+     * Aérospatial
      * Agroalimentaire
      * Automobile
-     * Ã‰co-industries
-     * Ã‰quipements industriels
+     * Éco-industries
+     * Équipements industriels
      * Plasturgie
 
    PAR MOTS-CLES
@@ -72,373 +72,371 @@
 
    EXPLORER
 
-   DÃ‰COUVREZ toute l'actualitÃ©, la veille technologique GRATUITE, les
-   Ã©tudes de cas et les Ã©vÃ©nements de chaque secteur de l'industrie.
+   DÉCOUVREZ toute l'actualité, la veille technologique GRATUITE, les
+   études de cas et les événements de chaque secteur de l'industrie.
      * Chimie et Biotech
-     * Ã‰nergie
-     * Entreprises et marchÃ©s
+     * Énergie
+     * Entreprises et marchés
 
      * Environnement
-     * Informatique et NumÃ©rique
+     * Informatique et Numérique
      * Innovations sectorielles
 
      * Insolite
-     * MatÃ©riaux
+     * Matériaux
      __________________________________________________________________
 
-     * Les dossiers de la rÃ©dac'
+     * Les dossiers de la rédac'
      * Les livres blancs
-     * Les confÃ©rences en ligne
+     * Les conférences en ligne
 
-   La start-up Niryo lÃ¨ve 10 millions dâ€™euros pour dÃ©velopper une gamme de
-   cobots industriels et continuer son expansion Ã  lâ€™international
+   Coldep insuffle un air nouveau dans le traitement de l'eau
 
-   La start-up Niryo lÃ¨ve 10 millions dâ€™euros pour dÃ©velopper une gamme de
-   cobots industriels et continuer son expansion Ã  lâ€™international
-   La production de biomÃ©thane gagne Ã  Ãªtre flexible
+   Coldep insuffle un air nouveau dans le traitement de l'eau
+   Une veste pour prédire les risques cardiaques
 
-   La production de biomÃ©thane gagne Ã  Ãªtre flexible
-   Feu vert pour lâ€™exploration dâ€™hydrogÃ¨ne blanc en France
+   Une veste pour prédire les risques cardiaques
+   Systematic Paris-Region : le pôle européen des Deep Tech
 
-   Feu vert pour lâ€™exploration dâ€™hydrogÃ¨ne blanc en France
+   Systematic Paris-Region : le pôle européen des Deep Tech
 
    Retour
    #
 
-Argent : dÃ©finition et propriÃ©tÃ©s
+Argent : définition et propriétés
 
-   MÃ©tal prÃ©cieux, lâ€™argent possÃ¨de, outre sa mallÃ©abilitÃ© et sa
-   ductilitÃ©, des propriÃ©tÃ©s spÃ©cifiques, dont des conductivitÃ©s
-   Ã©lectronique et thermique trÃ¨s Ã©levÃ©es, un haut pouvoir rÃ©flecteur et
-   une solubilitÃ© faible ou nulle de ses sels. Ce mÃ©tal blanc brillant,
-   laiteux et clair, un des premiers mÃ©taux connus par lâ€™Homme, est
-   utilisÃ© non seulement en bijouterie-joaillerie, en dÃ©coration, mais
-   Ã©galement dans de nombreux domaines industriels (photographie, optique,
-   chimie, mÃ©dical, pharmaceutique, Ã©lectronique, Ã©lectricitÃ©,
-   soudure...), et bien sÃ»r depuis des millÃ©naires pour la frappe de
-   monnaies ou de mÃ©dailles. Lâ€™argent forme alliage avec dâ€™autres mÃ©taux
-   (or, cuivre, zinc, cadmium, platine). Les cours de lâ€™argent sont
-   fortement liÃ©s Ã  ceux de lâ€™or, avec des phases spÃ©culatives.
+   Métal précieux, l'argent possède, outre sa malléabilité et sa
+   ductilité, des propriétés spécifiques, dont des conductivités
+   électronique et thermique très élevées, un haut pouvoir réflecteur et
+   une solubilité faible ou nulle de ses sels. Ce métal blanc brillant,
+   laiteux et clair, un des premiers métaux connus par l'Homme, est
+   utilisé non seulement en bijouterie-joaillerie, en décoration, mais
+   également dans de nombreux domaines industriels (photographie, optique,
+   chimie, médical, pharmaceutique, électronique, électricité,
+   soudure...), et bien sûr depuis des millénaires pour la frappe de
+   monnaies ou de médailles. L'argent forme alliage avec d'autres métaux
+   (or, cuivre, zinc, cadmium, platine). Les cours de l'argent sont
+   fortement liés à ceux de l'or, avec des phases spéculatives.
 
-   Dans la nature, lâ€™argent est associÃ©, en grande majoritÃ©, Ã  du cuivre,
-   du plomb, du zinc ou de lâ€™or, mais il existe Ã©galement des sulfures et
-   des sulfosels dâ€™argent. En cas dâ€™association Ã  lâ€™or, la mÃ©thode
-   dâ€™extraction retenue sera lâ€™hydromÃ©tallurgie basÃ©e sur la
+   Dans la nature, l'argent est associé, en grande majorité, à du cuivre,
+   du plomb, du zinc ou de l'or, mais il existe également des sulfures et
+   des sulfosels d'argent. En cas d'association à l'or, la méthode
+   d'extraction retenue sera l'hydrométallurgie basée sur la
    solubilisation par le cyanure.
 
-   Aujourdâ€™hui, la production miniÃ¨re dâ€™argent couvre environ 70 % de la
-   demande mondiale, qui nâ€™a jamais Ã©tÃ© aussi Ã©levÃ©e, avec un petit tiers
-   en provenance des mines dâ€™argent, un autre tiers des mines de zinc et
-   de plomb, un quart extrait des mines de cuivre et 12 % des mines dâ€™or.
-   Entre 2007 et 2015,  lâ€™extraction argentifÃ¨re augmente de 670 Ã  plus de
-   890 millions dâ€™onces. Mais, en 2016, elle amorce une descente,
-   confirmÃ©e en 2017 avec seulement 870 millions dâ€™onces. A noter que tous
-   les pays producteurs ont enregistrÃ© une baisse notable en 2018, Ã 
-   lâ€™exception de lâ€™Asie et de lâ€™Australie. Les ressources se rarÃ©fient
+   Aujourd'hui, la production minière d'argent couvre environ 70 % de la
+   demande mondiale, qui n'a jamais été aussi élevée, avec un petit tiers
+   en provenance des mines d'argent, un autre tiers des mines de zinc et
+   de plomb, un quart extrait des mines de cuivre et 12 % des mines d'or.
+   Entre 2007 et 2015,  l'extraction argentifère augmente de 670 à plus de
+   890 millions d'onces. Mais, en 2016, elle amorce une descente,
+   confirmée en 2017 avec seulement 870 millions d'onces. A noter que tous
+   les pays producteurs ont enregistré une baisse notable en 2018, à
+   l'exception de l'Asie et de l'Australie. Les ressources se raréfient
    incontestablement, avec des extractions de plus en plus difficiles et
-   coÃ»teuses. Un grand nombre dâ€™experts annoncent un Ã©puisement des stocks
-   dâ€™argent aux alentours de 2025.
+   coûteuses. Un grand nombre d'experts annoncent un épuisement des stocks
+   d'argent aux alentours de 2025.
 
-   Ajoutons que le recyclage de lâ€™argent ne reprÃ©sente en 2019 que 20 % de
-   la production globale actuelle, la grande majoritÃ© de lâ€™argent mÃ©tal
-   nâ€™Ã©tant pas recyclÃ©. La rÃ©cupÃ©ration de lâ€™argent Ã  partir des dÃ©chets
-   solides ou liquides est complexe, car devant Ãªtre adaptÃ©e Ã  la
-   spÃ©cificitÃ© de chaque secteur dâ€™activitÃ©. De plus, tout comme lâ€™or,
-   prÃ©sent en de trÃ¨s faibles quantitÃ©s dans bon nombre dâ€™applications,
-   notamment dans les composants Ã©lectroniques, ce mÃ©tal nâ€™est pas
-   rÃ©cupÃ©rÃ©. Le gisement collectable est Ã©valuÃ© Ã  120 tonnes, pour un
-   gisement collectÃ© de 60 tonnes.
+   Ajoutons que le recyclage de l'argent ne représente en 2019 que 20 % de
+   la production globale actuelle, la grande majorité de l'argent métal
+   n'étant pas recyclé. La récupération de l'argent à partir des déchets
+   solides ou liquides est complexe, car devant être adaptée à la
+   spécificité de chaque secteur d'activité. De plus, tout comme l'or,
+   présent en de très faibles quantités dans bon nombre d'applications,
+   notamment dans les composants électroniques, ce métal n'est pas
+   récupéré. Le gisement collectable est évalué à 120 tonnes, pour un
+   gisement collecté de 60 tonnes.
 
-   Lâ€™argent se montre intÃ©ressant de nos jours pour de nouveaux usages
-   (constituants de batteries, contacts Ã©lectroniques, fabrication de
-   tissus antimagnÃ©tiques ou antibactÃ©riensâ€¦) pour lesquels il doit
-   rÃ©pondre Ã  des caractÃ©ristiques prÃ©cises et souvent Ã©troites. En relais
-   aux bactÃ©ricides Ã  base dâ€™argent utilisÃ©s de longue tradition, lâ€™argent
-   nanomÃ©trique est lâ€™un des nanomatÃ©riaux antibactÃ©riens et antifongiques
-   les plus utilisÃ©s dans les produits de consommation (en conjugaison
-   avec les antibiotiques, dans les dentifrices, en revÃªtement sur les
+   L'argent se montre intéressant de nos jours pour de nouveaux usages
+   (constituants de batteries, contacts électroniques, fabrication de
+   tissus antimagnétiques ou antibactériens...) pour lesquels il doit
+   répondre à des caractéristiques précises et souvent étroites. En relais
+   aux bactéricides à base d'argent utilisés de longue tradition, l'argent
+   nanométrique est l'un des nanomatériaux antibactériens et antifongiques
+   les plus utilisés dans les produits de consommation (en conjugaison
+   avec les antibiotiques, dans les dentifrices, en revêtement sur les
    masques et outils chirurgicaux, mais aussi en emballage alimentaire et
-   sous forme dâ€™additif). TrÃ¨s efficaces, bon marchÃ© et faciles Ã 
-   synthÃ©tiser et Ã  manipuler, les nanoparticules d'argent reprÃ©sentent un
-   grand potentiel en tant quâ€™agent antibactÃ©rien. Cependant, de nombreux
-   travaux de recherche portant sur lâ€™Ã©valuation des risques dâ€™une
-   exposition humaine aux nanoparticules dâ€™argent concluent que ces
-   nanoparticules ont des effets nÃ©fastes sur la santÃ© humaine.
-   Inscription veille personnalisÃ©e
+   sous forme d'additif). Très efficaces, bon marché et faciles à
+   synthétiser et à manipuler, les nanoparticules d'argent représentent un
+   grand potentiel en tant qu'agent antibactérien. Cependant, de nombreux
+   travaux de recherche portant sur l'évaluation des risques d'une
+   exposition humaine aux nanoparticules d'argent concluent que ces
+   nanoparticules ont des effets néfastes sur la santé humaine.
+   Inscription veille personnalisée
 
-Argent dans l'actualitÃ©
+Argent dans l'actualité
 
-   Lâ€™accord entre lâ€™Ã‰tat et EDF sur le prix de lâ€™Ã©lectricitÃ© nuclÃ©aire
-   aboutit enfin Lâ€™accord entre lâ€™Ã‰tat et EDF sur le prix de lâ€™Ã©lectricitÃ©
-   nuclÃ©aire aboutit enfin
-   Ã‰nergie
+   L'accord entre l'État et EDF sur le prix de l'électricité nucléaire
+   aboutit enfin L'accord entre l'État et EDF sur le prix de l'électricité
+   nucléaire aboutit enfin
+   Énergie
    15 Novembre 2023
 
-Lâ€™accord entre lâ€™Ã‰tat et EDF sur le prix de lâ€™Ã©lectricitÃ© nuclÃ©aire ...
+L'accord entre l'État et EDF sur le prix de l'électricité nucléaire ...
 
-   L'Ã‰tat et EDF viennent dâ€™annoncer un accord sur le prix de
-   l'Ã©lectricitÃ© nuclÃ©aire, aprÃ¨s des mois de nÃ©gociations tendues. 70
-   euros le mÃ©gawattheure : câ€™est le prix de vente moyen qui a Ã©tÃ©
-   dÃ©voilÃ©...
-   V4Cure : du venin de serpent comme source dâ€™inspiration pour des
-   mÃ©dicaments V4Cure : du venin de serpent comme source dâ€™inspiration
-   pour des mÃ©dicaments
+   L'État et EDF viennent d'annoncer un accord sur le prix de
+   l'électricité nucléaire, après des mois de négociations tendues. 70
+   euros le mégawattheure : c'est le prix de vente moyen qui a été
+   dévoilé...
+   V4Cure : du venin de serpent comme source d'inspiration pour des
+   médicaments V4Cure : du venin de serpent comme source d'inspiration
+   pour des médicaments
    Chimie et Biotech
    22 Septembre 2023
 
-V4Cure : du venin de serpent comme source dâ€™inspiration pour des ...
+V4Cure : du venin de serpent comme source d'inspiration pour des ...
 
-   InspirÃ© par le venin du serpent mamba, le chercheur Nicolas Gilles
-   dÃ©veloppe au sein de sa start-up V4Cure les mÃ©dicaments de demain qui
-   permettront de soigner deux pathologies rÃ©nales graves....
+   Inspiré par le venin du serpent mamba, le chercheur Nicolas Gilles
+   développe au sein de sa start-up V4Cure les médicaments de demain qui
+   permettront de soigner deux pathologies rénales graves....
 
-   PublicitÃ©Devenez annonceur
-   Analyse de l'impact organisationnel de la prolifÃ©ration des piÃ¨ces
-   Analyse de l'impact organisationnel de la prolifÃ©ration des piÃ¨ces
-   Entreprises et marchÃ©s
+   PublicitéDevenez annonceur
+   Analyse de l'impact organisationnel de la prolifération des pièces
+   Analyse de l'impact organisationnel de la prolifération des pièces
+   Entreprises et marchés
    27 Novembre 2023
 
-Analyse de l'impact organisationnel de la prolifÃ©ration des piÃ¨ces
+Analyse de l'impact organisationnel de la prolifération des pièces
 
-   La prolifÃ©ration des piÃ¨ces est un problÃ¨me rÃ©current dans l'industrie
-   d'aujourd'hui. Leur nombre excÃ©dentaire complique ainsi, pour
-   lâ€™entreprise, le contrÃ´le de la qualitÃ© des donnÃ©es produits...
-   Les cybercriminels jouent aux opportunistes Les cybercriminels jouent
-   aux opportunistes
-   Informatique et NumÃ©rique
-   10 Juillet 2023
+   La prolifération des pièces est un problème récurrent dans l'industrie
+   d'aujourd'hui. Leur nombre excédentaire complique ainsi, pour
+   l'entreprise, le contrôle de la qualité des données produits...
+   Une veste pour prédire les risques cardiaques Une veste pour prédire
+   les risques cardiaques
+   Chimie et Biotech
+   21 Décembre 2023
 
-Les cybercriminels jouent aux opportunistes
+Une veste pour prédire les risques cardiaques
 
-   Le principal objectif des pirates reste inchangÃ© : gagner de lâ€™argent
-   en paralysant lâ€™activitÃ© des entreprises ou en volant des donnÃ©es
-   sensibles. Mais les grands comptes Ã©tant mieux sÃ©curisÃ©s...
-   Scanner son iris pour sâ€™identifier : le projet Ã  risque du crÃ©ateur de
-   ChatGPT Scanner son iris pour sâ€™identifier : le projet Ã  risque du
-   crÃ©ateur de ChatGPT
-   Informatique et NumÃ©rique
+   Quelle innovation biotechnologique ne doit-on pas rater en décembre ?
+   Une veste réutilisable capable de cartographier les flux de signaux
+   électriques au niveau du coeur...
+   Scanner son iris pour s'identifier : le projet à risque du créateur de
+   ChatGPT Scanner son iris pour s'identifier : le projet à risque du
+   créateur de ChatGPT
+   Informatique et Numérique
    20 Septembre 2023
 
-Scanner son iris pour sâ€™identifier : le projet Ã  risque du crÃ©ateur ...
+Scanner son iris pour s'identifier : le projet à risque du créateur ...
 
-   Le crÃ©ateur de ChatGPT se lance dans un nouveau challenge : un projet
-   de cryptomonnaie et d'identitÃ© biomÃ©trique Ã  l'Ã©chelle mondiale. Mais
-   cette initiative inquiÃ¨te quant Ã  lâ€™exploitation des...
-   Augmenter sa productivitÃ©, soutenir sa croissance et relocaliser
-   certaines sÃ©ries : câ€™est possible grÃ¢ce Ã  la cobotique ! Augmenter sa
-   productivitÃ©, soutenir sa croissance et relocaliser certaines sÃ©ries :
-   câ€™est possible grÃ¢ce Ã  la cobotique !
+   Le créateur de ChatGPT se lance dans un nouveau challenge : un projet
+   de cryptomonnaie et d'identité biométrique à l'échelle mondiale. Mais
+   cette initiative inquiète quant à l'exploitation des...
+   Augmenter sa productivité, soutenir sa croissance et relocaliser
+   certaines séries : c'est possible grâce à la cobotique ! Augmenter sa
+   productivité, soutenir sa croissance et relocaliser certaines séries :
+   c'est possible grâce à la cobotique !
    Innovations sectorielles
    9 Novembre 2023
 
-Augmenter sa productivitÃ©, soutenir sa croissance et relocaliser ...
+Augmenter sa productivité, soutenir sa croissance et relocaliser ...
 
-   Dans un autre article, Alexandre PubliÃ©, fondateur et dirigeant dâ€™OsÃ©
+   Dans un autre article, Alexandre Publié, fondateur et dirigeant d'Osé
    nous racontait comment il misait sur la cobotique et des pratiques RH
    innovantes pour attirer de nouveaux soudeurs. Il nous...
 
-   Toute l'actualitÃ©
+   Toute l'actualité
      __________________________________________________________________
 
 Argent dans les livres blancs
 
-   Entreprises et marchÃ©s
+   Entreprises et marchés
 
    Avril 2019
    [robot-mobile-logistique-entrepot-300x250.jpg] [image-lb-europe-1.png]
 
 L'innovation territoriale a besoin de l'Europe
 
-   Au-delÃ  de l'aspect politique, l'industrie franÃ§aise, pour innover, a
+   Au-delà de l'aspect politique, l'industrie française, pour innover, a
    tout...
    Innovations sectorielles
 
-   AoÃ»t 2021
+   Août 2021
    [image-lb-europe-1.png] [LBLB.jpg]
 
 L'innovation technologique transforme le continent africain
 
-   Les innovations technologiques permettent d'accÃ©lÃ©rer le dÃ©veloppement
+   Les innovations technologiques permettent d'accélérer le développement
    de pays africains.
      __________________________________________________________________
 
-Argent dans les confÃ©rences en ligne
+Argent dans les conférences en ligne
 
    IFRAME: https://www.youtube.com/embed/XuZnkMisQ6g?feature=oembed
 
-   Entreprises et marchÃ©s
+   Entreprises et marchés
    10 Novembre 2016
 
 Comment manager malin ?
 
    [LBLB.jpg]
-   Informatique et NumÃ©rique
-   20 DÃ©cembre 2021
+   Informatique et Numérique
+   20 Décembre 2021
 
-Replay : Â« Vers une ingÃ©nierie hybride alliant physique et donnÃ©es Â»
+Replay : « Vers une ingénierie hybride alliant physique et données »
      __________________________________________________________________
 
 Argent dans les ressources documentaires
 
      * Article de bases documentaires |
      * 10 sept. 2010 |
-     * RÃ©f : M1625
+     * Réf : M1625
 
-DÃ©pÃ´t Ã©lectrolytique de lâ€™or et de lâ€™argent
+Dépôt électrolytique de l'or et de l'argent
 
-   Le dÃ©pÃ´t Ã©lectrolytique de l'or et de l'argent permet l'obtention d'une
-   couche mÃ©tallique sur un substrat conducteur, par rÃ©duction cathodique
-   des formes oxydÃ©es en solution de ces deux mÃ©taux. Cet article a pour
-   objet d'apporter une aide dans le choix du type de revÃªtement sur la
-   base des propriÃ©tÃ©s recherchÃ©es. Une distinction est effectuÃ©e entre
-   les applications Ã  but dÃ©coratif et les applications techniques. Les
-   familles de formulation, existantes Ã  l'Ã©chelle industrielle, sont
-   exposÃ©es pour chacun de ces deux mÃ©taux traitÃ©s sÃ©parÃ©ment, ainsi que
-   les conditions d'obtention de ce revÃªtement et ses principales
-   caractÃ©ristiques.
+   Le dépôt électrolytique de l'or et de l'argent permet l'obtention d'une
+   couche métallique sur un substrat conducteur, par réduction cathodique
+   des formes oxydées en solution de ces deux métaux. Cet article a pour
+   objet d'apporter une aide dans le choix du type de revêtement sur la
+   base des propriétés recherchées. Une distinction est effectuée entre
+   les applications à but décoratif et les applications techniques. Les
+   familles de formulation, existantes à l'échelle industrielle, sont
+   exposées pour chacun de ces deux métaux traités séparément, ainsi que
+   les conditions d'obtention de ce revêtement et ses principales
+   caractéristiques.
      * Article de bases documentaires |
-     * 10 dÃ©c. 2006 |
-     * RÃ©f : M2396
+     * 10 déc. 2006 |
+     * Réf : M2396
 
-MÃ©tallurgie de lâ€™argent
+Métallurgie de l'argent
 
-   MÃ©tal prÃ©cieux, mais aussi industriel, lâ€™argent prÃ©sente une grande
-   conductivitÃ© Ã©lectronique et thermique, et un pouvoir rÃ©flecteur Ã©levÃ©.
-   La mÃ©thode mÃ©tallurgique dâ€™extraction de lâ€™argent dÃ©pend du mÃ©tal avec
-   lequel il est associÃ© ; hydromÃ©tallurgie basÃ©e sur la solubilisation
-   par le cyanure pour lâ€™or, pyromÃ©tallurgie pour les concentrÃ©s de plomb,
-   pyro-hydromÃ©tallurgie pour ceux du cuivre, hydromÃ©tallurgie pour ceux
-   du zinc. Les coÃ»ts de production varient grandement en fonction du pays
-   et de lâ€™exploitation Ã  lâ€™autre. La production miniÃ¨re dâ€™argent couvre
-   plus des 2/3 de la demande. MÃªme si la rÃ©cupÃ©ration de lâ€™argent Ã 
-   partir des dÃ©chets solides reste complexe, le taux de recyclage de ce
-   mÃ©tal atteint nÃ©anmoins 20 %.
+   Métal précieux, mais aussi industriel, l'argent présente une grande
+   conductivité électronique et thermique, et un pouvoir réflecteur élevé.
+   La méthode métallurgique d'extraction de l'argent dépend du métal avec
+   lequel il est associé ; hydrométallurgie basée sur la solubilisation
+   par le cyanure pour l'or, pyrométallurgie pour les concentrés de plomb,
+   pyro-hydrométallurgie pour ceux du cuivre, hydrométallurgie pour ceux
+   du zinc. Les coûts de production varient grandement en fonction du pays
+   et de l'exploitation à l'autre. La production minière d'argent couvre
+   plus des 2/3 de la demande. Même si la récupération de l'argent à
+   partir des déchets solides reste complexe, le taux de recyclage de ce
+   métal atteint néanmoins 20 %.
      * Article de bases documentaires |
      * 10 janv. 2017 |
-     * RÃ©f : NM8150
+     * Réf : NM8150
 
-Nanoparticules de dioxyde de titane et dâ€™argent
+Nanoparticules de dioxyde de titane et d'argent
 
-   Cet article prÃ©sente les vecteurs dâ€™exposition cutanÃ©e, la pÃ©nÃ©tration,
-   les rÃ©sultats des Ã©tudes de toxicitÃ© des nanoparticules de dioxyde de
-   titane et dâ€™argent, ainsi que les mÃ©canismes dâ€™intoxication quand ils
-   sont connus. Les nanoparticules se dÃ©posent et/ou pÃ©nÃ¨trent dans la
-   couche cornÃ©e de lâ€™Ã©piderme. Dans le cas dâ€™une peau lÃ©sÃ©e, le dioxyde
-   de titane pÃ©nÃ¨tre un peu plus profondÃ©ment. Lâ€™usage de pansements au
-   nanoargent pour les brÃ»lures permet Ã  lâ€™argent de passer dans la
-   circulation systÃ©mique et dâ€™Ãªtre distribuÃ© dans le corps et les organes
-   cibles. Le cas de lâ€™utilitÃ© du nanoargent, pour certaines applications,
-   compte tenu de son impact sur lâ€™environnement, sera abordÃ© dans cet
+   Cet article présente les vecteurs d'exposition cutanée, la pénétration,
+   les résultats des études de toxicité des nanoparticules de dioxyde de
+   titane et d'argent, ainsi que les mécanismes d'intoxication quand ils
+   sont connus. Les nanoparticules se déposent et/ou pénètrent dans la
+   couche cornée de l'épiderme. Dans le cas d'une peau lésée, le dioxyde
+   de titane pénètre un peu plus profondément. L'usage de pansements au
+   nanoargent pour les brûlures permet à l'argent de passer dans la
+   circulation systémique et d'être distribué dans le corps et les organes
+   cibles. Le cas de l'utilité du nanoargent, pour certaines applications,
+   compte tenu de son impact sur l'environnement, sera abordé dans cet
    article.
      * Article de bases documentaires : FICHE PRATIQUE
      * |
-     * 18 fÃ©vr. 2012
+     * 18 févr. 2012
      * |
-     * RÃ©f : 0330
+     * Réf : 0330
 
-Comment lâ€™entreprise innovante crÃ©e-t-elle de la valeur ?
+Comment l'entreprise innovante crée-t-elle de la valeur ?
 
-   La crÃ©ation de valeur subit lâ€™influence dâ€™une Ã©conomie qui repose de
-   plus en plus sur de nouvelles activitÃ©s axÃ©es sur lâ€™innovation et
+   La création de valeur subit l'influence d'une économie qui repose de
+   plus en plus sur de nouvelles activités axées sur l'innovation et
    faisant largement appel au capital humain et aux connaissances.
 
-   Peut-on alors parler d'une nouvelle conception de la crÃ©ation de
-   valeur ? Est-ce lâ€™innovation ou bien les connaissances qui concourent Ã 
-   lâ€™innovation qui sont porteurs de valeur ?
+   Peut-on alors parler d'une nouvelle conception de la création de
+   valeur ? Est-ce l'innovation ou bien les connaissances qui concourent à
+   l'innovation qui sont porteurs de valeur ?
 
-   Quel sens donner Ã  cette crÃ©ation de valeur ? Plus globalement, comment
-   cette crÃ©ation de valeur est-elle prÃ©sente dans des entreprises
+   Quel sens donner à cette création de valeur ? Plus globalement, comment
+   cette création de valeur est-elle présente dans des entreprises
    innovantes ?
 
-   Cette fiche vous permettra de faire le lien entre crÃ©ation de valeur,
-   connaissance et innovation. La dÃ©marche Ã  suivre est la suivante :
-     * DÃ©finir la crÃ©ation de valeur par lâ€™entreprise.
+   Cette fiche vous permettra de faire le lien entre création de valeur,
+   connaissance et innovation. La démarche à suivre est la suivante :
+     * Définir la création de valeur par l'entreprise.
      * Montrer en quoi les connaissances qui concourent au processus
-       dâ€™innovation constituent en soi une valeur pour lâ€™entreprise.
-     * Relier connaissance, innovation et crÃ©ation de valeur par la
-       notionÂ« dâ€™intelligence stockÃ©e Â».
+       d'innovation constituent en soi une valeur pour l'entreprise.
+     * Relier connaissance, innovation et création de valeur par la
+       notion« d'intelligence stockée ».
 
    >
      * Ressources documentaires >
      * Innovation >
-     * Management et ingÃ©nierie de l'innovation >
-     * DÃ©ployer l'innovation
+     * Management et ingénierie de l'innovation >
+     * Déployer l'innovation
 
-     * >   Dans : DÃ©ployer l'innovation
+     * >   Dans : Déployer l'innovation
      * |
-     * RÃ©f : dt30
+     * Réf : dt30
 
-   MÃ©thodes, outils, pilotage et cas d'Ã©tude
+   Méthodes, outils, pilotage et cas d'étude
      * Article de bases documentaires : FICHE PRATIQUE
      * |
      * 11 nov. 2021
      * |
-     * RÃ©f : 1732
+     * Réf : 1732
 
-CrÃ©er un environnement de type Â« start-up Â» dans une organisation
+Créer un environnement de type « start-up » dans une organisation
 
-   Si votre organisation vous a dÃ©montrÃ© sa capacitÃ© Ã  gÃ©nÃ©rer du progrÃ¨s
-   continu et des innovations incrÃ©mentales, elle bute sur lâ€™Ã©closion et
-   le dÃ©veloppement dâ€™innovations de rupture. Vous cherchez donc Ã  y crÃ©er
-   un environnement propice Ã  lâ€™exploration et Ã  lâ€™innovation. Dâ€™un autre
-   cÃ´tÃ©, vous observez le phÃ©nomÃ¨ne des start-up et lâ€™Ã©volution parfois
-   surprenante de certaines dâ€™entre elles. Ces organisations agiles et
-   sans peur crÃ©ent chez vous des sentiments particuliers, mÃ©lange de
-   jalousie et dâ€™envie. Vous vous dites quâ€™il est peut-Ãªtre possible de
-   crÃ©er au sein de votre organisation une zone rÃ©servÃ©e pour que vos
-   employÃ©s puissent agir de la mÃªme sorte. Au-delÃ  de la crÃ©ation
-   physique dâ€™un lieu, il vous faudra recrÃ©er des conditions particuliÃ¨res
-   pour que vos employÃ©s acquiÃ¨rent des rÃ©flexes et un mode de pensÃ©e
+   Si votre organisation vous a démontré sa capacité à générer du progrès
+   continu et des innovations incrémentales, elle bute sur l'éclosion et
+   le développement d'innovations de rupture. Vous cherchez donc à y créer
+   un environnement propice à l'exploration et à l'innovation. D'un autre
+   côté, vous observez le phénomène des start-up et l'évolution parfois
+   surprenante de certaines d'entre elles. Ces organisations agiles et
+   sans peur créent chez vous des sentiments particuliers, mélange de
+   jalousie et d'envie. Vous vous dites qu'il est peut-être possible de
+   créer au sein de votre organisation une zone réservée pour que vos
+   employés puissent agir de la même sorte. Au-delà de la création
+   physique d'un lieu, il vous faudra recréer des conditions particulières
+   pour que vos employés acquièrent des réflexes et un mode de pensée
    intrapreneuriaux.
    >
      * Ressources documentaires >
      * Innovation >
-     * Management et ingÃ©nierie de l'innovation >
-     * L'intrapreneuriat au service de lâ€™innovation
+     * Management et ingénierie de l'innovation >
+     * L'intrapreneuriat au service de l'innovation
 
-     * >   Dans : L'intrapreneuriat au service de lâ€™innovation
+     * >   Dans : L'intrapreneuriat au service de l'innovation
      * |
-     * RÃ©f : dt137
+     * Réf : dt137
 
    Mettre en place une organisation agile dans votre entreprise
      * Article de bases documentaires : FICHE PRATIQUE
      * |
      * 11 nov. 2021
      * |
-     * RÃ©f : 1734
+     * Réf : 1734
 
-Mesurer la progression dâ€™une initiative intrapreneuriale
+Mesurer la progression d'une initiative intrapreneuriale
 
-   Ã€ la tÃªte dâ€™une structure qui a pour objectif de dÃ©velopper des Ã©quipes
+   À la tête d'une structure qui a pour objectif de développer des équipes
    intrapreneuriales, vous vous demandez comment mesurer la progression
-   des Ã©quipes que vous accompagnez. Dâ€™un cÃ´tÃ©, vous ne voulez pas stopper
-   les explorations trop tÃ´t de peur de passer Ã  cÃ´tÃ© dâ€™une belle
-   opportunitÃ© de dÃ©veloppement. Mais dâ€™un autre cÃ´tÃ©, vous craignez de
-   vous acharner trop longtemps sur un sujet, dÃ©pensant du temps et de
-   lâ€™argent Ã  la recherche dâ€™un succÃ¨s improbable.
+   des équipes que vous accompagnez. D'un côté, vous ne voulez pas stopper
+   les explorations trop tôt de peur de passer à côté d'une belle
+   opportunité de développement. Mais d'un autre côté, vous craignez de
+   vous acharner trop longtemps sur un sujet, dépensant du temps et de
+   l'argent à la recherche d'un succès improbable.
 
-   Pourtant, chacune des initiatives fait face Ã  des difficultÃ©s. Elles
-   nÃ©cessitent des accompagnements adaptÃ©s et des financements variÃ©s. Les
-   explorations purement digitales peuvent rapidement trouver leur marchÃ©
-   et peuvent Ãªtre peu consommatrices de ressources. Dâ€™un autre cÃ´tÃ©,
-   celles faisant appel Ã  des technologies moins matures ou avec des
-   durÃ©es de mise en Å“uvre plus longues (dans le domaine de la biotech par
-   exemple) demanderont plus de temps et de ressources. DÃ¨s lors, le temps
-   et donc les ressources associÃ©es ne peuvent constituer les seuls
-   Ã©lÃ©ments pour juger de la progression.
+   Pourtant, chacune des initiatives fait face à des difficultés. Elles
+   nécessitent des accompagnements adaptés et des financements variés. Les
+   explorations purement digitales peuvent rapidement trouver leur marché
+   et peuvent être peu consommatrices de ressources. D'un autre côté,
+   celles faisant appel à des technologies moins matures ou avec des
+   durées de mise en oeuvre plus longues (dans le domaine de la biotech
+   par exemple) demanderont plus de temps et de ressources. Dès lors, le
+   temps et donc les ressources associées ne peuvent constituer les seuls
+   éléments pour juger de la progression.
 
-   Cette fiche vous propose une mÃ©thode de reprÃ©sentation graphique fondÃ©e
-   sur le temps passÃ© en exploration, la taille du marchÃ© adressÃ© et le
-   niveau de risques rÃ©siduels de lâ€™exploration.
+   Cette fiche vous propose une méthode de représentation graphique fondée
+   sur le temps passé en exploration, la taille du marché adressé et le
+   niveau de risques résiduels de l'exploration.
    >
      * Ressources documentaires >
      * Innovation >
-     * Management et ingÃ©nierie de l'innovation >
-     * L'intrapreneuriat au service de lâ€™innovation
+     * Management et ingénierie de l'innovation >
+     * L'intrapreneuriat au service de l'innovation
 
-     * >   Dans : L'intrapreneuriat au service de lâ€™innovation
+     * >   Dans : L'intrapreneuriat au service de l'innovation
      * |
-     * RÃ©f : dt137
+     * Réf : dt137
 
    Mettre en place une organisation agile dans votre entreprise
      __________________________________________________________________
@@ -447,8 +445,8 @@ Mesurer la progression dâ€™une initiative intrapreneuriale
 
 INSCRIVEZ-VOUS AUX NEWSLETTERS GRATUITES !
 
-   Inscrivez-vous gratuitement aux newsletters du magazine d'actualitÃ© et
-   Info mises Ã  jour des ressources documentaires.
+   Inscrivez-vous gratuitement aux newsletters du magazine d'actualité et
+   Info mises à jour des ressources documentaires.
    ____________________
    (BUTTON) S'INSCRIRE
 
@@ -458,28 +456,28 @@ INSCRIVEZ-VOUS AUX NEWSLETTERS GRATUITES !
 
    TECHNIQUES DE L'INGENIEUR
    L'EXPERTISE TECHNIQUE ET SCIENTIFIQUE
-   DE RÃ‰FÃ‰RENCE
+   DE RÉFÉRENCE
 
-   Avec Techniques de l'IngÃ©nieur, retrouvez tous les articles
-   scientifiques et techniques : base de donnÃ©es, veille technologique,
+   Avec Techniques de l'Ingénieur, retrouvez tous les articles
+   scientifiques et techniques : base de données, veille technologique,
    documentation et expertise technique
 
    RESSOURCES DOCUMENTAIRES
 
-   Plus de 10 000 articles de rÃ©fÃ©rence, fiches pratiques et articles
-   interactifs validÃ©s par les comitÃ©s scientifiques
+   Plus de 10 000 articles de référence, fiches pratiques et articles
+   interactifs validés par les comités scientifiques
 
-   LE MAGAZINE D'ACTUALITÃ‰
+   LE MAGAZINE D'ACTUALITÉ
 
-   Toute l'actualitÃ©, la veille technologique, les Ã©tudes de cas et les
-   Ã©vÃ©nements de chaque secteur de l'industrie
+   Toute l'actualité, la veille technologique, les études de cas et les
+   événements de chaque secteur de l'industrie
 
-   CONTENUS EN ACCÃˆS LIBRE
+   CONTENUS EN ACCÈS LIBRE
 
-     * > TÃ©lÃ©chargez tous les livres blancs
-     * > Visionnez ou revisionnez toutes les confÃ©rences-en-ligne
-     * > DÃ©couvrez tous les articles tÃ©moins
-     * > Retrouvez tous les contenus en accÃ¨s libre
+     * > Téléchargez tous les livres blancs
+     * > Visionnez ou revisionnez toutes les conférences-en-ligne
+     * > Découvrez tous les articles témoins
+     * > Retrouvez tous les contenus en accès libre
 
 
    SUIVEZ-NOUS
@@ -494,14 +492,14 @@ INSCRIVEZ-VOUS AUX NEWSLETTERS GRATUITES !
 
    > Tous les flux RSS
 
-   Automatique - Robotique | BiomÃ©dical - Pharma | Construction et travaux
-   publics | Ã‰lectronique - Photonique | Ã‰nergies | Environnement -
-   SÃ©curitÃ© | GÃ©nie industriel | IngÃ©nierie des transports | Innovation |
-   MatÃ©riaux | MÃ©canique | Mesures - Analyses | ProcÃ©dÃ©s chimie - bio -
+   Automatique - Robotique | Biomédical - Pharma | Construction et travaux
+   publics | Électronique - Photonique | Énergies | Environnement -
+   Sécurité | Génie industriel | Ingénierie des transports | Innovation |
+   Matériaux | Mécanique | Mesures - Analyses | Procédés chimie - bio -
    agro | Sciences fondamentales | Technologies de l'information
 
-   AÃ©rospatial | Agroalimentaire | Automobile | Ã‰co-industries |
-   Ã‰quipements industriels | Plasturgie
+   Aérospatial | Agroalimentaire | Automobile | Éco-industries |
+   Équipements industriels | Plasturgie
      __________________________________________________________________
 
      * Recherches les plus populaires
@@ -533,14 +531,14 @@ INSCRIVEZ-VOUS AUX NEWSLETTERS GRATUITES !
      * Z
 
    ACCUEIL | A PROPOS | ANNUAIRE AUTEURS | EXPERTS SCIENTIFIQUES |
-   PUBLICITÃ‰ | PLAN DU SITE | MENTIONS LÃ‰GALES | RGPD | COOKIES | AIDE &
+   PUBLICITÉ | PLAN DU SITE | MENTIONS LÉGALES | RGPD | COOKIES | AIDE &
    FAQ | CONTACT
 
                                   PAIEMENT
-                                 SÃ‰CURISÃ‰
+                                  SÉCURISÉ
 
                               OUVERTURE RAPIDE
                                 DE VOS DROITS
 
-                          ASSISTANCE TÃ‰LÃ‰PHONIQUE
+                           ASSISTANCE TÉLÉPHONIQUE
                             +33 (0)1 53 35 20 20

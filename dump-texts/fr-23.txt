@@ -1,29 +1,30 @@
-   #alternate alternate alternate alternate alternate GOLD AVENUEÂ®
+   #alternate alternate alternate alternate alternate GOLD AVENUE®
 
-   Or 0,00 Â£
+   Or 0,00 EUR
 
-   0,00 Â£
+   0,00 EUR
 
-   Argent 0,00 Â£
+   Argent 0,00 EUR
 
-   0,00 Â£
+   0,00 EUR
 
-   Platine 0,00 Â£
+   Platine 0,00 EUR
 
-   0,00 Â£
+   0,00 EUR
 
-   Palladium 0,00 Â£
+   Palladium 0,00 EUR
 
-   0,00 Â£
-   GBP_________________
+   0,00 EUR
 
-   Â£
-   GBP
+   EUR_________________
+
+   EUR
+   EUR
    fr-FR_______________
    FR icon FR icon
    FR
    +41 22 518 92 12
-   Ã€ proposSolution de stockageTarifs
+   À proposSolution de stockageTarifs
    Se connecterOuvrir un compte
 
    OR
@@ -41,92 +42,106 @@ Achat argent, avec Stockage Gratuit en Suisse et Revente sans Commission
    default_____________
    Trier par
 
-   DÃ©faut
+   Défaut
    SANS TVA
-   PiÃ¨ce d'argent pur de 1 oz SANS TVA 999.0 - Arche de NoÃ© ArmÃ©nie AnnÃ©es
-   mixtes PiÃ¨ce d'argent pur de 1 oz SANS TVA 999.0 - Arche de NoÃ© ArmÃ©nie
-   AnnÃ©es mixtes
+   Pièce d'argent pur de 1 oz SANS TVA 999.0 - Arche de Noé Arménie Années
+   mixtes Pièce d'argent pur de 1 oz SANS TVA 999.0 - Arche de Noé Arménie
+   Années mixtes
    Top
 
-   PiÃ¨ce d'argent pur de 1 oz SANS TVA 999.0 - Arche de NoÃ© ArmÃ©nie AnnÃ©es
+   Pièce d'argent pur de 1 oz SANS TVA 999.0 - Arche de Noé Arménie Années
    mixtes
 
-   22,27 Â£
+   25,97 EUR
 
-   Frais: 3,48 Â£ par once
+   Frais: 4,04 EUR par once
    (BUTTON)
    Ajout panier
    SANS TVA
-   1 once piÃ¨ce dâ€™argent pur 999.0 Sans TVA - Britannia Charles III - BU
-   AnnÃ©es Mixtes 1 once piÃ¨ce dâ€™argent pur 999.0 Sans TVA - Britannia
-   Charles III - BU AnnÃ©es Mixtes
+   1 once Pièce en argent pur 999.9 SANS TVA - Perth Mint Kangourou BU
+   Années Mixtes 1 once Pièce en argent pur 999.9 SANS TVA - Perth Mint
+   Kangourou BU Années Mixtes
    New
 
-   1 once piÃ¨ce dâ€™argent pur 999.0 Sans TVA - Britannia Charles III - BU
-   AnnÃ©es Mixtes
+   1 once Pièce en argent pur 999.9 SANS TVA - Perth Mint Kangourou BU
+   Années Mixtes
 
-   22,62 Â£
+   26,23 EUR
 
-   Frais: 3,83 Â£ par once
+   Frais: 4,30 EUR par once
    (BUTTON)
-   Ajout panier
+   Précommande
    SANS TVA
-   1 once piÃ¨ce d'argent 999.0 pur sans TVA - American Eagle BU Mixed
-   Years 1 once piÃ¨ce d'argent 999.0 pur sans TVA - American Eagle BU
-   Mixed Years
+   1 once pièce d'argent pur 999.0 Sans TVA - Britannia Charles III - BU
+   Années Mixtes 1 once pièce d'argent pur 999.0 Sans TVA - Britannia
+   Charles III - BU Années Mixtes
    New
 
-   1 once piÃ¨ce d'argent 999.0 pur sans TVA - American Eagle BU Mixed
-   Years
+   1 once pièce d'argent pur 999.0 Sans TVA - Britannia Charles III - BU
+   Années Mixtes
 
-   23,87 Â£
+   26,41 EUR
 
-   Frais: 5,08 Â£ par once
+   Frais: 4,48 EUR par once
    (BUTTON)
    Ajout panier
 
-   Assistant d'Ã©pargne GOLD AVENUE
+   Assistant d'épargne GOLD AVENUE
 
    Trouvez les produits pour votre budget
    Precious metal gold Precious metal gold
    Precious metal silver Precious metal silver
    (BUTTON) Commencer
    SANS TVA
-   1 once PiÃ¨ce d'argent pur 999.0 SANS TVA - Philharmonique BU AnnÃ©es
-   Mixtes 1 once PiÃ¨ce d'argent pur 999.0 SANS TVA - Philharmonique BU
-   AnnÃ©es Mixtes
+   1 once pièce d'argent 999.0 pur sans TVA - American Eagle BU Mixed
+   Years 1 once pièce d'argent 999.0 pur sans TVA - American Eagle BU
+   Mixed Years
    New
 
-   1 once PiÃ¨ce d'argent pur 999.0 SANS TVA - Philharmonique BU AnnÃ©es
+   1 once pièce d'argent 999.0 pur sans TVA - American Eagle BU Mixed
+   Years
+
+   27,87 EUR
+
+   Frais: 5,94 EUR par once
+   (BUTTON)
+   Ajout panier
+   SANS TVA
+   1 once Pièce d'argent pur 999.0 SANS TVA - Philharmonique BU Années
+   Mixtes 1 once Pièce d'argent pur 999.0 SANS TVA - Philharmonique BU
+   Années Mixtes
+   New
+
+   1 once Pièce d'argent pur 999.0 SANS TVA - Philharmonique BU Années
    Mixtes
 
-   22,37 Â£
+   26,52 EUR
 
-   Frais: 3,58 Â£ par once
+   Frais: 4,59 EUR par once
+   (BUTTON)
+   Précommande
+   SANS TVA
+   1 once Pièce d'argent pur 999.0 SANS TVA - Krugerrand BU Années Mixte 1
+   once Pièce d'argent pur 999.0 SANS TVA - Krugerrand BU Années Mixte
+   New
+
+   1 once Pièce d'argent pur 999.0 SANS TVA - Krugerrand BU Années Mixte
+
+   28,06 EUR
+
+   Frais: 6,13 EUR par once
    (BUTTON)
    Ajout panier
    SANS TVA
-   1 once PiÃ¨ce d'argent pur 999.0 SANS TVA - Krugerrand BU AnnÃ©es Mixte 1
-   once PiÃ¨ce d'argent pur 999.0 SANS TVA - Krugerrand BU AnnÃ©es Mixte
+   1 once Pièce d'argent pur 999.9 SANS TVA - Maple Leaf BU Années Mixte 1
+   once Pièce d'argent pur 999.9 SANS TVA - Maple Leaf BU Années Mixte
    New
 
-   1 once PiÃ¨ce d'argent pur 999.0 SANS TVA - Krugerrand BU AnnÃ©es Mixte
+   1 once Pièce d'argent pur 999.9 SANS TVA - Maple Leaf BU Années Mixte
 
-   24,07 Â£
+   26,47 EUR
 
-   Frais: 5,28 Â£ par once
-   (BUTTON)
-   Ajout panier
-   SANS TVA
-   1 once PiÃ¨ce d'argent pur 999.9 SANS TVA - Maple Leaf BU AnnÃ©es Mixte 1
-   once PiÃ¨ce d'argent pur 999.9 SANS TVA - Maple Leaf BU AnnÃ©es Mixte
-   New
-
-   1 once PiÃ¨ce d'argent pur 999.9 SANS TVA - Maple Leaf BU AnnÃ©es Mixte
-
-   22,68 Â£
-
-   Frais: 3,89 Â£ par once
+   Frais: 4,54 EUR par once
    (BUTTON)
    Ajout panier
    SANS TVA
@@ -136,11 +151,11 @@ Achat argent, avec Stockage Gratuit en Suisse et Revente sans Commission
 
    10 onces lingot d'argent sans TVA pur 999.0 - PAMP Suisse
 
-   219,92 Â£
+   256,55 EUR
 
-   Frais: 3,20 Â£ par once
+   Frais: 3,73 EUR par once
    (BUTTON)
-   PrÃ©commande
+   Précommande
    SANS TVA
    1 kg lingot d'argent sans TVA 999.0 - PAMP Suisse 1 kg lingot d'argent
    sans TVA 999.0 - PAMP Suisse
@@ -148,9 +163,9 @@ Achat argent, avec Stockage Gratuit en Suisse et Revente sans Commission
 
    1 kg lingot d'argent sans TVA 999.0 - PAMP Suisse
 
-   699,73 Â£
+   817,21 EUR
 
-   Frais: 2,97 Â£ par once
+   Frais: 3,49 EUR par once
    (BUTTON)
    Ajout panier
    SANS TVA
@@ -159,9 +174,9 @@ Achat argent, avec Stockage Gratuit en Suisse et Revente sans Commission
 
    100 onces lingot d'argent sans TVA pur 999.0 - PAMP Suisse
 
-   2â€¯096,75 Â£
+   2447,23 EUR
 
-   Frais: 2,18 Â£ par once
+   Frais: 2,54 EUR par once
    (BUTTON)
    Ajout panier
    SANS TVA
@@ -170,9 +185,9 @@ Achat argent, avec Stockage Gratuit en Suisse et Revente sans Commission
 
    Monster Box 15x1 kg lingot d'argent sans TVA pur 999.0 - PAMP Suisse
 
-   10â€¯075,95 Â£
+   11764,20 EUR
 
-   Frais: 2,10 Â£ par once
+   Frais: 2,46 EUR par once
    (BUTTON)
    Ajout panier
    SANS TVA
@@ -181,9 +196,9 @@ Achat argent, avec Stockage Gratuit en Suisse et Revente sans Commission
 
    Monster Box 500 onces lingot d'argent sans TVA pur 999.0 - PAMP Suisse
 
-   10â€¯404,73 Â£
+   12147,54 EUR
 
-   Frais: 2,02 Â£ par once
+   Frais: 2,37 EUR par once
    (BUTTON)
    Ajout panier
    500 grammes lingot d'argent pur 999.0 - PAMP Suisse 500 grammes lingot
@@ -191,9 +206,9 @@ Achat argent, avec Stockage Gratuit en Suisse et Revente sans Commission
 
    500 grammes lingot d'argent pur 999.0 - PAMP Suisse
 
-   388,96 Â£
+   453,68 EUR
 
-   Frais: 3,68 Â£ par once
+   Frais: 4,27 EUR par once
    (BUTTON)
    Ajout panier
    1 kg lingot d'argent pur 999.0 - PAMP Suisse 1 kg lingot d'argent pur
@@ -202,9 +217,9 @@ Achat argent, avec Stockage Gratuit en Suisse et Revente sans Commission
 
    1 kg lingot d'argent pur 999.0 - PAMP Suisse
 
-   740,60 Â£
+   864,66 EUR
 
-   Frais: 2,60 Â£ par once
+   Frais: 3,04 EUR par once
    (BUTTON)
    Ajout panier
    10 grammes lingotin d'argent pur 999.0 - PAMP Suisse Lady Fortuna 10
@@ -212,9 +227,9 @@ Achat argent, avec Stockage Gratuit en Suisse et Revente sans Commission
 
    10 grammes lingotin d'argent pur 999.0 - PAMP Suisse Lady Fortuna
 
-   16,37 Â£
+   19,10 EUR
 
-   Frais: 9,17 Â£ par lingotin
+   Frais: 10,69 EUR par lingotin
    (BUTTON)
    Ajout panier
    1 once lingotin d'argent pur 999.0 - PAMP Suisse Lady Fortuna 1 once
@@ -223,9 +238,9 @@ Achat argent, avec Stockage Gratuit en Suisse et Revente sans Commission
 
    1 once lingotin d'argent pur 999.0 - PAMP Suisse Lady Fortuna
 
-   32,81 Â£
+   38,16 EUR
 
-   Frais: 11,67 Â£ par once
+   Frais: 13,50 EUR par once
    (BUTTON)
    Ajout panier
    100 grammes lingotin d'argent pur 999.0 - PAMP Suisse Lady Fortuna 100
@@ -234,9 +249,9 @@ Achat argent, avec Stockage Gratuit en Suisse et Revente sans Commission
 
    100 grammes lingotin d'argent pur 999.0 - PAMP Suisse Lady Fortuna
 
-   95,09 Â£
+   110,89 EUR
 
-   Frais: 8,67 Â£ par once
+   Frais: 10,10 EUR par once
    (BUTTON)
    Ajout panier
    5 onces lingotin d'argent pur 999.0 - PAMP Suisse Lady Fortuna 5 onces
@@ -244,9 +259,19 @@ Achat argent, avec Stockage Gratuit en Suisse et Revente sans Commission
 
    5 onces lingotin d'argent pur 999.0 - PAMP Suisse Lady Fortuna
 
-   151,21 Â£
+   176,39 EUR
 
-   Frais: 9,29 Â£ par once
+   Frais: 10,83 EUR par once
+   (BUTTON)
+   Ajout panier
+   250 grammes lingotin d'argent pur 999.0 - PAMP Suisse Lady Fortuna 250
+   grammes lingotin d'argent pur 999.0 - PAMP Suisse Lady Fortuna
+
+   250 grammes lingotin d'argent pur 999.0 - PAMP Suisse Lady Fortuna
+
+   343,19 EUR
+
+   Frais: 17,71 EUR par once
    (BUTTON)
    Ajout panier
    Lingot d'argent 1 once pur 999,0 - PAMP Suisse Dragon Lunaire 2024
@@ -255,69 +280,49 @@ Achat argent, avec Stockage Gratuit en Suisse et Revente sans Commission
 
    Lingot d'argent 1 once pur 999,0 - PAMP Suisse Dragon Lunaire 2024
 
-   41,38 Â£
+   48,14 EUR
 
-   Ã‰dition LimitÃ©e
+   Édition Limitée
    (BUTTON)
-   PrÃ©commande
+   Précommande
    Lingotin d'argent de 1 once pur 999.0 - PAMP Suisse Lunar Lapin
    Lingotin d'argent de 1 once pur 999.0 - PAMP Suisse Lunar Lapin
 
    Lingotin d'argent de 1 once pur 999.0 - PAMP Suisse Lunar Lapin
 
-   37,43 Â£
+   43,62 EUR
 
-   Ã‰dition LimitÃ©e
+   Édition Limitée
    (BUTTON)
    Ajout panier
-   PiÃ¨ce 1 kg argent pur 999,0 - Britannia Roi Charles III - BU 2023 PiÃ¨ce
+   Pièce 1 kg argent pur 999,0 - Britannia Roi Charles III - BU 2023 Pièce
    1 kg argent pur 999,0 - Britannia Roi Charles III - BU 2023
 
-   PiÃ¨ce 1 kg argent pur 999,0 - Britannia Roi Charles III - BU 2023
+   Pièce 1 kg argent pur 999,0 - Britannia Roi Charles III - BU 2023
 
-   915,05 Â£
+   1066,64 EUR
 
-   Frais: 7,64 Â£ par once
+   Frais: 8,87 EUR par once
    (BUTTON)
    Ajout panier
-   1 once piÃ¨ce dâ€™argent pur - Britannia Charles III - BU AnnÃ©es Mixtes 1
-   once piÃ¨ce dâ€™argent pur - Britannia Charles III - BU AnnÃ©es Mixtes
+   1 once pièce d'argent pur - Britannia Charles III - BU Années Mixtes 1
+   once pièce d'argent pur - Britannia Charles III - BU Années Mixtes
 
-   1 once piÃ¨ce dâ€™argent pur - Britannia Charles III - BU AnnÃ©es Mixtes
+   1 once pièce d'argent pur - Britannia Charles III - BU Années Mixtes
 
-   24,80 Â£
+   28,94 EUR
 
-   Frais: 4,24 Â£ par once
+   Frais: 4,94 EUR par once
    (BUTTON)
    Ajout panier
-   1 once piÃ¨ce d'argent pur 999.0 - Britannia BU AnnÃ©es Mixtes 1 once
-   piÃ¨ce d'argent pur 999.0 - Britannia BU AnnÃ©es Mixtes
+   1 once pièce d'argent pur 999.0 - Britannia BU Années Mixtes 1 once
+   pièce d'argent pur 999.0 - Britannia BU Années Mixtes
 
-   1 once piÃ¨ce d'argent pur 999.0 - Britannia BU AnnÃ©es Mixtes
+   1 once pièce d'argent pur 999.0 - Britannia BU Années Mixtes
 
-   25,15 Â£
+   29,34 EUR
 
-   Frais: 4,56 Â£ par once
-   (BUTTON)
-   Ajout panier
-   1 once piÃ¨ce d'argent pur 999.0 - Krugerrand BU AnnÃ©es Mixtes 1 once
-   piÃ¨ce d'argent pur 999.0 - Krugerrand BU AnnÃ©es Mixtes
-
-   1 once piÃ¨ce d'argent pur 999.0 - Krugerrand BU AnnÃ©es Mixtes
-
-   24,94 Â£
-
-   Frais: 4,37 Â£ par once
-   (BUTTON)
-   Ajout panier
-   1 once piÃ¨ce d'argent pur 999.0 - Philharmonique BU AnnÃ©es Mixtes 1
-   once piÃ¨ce d'argent pur 999.0 - Philharmonique BU AnnÃ©es Mixtes
-
-   1 once piÃ¨ce d'argent pur 999.0 - Philharmonique BU AnnÃ©es Mixtes
-
-   24,36 Â£
-
-   Frais: 3,83 Â£ par once
+   Frais: 5,31 EUR par once
    (BUTTON)
    Ajout panier
      * 1
@@ -330,224 +335,224 @@ Achat argent, avec Stockage Gratuit en Suisse et Revente sans Commission
 
 Achat argent
 
-   Lâ€™argent, en tant que mÃ©tal prÃ©cieux dâ€™investissement, est relativement
-   peu connu des investisseurs. La faute aux reflets Ã©clatants de lâ€™or,
-   qui a tendance Ã  lui voler la vedette. Et pourtant, lâ€™achat dâ€™argent
-   fait partie intÃ©grante dâ€™une stratÃ©gie dâ€™investissement rÃ©ussie dans
-   les mÃ©taux prÃ©cieux.
+   L'argent, en tant que métal précieux d'investissement, est relativement
+   peu connu des investisseurs. La faute aux reflets éclatants de l'or,
+   qui a tendance à lui voler la vedette. Et pourtant, l'achat d'argent
+   fait partie intégrante d'une stratégie d'investissement réussie dans
+   les métaux précieux.
 
-Pourquoi investir dans lâ€™argent?
+Pourquoi investir dans l'argent?
 
-   Quand vous entendez mÃ©taux prÃ©cieux, votre esprit se tourne sans doute
-   immÃ©diatement vers l'or. Mais ne nÃ©gligez pour autant pas son
-   concurrent discret, l'argent, qui possÃ¨de bien des avantages.
+   Quand vous entendez métaux précieux, votre esprit se tourne sans doute
+   immédiatement vers l'or. Mais ne négligez pour autant pas son
+   concurrent discret, l'argent, qui possède bien des avantages.
 
-   Dâ€™un point de vue financier tout dâ€™abord: lâ€™achat d'argent est
-   clairement plus abordable que lâ€™or. Accessible, lâ€™argent permet Ã  des
+   D'un point de vue financier tout d'abord: l'achat d'argent est
+   clairement plus abordable que l'or. Accessible, l'argent permet à des
    investisseurs de divers horizons (et aux moyens plus modestes) de se
-   lancer sans miser un montant trop important dÃ¨s le dÃ©part.
+   lancer sans miser un montant trop important dès le départ.
 
-   Par exemple, au 1er janvier 2023, lâ€™once dâ€™argent Ã©tait cotÃ© Ã  22,35â‚¬â€¦
-   contre 1702,53â‚¬ pour lâ€™or! Ce rapport, appelÃ© ratio or/argent, est mÃªme
-   utilisÃ© par les investisseurs pour savoir quel mÃ©tal prÃ©cieux vendre ou
-   acheter. La preuve que les deux investissements peuvent Ãªtre menÃ©s de
-   front!
+   Par exemple, au 1er janvier 2023, l'once d'argent était coté à
+   22,35EUR... contre 1702,53EUR pour l'or! Ce rapport, appelé ratio
+   or/argent, est même utilisé par les investisseurs pour savoir quel
+   métal précieux vendre ou acheter. La preuve que les deux
+   investissements peuvent être menés de front!
 
-   Attention en revanche: ce nâ€™est pas parce que lâ€™argent est moins cher
-   que lâ€™or quâ€™il nâ€™a pas la cote sur le marchÃ©. L'argent est au cÅ“ur
-   d'une demande industrielle croissante. Il est omniprÃ©sent dans le
-   secteur de lâ€™Ã©nergie verte, trÃ¨s importante aujourdâ€™hui et dans les
-   dÃ©cennies Ã  venir. Il entre notamment dans la composition des panneaux
-   solaires, mais aussi dans de nombreux composants Ã©lectroniques.
+   Attention en revanche: ce n'est pas parce que l'argent est moins cher
+   que l'or qu'il n'a pas la cote sur le marché. L'argent est au coeur
+   d'une demande industrielle croissante. Il est omniprésent dans le
+   secteur de l'énergie verte, très importante aujourd'hui et dans les
+   décennies à venir. Il entre notamment dans la composition des panneaux
+   solaires, mais aussi dans de nombreux composants électroniques.
 
-   Historiquement, acheter de l'argent permet de se protÃ©ger des crises
-   Ã©conomiques: comme lâ€™or, il sâ€™agit dâ€™une valeur refuge. MÃªme sâ€™il est
-   plus volatil que lâ€™or, lâ€™argent a su dÃ©montrer une certaine rÃ©silience
-   face aux fluctuations Ã©conomiques par le passÃ©.
+   Historiquement, acheter de l'argent permet de se protéger des crises
+   économiques: comme l'or, il s'agit d'une valeur refuge. Même s'il est
+   plus volatil que l'or, l'argent a su démontrer une certaine résilience
+   face aux fluctuations économiques par le passé.
 
-   Ajoutons Ã  cela un Ã©lÃ©ment non nÃ©gligeable: la rarÃ©faction des
-   ressources. Les gisements s'Ã©puisent, et cette finitude pourrait
-   influencer positivement la valeur de l'argent dans les dÃ©cennies Ã 
+   Ajoutons à cela un élément non négligeable: la raréfaction des
+   ressources. Les gisements s'épuisent, et cette finitude pourrait
+   influencer positivement la valeur de l'argent dans les décennies à
    venir.
 
-Acheter de lâ€™argent : dÃ©couvrez tous nos produits
+Acheter de l'argent : découvrez tous nos produits
 
-Les piÃ¨ces dâ€™argent
+Les pièces d'argent
 
-   Lâ€™argent, comme lâ€™or, fait partie des mÃ©taux prÃ©cieux utilisÃ©s depuis
-   des millÃ©naires dans la confection de monnaies. Les premiÃ¨res piÃ¨ces
-   dâ€™argent remonteraient au 7Ã¨me siÃ¨cle avant JÃ©sus Christ!
+   L'argent, comme l'or, fait partie des métaux précieux utilisés depuis
+   des millénaires dans la confection de monnaies. Les premières pièces
+   d'argent remonteraient au 7ème siècle avant Jésus Christ!
 
-   Sâ€™il est quasi impossible aujourdâ€™hui de mettre la main sur ces
-   monnaies antiques, lâ€™Histoire moderne nous offre de magnifiques
-   perspectives. Certaines piÃ¨ces, comme la 10 Francs Hercule, possÃ¨dent
-   un trÃ¨s fort hÃ©ritage culturel.
+   S'il est quasi impossible aujourd'hui de mettre la main sur ces
+   monnaies antiques, l'Histoire moderne nous offre de magnifiques
+   perspectives. Certaines pièces, comme la 10 Francs Hercule, possèdent
+   un très fort héritage culturel.
 
-   Dâ€™autres piÃ¨ces en or, trÃ¨s recherchÃ©es sur le marchÃ©, comme la Maple
-   Leaf canadienne ou  lâ€™American Eagle des Ã‰tats-Unis, ont Ã©tÃ© dÃ©clinÃ©es
-   en piÃ¨ces d'argent et possÃ¨dent une trÃ¨s belle liquiditÃ©.
+   D'autres pièces en or, très recherchées sur le marché, comme la Maple
+   Leaf canadienne ou  l'American Eagle des États-Unis, ont été déclinées
+   en pièces d'argent et possèdent une très belle liquidité.
 
-Les lingots dâ€™argent
+Les lingots d'argent
 
-   Les lingots dâ€™argent se prÃ©sentent sous forme de barres de diffÃ©rents
-   grammages. Ils sont constituÃ©s dâ€™argent pur. Par exemple, les lingots
-   dâ€™argent produits par MKS PAMP, le leader mondial des mÃ©taux prÃ©cieux,
-   affichent un taux de puretÃ© Ã  999,0â€°.
+   Les lingots d'argent se présentent sous forme de barres de différents
+   grammages. Ils sont constitués d'argent pur. Par exemple, les lingots
+   d'argent produits par MKS PAMP, le leader mondial des métaux précieux,
+   affichent un taux de pureté à 999,0 0/00.
 
-   Le lingot dâ€™argent PAMP, disponible en ligne sur GOLD AVENUE, est
+   Le lingot d'argent PAMP, disponible en ligne sur GOLD AVENUE, est
    disponible en plusieurs formats:
-     * lingot dâ€™argent 1 once
-     * lingot dâ€™argent 10 onces
-     * lingot dâ€™argent 10 grammes
-     * lingot dâ€™argent 100 grammes
-     * lingot dâ€™argent 500 grammes
-     * lingot dâ€™argent 1 kg
+     * lingot d'argent 1 once
+     * lingot d'argent 10 onces
+     * lingot d'argent 10 grammes
+     * lingot d'argent 100 grammes
+     * lingot d'argent 500 grammes
+     * lingot d'argent 1 kg
 
-Le cours de lâ€™argent en temps rÃ©el
+Le cours de l'argent en temps réel
 
-   Avant dâ€™acheter ou de vendre de lâ€™argent, pensez Ã  consulter le cours
-   de lâ€™argent. Ce dernier est actualisÃ© en temps rÃ©el.
-   Pensez Ã©galement Ã  observer le cours de lâ€™argent sur les derniers mois
-   ou les derniÃ¨res annÃ©es: cela vous permettra dâ€™avoir une bonne vision
-   des tendances du marchÃ©.
+   Avant d'acheter ou de vendre de l'argent, pensez à consulter le cours
+   de l'argent. Ce dernier est actualisé en temps réel.
+   Pensez également à observer le cours de l'argent sur les derniers mois
+   ou les dernières années: cela vous permettra d'avoir une bonne vision
+   des tendances du marché.
 
-DÃ©couvrez nos collections exclusives de piÃ¨ces dâ€™argent
+Découvrez nos collections exclusives de pièces d'argent
 
-   Vous trouverez chez GOLD AVENUE les collections de piÃ¨ces dâ€™argent les
-   plus populaires du marchÃ©â€¦ et les plus recherchÃ©es des investisseurs!
+   Vous trouverez chez GOLD AVENUE les collections de pièces d'argent les
+   plus populaires du marché... et les plus recherchées des
+   investisseurs!
 
-   Parmi nos rÃ©fÃ©rences: les piÃ¨ces dâ€™argent Krugerrand, Philharmonique,
+   Parmi nos références: les pièces d'argent Krugerrand, Philharmonique,
    Maple Leaf, ou encore American Eagle.
 
-Acheter de lâ€™argent sans TVA
+Acheter de l'argent sans TVA
 
-   A la diffÃ©rence de lâ€™or, l'argent est soumis Ã  la TVA. Le montant de
-   cette derniÃ¨re varie selon les pays:
-     * si vos piÃ¨ces sont livrÃ©es en France, alors une TVA de 20% sera
+   A la différence de l'or, l'argent est soumis à la TVA. Le montant de
+   cette dernière varie selon les pays:
+     * si vos pièces sont livrées en France, alors une TVA de 20% sera
        applicable;
      * en revanche, si vous choisissez de stocker votre argent dans nos
-       coffres-forts en Suisse, vous bÃ©nÃ©ficierez de la TVA suisse de
+       coffres-forts en Suisse, vous bénéficierez de la TVA suisse de
        7,7%.
 
-   Mais une exonÃ©ration totale de la TVA sur votre argent est possible!
-   Vous pouvez en effet acquÃ©rir des piÃ¨ces et des lingots dâ€™argent
-   exemptes de TVA directement via GOLD AVENUE. Ceux-ci seront conservÃ©s
-   dans un port franc suisse, zone oÃ¹ la TVA nâ€™est pas en vigueur, et
-   pourront Ãªtre revendus instantanÃ©ment et sans frais supplÃ©mentaires.
+   Mais une exonération totale de la TVA sur votre argent est possible!
+   Vous pouvez en effet acquérir des pièces et des lingots d'argent
+   exemptes de TVA directement via GOLD AVENUE. Ceux-ci seront conservés
+   dans un port franc suisse, zone où la TVA n'est pas en vigueur, et
+   pourront être revendus instantanément et sans frais supplémentaires.
 
    Attention, cela implique de stocker votre argent dans cette zone
-   spÃ©cifique. Si vous souhaitez par la suite vous le faire livrer, vous
-   serez soumis Ã  la TVA en vigueur dans le pays destinataire.
+   spécifique. Si vous souhaitez par la suite vous le faire livrer, vous
+   serez soumis à la TVA en vigueur dans le pays destinataire.
 
-Notre option de stockage sÃ©curisÃ© en Suisse
+Notre option de stockage sécurisé en Suisse
 
-   ProtÃ©ger son argent du vol ou dâ€™Ã©ventuelles dÃ©tÃ©riorations: un point Ã 
-   ne pas nÃ©gliger!
-   Facilitez-vous la vie, dÃ©couvrez notre solution de stockage pour votre
+   Protéger son argent du vol ou d'éventuelles détériorations: un point à
+   ne pas négliger!
+   Facilitez-vous la vie, découvrez notre solution de stockage pour votre
    argent.
 
-   Achetez vos piÃ¨ces et lingots dâ€™argent en ligne sur notre site et
-   stockez-les dans nos coffres sÃ©curisÃ©s en Suisse. Câ€™est gratuit jusquâ€™Ã 
-   10 000â‚¬!
+   Achetez vos pièces et lingots d'argent en ligne sur notre site et
+   stockez-les dans nos coffres sécurisés en Suisse. C'est gratuit jusqu'à
+   10 000EUR!
 
    Au moment de revendre votre argent, vous pourrez le faire en quelques
    clics et sans commission.
 
-Les autres mÃ©taux prÃ©cieux disponibles sur GOLD AVENUE
+Les autres métaux précieux disponibles sur GOLD AVENUE
 
-   Comme vous le savez sÃ»rement dÃ©jÃ , un bon portefeuille dâ€™investissement
-   est un portefeuille variÃ©! Si vous vous intÃ©ressez aux mÃ©taux prÃ©cieux,
-   pensez donc Ã  Ã©largir vos horizons!
+   Comme vous le savez sûrement déjà, un bon portefeuille d'investissement
+   est un portefeuille varié! Si vous vous intéressez aux métaux précieux,
+   pensez donc à élargir vos horizons!
 
 Or
 
-   Lâ€™or est le mÃ©tal prÃ©cieux le plus convoitÃ© dans le monde, et ce depuis
-   des siÃ¨cles. AprÃ¨s deux crises Ã©conomiques majeures, suite au Covid-19
-   et au conflit russo-ukrainien, lâ€™or a de nouveau montrÃ© son rÃ´le de
-   valeur-refuge avec de nouvelles â€œruÃ©es vers lâ€™orâ€. DÃ©couvrez notre
-   gamme de produits si vous Ãªtes intÃ©ressÃ©(e) par lâ€™achat dâ€™or.
+   L'or est le métal précieux le plus convoité dans le monde, et ce depuis
+   des siècles. Après deux crises économiques majeures, suite au Covid-19
+   et au conflit russo-ukrainien, l'or a de nouveau montré son rôle de
+   valeur-refuge avec de nouvelles "ruées vers l'or". Découvrez notre
+   gamme de produits si vous êtes intéressé(e) par l'achat d'or.
 
 Platine
 
-   Encore plus rare que lâ€™or, le platine est soumis Ã  une trÃ¨s forte
-   demande industrielle. Sâ€™il est pour lâ€™instant plus abordable que lâ€™or,
-   ses rÃ©serves limitÃ©es peuvent potentiellement amplifier sa valeur en
-   cas de forte demande. DÃ©couvrez notre gamme de produits si vous Ãªtes
-   intÃ©ressÃ©(e) par lâ€™achat de platine.
+   Encore plus rare que l'or, le platine est soumis à une très forte
+   demande industrielle. S'il est pour l'instant plus abordable que l'or,
+   ses réserves limitées peuvent potentiellement amplifier sa valeur en
+   cas de forte demande. Découvrez notre gamme de produits si vous êtes
+   intéressé(e) par l'achat de platine.
 
 Palladium
 
-   Moins connu que lâ€™or ou lâ€™argent, il fait partie des mÃ©taux prÃ©cieux
-   les plus rares au monde. PossÃ©dant une trÃ¨s forte demande industrielle
-   en partie Ã  cause de lâ€™automobile, il dÃ©tient un potentiel de
-   croissance prometteur. DÃ©couvrez notre gamme de produits si vous Ãªtes
-   intÃ©ressÃ©(e) par lâ€™achat de palladium.
+   Moins connu que l'or ou l'argent, il fait partie des métaux précieux
+   les plus rares au monde. Possédant une très forte demande industrielle
+   en partie à cause de l'automobile, il détient un potentiel de
+   croissance prometteur. Découvrez notre gamme de produits si vous êtes
+   intéressé(e) par l'achat de palladium.
 
-Questions frÃ©quentes
+Questions fréquentes
 
-Est-ce intÃ©ressant dâ€™acheter de lâ€™argent?
+Est-ce intéressant d'acheter de l'argent?
 
-   Lâ€™argent est intÃ©ressant Ã  bien des Ã©gards: il peut constituer un
-   excellent rempart face Ã  lâ€™inflation, et peut vous permettre dâ€™obtenir
+   L'argent est intéressant à bien des égards: il peut constituer un
+   excellent rempart face à l'inflation, et peut vous permettre d'obtenir
    un bon rendement en cas de forte demande.
 
-   Dans le cas oÃ¹ vous achetez votre argent sur GOLD AVENUE, vous
-   bÃ©nÃ©ficiez dâ€™une TVA Ã  7,7%, soit le taux le plus bas en Europe!
-   Certains de nos produits en argent peuvent mÃªme en Ãªtre exonÃ©rÃ©s: ces
-   produits en argent sans TVA sont stockÃ©s dans un port franc suisse
-   sÃ©curisÃ©. Il sâ€™agit dâ€™une zone Ã©conomique oÃ¹ la TVA suisse ne
+   Dans le cas où vous achetez votre argent sur GOLD AVENUE, vous
+   bénéficiez d'une TVA à 7,7%, soit le taux le plus bas en Europe!
+   Certains de nos produits en argent peuvent même en être exonérés: ces
+   produits en argent sans TVA sont stockés dans un port franc suisse
+   sécurisé. Il s'agit d'une zone économique où la TVA suisse ne
    s'applique pas.
 
-Comment on fait pour acheter de lâ€™argent?
+Comment on fait pour acheter de l'argent?
 
-   Vous pouvez aujourdâ€™hui acheter de l'argent en ligne: câ€™est simple et
+   Vous pouvez aujourd'hui acheter de l'argent en ligne: c'est simple et
    accessible!
-   Pensez nÃ©anmoins Ã  passer par un professionnel reconnu. Consultez les
-   avis de ce dernier afin dâ€™en savoir plus sur sa fiabilitÃ© et sa
-   rÃ©putation.
+   Pensez néanmoins à passer par un professionnel reconnu. Consultez les
+   avis de ce dernier afin d'en savoir plus sur sa fiabilité et sa
+   réputation.
 
-Comment puis-je conserver de lâ€™argent physique en toute sÃ©curitÃ©?
+Comment puis-je conserver de l'argent physique en toute sécurité?
 
-   Vous pouvez conserver votre argent physique Ã  domicile, dans une
-   banque, ou dans des Ã©tablissements spÃ©cialisÃ©s.
+   Vous pouvez conserver votre argent physique à domicile, dans une
+   banque, ou dans des établissements spécialisés.
 
-   Attention, mÃªme si le fait de garder son argent chez soi semble Ãªtre la
-   solution la plus accessible et la plus abordable, câ€™est aussi la plus
-   risquÃ©e et parfois la plus coÃ»teuse (assurance, installation dâ€™un
+   Attention, même si le fait de garder son argent chez soi semble être la
+   solution la plus accessible et la plus abordable, c'est aussi la plus
+   risquée et parfois la plus coûteuse (assurance, installation d'un
    coffre-fort)!
 
-Quelles sont les options de livraison disponibles pour lâ€™achat dâ€™argent?
+Quelles sont les options de livraison disponibles pour l'achat d'argent?
 
-   Lorsque vous achetez de lâ€™argent sur GOLD AVENUE, vous pouvez choisir
+   Lorsque vous achetez de l'argent sur GOLD AVENUE, vous pouvez choisir
    de le stocker dans nos coffres.
-   Mais si en revanche vous souhaitez rÃ©cupÃ©rer vos lingots et piÃ¨ces en
-   argent, nous livrons dans le monde entier. Lâ€™envoi est sÃ©curisÃ© et
-   suivi, grÃ¢ce Ã  nos partenaires de confiance.
+   Mais si en revanche vous souhaitez récupérer vos lingots et pièces en
+   argent, nous livrons dans le monde entier. L'envoi est sécurisé et
+   suivi, grâce à nos partenaires de confiance.
 
 Proposez-vous une assurance pour la livraison de vos produits?
 
-   Tous nos colis sont assurÃ©s et discrÃ¨tement emballÃ©s afin de sÃ©curiser
+   Tous nos colis sont assurés et discrètement emballés afin de sécuriser
    la transaction.
 
-Que se passe-t-il si lâ€™argent est endommagÃ© pendant le transport?
+Que se passe-t-il si l'argent est endommagé pendant le transport?
 
-   Nos colis sont assurÃ©s contre le vol, la perte et les dommages.
+   Nos colis sont assurés contre le vol, la perte et les dommages.
 
 Proposez-vous une certification pour les produits en argent?
 
-   Tous nos produits sont vendus avec un certificat dâ€™authenticitÃ© et une
-   facture dâ€™achat nominative. Ces documents seront nÃ©cessaires au moment
-   de la revente, ou dans le cas dâ€™un don ou dâ€™une succession.
+   Tous nos produits sont vendus avec un certificat d'authenticité et une
+   facture d'achat nominative. Ces documents seront nécessaires au moment
+   de la revente, ou dans le cas d'un don ou d'une succession.
 
 Filtres
 
-   (BUTTON)
    Effacer
 
-Type de mÃ©taux
+Type de métaux
 
-   Or (65)
-   Argent (121)
+   Or (72)
+   Argent (41)
    Platine (11)
    Palladium (6)
      __________________________________________________________________
@@ -555,23 +560,23 @@ Type de mÃ©taux
 Type de produit
 
    Lingot (7)
-   Lingotin (13)
-   PiÃ¨ce (19)
+   Lingotin (14)
+   Pièce (20)
      __________________________________________________________________
 
-Produits spÃ©ciaux
+Produits spéciaux
 
-   SANS TVA (11)
-   Plan d'Ã©pargne (11)
+   SANS TVA (12)
+   Plan d'épargne (11)
      __________________________________________________________________
 
 Prix par produit
 
-   < 500,00 Â£ (31)
-   500,00 Â£ - 1â€¯000,00 Â£ (5)
-   1â€¯000,00 Â£ - 2â€¯000,00 Â£
-   2â€¯000,00 Â£ - 5â€¯000,00 Â£ (1)
-   5â€¯000,00 Â£ - âˆ Â£ (2)
+   < 500,00 EUR (32)
+   500,00 EUR - 1000,00 EUR (5)
+   1000,00 EUR - 2000,00 EUR (1)
+   2000,00 EUR - 5000,00 EUR (1)
+   5000,00 EUR - infty EUR (2)
      __________________________________________________________________
 
 Poids
@@ -581,15 +586,15 @@ Poids
    5 grammes
    6 grammes - 10 grammes (1)
    11 grammes - 30 grammes (3)
-   1 oz (31.10 grammes) (19)
+   1 oz (31.10 grammes) (20)
    50 grammes
    100 grammes (3)
-   > 100 grammes (12)
+   > 100 grammes (13)
 
    Haut de page
 
-   ABONNEZ-VOUS Ã  la newsletter de GOLD AVENUE pour rester informÃ©(e) de
-   nos offres spÃ©ciales
+   ABONNEZ-VOUS à la newsletter de GOLD AVENUE pour rester informé(e) de
+   nos offres spéciales
    ____________________ (BUTTON)
 
    Boutique
@@ -599,22 +604,22 @@ Poids
    Palladium
 
    Achat & vente
-   Cours des mÃ©taux
-   Plan d'Ã©pargne
+   Cours des métaux
+   Plan d'épargne
    New
-   Assistant d'Ã©pargne
+   Assistant d'épargne
    Solution de stockage
    Tarifs
 
    Connaissance
    Blog
-   Faut-il investir dans lâ€™argent
-   Guide des mÃ©taux prÃ©cieux
+   Faut-il investir dans l'argent
+   Guide des métaux précieux
    FAQ
-   VidÃ©os tutorielles
+   Vidéos tutorielles
 
    Qui sommes-nous?
-   Ã€ propos
+   À propos
    Nous recrutons
    Contactez-nous
    Parrainez vos amis
@@ -624,13 +629,13 @@ Poids
    Historique des commandes
    Frais de stockage
    Limite d'achat
-   ParamÃ¨tres du profil
+   Paramètres du profil
      __________________________________________________________________
 
-   GBP_________________
+   EUR_________________
 
-   Â£
-   GBP
+   EUR
+   EUR
    fr-FR_______________
    FR icon FR icon
    FR
@@ -639,9 +644,9 @@ Poids
 
    Livraison:
 
-   Conditions gÃ©nÃ©rales
-   Politique de confidentialitÃ©
+   Conditions générales
+   Politique de confidentialité
 
-   Â© 2018-2023 GOLDAVENUE SA. Tous droits rÃ©servÃ©s.
+   © 2018-2023 GOLDAVENUE SA. Tous droits réservés.
 
    You need to enable JavaScript to run this app.

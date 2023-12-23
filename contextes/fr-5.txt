@@ -1,84 +1,37 @@
-
-   Chef économiste
-
-D’où vient l’argent ?
-
-   Rédigé par Agnès Bénassy-Quéré • Publié le 02 septembre 2021
-
---
-   par vos proches durant la pause estivale, autour de la question
-   suivante :
-
-                          D’où vient l’argent ?
-
-   L’Etat semblait désargenté, il essayait de réduire le déficit, menait
-   des réformes en ce sens ; et puis soudain, virage à 180°, il déverse
-   des milliards pour financer les masques, les tests, les vaccins, mais
-   aussi les entreprises dont le chiffre d’affaires s’est effondré lors de
---
-   pourtant nous étions toujours payés en fin de mois. Comment ce miracle
-   est-il possible ? Où est le loup ?
-
-   Tout le monde a en tête le circuit normal de l’argent dans l’économie :
-   les entreprises rémunèrent leurs salariés pour leur travail ; cette
-   rémunération fournit l’essentiel de leurs revenus aux ménages, lesquels
-   en dépensent la majorité pour consommer des biens et des services
---
    (graphique 1).
          Loup
 
-      Graphique 1 : le circuit normal de l’argent dans l’économie
+         Graphique 1 : le circuit normal de l'argent dans l'�conomie
 
-             le circuit normal de l’argent dans l’économie
+                le circuit normal de l'argent dans l'�conomie
 
-   Lors du premier confinement, en mars 2020, les dépenses de consommation
-   ont brutalement chuté, de manière inégale selon les secteurs ; les
+   Lors du premier confinement, en mars 2020, les d�penses de consommation
+   ont brutalement chut�, de mani�re in�gale selon les secteurs ; les
 --
+   de l'endettement suppl�mentaire de l'�tat tout en incitant les
+   entreprises et les m�nages � ne pas trop couper dans leurs d�penses.
 
-           flux nets de placements liquides des ménages français
+         Graphique 5 : le circuit de l'argent dans l'�conomie Covid
 
-   Les ménages auraient pu prêter directement cet argent à l’État, mais
-   c’était compliqué et peu rémunérateur, puisque les taux d’intérêt
-   étaient (et sont toujours) négatifs. Ils l’ont en fait principalement
-   laissé sur leurs comptes bancaires ou leurs livrets d’épargne.
+                le circuit de l'argent dans l'�conomie Covid
 
-   Comment les banques ont-elles placé votre argent ? Elles avaient
-   schématiquement quatre choix possibles :
-     * Conserver les sommes sous forme de dépôts à la banque des banques
-       (la Banque centrale européenne – BCE – via la Banque de France) ;
+   Sur l'ensemble de l'ann�e 2020, les m�nages fran�ais ont �pargn�
+   environ 100 MdEUR de plus qu'en 2019. Ils ont �galement moins investi,
 --
-     * Prêter aux États et entreprises étrangers.
+   publique.
 
-   Les deux premiers placements portaient des taux d’intérêt négatifs,
-   mais c’était le prix à payer pour conserver l’argent en sécurité. Les
-   banques ont ainsi réparti leurs avoirs sur les quatre types de
-   placements.
-
+   Avec la r�ouverture de l'�conomie, les m�nages ont retrouv� le chemin
+   de la consommation et l'argent a retrouv� son circuit � normal �.
+   Toutefois, chacun sort de la crise avec de l'�pargne accumul�e
+   (m�nages), de la dette accumul�e (entreprises et surtout �tat), ou les
+   deux � la fois (banques commerciales, BCE, cf. graphique 6). La
 --
-   de l’endettement supplémentaire de l’État tout en incitant les
-   entreprises et les ménages à ne pas trop couper dans leurs dépenses.
-
-       Graphique 5 : le circuit de l’argent dans l’économie Covid
-
-              le circuit de l’argent dans l’économie Covid
-
-   Sur l’ensemble de l’année 2020, les ménages français ont épargné
-   environ 100 Md€ de plus qu’en 2019. Ils ont également moins investi, si
---
-   paiement qu’elle a acquis de titres de dette publique.
-
-   Avec la réouverture de l’économie, les ménages ont retrouvé le chemin
-   de la consommation et l’argent a retrouvé son circuit « normal ».
-   Toutefois, chacun sort de la crise avec de l’épargne accumulée
-   (ménages), de la dette accumulée (entreprises et surtout État), ou les
-   deux à la fois (banques commerciales, BCE, cf. graphique 6). La
---
-   et comment ils peuvent progressivement se dégonfler sans enrayer la
+   et comment ils peuvent progressivement se d�gonfler sans enrayer la
    reprise.
 
-        Graphique 6 : le circuit de l’argent dans l’après-Covid
+           Graphique 6 : le circuit de l'argent dans l'apr�s-Covid
 
-               le circuit de l’argent dans l’après-Covid
+                  le circuit de l'argent dans l'apr�s-Covid
 
 
    ***

@@ -1,18 +1,18 @@
 
-   [ ] Basculer la table des matières
+   [ ] Basculer la table des mati�res
 
 Argent (groupe)
 
    [ ] 15 langues
-     * العربية
+     * a+l+e+r+b+y+tm
 --
-   Un article de Wikipédia, l'encyclopédie libre.
-   Page d’aide sur l’homonymie
+   Un article de Wikip�dia, l'encyclop�die libre.
+   Page d'aide sur l'homonymie
 
    Pour les articles homonymes, voir Argent (homonymie).
    Argent
 
-   CAPTION: Données clés
+   CAPTION: Donn�es cl�s
 
 --
 
@@ -24,27 +24,12 @@ Argent (groupe)
    Russ Ballard
 --
 
-   modifier Consultez la documentation du modèle
+   modifier Consultez la documentation du mod�le
 
    Argent est un groupe britannique de rock progressif, originaire de
    Londres, en Angleterre. Il est actif entre 1968 et 1976.Le plus grand
-   succès du groupe est Hold Your Head Up. Leur titre God Gave Rock N'Roll
+   succ�s du groupe est Hold Your Head Up. Leur titre God Gave Rock N'Roll
    to You est repris en 1992 par le groupe Kiss. Le groupe se reforme
---
-Historique[modifier | modifier le code]
-
-   Après la dissolution de son précédent groupe The Zombies, le
-   claviériste Rod Argent forme Argent. Outre Rod Argent, la première
-   formation inclut le bassiste Jim Rodford (cousin de Rod et ex membre de
-   Mike Cotton Sound), le batteur Bob Henrit et le guitariste et
-   claviériste Russ Ballard (ex-The Roulettes et Unit 4 + 2)^[1]. Le chant
-   était partagé entre Ballard, Rodford et Argent.
-
-   Les trois premières démos d'Argent, enregistrées à l'automne 1968 font
-   participer Mac MacLeod à la basse^[2], Rod Argent, Chris White
-   (ex-basiste des Zombies) et Russ Ballard. Sur le dernier album du
-   groupe Counterpoints, Phil Collins de Genesis a été invité à jouer
-   comme deuxième batteur et percussionniste.
 --
 
 Membres[modifier | modifier le code]
@@ -69,17 +54,3 @@ Compilations[modifier | modifier le code]
      * 1978 : Hold Your Head Up
      * 1991 : Music from the Spheres
 
-Notes et références[modifier | modifier le code]
-
-    1. ↑ « Argent », AllMuisc (consulté le 12 décembre 2015).
-    2. ↑ « Microsoft Word - MacMacleod5.doc » [PDF] (version du 19
-       novembre 2011 sur Internet Archive)
-
---
-     * icône décorative Portail de l’Angleterre
-
-   Ce document provient de
-   « https://fr.wikipedia.org/w/index.php?title=Argent_(groupe)&oldid=2053
-   42576 ».
-   Catégories :
-     * Groupe anglais de rock progressif

@@ -1,20 +1,20 @@
-   #Lâ€™Ã‰lÃ©mentarium Â» Flux Lâ€™Ã‰lÃ©mentarium Â» Flux des commentaires alternate
+   #L'Élémentarium » Flux L'Élémentarium » Flux des commentaires alternate
    alternate
 
-   Lâ€™Ã‰lÃ©mentarium
+   L'Élémentarium
    ____________________ Submit
    1
    H
-   HydrogÃ¨ne
+   Hydrogène
    2
    He
-   HÃ©lium
+   Hélium
    3
    Li
    Lithium
    4
    Be
-   BÃ©ryllium
+   Béryllium
    5
    B
    Bore
@@ -26,19 +26,19 @@
    Azote
    8
    O
-   OxygÃ¨ne
+   Oxygène
    9
    F
    Fluor
    10
    Ne
-   NÃ©on
+   Néon
    11
    Na
    Sodium
    12
    Mg
-   MagnÃ©sium
+   Magnésium
    13
    Al
    Aluminium
@@ -77,7 +77,7 @@
    Chrome
    25
    Mn
-   ManganÃ¨se
+   Manganèse
    26
    Fe
    Fer
@@ -104,7 +104,7 @@
    Arsenic
    34
    Se
-   SÃ©lÃ©nium
+   Sélénium
    35
    Br
    Brome
@@ -128,13 +128,13 @@
    Niobium
    42
    Mo
-   MolybdÃ¨ne
+   Molybdène
    43
    Tc
-   TechnÃ©tium
+   Technétium
    44
    Ru
-   RuthÃ©nium
+   Ruthénium
    45
    Rh
    Rhodium
@@ -152,7 +152,7 @@
    Indium
    50
    Sn
-   Ã‰tain
+   Étain
    51
    Sb
    Antimoine
@@ -164,10 +164,10 @@
    Iode
    54
    Xe
-   XÃ©non
+   Xénon
    55
    Cs
-   CÃ©sium
+   Césium
    56
    Ba
    Baryum
@@ -181,10 +181,10 @@
    Tantale
    74
    W
-   TungstÃ¨ne
+   Tungstène
    75
    Re
-   RhÃ©nium
+   Rhénium
    76
    Os
    Osmium
@@ -243,7 +243,7 @@
    Hassium
    109
    Mt
-   MeitnÃ©rium
+   Meitnérium
    110
    Ds
    Darmstadtium
@@ -258,7 +258,7 @@
    Nihonium
    114
    Fl
-   FlÃ©rovium
+   Flérovium
    115
    Mc
    Moscovium
@@ -276,16 +276,16 @@
    Lanthane
    58
    Ce
-   CÃ©rium
+   Cérium
    59
    Pr
-   PrasÃ©odyme
+   Praséodyme
    60
    Nd
-   NÃ©odyme
+   Néodyme
    61
    Pm
-   PromÃ©thium
+   Prométhium
    62
    Sm
    Samarium
@@ -315,7 +315,7 @@
    Ytterbium
    71
    Lu
-   LutÃ©tium
+   Lutétium
    89
    Ac
    Actinium
@@ -336,13 +336,13 @@
    Plutonium
    95
    Am
-   AmÃ©ricium
+   Américium
    96
    Cm
    Curium
    97
    Bk
-   BerkÃ©lium
+   Berkélium
    98
    Cf
    Californium
@@ -354,24 +354,24 @@
    Fermium
    101
    Md
-   MendÃ©lÃ©vium
+   Mendélévium
    102
    No
-   NobÃ©lium
+   Nobélium
    103
    Lr
    Lawrencium
-   LÃ©gende
-     * HalogÃ¨nes
-     * MÃ©taux alcalino-terreux
+   Légende
+     * Halogènes
+     * Métaux alcalino-terreux
      * Actinides
      * Gaz nobles
-     * MÃ©taux de transition
+     * Métaux de transition
      * Autres
-     * MÃ©taux alcalins
+     * Métaux alcalins
      * Lanthanides
 
-   Tableau pÃ©riodique
+   Tableau périodique
 
 Argent
 
@@ -382,59 +382,59 @@ Argent
      * Partager sur LinkedIn
 
    Imprimer la page
-   Envoyer lâ€™adresse Ã  un ami
+   Envoyer l'adresse à un ami
 
    47
    Ag
    Argent
 
-   Du latin argentum, signifiant blanc et brillant, lâ€™argent est le
-   premier mÃ©tal Ã  Ãªtre associÃ© Ã  la richesse. Peu rÃ©actif, il est lâ€™un
-   des rares mÃ©taux qui se trouve Ã  lâ€™Ã©tat Ã©lÃ©mentaire dans la nature.
-   Lâ€™une des formes minÃ©rales de lâ€™iodure dâ€™argent a une structure
-   cristalline similaire Ã  celle de la glace. Ces cristaux peuvent Ãªtre
-   larguÃ©s par des avions au dessus de nuages pour amorcer la congÃ©lation
-   de la vapeur dâ€™eau, qui finit par tomber sous forme de pluie et permet
-   ainsi dâ€™irriguer des terres agricoles assÃ©chÃ©es. Ils permettent
-   Ã©galement la formation dâ€™un grand nombre de petits cristaux de glace
-   qui fondront avant dâ€™atteindre le sol et dâ€™Ã©viter ainsi les chutes de
-   grÃªle.
+   Du latin argentum, signifiant blanc et brillant, l'argent est le
+   premier métal à être associé à la richesse. Peu réactif, il est l'un
+   des rares métaux qui se trouve à l'état élémentaire dans la nature.
+   L'une des formes minérales de l'iodure d'argent a une structure
+   cristalline similaire à celle de la glace. Ces cristaux peuvent être
+   largués par des avions au dessus de nuages pour amorcer la congélation
+   de la vapeur d'eau, qui finit par tomber sous forme de pluie et permet
+   ainsi d'irriguer des terres agricoles asséchées. Ils permettent
+   également la formation d'un grand nombre de petits cristaux de glace
+   qui fondront avant d'atteindre le sol et d'éviter ainsi les chutes de
+   grêle.
 
-DonnÃ©es physico-chimiques
+Données physico-chimiques
 
-DonnÃ©es atomiques
+Données atomiques
 
-   NumÃ©ro atomique Masse atomique Configuration Ã©lectronique Structure
-   cristalline Rayon mÃ©tallique pour la coordinence 12
-   47 107,87 g.mol^-1 [Kr] 4d^9 5s^2 cubique Ã  faces centrÃ©es de paramÃ¨tre
+   Numéro atomique Masse atomique Configuration électronique Structure
+   cristalline Rayon métallique pour la coordinence 12
+   47 107,87 g.mol^-1 [Kr] 4d^9 5s^2 cubique à faces centrées de paramètre
    a = 0,4086 nm 144,5 pm
 
-DonnÃ©es physiques
+Données physiques
 
-   Masse volumique DuretÃ© TempÃ©rature de fusion TempÃ©rature dâ€™Ã©bullition
-   ConductibilitÃ© Ã©lectrique ConductibilitÃ© thermique SolubilitÃ© dans
-   lâ€™eau
-   10,5 g.cm^-3 2,5 961,93Â°C 2 212Â°C 63.10^6 S.m^-1 429 W.m^-1.K^-1
+   Masse volumique Dureté Température de fusion Température d'ébullition
+   Conductibilité électrique Conductibilité thermique Solubilité dans
+   l'eau
+   10,5 g.cm^-3 2,5 961,93°C 2 212°C 63.10^6 S.m^-1 429 W.m^-1.K^-1
    insoluble
 
-DonnÃ©es chimiques
+Données chimiques
 
-   Ã‰lectronÃ©gativitÃ© de Pauling pK[a] : AgOH/AgO^â€“ pK[a] : Ag[(aq)]^+
+   Électronégativité de Pauling pK[a] : AgOH/AgO^- pK[a] : Ag[(aq)]^+
    /AgOH
    1,93 12,1 11,7
 
    Potentiels standards :
-   Ag^+ + e = Ag[(s)]                            EÂ° = 0,80 V
-   Ag^2+ + e = Ag^+                              EÂ° = 2,00 V
-   Ag[2]O[3(s)] + H[2]O + 2e = 2AgO[(s)] + 2OH^â€“ EÂ° = 0,74 V
-   Ag[2]O[(s)] + 2H^+ + 2e = 2Ag[(s)] + H[2]O    EÂ° = 1,17 V
-   Ag[2]O[(s)] + H[2]O + 2e = 2Ag[(s)] + 2OH^â€“   EÂ° = 0,34 V
-   Ag[2]O[3(s) ]+ 2H^+ + 2e = 2AgO[(s)] + H[2]O  EÂ° = 1,71 V
-   Ag[2]O[3(s) ]+ 6H^+ + 4e = 2Ag^+ + 3H[2]O     EÂ° = 1,76 V
-   2AgO[(s)] + 2H^+ + 2e = Ag[2]O[(s)] + H[2]O   EÂ° = 1,40 V
-   2AgO[(s)] + H[2]O + 2e = Ag[2]O[(s)] + 2OH^â€“  EÂ° = 0,60 V
+   Ag^+ + e = Ag[(s)]                            E° = 0,80 V
+   Ag^2+ + e = Ag^+                              E° = 2,00 V
+   Ag[2]O[3(s)] + H[2]O + 2e = 2AgO[(s)] + 2OH^- E° = 0,74 V
+   Ag[2]O[(s)] + 2H^+ + 2e = 2Ag[(s)] + H[2]O    E° = 1,17 V
+   Ag[2]O[(s)] + H[2]O + 2e = 2Ag[(s)] + 2OH^-   E° = 0,34 V
+   Ag[2]O[3(s) ]+ 2H^+ + 2e = 2AgO[(s)] + H[2]O  E° = 1,71 V
+   Ag[2]O[3(s) ]+ 6H^+ + 4e = 2Ag^+ + 3H[2]O     E° = 1,76 V
+   2AgO[(s)] + 2H^+ + 2e = Ag[2]O[(s)] + H[2]O   E° = 1,40 V
+   2AgO[(s)] + H[2]O + 2e = Ag[2]O[(s)] + 2OH^-  E° = 0,60 V
 
-   Produits de solubilitÃ© :
+   Produits de solubilité :
    AgCN        pKs = 15,9
    AgSCN       pKs = 12
    Ag[2]CO[3]  pKs = 11,1
@@ -447,301 +447,301 @@ DonnÃ©es chimiques
    AgIO[3]     pKs = 7,5
    Ag[2]CrO[4] pKs = 11,9
 
-DonnÃ©es thermodynamiques
+Données thermodynamiques
 
-   Argent cristallisÃ© :
-     * Entropie molaire standard Ã  298,15 K : SÂ° = 42,55 J.K^-1mol^-1
-     * CapacitÃ© thermique molaire sous pression constante Ã  298,15 K : CpÂ°
+   Argent cristallisé :
+     * Entropie molaire standard à 298,15 K : S° = 42,55 J.K^-1mol^-1
+     * Capacité thermique molaire sous pression constante à 298,15 K : Cp°
        = 25,4 J.K^-1mol^-1
-     * Enthalpie molaire standard de fusion Ã  la tempÃ©rature de fusion :
+     * Enthalpie molaire standard de fusion à la température de fusion :
        11,3 kJ.mol^-1
-     * Enthalpie molaire standard dâ€™Ã©bullition Ã  la tempÃ©rature
-       dâ€™Ã©bullition : 254,1 kJ.mol^-1
+     * Enthalpie molaire standard d'ébullition à la température
+       d'ébullition : 254,1 kJ.mol^-1
 
    Argent gazeux :
-     * Enthalpie molaire standard de formation Ã  298,15 K :
+     * Enthalpie molaire standard de formation à 298,15 K :
        284,9 kJ.mol^-1
-     * Enthalpie libre molaire standard de formation Ã  298,15 K :
+     * Enthalpie libre molaire standard de formation à 298,15 K :
        245,8 kJ.mol^-1
-     * Entropie molaire standard Ã  298,15 K : SÂ° = 172,9 J.K^-1mol^-1
-     * CapacitÃ© thermique molaire sous pression constante Ã  298,15 K : CpÂ°
+     * Entropie molaire standard à 298,15 K : S° = 172,9 J.K^-1mol^-1
+     * Capacité thermique molaire sous pression constante à 298,15 K : Cp°
        = 20,8 J.K^-1mol^-1
 
-DonnÃ©es industrielles
+Données industrielles
 
-MatiÃ¨res premiÃ¨res
+Matières premières
 
-   La teneur moyenne de lâ€™Ã©corce terrestre est de 0,075 ppm ou g/t.
+   La teneur moyenne de l'écorce terrestre est de 0,075 ppm ou g/t.
 
-   Les teneurs des minerais exploitÃ©s varient, en gÃ©nÃ©ral, de quelques
-   dizaines Ã  quelques centaines de g/t. Dans ses minerais, lâ€™argent est
-   souvent associÃ©, dans des sulfures, au cuivre, au plomb, au zinc ainsi
-   que parfois au bismuth et Ã  lâ€™antimoine. Il accompagne toujours lâ€™or
+   Les teneurs des minerais exploités varient, en général, de quelques
+   dizaines à quelques centaines de g/t. Dans ses minerais, l'argent est
+   souvent associé, dans des sulfures, au cuivre, au plomb, au zinc ainsi
+   que parfois au bismuth et à l'antimoine. Il accompagne toujours l'or
    dans ses gisements.
 
-   En 2022, 30,2 % de la production miniÃ¨re mondiale dâ€™argent provient de
-   mines de plomb-zinc, 25,8 % de mines de cuivre et 15,7 % de mines dâ€™or.
+   En 2022, 30,2 % de la production minière mondiale d'argent provient de
+   mines de plomb-zinc, 25,8 % de mines de cuivre et 15,7 % de mines d'or.
    27,8 % seulement de la production provient de mines extrayant
-   principalement lâ€™argent.
+   principalement l'argent.
 
    Par exemple, en 2022, Codelco (Chili), premier producteur mondial de
-   cuivre, avec 1,553 million de t, a produit Ã©galement comme co-produit
-   de lâ€™exploitation du cuivre, 20 498 t de molybdÃ¨ne, 671 t dâ€™argent et
-   2,2 t dâ€™or.
+   cuivre, avec 1,553 million de t, a produit également comme co-produit
+   de l'exploitation du cuivre, 20 498 t de molybdène, 671 t d'argent et
+   2,2 t d'or.
 
-Productions miniÃ¨res
+Productions minières
 
-Production miniÃ¨re dâ€™argent
+Production minière d'argent
 
    En tonnes d'argent contenu, en 2022, sur un total mondial de 25 578 t.
    Source : The Silver Institute
-   Les valeurs donnÃ©es traditionnellement en millions dâ€™onces troy ont Ã©tÃ©
+   Les valeurs données traditionnellement en millions d'onces troy ont été
    converties en tonnes avec 1 once troy = 31,103477 g.
 
-   CAPTION: en tonnes dâ€™argent contenu, sur un total mondial de 25 586 t
+   CAPTION: en tonnes d'argent contenu, sur un total mondial de 25 586 t
 
    Mexique 6 196 Russie     1 278
    Chine   3 477 Bolivie    1 204
-   PÃ©rou   3 328 Australie  1 197
-   Pologne 1 319 Ã‰tats-Unis 1 008
+   Pérou   3 328 Australie  1 197
+   Pologne 1 319 États-Unis 1 008
    Chili   1 303 Argentine  961
 
    Source : The Silver Institute
 
-   Au total, jusquâ€™en 2020, il a Ã©tÃ© extrait du sol, dans le monde, 1,68
-   million de t dâ€™argent dont 62 % depuis 1940.
+   Au total, jusqu'en 2020, il a été extrait du sol, dans le monde, 1,68
+   million de t d'argent dont 62 % depuis 1940.
 
-   Principales mines dâ€™argent exploitÃ©es : dâ€™aprÃ¨s leur production de
+   Principales mines d'argent exploitées : d'après leur production de
    2022.
 
-   CAPTION: en tonnes dâ€™argent contenu
+   CAPTION: en tonnes d'argent contenu
 
-  KGHM (Pologne)                    1 316 San JuliÃ n (Mexique)               443
-  PeÃ±asquito (Mexique)              865   Fresnillo (Mexique)                423
+  KGHM (Pologne)                    1 316 San Juliàn (Mexique)               443
+  Peñasquito (Mexique)              865   Fresnillo (Mexique)                423
   Dukat (Russie)                    569   Cannington (Australie), en 2021-22 402
-  Antamina (PÃ©rou)                  557   San Cristobal (Bolivie), en 2021   376
+  Antamina (Pérou)                  557   San Cristobal (Bolivie), en 2021   376
   Sindesar Khurd (Inde), en 2021-22 551   Saucito (Mexique)                  373
 
-   Sources : The Silver Institute et rapport des sociÃ©tÃ©s
+   Sources : The Silver Institute et rapport des sociétés
      * KGHM exploite 3 mines souterraines dans le sud-ouest de la Pologne,
-       Ã  Lubin, Polkowice-Sieroszowice et Rudna.
-     * La mine de PeÃ±asquito, dans lâ€™Ã‰tat de Zacatecas, au Mexique, est
-       exploitÃ©e, Ã  ciel ouvert, par Newmont. La mine est constituÃ©e de
-       deux excavations PeÃ±asco et Chili Colorado. En 2022, la production
-       a Ã©tÃ© de 865 t dâ€™argent, 17,6 t dâ€™or, 172 821 t de zinc et 81 194 t
-       de plomb. Les rÃ©serves prouvÃ©es et probables, en 2022, sont de 316
+       à Lubin, Polkowice-Sieroszowice et Rudna.
+     * La mine de Peñasquito, dans l'État de Zacatecas, au Mexique, est
+       exploitée, à ciel ouvert, par Newmont. La mine est constituée de
+       deux excavations Peñasco et Chili Colorado. En 2022, la production
+       a été de 865 t d'argent, 17,6 t d'or, 172 821 t de zinc et 81 194 t
+       de plomb. Les réserves prouvées et probables, en 2022, sont de 316
        millions de t renfermant 0,79 % de Zn, 0,32 % de Pb, 34 g/t de Ag
        et 0,53 g/t de Au.
-     * La mine souterraine de Dukat, exploitÃ©e par Polymetal, est situÃ©e
-       dans la rÃ©gion de Magadan, en SibÃ©rie orientale. Son exploitation a
-       dÃ©butÃ© en 2000 et devrait durer jusquâ€™en 2028. 2,523 millions de t
-       de minerai ont Ã©tÃ© extraites en 2022 avec une teneur de 301 g/t de
-       Ag. La production a Ã©tÃ© de 569 t dâ€™argent et 1,960 t dâ€™or. Les
-       rÃ©serves prouvÃ©es et probables sont de 4,67 millions de t de
-       minerai renfermant 185 g/t de Ag et 0,3 g/t dâ€™or.
-     * La mine de zinc dâ€™Antamina, au PÃ©rou, est dÃ©tenue par Glencore Ã 
-       33,75 %, BHP-Billiton Ã  33,75 %, Teck Ã  22,5 % et Mitsubishi
-       Corporation Ã  10 %. Elle est situÃ©e dans la cordillÃ¨re des Andes
-       entre 4 200 et 4 700 m dâ€™altitude, dans la province de Huari. Le
-       minerai, extrait Ã  ciel ouvert, est concentrÃ© puis mis en
-       suspension dans lâ€™eau et envoyÃ© Ã  lâ€™aide dâ€™un minÃ©ralduc de 302 km
-       de longueur jusquâ€™au port de Punta Lobitos situÃ© prÃ¨s de Port
-       Huarmey afin dâ€™Ãªtre exportÃ©. Le minÃ©ralduc de 21 Ã  25 cm de
-       diamÃ¨tre est enfoui Ã  1 m de profondeur. Le trajet dure environ 50
-       h, avec une capacitÃ© de 2,5 millions de t/an. Les rÃ©serves prouvÃ©es
+     * La mine souterraine de Dukat, exploitée par Polymetal, est située
+       dans la région de Magadan, en Sibérie orientale. Son exploitation a
+       débuté en 2000 et devrait durer jusqu'en 2028. 2,523 millions de t
+       de minerai ont été extraites en 2022 avec une teneur de 301 g/t de
+       Ag. La production a été de 569 t d'argent et 1,960 t d'or. Les
+       réserves prouvées et probables sont de 4,67 millions de t de
+       minerai renfermant 185 g/t de Ag et 0,3 g/t d'or.
+     * La mine de zinc d'Antamina, au Pérou, est détenue par Glencore à
+       33,75 %, BHP-Billiton à 33,75 %, Teck à 22,5 % et Mitsubishi
+       Corporation à 10 %. Elle est située dans la cordillère des Andes
+       entre 4 200 et 4 700 m d'altitude, dans la province de Huari. Le
+       minerai, extrait à ciel ouvert, est concentré puis mis en
+       suspension dans l'eau et envoyé à l'aide d'un minéralduc de 302 km
+       de longueur jusqu'au port de Punta Lobitos situé près de Port
+       Huarmey afin d'être exporté. Le minéralduc de 21 à 25 cm de
+       diamètre est enfoui à 1 m de profondeur. Le trajet dure environ 50
+       h, avec une capacité de 2,5 millions de t/an. Les réserves prouvées
        et probables sont, fin 2022, de 283 millions de t avec 0,74 % de
        Zn, 0,94 % de Cu, 0,03 % de Mo et 10,0 g/t de Ag, ainsi que du
-       plomb et du bismuth. En 2022, la production a Ã©tÃ© de 451 900 t de
-       Cu, 427 600 t de Zn, 3 130 t de molybdÃ¨ne, 3 260 de plomb et 557 t
-       dâ€™argent. La production a dÃ©butÃ© en 2001 et devrait se poursuivre
-       jusquâ€™en 2026.
+       plomb et du bismuth. En 2022, la production a été de 451 900 t de
+       Cu, 427 600 t de Zn, 3 130 t de molybdène, 3 260 de plomb et 557 t
+       d'argent. La production a débuté en 2001 et devrait se poursuivre
+       jusqu'en 2026.
      * La mine souterraine de Sindesar Khurd, au Rajasthan, en Inde, est
-       exploitÃ©e par Hindustan Zinc, groupe dÃ©tenu Ã  64,9 % par Vedanta et
-       29,5 % par lâ€™Ã‰tat indien. En 2021-22, lâ€™extraction de 5,2 millions
-       de t de minerai a donnÃ© 166 000 t de zinc, 97 000 t de plomb et 551
-       t dâ€™argent. Les rÃ©serves sont de 45,4 millions de t renfermant 3,0
+       exploitée par Hindustan Zinc, groupe détenu à 64,9 % par Vedanta et
+       29,5 % par l'État indien. En 2021-22, l'extraction de 5,2 millions
+       de t de minerai a donné 166 000 t de zinc, 97 000 t de plomb et 551
+       t d'argent. Les réserves sont de 45,4 millions de t renfermant 3,0
        % de Zn, 2,0 % de Pb et 100 g/t de Ag.
-     * La mine souterraine de San JuliÃ n, dans lâ€™Ã‰tat de Chihuahua, au
-       Mexique, est exploitÃ©e par Fresnillo, en 2 phases. La premiÃ¨re,
+     * La mine souterraine de San Juliàn, dans l'État de Chihuahua, au
+       Mexique, est exploitée par Fresnillo, en 2 phases. La première,
        depuis mi-2016, concerne des veines de minerai renfermant des
-       rÃ©serves prouvÃ©es et probables, fin 2021, de 5,310 millions de t
-       avec 244 g/t de Ag et 1,72 g/t de Au, la deuxiÃ¨me, depuis dÃ©but
-       2017, sâ€™intÃ©resse au minerai dissÃ©minÃ© avec des rÃ©serves de 6,338
+       réserves prouvées et probables, fin 2021, de 5,310 millions de t
+       avec 244 g/t de Ag et 1,72 g/t de Au, la deuxième, depuis début
+       2017, s'intéresse au minerai disséminé avec des réserves de 6,338
        millions de t avec 162 g/t de Ag, 0,09 g/t de Au, 0,47 % de Pb et
-       1,16 % de Zn. En 2022, la production totale a Ã©tÃ© de 443 t de Ag,
+       1,16 % de Zn. En 2022, la production totale a été de 443 t de Ag,
        1,453 t de Au, 17 487 t de Zn et 7 105 t de Pb.
-     * La mine souterraine, Ã  650 m de profondeur, de Cannington, dans le
-       Queensland, en Australie, est exploitÃ©e par South32 (ex
-       BHP-Billiton). Le gisement, dÃ©couvert en 1990, a commencÃ© Ã 
-       produire des concentrÃ©s de plomb et de zinc en 1997. Au 30 juin
-       2021, les rÃ©serves prouvÃ©es et probables sont de 17 millions de t
+     * La mine souterraine, à 650 m de profondeur, de Cannington, dans le
+       Queensland, en Australie, est exploitée par South32 (ex
+       BHP-Billiton). Le gisement, découvert en 1990, a commencé à
+       produire des concentrés de plomb et de zinc en 1997. Au 30 juin
+       2021, les réserves prouvées et probables sont de 17 millions de t
        de minerai contenant 5,26 % de Pb, 3,07 % de Zn et 176 g/t de Ag.
-       Le minerai, avec, en 2021-22, 2,618 millions de t traitÃ©es sur
-       place par flottation, donne des concentrÃ©s transportÃ©s par route
-       sur 187 km puis par voie ferrÃ©e sur 750 km jusquâ€™au port de
-       Townville Ã  lâ€™aide de convois de 45 wagons transportant 3 000 t.
-       Les concentrÃ©s de plomb contiennent 3 kg de Ag par tonne de
-       concentrÃ©, ceux de zinc, 250 g/t. En 2021-22, la production a Ã©tÃ©
-       de 120 600 t de plomb, 64 500 t de zinc et 402 t dâ€™argent. La durÃ©e
-       de vie de la mine est estimÃ©e, au 30 juin 2021, Ã  9 ans.
-     * La mine souterraine de Saucito, dans lâ€™Ã‰tat de Zacatecas, au
-       Mexique, exploitÃ©e par le groupe mexicain Fresnillo, a traitÃ©, en
+       Le minerai, avec, en 2021-22, 2,618 millions de t traitées sur
+       place par flottation, donne des concentrés transportés par route
+       sur 187 km puis par voie ferrée sur 750 km jusqu'au port de
+       Townville à l'aide de convois de 45 wagons transportant 3 000 t.
+       Les concentrés de plomb contiennent 3 kg de Ag par tonne de
+       concentré, ceux de zinc, 250 g/t. En 2021-22, la production a été
+       de 120 600 t de plomb, 64 500 t de zinc et 402 t d'argent. La durée
+       de vie de la mine est estimée, au 30 juin 2021, à 9 ans.
+     * La mine souterraine de Saucito, dans l'État de Zacatecas, au
+       Mexique, exploitée par le groupe mexicain Fresnillo, a traité, en
        2022, 2,286 millions de t de minerai titrant 201 g/t de Ag, 1,40
        g/t de Au, 1,01 % de Pb et 1,78 % de Zn et a produit 28 415 t de
-       zinc, 17 816 t de plomb, 373 t dâ€™argent et 2,29 t dâ€™or.
-       Lâ€™exploitation de cette mine a dÃ©butÃ© en 2011. Les rÃ©serves
-       prouvÃ©es et probables sont, mi 2021, de 13,224 millions de t
+       zinc, 17 816 t de plomb, 373 t d'argent et 2,29 t d'or.
+       L'exploitation de cette mine a débuté en 2011. Les réserves
+       prouvées et probables sont, mi 2021, de 13,224 millions de t
        contenant 3,41 % de Zn, 1,17 % de Pb, 234 g/t de Ag et 0,72 g/t
-       dâ€™or.
-     * La mine souterraine de Fresnillo, exploitÃ©e par le groupe mexicain
+       d'or.
+     * La mine souterraine de Fresnillo, exploitée par le groupe mexicain
        Fresnillo, a produit, en 2022, 43 343 t de zinc, 21 756 t de plomb,
-       423 t dâ€™argent et 1,071 t dâ€™or Ã  partir du traitement de 2,462
-       millions de t dâ€™un minerai titrant 189 g/t de Ag, 0,61 g/t de Au,
-       1,05 % de Pb et 2,38 % de Zn. Lâ€™exploitation de cette mine se
-       poursuit depuis 1554. Les rÃ©serves prouvÃ©es et probables sont, mi
+       423 t d'argent et 1,071 t d'or à partir du traitement de 2,462
+       millions de t d'un minerai titrant 189 g/t de Ag, 0,61 g/t de Au,
+       1,05 % de Pb et 2,38 % de Zn. L'exploitation de cette mine se
+       poursuit depuis 1554. Les réserves prouvées et probables sont, mi
        2021, de 13,224 millions de t contenant 3,41 % de Zn, 1,17 % de Pb,
-       234 g/t de Ag et 0,72 g/t dâ€™or.
-     * La mine de Greens Creek, en Alaska, est exploitÃ©e par Hecla Mining.
-       En 2022, la production a Ã©tÃ© de 19 500 t de Pb, 52 300 t de Zn, 302
-       t de Ag et 1,5 t de Au. Les rÃ©serves prouvÃ©es et probables sont de
+       234 g/t de Ag et 0,72 g/t d'or.
+     * La mine de Greens Creek, en Alaska, est exploitée par Hecla Mining.
+       En 2022, la production a été de 19 500 t de Pb, 52 300 t de Zn, 302
+       t de Ag et 1,5 t de Au. Les réserves prouvées et probables sont de
        10,7 millions de t renfermant 2,5 % de Pb, 6,5 % de Zn, 339 g/t de
        Ag et 2,8 g/t de Au.
 
-   Commerce international de minerais et de leurs concentrÃ©s : en 2022.
+   Commerce international de minerais et de leurs concentrés : en 2022.
 
    Principaux pays exportateurs : sur un total de 693 173 t.
 
    CAPTION: en milliers de t
 
-   PÃ©rou    443 Bolivie  14
+   Pérou    443 Bolivie  14
    Mongolie 104 Pays Bas 14
    Cuba     58  Belgique 8
    Russie   29  Maroc    7
 
    Source : ITC
 
-   Les exportations du PÃ©rou sont destinÃ©es Ã  97 % Ã  la Chine.
+   Les exportations du Pérou sont destinées à 97 % à la Chine.
 
    Principaux pays importateurs : sur un total de 1,611 million de t.
 
    CAPTION: en milliers de t
 
    Chine        1 432 Belgique   7
-   CorÃ©e du Sud 45    Kazakhstan 6
+   Corée du Sud 45    Kazakhstan 6
    Japon        25    Espagne    4
    Bulgarie     9     Allemagne  3
 
    Source : ITC
 
-   Les importations chinoises proviennent Ã  39 % du PÃ©rou, 18 % du
+   Les importations chinoises proviennent à 39 % du Pérou, 18 % du
    Mexique, 8 % de Bolivie, 7 % de Mongolie.
 
    Principaux producteurs : en 2022.
 
-   CAPTION: en tonnes dâ€™argent contenu
+   CAPTION: en tonnes d'argent contenu
 
    Fresnillo Plc (Mexique)     1 670 Codelco (Chili)              671
    KGHM Polska Miedz (Pologne) 1 327 Polymetal (Russie)           653
-   Newmont (Ã‰tats-Unis)        865   Southern Copper (Mexique)    577
+   Newmont (États-Unis)        865   Southern Copper (Mexique)    577
    Glencore (Suisse)           739   Pan American Silver (Canada) 575
-   Hindustan Zinc (Inde)       694   Volcan (PÃ©rou)               445
+   Hindustan Zinc (Inde)       694   Volcan (Pérou)               445
 
-   Sources : The Silver Institute et rapports des sociÃ©tÃ©s
-     * Fresnillo PLC, contrÃ´lÃ©e par le groupe PeÃ±oles, exploite, au
-       Mexique, des mines dâ€™argent (Fresnillo, Saucito et San JuliÃ n, voir
-       ci-dessus) et dâ€™or (CiÃ©nega, Herradura et Noche Buena). En 2022, la
-       mine souterraine dâ€™or de CiÃ©nega a produit 5 387 t de zinc, 3 518 t
-       de plomb, 146 t dâ€™argent et 1,165 t dâ€™or. Celles, Ã  ciel ouvert, de
-       Herradura, 24,1 t dâ€™argent et 10,9 t dâ€™or et de Noche Buena, 0,622
-       t dâ€™argent et 2,5 t dâ€™or. Les coproductions ont Ã©tÃ©, en 2022, de 99
-       153 t de zinc, 52 950 t de plomb et 19,8 t dâ€™or.
+   Sources : The Silver Institute et rapports des sociétés
+     * Fresnillo PLC, contrôlée par le groupe Peñoles, exploite, au
+       Mexique, des mines d'argent (Fresnillo, Saucito et San Juliàn, voir
+       ci-dessus) et d'or (Ciénega, Herradura et Noche Buena). En 2022, la
+       mine souterraine d'or de Ciénega a produit 5 387 t de zinc, 3 518 t
+       de plomb, 146 t d'argent et 1,165 t d'or. Celles, à ciel ouvert, de
+       Herradura, 24,1 t d'argent et 10,9 t d'or et de Noche Buena, 0,622
+       t d'argent et 2,5 t d'or. Les coproductions ont été, en 2022, de 99
+       153 t de zinc, 52 950 t de plomb et 19,8 t d'or.
      * KGHM exploite 3 mines souterraines dans le sud-ouest de la Pologne,
-       Ã  Lubin, Polkowice-Sieroszowice et Rudna. En 2021, a extrait 30,0
+       à Lubin, Polkowice-Sieroszowice et Rudna. En 2021, a extrait 30,0
        millions de t de minerai contenant 1,495 % de Cu et 50,7 g/t de Ag
        et produit de 578 000 t de cuivre (dont 391 000 t contenues dans le
-       minerai extrait), 30 000 t de plomb, 1 332 t dâ€™argent, 3,011 t
-       dâ€™or, platine et palladium et en 2016, 81,7 t de sÃ©lÃ©nium et 8,9 t
-       de rhÃ©nium. Le gisement, dÃ©couvert en 1957, est situÃ© entre 600 et
+       minerai extrait), 30 000 t de plomb, 1 332 t d'argent, 3,011 t
+       d'or, platine et palladium et en 2016, 81,7 t de sélénium et 8,9 t
+       de rhénium. Le gisement, découvert en 1957, est situé entre 600 et
        1380 m de profondeur et occupe une surface de 550 km^2. La
-       production a commencÃ© en 1968. Fin 2014, les rÃ©serves prouvÃ©es et
-       probables Ã©taient pour Lubin de 339 millions de t de minerai
+       production a commencé en 1968. Fin 2014, les réserves prouvées et
+       probables étaient pour Lubin de 339 millions de t de minerai
        renfermant 0,95 % de Cu et 40 g/t de Ag, pour
        Polkowice-Sieroszowice de 431 millions de t de minerai renfermant
        1,83 % de Cu et 45 g/t de Ag et pour Rudna de 378 millions de t de
        minerai renfermant 1,68 % de Cu et 51 g/t de Ag. KGHM exploite
-       Ã©galement des mines au Canada, aux Ã‰tats-Unis et au Chili avec, en
-       2022, une production de 147 000 t de cuivre, 1 315 t de molybdÃ¨ne,
-       2 100 t de nickel, 36,9 t dâ€™argent, 2,808 t dâ€™or, platine et
+       également des mines au Canada, aux États-Unis et au Chili avec, en
+       2022, une production de 147 000 t de cuivre, 1 315 t de molybdène,
+       2 100 t de nickel, 36,9 t d'argent, 2,808 t d'or, platine et
        palladium.
-     * Glencore (Suisse), coproduit de lâ€™argent dans de nombreux pays.
+     * Glencore (Suisse), coproduit de l'argent dans de nombreux pays.
           + Dans des mines de cuivre :
-               o au Chili, Ã  Collahuasi dÃ©tenue Ã  44 %, avec, en 2022, 104
+               o au Chili, à Collahuasi détenue à 44 %, avec, en 2022, 104
                  t de Ag,
-               o au PÃ©rou Ã  Antamina dÃ©tenue Ã  33,75 % avec, en 2022, 154
+               o au Pérou à Antamina détenue à 33,75 % avec, en 2022, 154
                  t de Ag et Antapaccay avec, en 2022, 38 t de Ag,
-               o en Australie, Ã  Cobar, avec 13,9 t dâ€™argent contenu dans
-                 des concentrÃ©s.
+               o en Australie, à Cobar, avec 13,9 t d'argent contenu dans
+                 des concentrés.
           + Dans des mines de zinc :
-               o au Kazakhstan, par sa filiale Kazzink dÃ©tenue Ã  69,7 %,
-                 avec 84,6 t de mÃ©tal,
-               o en Australie, Ã  Mount Isa et Mac Arthur River avec 191,2
-                 t contenues dans des concentrÃ©s et sosu,
-               o au Canada, Ã  Kidd, avec 41,9 t contenues dans des
-                 concentrÃ©s,
-               o en Argentine Ã  Aguilar, au PÃ©rou Ã  Los Quenuales, en
-                 Bolivie Ã  Sinchi Wayra, avec 104 t dâ€™argent contenu dans
-                 des concentrÃ©s.
-          + Dans des mines de nickel, au Canada, Ã  Sudbury et Raglan, avec
-            6 t de mÃ©tal.
-     * Pan American Silver, sociÃ©tÃ© canadienne, exploite des mines
-       dâ€™argent et dâ€™or. En fÃ©vrier 2019, a acquis les mines dâ€™or de Tahoe
+               o au Kazakhstan, par sa filiale Kazzink détenue à 69,7 %,
+                 avec 84,6 t de métal,
+               o en Australie, à Mount Isa et Mac Arthur River avec 191,2
+                 t contenues dans des concentrés et sosu,
+               o au Canada, à Kidd, avec 41,9 t contenues dans des
+                 concentrés,
+               o en Argentine à Aguilar, au Pérou à Los Quenuales, en
+                 Bolivie à Sinchi Wayra, avec 104 t d'argent contenu dans
+                 des concentrés.
+          + Dans des mines de nickel, au Canada, à Sudbury et Raglan, avec
+            6 t de métal.
+     * Pan American Silver, société canadienne, exploite des mines
+       d'argent et d'or. En février 2019, a acquis les mines d'or de Tahoe
        Resources (Shahuindo, La Arena, Timmins et Bell Creek).
-          + Mines dâ€™argent :
-               o la mine souterraine de Colorada, dans lâ€™Ã‰tat de
+          + Mines d'argent :
+               o la mine souterraine de Colorada, dans l'État de
                  Zacatecas, au Mexique, a produit, en 2022, 184,7 t de Ag,
                  0,102 t de Au, 10 020 t de Zn, 5 650 t de Pb et 10 t de
-                 Cu. Les rÃ©serves prouvÃ©es et probables sont de 10
+                 Cu. Les réserves prouvées et probables sont de 10
                  millions de t renfermant 317 g/t de Ag, 0,20 g/t de Au,
                  1,99 % de Zn et 1,12 % de Pb,
-               o la mine souterraine et Ã  ciel ouvert de Dolores, dans
-                 lâ€™Ã‰tat de Chihuahua, au Mexique, a produit 69,7 t de Ag
-                 et 4,26 t de Au avec des rÃ©serves prouvÃ©es et probables
+               o la mine souterraine et à ciel ouvert de Dolores, dans
+                 l'État de Chihuahua, au Mexique, a produit 69,7 t de Ag
+                 et 4,26 t de Au avec des réserves prouvées et probables
                  de 17 millions de t renfermant 20 g/t de Ag et 0,57 g/t
                  de Au,
                o la mine souterraine de Huaron, dans la province de Pasco,
-                 au PÃ©rou, a produit 113,8 t de Ag, 0,028 t de Au, 16 430
-                 t de Zn, 11 440 t de Pb et 4 300 t de Cu. Les rÃ©serves
-                 prouvÃ©es et probables sont de 11 millions de t renfermant
+                 au Pérou, a produit 113,8 t de Ag, 0,028 t de Au, 16 430
+                 t de Zn, 11 440 t de Pb et 4 300 t de Cu. Les réserves
+                 prouvées et probables sont de 11 millions de t renfermant
                  168 g/t de Ag, 2,97 % de Zn, 1,55 % de Pb et 0,45 % de
                  Cu,
-               o la mine souterraine de Marococha, dÃ©tenue Ã  92,3 %, dans
-                 la province de Yauli, au PÃ©rou, a produit 10,1 t de Ag,
+               o la mine souterraine de Marococha, détenue à 92,3 %, dans
+                 la province de Yauli, au Pérou, a produit 10,1 t de Ag,
                  0,03 t de Au, 2 670 t de Zn, 730 t de Pb et 470 t de Cu.
-                 En fÃ©vrier 2022, la production a Ã©tÃ© suspendue.
-               o la mine souterraine de San Vicente, en Bolivie, dÃ©tenue Ã 
+                 En février 2022, la production a été suspendue.
+               o la mine souterraine de San Vicente, en Bolivie, détenue à
                  95 %, a produit 78,6 t de Ag, 0,003 t de Au, 9 510 t de
-                 Zn, 890 t de Pb et 480 t de Cu. Les rÃ©serves prouvÃ©es et
+                 Zn, 890 t de Pb et 480 t de Cu. Les réserves prouvées et
                  probables sont de 1,7 million de t renfermant 314 g/t de
                  Ag, 3,55 % de Zn, 0,29 % de Pb et 0,25 % de Cu,
                o la mine souterraine de Manantial Espejo, en Argentine, a
-                 produit 107,7 t de Ag et 0,827 t de Au. Les rÃ©serves
-                 prouvÃ©es et probables sont de 0,4 million de t renfermant
+                 produit 107,7 t de Ag et 0,827 t de Au. Les réserves
+                 prouvées et probables sont de 0,4 million de t renfermant
                  250 g/t de Ag et 2,35 g/t de Au.
-          + Mines dâ€™or :
-               o la mine Ã  ciel ouvert de Shahuindo, au PÃ©rou, a produit
-                 8,1 t de Ag et 4,7 t dâ€™or. Les rÃ©serves prouvÃ©es et
+          + Mines d'or :
+               o la mine à ciel ouvert de Shahuindo, au Pérou, a produit
+                 8,1 t de Ag et 4,7 t d'or. Les réserves prouvées et
                  probables sont de 104,2 millions de t renfermant 7 g/t de
                  Ag et 0,47 g/t de Au,
-               o la mine Ã  ciel ouvert de La Arena, au PÃ©rou, a produit
-                 1,17 t de Ag et 3,1 t de Au. Les rÃ©serves prouvÃ©es et
+               o la mine à ciel ouvert de La Arena, au Pérou, a produit
+                 1,17 t de Ag et 3,1 t de Au. Les réserves prouvées et
                  probables sont de 42,3 millions de t renfermant 0,38 g/t
                  de Au,
-               o la mine de Timmins, au Canada, dans lâ€™Ontario, a produit
-                 0,48 t de Ag et 4,2 t de Au. Les rÃ©serves prouvÃ©es et
+               o la mine de Timmins, au Canada, dans l'Ontario, a produit
+                 0,48 t de Ag et 4,2 t de Au. Les réserves prouvées et
                  probables sont de 5,4 millions de t renfermant 2,69 g/t
                  de Au.
 
-RÃ©serves miniÃ¨res dâ€™argent
+Réserves minières d'argent
 
    En milliers de t d'argent contenu, en 2022, sur un total mondial de 550
    000 t. Source : USGS
@@ -749,186 +749,186 @@ RÃ©serves miniÃ¨res dâ€™argent
    CAPTION: en milliers de t de Ag contenu, sur un total mondial de 550
    000 t
 
-   PÃ©rou     98 Mexique    37
+   Pérou     98 Mexique    37
    Australie 92 Chili      26
-   Chine     71 Ã‰tats-Unis 23
+   Chine     71 États-Unis 23
    Pologne   65 Bolivie    22
    Russie    45 Inde       7
 
    Source : USGS
 
-MÃ©tallurgie
+Métallurgie
 
-   Lâ€™extraction de lâ€™argent contenu dans les minerais dÃ©pend du type de
-   minerai exploitÃ©.
+   L'extraction de l'argent contenu dans les minerais dépend du type de
+   minerai exploité.
 
-   Dans le cas de lâ€™argent contenu dans des minerais de Pb-Zn, lâ€™argent se
-   retrouve dans les concentrÃ©s de plomb et de zinc et est rÃ©cupÃ©rÃ© lors
-   des opÃ©rations mÃ©tallurgiques de traitement de ces concentrÃ©s. Il en
-   est de mÃªme pour lâ€™argent contenu dans des minerais sulfurÃ©s de cuivre.
-     * Lors des opÃ©rations de purification du plomb, Ã  lâ€™Ã©tat liquide,
-       lâ€™ajout de zinc (procÃ©dÃ© Parkes) se traduit par une dissolution
-       prÃ©fÃ©rentielle de lâ€™argent, du cuivre et de lâ€™or dans le zinc avec,
-       en particulier, formation de lâ€™alliage Ag[2]Zn[3] solide qui est
-       rÃ©cupÃ©rÃ© Ã  la surface du bain liquide. Le zinc est ensuite Ã©liminÃ©
-       par chauffage sous vide puis recyclÃ©. Les diverses impuretÃ©s sont
-       oxydÃ©es Ã  chaud Ã  lâ€™air et ainsi Ã©liminÃ©es. Il reste un alliage
-       Ag-Au (dorÃ©) qui est traitÃ© par Ã©lectrolyse Ã  anode soluble. Le
-       dorÃ© est placÃ© Ã  lâ€™anode, la cathode est en acier inoxydable ou en
-       argent, lâ€™Ã©lectrolyte est une solution aqueuse de nitrate dâ€™argent
-       et de cuivre en prÃ©sence dâ€™acide nitrique. Les cristaux dâ€™argent se
-       dÃ©posent sur la cathode dâ€™oÃ¹ ils sont rÃ©cupÃ©rÃ©s pÃ©riodiquement,
-       lavÃ©s puis fondus et enfin lâ€™argent est coulÃ© en lingots. Les
-       impuretÃ©s contenues (Au, Pd, Ptâ€¦) restent insolubles et forment des
-       boues anodiques qui sont traitÃ©es pour rÃ©cupÃ©rer les mÃ©taux
+   Dans le cas de l'argent contenu dans des minerais de Pb-Zn, l'argent se
+   retrouve dans les concentrés de plomb et de zinc et est récupéré lors
+   des opérations métallurgiques de traitement de ces concentrés. Il en
+   est de même pour l'argent contenu dans des minerais sulfurés de cuivre.
+     * Lors des opérations de purification du plomb, à l'état liquide,
+       l'ajout de zinc (procédé Parkes) se traduit par une dissolution
+       préférentielle de l'argent, du cuivre et de l'or dans le zinc avec,
+       en particulier, formation de l'alliage Ag[2]Zn[3] solide qui est
+       récupéré à la surface du bain liquide. Le zinc est ensuite éliminé
+       par chauffage sous vide puis recyclé. Les diverses impuretés sont
+       oxydées à chaud à l'air et ainsi éliminées. Il reste un alliage
+       Ag-Au (doré) qui est traité par électrolyse à anode soluble. Le
+       doré est placé à l'anode, la cathode est en acier inoxydable ou en
+       argent, l'électrolyte est une solution aqueuse de nitrate d'argent
+       et de cuivre en présence d'acide nitrique. Les cristaux d'argent se
+       déposent sur la cathode d'où ils sont récupérés périodiquement,
+       lavés puis fondus et enfin l'argent est coulé en lingots. Les
+       impuretés contenues (Au, Pd, Pt...) restent insolubles et forment
+       des boues anodiques qui sont traitées pour récupérer les métaux
        contenus.
-     * Lors du traitement hydromÃ©tallurgique du zinc, lâ€™argent reste
-       insoluble, avec le plomb, lors de lâ€™opÃ©ration de lixiviation dans
-       lâ€™acide sulfurique. Ces rÃ©sidus insolubles sont ensuite traitÃ©s
-       selon les techniques de la mÃ©tallurgie du plomb (voir ci-dessus).
-     * Lâ€™argent contenu dans les minerais de cuivre se retrouve, lors des
-       opÃ©rations mÃ©tallurgiques, dans le blister qui est ensuite purifiÃ©
-       selon le procÃ©dÃ© Ã  anode soluble. Lâ€™argent et lâ€™or, insolubles, se
-       retrouvent dans les boues anodiques qui aprÃ¨s purification donnent
-       par fusion un dorÃ© qui est traitÃ© par Ã©lectrolyse (voir ci-dessus).
-     * Dans le cas de lâ€™argent contenu dans des minerais dâ€™or, lâ€™argent
-       est extrait, avec lâ€™or, par cyanuration (voir le chapitre or).
+     * Lors du traitement hydrométallurgique du zinc, l'argent reste
+       insoluble, avec le plomb, lors de l'opération de lixiviation dans
+       l'acide sulfurique. Ces résidus insolubles sont ensuite traités
+       selon les techniques de la métallurgie du plomb (voir ci-dessus).
+     * L'argent contenu dans les minerais de cuivre se retrouve, lors des
+       opérations métallurgiques, dans le blister qui est ensuite purifié
+       selon le procédé à anode soluble. L'argent et l'or, insolubles, se
+       retrouvent dans les boues anodiques qui après purification donnent
+       par fusion un doré qui est traité par électrolyse (voir ci-dessus).
+     * Dans le cas de l'argent contenu dans des minerais d'or, l'argent
+       est extrait, avec l'or, par cyanuration (voir le chapitre or).
        Ensuite, au contraire des minerais pauvres en argent pour lesquels
-       lâ€™or est rÃ©cupÃ©rÃ© par adsorption sur du charbon actif, lâ€™argent
-       sâ€™adsorbant mal, la solution de lixiviation est traitÃ©e par
-       cÃ©mentation Ã  lâ€™aide de poudre de zinc (procÃ©dÃ© Merrill-Crowe).
-       Lâ€™argent et lâ€™or se retrouvent sur les particules de zinc et le
-       cÃ©ment ainsi obtenu est traitÃ© par un mÃ©lange dâ€™acide chlorhydrique
-       et de peroxyde dâ€™hydrogÃ¨ne. Lâ€™or et le zinc passent en solution et
-       lâ€™argent, prÃ©cipitant sous forme de AgCl, est rÃ©cupÃ©rÃ©.
+       l'or est récupéré par adsorption sur du charbon actif, l'argent
+       s'adsorbant mal, la solution de lixiviation est traitée par
+       cémentation à l'aide de poudre de zinc (procédé Merrill-Crowe).
+       L'argent et l'or se retrouvent sur les particules de zinc et le
+       cément ainsi obtenu est traité par un mélange d'acide chlorhydrique
+       et de peroxyde d'hydrogène. L'or et le zinc passent en solution et
+       l'argent, précipitant sous forme de AgCl, est récupéré.
 
 Recyclage, stocks et commerce international
 
-Production dâ€™argent recyclÃ©
+Production d'argent recyclé
 
    En tonnes, en 2022, sur un total mondial de 5 618 t. Source : The
    Silver Institute
 
    CAPTION: en tonnes, sur un total mondial de 5 618 t
 
-   Ã‰tats-Unis 1 389 Japon                 282
+   États-Unis 1 389 Japon                 282
    Chine      1 079 Italie                142
    Inde       480   Royaume Uni           135
-   Russie     351   CorÃ©e du Sud, en 2019 137
+   Russie     351   Corée du Sud, en 2019 137
    Allemagne  307   France                99
 
    Source : The Silver Institute
 
-   Le recyclage reprÃ©sente, en 2022, 14,5 % de la consommation mondiale.
+   Le recyclage représente, en 2022, 14,5 % de la consommation mondiale.
 
-   En 2022, lâ€™argent recyclÃ© provient Ã  55,1 % du secteur industriel, 19,1
-   % de bijoux, 13,5 % de lâ€™argenterie, 10,2 % de la photographie, 2,0 %
+   En 2022, l'argent recyclé provient à 55,1 % du secteur industriel, 19,1
+   % de bijoux, 13,5 % de l'argenterie, 10,2 % de la photographie, 2,0 %
    de monnaies.
 
    Recyclage en photographie :
 
-   Les films et papiers Ã©mulsionnÃ©s vierges contiennent de 0,5 Ã  3,5 % de
-   Ag, aprÃ¨s exposition et dÃ©veloppement : de 2 Ã  15 g/kg de film. Un
-   fixateur usÃ© contient de 4 Ã  7 g dâ€™Ag/L.
-   Lors du dÃ©veloppement, lâ€™argent se rÃ©partit, pour de la photographie
-   noir et blanc, moitiÃ©-moitiÃ© entre le film et le fixateur. Dans le cas
-   de la couleur, lâ€™argent passe Ã  99 % dans le fixateur.
+   Les films et papiers émulsionnés vierges contiennent de 0,5 à 3,5 % de
+   Ag, après exposition et développement : de 2 à 15 g/kg de film. Un
+   fixateur usé contient de 4 à 7 g d'Ag/L.
+   Lors du développement, l'argent se répartit, pour de la photographie
+   noir et blanc, moitié-moitié entre le film et le fixateur. Dans le cas
+   de la couleur, l'argent passe à 99 % dans le fixateur.
 
-   RÃ©cupÃ©ration de lâ€™argent :
-     * Des films et papiers : par brÃ»lage ou par lavage des supports en
-       polyester Ã  lâ€™aide dâ€™une solution bouillante de soude dans
-       lâ€™Ã©thanol. 95 % de lâ€™argent contenu est ainsi rÃ©cupÃ©rÃ©.
-     * Du fixateur : par Ã©lectrolyse, en continu, au cours de la fixation.
-       Ag se dÃ©pose Ã  la cathode. En radiographie, la rÃ©cupÃ©ration est de
-       lâ€™ordre de 2,5 g par m^2 dâ€™Ã©mulsion fixÃ©e soit pour 100
-       clichÃ©s/jour, 7 kg dâ€™Ag par an. ParallÃ¨lement Ã  la rÃ©cupÃ©ration de
-       lâ€™argent, de 50 Ã  80 % du fixateur est rÃ©gÃ©nÃ©rÃ©.
+   Récupération de l'argent :
+     * Des films et papiers : par brûlage ou par lavage des supports en
+       polyester à l'aide d'une solution bouillante de soude dans
+       l'éthanol. 95 % de l'argent contenu est ainsi récupéré.
+     * Du fixateur : par électrolyse, en continu, au cours de la fixation.
+       Ag se dépose à la cathode. En radiographie, la récupération est de
+       l'ordre de 2,5 g par m^2 d'émulsion fixée soit pour 100
+       clichés/jour, 7 kg d'Ag par an. Parallèlement à la récupération de
+       l'argent, de 50 à 80 % du fixateur est régénéré.
 
    Stocks :
 
-   Fin 2018, les stocks gouvernementaux sont estimÃ©s Ã  2 771 t. Par
-   exemple, en 2021, aux Ã‰tats-Unis, le stock gouvernemental est de 498 t,
-   celui des industries de 60 t et celui du COMEX, bourse dâ€™Ã©change de New
+   Fin 2018, les stocks gouvernementaux sont estimés à 2 771 t. Par
+   exemple, en 2021, aux États-Unis, le stock gouvernemental est de 498 t,
+   celui des industries de 60 t et celui du COMEX, bourse d'échange de New
    York, de 11 064 t.
 
-   Lâ€™argent stockÃ© par les particuliers, en Inde, est de 60 000 Ã 
-   160 000 t. Dans ce pays, il est traditionnel dâ€™offrir, en cadeau de
-   mariage, de lâ€™argent.
+   L'argent stocké par les particuliers, en Inde, est de 60 000 à
+   160 000 t. Dans ce pays, il est traditionnel d'offrir, en cadeau de
+   mariage, de l'argent.
 
-   Commerce international de lâ€™argent brut : en 2022.
+   Commerce international de l'argent brut : en 2022.
 
    Principaux pays exportateurs :
 
    CAPTION: en tonnes
 
-   Royaume Uni 11 952 CorÃ©e du Sud 3 220
+   Royaume Uni 11 952 Corée du Sud 3 220
    Japon       6 473  Allemagne    3 011
-   Hong Kong   5 052  Ã‰tats-Unis   2 334
+   Hong Kong   5 052  États-Unis   2 334
    Chine       3 949  Suisse       2 315
    Belgique    3 290  Pologne      1 948
 
    Source : ITC
 
-   Les exportations du Royaume Uni sont destinÃ©es Ã  48 % Ã  lâ€™Inde, 20 % au
-   Canada, 11 % Ã  la Suisse, 9 % Ã  la Turquie.
+   Les exportations du Royaume Uni sont destinées à 48 % à l'Inde, 20 % au
+   Canada, 11 % à la Suisse, 9 % à la Turquie.
 
    Principaux pays importateurs :
 
    CAPTION: en tonnes
 
    Inde        9 584 Chine     3 174
-   Ã‰tats-Unis  7 389 Allemagne 2 369
+   États-Unis  7 389 Allemagne 2 369
    Hong Kong   3 746 Japon     2 112
    Canada      3 610 Turquie   2 065
    Royaume Uni 3 351 Suisse    1 654
 
    Source ITC
 
-   Les importations indiennes proviennent Ã  50 % du Royaume Uni, 24 % de
+   Les importations indiennes proviennent à 50 % du Royaume Uni, 24 % de
    Hong Kong, 9 % de Chine, 3 % de Russie.
 
-Situation franÃ§aise
+Situation française
 
-   Production : la production miniÃ¨re est nulle depuis lâ€™arrÃªt de
-   lâ€™exploitation des mines dâ€™or du Bourneix (87) en 2002 et de Salsigne
+   Production : la production minière est nulle depuis l'arrêt de
+   l'exploitation des mines d'or du Bourneix (87) en 2002 et de Salsigne
    (11) en 2004.
-   Le recyclage a portÃ© sur 99 t, en 2022.
+   Le recyclage a porté sur 99 t, en 2022.
 
-   Commerce extÃ©rieur : en 2022.
+   Commerce extérieur : en 2022.
    Minerai :
-     * Exportations : 22 t vers le BrÃ©sil Ã  73 %, les Pays Bas Ã  27 %.
-     * Importations : 73 t des Pays Bas Ã  74 %, dâ€™Allemagne Ã  26 %.
+     * Exportations : 22 t vers le Brésil à 73 %, les Pays Bas à 27 %.
+     * Importations : 73 t des Pays Bas à 74 %, d'Allemagne à 26 %.
 
-   Argent colloÃ¯dal :
-     * Exportations : 59 t vers les Pays Bas Ã  56 %, la Pologne Ã  20 %, le
-       Mexique Ã  11 %, lâ€™Allemagne Ã  10 %.
-     * Importations : 12 t dâ€™Allemagne Ã  64 %, des Ã‰tats-Unis Ã  22 %, des
-       Pays Bas Ã  13 %.
+   Argent colloïdal :
+     * Exportations : 59 t vers les Pays Bas à 56 %, la Pologne à 20 %, le
+       Mexique à 11 %, l'Allemagne à 10 %.
+     * Importations : 12 t d'Allemagne à 64 %, des États-Unis à 22 %, des
+       Pays Bas à 13 %.
 
-   Nitrate dâ€™argent :
-     * Exportations : 377 t vers lâ€™Inde Ã  59 %, lâ€™AlgÃ©rie Ã  18 %,
-       lâ€™IndonÃ©sie Ã  10 %.
-     * Importations : 60 t du Royaume Uni Ã  45 %, de Belgique Ã  25 %,
-       dâ€™Allemagne Ã  10 %.
+   Nitrate d'argent :
+     * Exportations : 377 t vers l'Inde à 59 %, l'Algérie à 18 %,
+       l'Indonésie à 10 %.
+     * Importations : 60 t du Royaume Uni à 45 %, de Belgique à 25 %,
+       d'Allemagne à 10 %.
 
    Argent en poudre :
-     * Exportations : 153 t vers la CorÃ©e du Sud Ã  44 %, le Canada Ã  23 %,
-       les Ã‰tats-Unis Ã  12 %, le Mexique Ã  7 %.
-     * Importations : 122 t des Ã‰tats-Unis Ã  62 %, de Suisse Ã  32 %, de
-       RÃ©publique tchÃ¨que Ã  4 %.
+     * Exportations : 153 t vers la Corée du Sud à 44 %, le Canada à 23 %,
+       les États-Unis à 12 %, le Mexique à 7 %.
+     * Importations : 122 t des États-Unis à 62 %, de Suisse à 32 %, de
+       République tchèque à 4 %.
 
    Argent brut, hors poudre :
-     * Exportations : 43 t vers la Suisse Ã  40 %, lâ€™Italie Ã  31 %,
-       lâ€™Allemagne Ã  16 %, lâ€™AlgÃ©rie Ã  10 %.
-     * Importations : 361 t dâ€™Allemagne Ã  45 %, de Suisse Ã  31 %, dâ€™Italie
-       Ã  16 %, de Belgique Ã  3 %.
+     * Exportations : 43 t vers la Suisse à 40 %, l'Italie à 31 %,
+       l'Allemagne à 16 %, l'Algérie à 10 %.
+     * Importations : 361 t d'Allemagne à 45 %, de Suisse à 31 %, d'Italie
+       à 16 %, de Belgique à 3 %.
 
 Utilisations
 
-   Consommations : en 2021, dans le monde : 32 627 t, dont dans lâ€™Union
-   europÃ©enne, en 2018 : 4 004 t.
+   Consommations : en 2021, dans le monde : 32 627 t, dont dans l'Union
+   européenne, en 2018 : 4 004 t.
 
-Secteurs dâ€™utilisation de lâ€™argent
+Secteurs d'utilisation de l'argent
 
    En 2022, dans le monde. Source : The Silver Institute
    Monde
@@ -941,86 +941,86 @@ Secteurs dâ€™utilisation de lâ€™argent
 
    Source : The Silver Institute
 
-   La consommation industrielle mondiale concerne Ã  66,7 %, lâ€™Ã©lectricitÃ©
-   et lâ€™Ã©lectronique, Ã  25,2 % le photovoltaÃ¯que, Ã  8,8 % la brasure, Ã 
-   4,9 % la photographie. En France, la part des industries Ã©lectriques et
-   Ã©lectroniques est de 76,1 %, celle de la brasure de 7,3 %.
-   Par exemple, lâ€™industrie automobile a consommÃ©, en 2018, 1 611 t.
-     * Contacts Ã©lectriques : lâ€™argent utilisÃ© dans ce domaine est le plus
-       souvent mÃ©langÃ© Ã  de lâ€™oxyde de cadmium CdO ou, de plus en plus, Ã 
-       de lâ€™oxyde dâ€™Ã©tain SnO[2] afin dâ€™absorber lâ€™Ã©nergie de lâ€™arc
-       Ã©lectrique et diminuer les forces de soudure des contacts. Le
-       mÃ©lange est prÃ©parÃ© soit par oxydation interne (par diffusion de
-       O[2]) dans un alliage Ag-Cd, soit par mÃ©tallurgie des poudres, soit
-       par rÃ©duction et coprÃ©cipitation Ã  partir dâ€™une solution.
-       Les Ã©crans plasma de plus de 42 pouces contiennent plus de 30 g
-       dâ€™argent.
-     * PhotovoltaÃ¯que : plus de 90 % des cellules photovoltaÃ¯ques
-       renferment de lâ€™argent sous forme dâ€™une couche mince permettant
-       dâ€™extraire le courant de la cellule. La consommation mondiale dans
-       ce secteur a Ã©tÃ©, en 2022, de 4 365 t, reprÃ©sentant 15 % du coÃ»t de
-       revient des panneaux photovoltaÃ¯ques.
-     * Catalyseur, sous forme dâ€™oxyde dâ€™argent, pour la production dâ€™oxyde
-       dâ€™Ã©thylÃ¨ne et de formaldÃ©hyde. La consommation mondiale destinÃ©e Ã 
-       la production dâ€™oxyde dâ€™Ã©thylÃ¨ne est, en 2018, de 169 t, avec un
-       total de 5 048 t immobilisÃ©es dans les unitÃ©s de production dâ€™oxyde
-       dâ€™Ã©thylÃ¨ne. En 2018, les Ã‰tats-Unis ont consommÃ© pour la production
-       dâ€™oxyde dâ€™Ã©thylÃ¨ne 102 t dâ€™argent, la Chine, 36 t, le Mexique 10 t,
-       lâ€™Arabie Saoudite, 9 tâ€¦
-     * Photographie et radiographie : une once dâ€™argent (31,1035 g) permet
-       de rÃ©aliser 5 000 photographies couleur dâ€™un format standard.
-       Toutefois, face Ã  la concurrence de la photographie numÃ©rique, la
+   La consommation industrielle mondiale concerne à 66,7 %, l'électricité
+   et l'électronique, à 25,2 % le photovoltaïque, à 8,8 % la brasure, à
+   4,9 % la photographie. En France, la part des industries électriques et
+   électroniques est de 76,1 %, celle de la brasure de 7,3 %.
+   Par exemple, l'industrie automobile a consommé, en 2018, 1 611 t.
+     * Contacts électriques : l'argent utilisé dans ce domaine est le plus
+       souvent mélangé à de l'oxyde de cadmium CdO ou, de plus en plus, à
+       de l'oxyde d'étain SnO[2] afin d'absorber l'énergie de l'arc
+       électrique et diminuer les forces de soudure des contacts. Le
+       mélange est préparé soit par oxydation interne (par diffusion de
+       O[2]) dans un alliage Ag-Cd, soit par métallurgie des poudres, soit
+       par réduction et coprécipitation à partir d'une solution.
+       Les écrans plasma de plus de 42 pouces contiennent plus de 30 g
+       d'argent.
+     * Photovoltaïque : plus de 90 % des cellules photovoltaïques
+       renferment de l'argent sous forme d'une couche mince permettant
+       d'extraire le courant de la cellule. La consommation mondiale dans
+       ce secteur a été, en 2022, de 4 365 t, représentant 15 % du coût de
+       revient des panneaux photovoltaïques.
+     * Catalyseur, sous forme d'oxyde d'argent, pour la production d'oxyde
+       d'éthylène et de formaldéhyde. La consommation mondiale destinée à
+       la production d'oxyde d'éthylène est, en 2018, de 169 t, avec un
+       total de 5 048 t immobilisées dans les unités de production d'oxyde
+       d'éthylène. En 2018, les États-Unis ont consommé pour la production
+       d'oxyde d'éthylène 102 t d'argent, la Chine, 36 t, le Mexique 10 t,
+       l'Arabie Saoudite, 9 t...
+     * Photographie et radiographie : une once d'argent (31,1035 g) permet
+       de réaliser 5 000 photographies couleur d'un format standard.
+       Toutefois, face à la concurrence de la photographie numérique, la
        consommation dans ce secteur est en diminution constante (27 % des
        utilisations en 1995). Le maximum de consommation dans ce secteur a
-       Ã©tÃ© atteint en 2000 avec 4,5 milliards de films et 1,76 milliard de
-       m^2 de papier. En 2003, dans le monde, les ventes dâ€™appareils
-       numÃ©riques (hors tÃ©lÃ©phones portables) ont dÃ©passÃ© celles des
+       été atteint en 2000 avec 4,5 milliards de films et 1,76 milliard de
+       m^2 de papier. En 2003, dans le monde, les ventes d'appareils
+       numériques (hors téléphones portables) ont dépassé celles des
        appareils traditionnels, argentiques (hors appareils jetables). En
-       2022, la consommation dans ce secteur a Ã©tÃ© de 855 t.
+       2022, la consommation dans ce secteur a été de 855 t.
 
    Utilisations diverses :
-     * BactÃ©ricide et algicide, lâ€™argent est employÃ© dans la purification
-       de lâ€™eau. Son action bactÃ©ricide est telle que les solutions
-       contenant des ions Ag^+ ne doivent pas Ãªtre rejetÃ©es dans les
-       circuits dâ€™eaux usÃ©es car leur prÃ©sence empÃªche le fonctionnement
-       des stations dâ€™Ã©puration. On assiste au dÃ©veloppement de
-       lâ€™utilisation de pansements imprÃ©gnÃ©s aux sels dâ€™argent.
-     * Batteries Ã  lâ€™oxyde dâ€™argent.
-     * Ã‰laboration de miroirs : bien que des miroirs soient fabriquÃ©s par
-       dÃ©pÃ´t sous vide en phase vapeur de divers mÃ©taux (Alâ€¦), le principe
-       de leur fabrication repose toujours sur le procÃ©dÃ© traditionnel
-       utilisÃ© depuis la moitiÃ© du XIX^Ã¨me siÃ¨cle. En solution aqueuse de
-       nitrate dâ€™argent, les ions Ag^+, complexÃ©s par lâ€™ammoniac, sont
-       rÃ©duits par du formaldÃ©hyde, de lâ€™hydrazine, du glucose ou du
-       tartrate double de sodium et de potassium (sel de Rochelle). Le
-       procÃ©dÃ© a Ã©tÃ© amÃ©liorÃ© en pulvÃ©risant sur la surface du miroir une
-       solution de chlorure dâ€™Ã©tain qui aprÃ¨s rinÃ§age et sÃ©chage laisse,
-       adsorbÃ©s, Ã  la surface du verre des ions Sn^2+ qui ont pour
-       fonction dâ€™initier la rÃ©duction des ions Ag^+ en de nombreux points
-       afin de crÃ©er un grand nombre de germes de cristallisation de
-       lâ€™argent qui ainsi pourra former une couche continue exempte de
-       dÃ©fauts. Enfin une fine couche de cuivre est dÃ©posÃ©e selon le mÃªme
-       procÃ©dÃ© de rÃ©duction dâ€™une solution de sel de cuivre. Le cuivre
-       joue le rÃ´le dâ€™anode sacrificielle afin de protÃ©ger lâ€™argent de la
-       corrosion.
-     * Amalgames dentaires : ils sont obtenus par trituration (mÃ©lange) Ã 
-       froid dâ€™une poudre (par exemple : Ag : 70 %, Sn : 25 %, Cu : 4 %,
+     * Bactéricide et algicide, l'argent est employé dans la purification
+       de l'eau. Son action bactéricide est telle que les solutions
+       contenant des ions Ag^+ ne doivent pas être rejetées dans les
+       circuits d'eaux usées car leur présence empêche le fonctionnement
+       des stations d'épuration. On assiste au développement de
+       l'utilisation de pansements imprégnés aux sels d'argent.
+     * Batteries à l'oxyde d'argent.
+     * Élaboration de miroirs : bien que des miroirs soient fabriqués par
+       dépôt sous vide en phase vapeur de divers métaux (Al...), le
+       principe de leur fabrication repose toujours sur le procédé
+       traditionnel utilisé depuis la moitié du XIX^ème siècle. En
+       solution aqueuse de nitrate d'argent, les ions Ag^+, complexés par
+       l'ammoniac, sont réduits par du formaldéhyde, de l'hydrazine, du
+       glucose ou du tartrate double de sodium et de potassium (sel de
+       Rochelle). Le procédé a été amélioré en pulvérisant sur la surface
+       du miroir une solution de chlorure d'étain qui après rinçage et
+       séchage laisse, adsorbés, à la surface du verre des ions Sn^2+ qui
+       ont pour fonction d'initier la réduction des ions Ag^+ en de
+       nombreux points afin de créer un grand nombre de germes de
+       cristallisation de l'argent qui ainsi pourra former une couche
+       continue exempte de défauts. Enfin une fine couche de cuivre est
+       déposée selon le même procédé de réduction d'une solution de sel de
+       cuivre. Le cuivre joue le rôle d'anode sacrificielle afin de
+       protéger l'argent de la corrosion.
+     * Amalgames dentaires : ils sont obtenus par trituration (mélange) à
+       froid d'une poudre (par exemple : Ag : 70 %, Sn : 25 %, Cu : 4 %,
        Zn : 1 %) avec du mercure (voir le chapitre mercure).
-     * En Inde, lâ€™argent est considÃ©rÃ© comme Ã©tant aphrodisiaque et bon
-       pour la santÃ©. Il est souvent incorporÃ© sous forme de fines
-       feuilles dâ€™argent dans des sandwichs et bonbons ou le tabac. En
+     * En Inde, l'argent est considéré comme étant aphrodisiaque et bon
+       pour la santé. Il est souvent incorporé sous forme de fines
+       feuilles d'argent dans des sandwichs et bonbons ou le tabac. En
        moyenne, la consommation, dans ce secteur, est de 30 mg
-       dâ€™Ag/indien/an.
+       d'Ag/indien/an.
 
 Bibliographie
 
-     * Pierre Blazy et Yves Jehanne, Recyclage des mÃ©taux prÃ©cieux,
-       Techniques de lâ€™IngÃ©nieur, 2002.
-     * Jean-Louis Vignes et Yves Jehanne, Lâ€™hydromÃ©tallurgie, BUP nÂ°857
+     * Pierre Blazy et Yves Jehanne, Recyclage des métaux précieux,
+       Techniques de l'Ingénieur, 2002.
+     * Jean-Louis Vignes et Yves Jehanne, L'hydrométallurgie, BUP n°857
        (1), vol. 97 (2003) 1290.
-     * Pierre Blazy et El-AÃ¯d Jdid, Techniques de lâ€™IngÃ©nieur, 2006.
+     * Pierre Blazy et El-Aïd Jdid, Techniques de l'Ingénieur, 2006.
      * World Silver Survey, The Silver Institute, 1400 I. Street, NW Ste
-       550, Washington, D.C., 20005, Ã‰tats-Unis.
+       550, Washington, D.C., 20005, États-Unis.
      * Refinitiv, 3 Times Square, New York, NY 10036, Etats-Unis.
      * W.C. Butterman, H.E. Hilliard, Silver, Mineral commodity profiles,
        USGS, 2004.
@@ -1042,28 +1042,28 @@ Archives
      * Partager sur Facebook
      * Partager sur LinkedIn
 
-Ã€ propos du site
+À propos du site
 
-     * Notre dÃ©marche
-     * Ã‰quipe Ã©ditoriale
+     * Notre démarche
+     * Équipe éditoriale
      * Nous contacter
 
 Liens utiles
 
      * France Chimie
-     * La SociÃ©tÃ© Chimique de France
-     * MinistÃ¨re de l'Ã‰ducation
+     * La Société Chimique de France
+     * Ministère de l'Éducation
 
 Archives
 
      * Plan du site
-     * CrÃ©dits
-     * Mentions lÃ©gales
+     * Crédits
+     * Mentions légales
 
-   Action financÃ©e dans le cadre de la convention de coopÃ©ration entre
-   lâ€™OPCA DEFi et les MinistÃ¨res en charge de lâ€™Education Nationale et de
-   lâ€™Enseignement SupÃ©rieur.
-   Ã—
+   Action financée dans le cadre de la convention de coopération entre
+   l'OPCA DEFi et les Ministères en charge de l'Education Nationale et de
+   l'Enseignement Supérieur.
+   ×
    En poursuivant votre navigation sur ce site, vous acceptez
-   lâ€™utilisation de cookies conformÃ©ment Ã  notre politique de donnÃ©es
+   l'utilisation de cookies conformément à notre politique de données
    personnelles. En savoir plus..

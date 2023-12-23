@@ -72,7 +72,7 @@ Key Takeaways
 
 Medium of Exchange
 
-   Before the development of a medium of exchange—that is, money—people
+   Before the development of a medium of exchange--that is, money--people
    would barter to obtain the goods and services they needed. Two
    individuals, each possessing some goods the other wanted, would enter
    into an agreement to trade.
@@ -89,15 +89,15 @@ Medium of Exchange
    valuable, but they were also durable, portable, and easily stored.
 
    Another, more advanced example of commodity money is a precious metal
-   such as gold. For centuries, gold was used to back paper currency—up
+   such as gold. For centuries, gold was used to back paper currency--up
    until the 1970s. In the case of the U.S. dollar, for example, this
    meant that foreign governments were able to take their dollars and
 --
-   is beautiful. So, gold is something that has worth. Gold, therefore,
-   serves as a physical token of wealth based on people's perceptions.
+   therefore, serves as a physical token of wealth based on people's
+   perceptions.
 
    This relationship between money and gold provides insight into how
-   money gains its value—as a representation of something valuable.
+   money gains its value--as a representation of something valuable.
 
 Impressions Create Everything
 
@@ -119,7 +119,7 @@ Impressions Create Everything
    products and services that people want.
 --
    For example, beginning in 1971, the U.S. dollar was taken off the gold
-   standard—the dollar was no longer redeemable in gold, and the price of
+   standard--the dollar was no longer redeemable in gold, and the price of
    gold was no longer fixed to any dollar amount. This was made official
    in 1976. This meant that it was now possible to create more paper money
    than there was gold to back it; the health of the U.S. economy backed
@@ -143,18 +143,18 @@ How Is Money Measured?
    Economists and investors ask this question to determine whether there
    is inflation or deflation. Money is separated into three categories so
    that it is more discernible for measurement purposes:
-     * M1 – This category of money includes all physical denominations of
+     * M1 - This category of money includes all physical denominations of
        coins and currency; demand deposits, which are checking accounts
        and NOW accounts; and travelers' checks. It also includes other
        forms of liquid deposits and assets such as savings accounts. This
        category of money is the narrowest of the three, and is essentially
        the money used to buy things and make payments (see the "active
        money" section below).
-     * M2 – With broader criteria, this category adds all the money found
+     * M2 - With broader criteria, this category adds all the money found
        in M1 to all time-related deposits, many types of retirement
        accounts, and non-institutional money market funds. This category
        represents money that can be readily transferred into cash.
-     * M3 – The broadest class of money, M3 combines all money found in
+     * M3 - The broadest class of money, M3 combines all money found in
        the M2 definition and adds to it all large time deposits,
        institutional money market funds, short-term repurchase agreements,
        along with other larger liquid assets. M3 indicates a country's
@@ -162,7 +162,7 @@ How Is Money Measured?
 
 Active Money
 
-   The M1 category includes what's known as active money—the total value
+   The M1 category includes what's known as active money--the total value
    of coins and paper currency in circulation as well as liquid deposits
    and accounts. The amount of active money fluctuates seasonally,
    monthly, weekly, and daily. In the United States, Federal Reserve Banks
@@ -174,7 +174,7 @@ Active Money
    money total. For example, people typically cash paychecks or withdraw
    from ATMs over the weekend, so there is more active cash on a Monday
    than on a Friday. The public demand for cash declines at certain
-   times—following the December holiday season, for example.
+   times--following the December holiday season, for example.
 
 How Money Is Created
 
@@ -196,8 +196,8 @@ How Money Is Created
    such as the Fed pay for this? As strange as it sounds, the central bank
    simply creates the money and transfers it to those selling the
    securities. Alternatively, the Fed can lower interest rates allowing
-   banks to extend low-cost loans or credit—a phenomenon known as cheap
-   money—and encouraging businesses and individuals to borrow and spend.
+   banks to extend low-cost loans or credit--a phenomenon known as cheap
+   money--and encouraging businesses and individuals to borrow and spend.
 
    To shrink the money supply, perhaps to reduce inflation, the central
    bank does the opposite and sells government securities. The money with
@@ -285,7 +285,7 @@ The Bottom Line
        in the United States," Pages 9-13.
     4. Congressional Research Service. "Brief History of the Gold Standard
        in the United States," Page 13.
-    5. Federal Reserve. "Money Stock Measures – H.6 Release."
+    5. Federal Reserve. "Money Stock Measures - H.6 Release."
     6. Federal Reserve Bank of Richmond. "Money Supply."
     7. Federal Reserve Bank of St Louis. "What Is Quantitative Easing, and
        How Has It Been Used?"
@@ -295,28 +295,34 @@ The Bottom Line
    11. Harvard Library. "Continental Currency."
    12. United States Mint. "History of the U.S. Mint."
 --
+   available in the marketplace.
 
    Related Articles
-   [MichaelRosenston-dc9ea36078684eb9a17e5bbbed31dbad.jpg]
-   Fiat Money vs. Legal Tender: What’s the Difference?
+   person holding a bunch of money person holding a bunch of money
+   The History of Money: Bartering to Banknotes to Bitcoin
+   [TheHistoryofMoney-3da5ee3a5ecf45bb8c3fcdd0b42f6acd.jpg]
+   Fiat vs. Representative Money: What's the Difference?
+   [shutterstock_67023106-5bfc2b9846e0fb005144dd87.jpg]
+   Fiat Money vs. Legal Tender: What's the Difference?
+   [wall_street_179681980-5bfc2b9746e0fb0083c07d29.jpg]
+   Barter System vs. Currency System: What's the Difference?
    Currency exchanges can make a big difference in the cost of your
    international trip. Currency exchanges can make a big difference in the
    cost of your international trip.
    Paper Money: Definition, History, Use, Need for It, and Examples
-   [Currency-coin-567f11e55f9b586a9ec0e429.jpg]
-   Barter System vs. Currency System: What's the Difference?
    Pile of banknotes of one hundred dollars. Pile of banknotes of one
---
+   hundred dollars.
    How the U.S. Dollar Became the World's Reserve Currency
-   stacks of U.S. $100 notes stacks of U.S. $100 notes
-   What Is M3? Definition, Liquidity, Disuse, and M Classifications
-   Fiat Money Fiat Money
-   Fiat Money: What It Is, How It Works, Example, Pros & Cons
    Partner Links
    Related Terms
    Paper Money: Definition, History, Use, Need for It, and Examples
    The physical notes or currency of a country that is used as a medium of
    exchange is known as paper money.
+   more
+   What Will a U.S. Central Bank Digital Currency Look Like?
+   What would a U.S. central bank digital currency (CBDC) be? Learn more
+--
+   cryptocurrency.
    more
    What Is M3? Definition, Liquidity, Disuse, and M Classifications
    M3 is a measure of the money supply that includes M2, large time
@@ -328,5 +334,8 @@ The Bottom Line
    physical commodity, such as gold or silver. Read more about dollars,
    euros, and other fiat money.
    more
-   What Will a U.S. Central Bank Digital Currency Look Like?
-   What would a U.S. central bank digital currency (CBDC) be? Learn more
+   Inflation: What It Is, How It Can Be Controlled, and Extreme Examples
+   Inflation is a decrease in the purchasing power of money, reflected in
+   a general increase in the prices of goods and services in an economy.
+   more
+   Monetary Base: Definition, What It Includes, Example

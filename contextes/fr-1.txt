@@ -1,31 +1,31 @@
           + Travail - Formation
           + Logement
-          + Transports - MobilitÃ©
-          + Argent - ImpÃ´ts - Consommation
-          + Voir tous les thÃ¨mes
-     * (BUTTON) DÃ©marches
+          + Transports - Mobilité
+          + Argent - Impôts - Consommation
+          + Voir tous les thèmes
+     * (BUTTON) Démarches
        et outils
 --
 
    (BUTTON) Voir le fil d'ariane
     1. Accueil
-    2. Argent - ImpÃ´ts - Consommation
+    2. Argent - Impôts - Consommation
 
      *
      * (BUTTON)
 --
 
-Le lien vers cette page a Ã©tÃ© envoyÃ© avec succÃ¨s aux destinataires.
+Le lien vers cette page a été envoyé avec succès aux destinataires.
 
-Argent - ImpÃ´ts - Consommation
+Argent - Impôts - Consommation
 
 Assurance
 
 --
      * Travail - Formation
      * Logement
-     * Transports - MobilitÃ©
-     * Argent - ImpÃ´ts - Consommation
+     * Transports - Mobilité
+     * Argent - Impôts - Consommation
      * Justice
-     * Ã‰tranger - Europe
+     * Étranger - Europe
      * Loisirs - Sports - Culture

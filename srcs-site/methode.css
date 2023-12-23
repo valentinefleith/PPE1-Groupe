@@ -1,0 +1,39 @@
+body {
+    background-image: url('background.png'); 
+    height: 100vh; /* Full height */
+    background-position: center;
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.navbar {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.myContainer {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.choixContainer {
+    background-color: rgba(255, 255, 255, 0.626);
+    padding: 20px;
+    border-radius: 20px;
+
+}
+
+.choixTitleText {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8rem;
+    font-weight: bolder;
+    color: black;
+}
+
+.choixText {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    color: black;
+}
+

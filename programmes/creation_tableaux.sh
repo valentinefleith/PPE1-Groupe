@@ -27,28 +27,37 @@ if [ $LANGUE = "zh" ]; then
 fi
 
 OUTPUT_FILE="../tableaux/tableau_${LANGUE}.html"
-echo "<html>
+
+echo "<!DOCTYPE html>
+<html lang="fr">
 <head>
-    <meta charset=\"UTF-8\">
-    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css\">
-    <style>
-        .table-container {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-        .has-background-rose {
-            background-color: #FFE7FE;
-        }
-    </style>
+	<!--Métadonnées-->
+	<meta charset="UTF-8"/>
+	<title>Tableaux- PPE1 Projet Groupe</title>
+    <meta name = "author" content = "valentinefleith, ashleyratier, lidanzhang"/>
+    <meta name = "keywords" content = "Argent"/>
+    <meta name = "description" content = "Projet Groupe PPE1"/>
+
+	<!--Bootstrap-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="methode.css">
 </head>
 <body>
-    <div class=\"container is-fullhd\">
-        <h1 class=\"title is-1 has-text-centered has-text-grey\"><b>Tableau</b></h1>
-        <div class=\"table-container\">
-            <table class=\"table is-bordered is-striped is-hoverable is-fullwidth\">
-                <tr class=\"has-background-rose\">
-                    <th>Numero ligne</th><th class='is-one-quarter'>URL</th><th>Aspiration</th><th>Dump</th><th>Contexte</th><th>Concordancier</th><th>Code HTTP</th><th>Encodage</th><th>Compte</th>
-                </tr>" > $OUTPUT_FILE
+    <table class=\"table table-striped-columns\">
+		<thead>
+		  <tr>
+			<th scope="col">Nº ligne</th>
+			<th scope="col">URL</th>
+			<th scope="col">Aspiration</th>
+			<th scope="col">Dump</th>
+			<th scope="col">Contexte</th>
+			<th scope="col">Concordancier</th>
+			<th scope="col">Code HTTP</th>
+			<th scope="col">Encodage</th>
+			<th scope="col">Compte</th>
+		  </tr>
+		</thead>" > $OUTPUT_FILE
 lineno=1
 while read -r URL; do
 	FICHIER_ASPIRATION="../aspirations/${LANGUE}-${lineno}.html"
@@ -77,20 +86,24 @@ if [ $response -eq 200 ];then
 
 		./concordancier.sh $MOT $lineno $FICHIER_CONTEXTE $LANGUE
 		CONCORDANCIER="../concordances/${LANGUE}-${lineno}.html"
-    echo "<tr>
-				<td>$lineno</td><td>$URL</td><td><a href='$FICHIER_ASPIRATION'>Aspiration</a></td><td><a href='$FICHIER_DUMP'>Dump</a></td><td><a href='$FICHIER_CONTEXTE'>Contexte</a></td><td><a href='$CONCORDANCIER'>Concordancier</a></td><td>$response</td><td>$encoding</td><td>$COMPTE</td>
-		</tr>" >> $OUTPUT_FILE
+    echo "<tbody>
+		<tr>
+				<th>$lineno</th><td>$URL</td><td><a href='$FICHIER_ASPIRATION'>Aspiration</a></td><td><a href='$FICHIER_DUMP'>Dump</a></td><td><a href='$FICHIER_CONTEXTE'>Contexte</a></td><td><a href='$CONCORDANCIER'>Concordancier</a></td><td>$response</td><td>$encoding</td><td>$COMPTE</td>
+		</tr>
+		</tbody>" >> $OUTPUT_FILE
 
 	else
 		FICHIER_ASPIRATION="NA"
-		echo "<tr>
-					<td>$lineno</td><td>$URL</td><td>$FICHIER_ASPIRATION</td><td>$FICHIER_DUMP</td><td>$FICHIER_CONTEXTE</td><td>$CONCORDANCIER</td><td>$response</td><td>$encoding</td><td>$COMPTE</td>
-			</tr>" >> $OUTPUT_FILE
+		echo "<tbody>
+			<tr>
+				<th>$lineno</th><td>$URL</td><td>$FICHIER_ASPIRATION</td><td>$FICHIER_DUMP</td><td>$FICHIER_CONTEXTE</td><td>$CONCORDANCIER</td><td>$response</td><td>$encoding</td><td>$COMPTE</td>
+			</tr>
+			</tbody>" >> $OUTPUT_FILE
 fi
     lineno=$(expr $lineno + 1)
 	echo "OK"
 done < "$URLS"
-echo "            </table>
+echo "         </table>
         </div>
     </div>
 </body>

@@ -1,76 +1,76 @@
-   Javascript est desactivÃ© dans votre navigateur.
+   Javascript est desactivé dans votre navigateur.
 
      * Contenu
      * Menu
      * Recherche
      * Pied de page
 
-   RÃ©publique
-   FranÃ§aise
+   République
+   Française
 
    (BUTTON) Ouvrir la recherche (BUTTON) Menu
 
    Service-Public.fr
 
-   Le site officiel de lâ€™administration franÃ§aise
+   Le site officiel de l'administration française
      * Se connecter
      * Donner son avis avec Services Publics +
-     * AccÃ©der au site pour les entreprises
+     * Accéder au site pour les entreprises
 
    (BUTTON) Fermer
    Recherche ____________________ (BUTTON) Rechercher sur le site
    (BUTTON) Fermer
      * Accueil
-     * ActualitÃ©
-       de vos droits et dÃ©marches
+     * Actualité
+       de vos droits et démarches
      * (BUTTON) Fiches pratiques
-       par Ã©vÃ©nement de vie
-          + Je dÃ©mÃ©nage
+       par événement de vie
+          + Je déménage
           + Je cherche un emploi
-          + Jâ€™attends un enfant
-          + Je veux obtenir un crÃ©dit immobilier
-          + J'achÃ¨te un logement
-          + Je prÃ©pare ma retraite
-          + Un proche est dÃ©cÃ©dÃ©
-          + Voir tous les Ã©vÃ©nements de vie
+          + J'attends un enfant
+          + Je veux obtenir un crédit immobilier
+          + J'achète un logement
+          + Je prépare ma retraite
+          + Un proche est décédé
+          + Voir tous les événements de vie
      * (BUTTON) Fiches pratiques
-       par thÃ¨me
-          + Papiers - CitoyennetÃ© - Ã‰lections
-          + Famille - ScolaritÃ©
-          + Social - SantÃ©
+       par thème
+          + Papiers - Citoyenneté - Élections
+          + Famille - Scolarité
+          + Social - Santé
           + Travail - Formation
           + Logement
-          + Transports - MobilitÃ©
-          + Argent - ImpÃ´ts - Consommation
-          + Voir tous les thÃ¨mes
-     * (BUTTON) DÃ©marches
+          + Transports - Mobilité
+          + Argent - Impôts - Consommation
+          + Voir tous les thèmes
+     * (BUTTON) Démarches
        et outils
-          + DÃ©marches en ligne
+          + Démarches en ligne
           + Simulateurs
-          + ModÃ¨les de lettres
+          + Modèles de lettres
           + Formulaires administratifs (cerfas)
           + Outils de recherche
      * Annuaire
-       de lâ€™administration
+       de l'administration
      * Contacter
        Service-Public.fr
 
-   AccÃ©der au site pour les entreprises
+   Accéder au site pour les entreprises
 
-   J'aide les services publics Ã  s'amÃ©liorer : je donne mon avis avec
+   J'aide les services publics à s'améliorer : je donne mon avis avec
    services publics +
 
    (BUTTON) Voir le fil d'ariane
     1. Accueil
-    2. Argent - ImpÃ´ts - Consommation
+    2. Argent - Impôts - Consommation
 
      *
      * (BUTTON)
      * (BUTTON) (BUTTON)
      * (BUTTON) Focus
 
-   (BUTTON) FR - FranÃ§ais
-     * FR - FranÃ§ais
+   (BUTTON) FR - Français
+     * FR - Français
      * EN - English
 
    (BUTTON)
@@ -81,11 +81,11 @@
      * Linkedin
      * Email
      * (BUTTON) Copier le lien
-       Lien copiÃ©
+       Lien copié
 
-Le lien vers cette page a Ã©tÃ© envoyÃ© avec succÃ¨s aux destinataires.
+Le lien vers cette page a été envoyé avec succès aux destinataires.
 
-Argent - ImpÃ´ts - Consommation
+Argent - Impôts - Consommation
 
 Assurance
 
@@ -95,120 +95,120 @@ Assurance
 Banque
 
      * Comptes bancaires
-     * OpÃ©rations bancaires (virement, prÃ©lÃ¨vement, mandat...)
+     * Opérations bancaires (virement, prélèvement, mandat...)
      * Fichiers bancaires
-     * Moyens de paiements (carte, chÃ¨que ou espÃ¨ces)
+     * Moyens de paiements (carte, chèque ou espèces)
 
 Consommation
 
      * Information et protection du consommateur
-     * Achat Ã  distance
+     * Achat à distance
      * Prestations de service
      * Garanties
-     * Communications Ã©lectroniques (tÃ©lÃ©phone, internet, tÃ©lÃ©vision)
-     * VÃ©hicule
+     * Communications électroniques (téléphone, internet, télévision)
+     * Véhicule
      * Alimentation, restauration
 
-CrÃ©dit et surendettement
+Crédit et surendettement
 
-     * CrÃ©dit Ã  la consommation
-     * CrÃ©dit immobilier
+     * Crédit à la consommation
+     * Crédit immobilier
      * Surendettement
 
-Ã‰pargne
+Épargne
 
-     * Livrets, plans et comptes d'Ã©pargne
+     * Livrets, plans et comptes d'épargne
      * Assurance vie
-     * Ã‰pargne salariale
+     * Épargne salariale
 
-ImpÃ´ts, taxes et douane
+Impôts, taxes et douane
 
-     * ImpÃ´t sur le revenu : dÃ©claration et revenus Ã  dÃ©clarer
-     * ImpÃ´t sur le revenu : dÃ©ductions, rÃ©ductions et crÃ©dits d'impÃ´t
-     * ImpÃ´t sur le revenu : calcul et paiement
-     * ImpÃ´ts locaux
-     * ImpÃ´t sur la fortune immobiliÃ¨re (IFI)
+     * Impôt sur le revenu : déclaration et revenus à déclarer
+     * Impôt sur le revenu : déductions, réductions et crédits d'impôt
+     * Impôt sur le revenu : calcul et paiement
+     * Impôts locaux
+     * Impôt sur la fortune immobilière (IFI)
      * Droits de succession et de donation
-     * Saisir l'administration fiscale (difficultÃ©s de paiement,
-       rÃ©clamation...)
-     * PrÃ©lÃ¨vements sociaux (CSG, CRDS)
+     * Saisir l'administration fiscale (difficultés de paiement,
+       réclamation...)
+     * Prélèvements sociaux (CSG, CRDS)
      * Douane
-     * ImpÃ´t des rÃ©sidents Ã  l'Ã©tranger
+     * Impôt des résidents à l'étranger
 
 (BUTTON) Voir aussi
 
-     * Rentes et capitaux versÃ©s en cas de dÃ©cÃ¨s
+     * Rentes et capitaux versés en cas de décès
        Service-Public.fr
-     * Achat ou vente dâ€™un logement
+     * Achat ou vente d'un logement
        Service-Public.fr
-     * Achat dâ€™un terrain
+     * Achat d'un terrain
        Service-Public.fr
-     * RÃ©munÃ©ration dans le secteur privÃ©
+     * Rémunération dans le secteur privé
        Service-Public.fr
-     * RÃ©munÃ©ration dans la fonction publique
+     * Rémunération dans la fonction publique
        Service-Public.fr
 
 La protection sociale
 
-   Ouvrage disponible Ã  la vente sur vie-publique.fr
+   Ouvrage disponible à la vente sur vie-publique.fr
 
-   PublicitÃ© - La Documentation franÃ§aise
+   Publicité - La Documentation française
 
 Recevoir la lettre de Service-Public.fr
 
    Abonnement hebdomadaire gratuit
-   Sâ€™abonner
-     * Lire la derniÃ¨re lettre
+   S'abonner
+     * Lire la dernière lettre
      * Voir toutes les lettres
 
 Suivez-nous
-sur les rÃ©seaux sociaux
+sur les réseaux sociaux
 
      * twitter
      * facebook
      * linkedin
      * youtube
 
-   Fiches pratiques par thÃ¨mes
-     * Papiers - CitoyennetÃ© - Ã‰lections
-     * Famille - ScolaritÃ©
-     * Social - SantÃ©
+   Fiches pratiques par thèmes
+     * Papiers - Citoyenneté - Élections
+     * Famille - Scolarité
+     * Social - Santé
      * Travail - Formation
      * Logement
-     * Transports - MobilitÃ©
-     * Argent - ImpÃ´ts - Consommation
+     * Transports - Mobilité
+     * Argent - Impôts - Consommation
      * Justice
-     * Ã‰tranger - Europe
+     * Étranger - Europe
      * Loisirs - Sports - Culture
      * Associations
 
-   DÃ©marches et outils
-     * DÃ©marches en ligne
+   Démarches et outils
+     * Démarches en ligne
      * Formulaires administratifs (cerfas)
      * Simulateurs
-     * ModÃ¨les de lettres
+     * Modèles de lettres
      * Outils de recherche
      * Allo Service Public
      * Annuaire de l'administration
 
-   Nous connaÃ®tre
+   Nous connaître
      * Missions et chiffres
-     * Mise Ã  disposition des donnÃ©es
-     * Engagements et qualitÃ©
+     * Mise à disposition des données
+     * Engagements et qualité
      * Aide
-     * Vous Ãªtes une administration ?
-     * Vous Ãªtes journaliste ?
-     * Une question Ã  l'Ã©quipe Service-Public.fr ?
+     * Vous êtes une administration ?
+     * Vous êtes journaliste ?
+     * Une question à l'équipe Service-Public.fr ?
 
-   RÃ©publique
-   FranÃ§aise
+   République
+   Française
 
    Service Public vous informe et vous oriente vers les services qui
-   permettent de connaÃ®tre vos obligations, dâ€™exercer vos droits et de
-   faire vos dÃ©marches du quotidien.
+   permettent de connaître vos obligations, d'exercer vos droits et de
+   faire vos démarches du quotidien.
 
-   Il est Ã©ditÃ© par la Direction de lâ€™information lÃ©gale et administrative
-   et rÃ©alisÃ© en partenariat avec les administrations nationales et
+   Il est édité par la Direction de l'information légale et administrative
+   et réalisé en partenariat avec les administrations nationales et
    locales.
      * legifrance.gouv.fr
      * gouvernement.fr
@@ -216,16 +216,20 @@ sur les rÃ©seaux sociaux
 
    Nos partenaires
    Your Europe
-     * Vie publique, au cÅ“ur du dÃ©bat public
+     * Vie publique, au coeur du débat public
      * Entreprendre.Service-Public.fr
 
      * Plan du site
-     * AccessibilitÃ© : totalement conforme
-     * AccessibilitÃ© des services en ligne
-     * Mentions lÃ©gales
-     * DonnÃ©es personnelles et sÃ©curitÃ©
-     * Conditions gÃ©nÃ©rales d'utilisation
+     * Accessibilité : totalement conforme
+     * Accessibilité des services en ligne
+     * Mentions légales
+     * Données personnelles et sécurité
+     * Conditions générales d'utilisation
      * Gestion des cookies
 
    Sauf mention contraire, tous les contenus de ce site sont sous licence
    etalab-2.0
+
+   IFRAME: iframeOP
+
+   IFRAME: iframeCheckSession

@@ -10,7 +10,7 @@
 
 Log In
 
-   (BUTTON) Ã—
+   (BUTTON) ×
    Access to this requires a paid subscription to Money magazine.
    Email *
    ____________________
@@ -23,14 +23,14 @@ Log In
 
 Forgot Password
 
-   (BUTTON) Ã—
+   (BUTTON) ×
    Email *
    ____________________
    (BUTTON) Submit
 
 Forgot Password
 
-   (BUTTON) Ã—
+   (BUTTON) ×
    (BUTTON) Close
 
      * ____________________ (BUTTON)
@@ -202,7 +202,7 @@ Diana Sitnikoski
 
 Sign up to Money Newsletter
 
-   (BUTTON) Ã—
+   (BUTTON) ×
    Email
    First Name
    Last Name
@@ -241,7 +241,7 @@ Money Newsletter
    Subscribe
    Magazine Subscriptions
    Best of the Best issue out now!
-   Copyright Â© Rainmaker Group
+   Copyright © Rainmaker Group
    All material on this site is subject to copyright. All rights reserved.
    No part of this material may be reproduced, translated, transmitted,
    framed or stored in a retrieval system for public or private use
@@ -251,7 +251,7 @@ Money Newsletter
 
 Sign up to Money Newsletter
 
-   (BUTTON) Ã—
+   (BUTTON) ×
    Email *
    ____________________
    First Name *
@@ -263,7 +263,7 @@ Sign up to Money Newsletter
 
 Sign up to Money Newsletter
 
-   (BUTTON) Ã—
+   (BUTTON) ×
 
    Welcome to Money!
 

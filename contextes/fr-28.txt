@@ -1,68 +1,40 @@
    (BUTTON)
 
-     * Accédez aux réservations des 4 lieux emblématiques de la Tour
+     * Acc�dez aux r�servations des 4 lieux embl�matiques de la Tour
        d'Argent.
-       (BUTTON) Réserver
-     * Offrez une expérience unique ou découvrez l'épicerie et sa cave.
+       (BUTTON) R�server
+     * Offrez une exp�rience unique ou d�couvrez l'�picerie et sa cave.
        (BUTTON) Offrir
 --
      * fr
      * en
 
-     * Restaurant La Tour D’Argent
-     * Bar des Maillets d’Argent
+     * Restaurant La Tour D'Argent
+     * Bar des Maillets d'Argent
      * Toit de la Tour
-     * L’Appartement
+     * L'Appartement
      * Magazine
 --
-     * Offrez la Tour
-     * Votre Personal Wine Shopper
-     * Le Boulanger de la Tour
-     * La Rôtisserie d’Argent
-     * L’Epicerie de la Tour
-     *
-     * Nous rejoindre
---
-     * Expérience
+     * Exp�rience
 
 Le monde de la
-Tour d’Argent
+Tour d'Argent
 
-Création
-
---
-
-À l’occasion des fêtes de fin d’année, Le Boulanger de La Tour imagine deux
-bûches à l’équilibre parfait. Entre esthétisme et gourmandise, ces créations
-sont le supplément d’âme « Tour d’Argent » pour sublimer les tables de fêtes.
-
-Création
+Cr�ation
 
 --
 
-Notre Cuvée Cathelin Champagne Grand Cru Millésime 2018
+Quand deux grands noms du savoir-faire fran�ais se rencontrent, l'art du
+voyage prend une nouvelle dimension. Une collaboration in�dite entre la Tour
+d'Argent et DS Automobiles ouvre de nouvelles perspectives. L'exp�rience se
+vit d�sormais au-del� du 15, quai de la Tournelle, dans Paris et en France.
 
-Après le millésime 90, puis le millésime 96, la Tour d’Argent lance la Cuvée
-Cathelin 2018.
-
-Expérience
-
-Le Bar des Maillets d’Argent x La Maison Camus
-
-Cinquième génération de la famille de producteurs de cognac, Cyril Camus
-perpétue à la tête de la Maison Camus l’héritage et la passion de ses
+Cr�ation
 --
-
-   Je comprends et accepte la politique de confidentialité
-     * l’épicerie de la tour
-     * la rôtisserie d’argent
+     * l'�picerie de la tour
+     * la r�tisserie d'argent
      * le boulanger de la tour
-     * la tour d’argent tokyo
+     * la tour d'argent tokyo
 
    Notre Newsletter
    ____________________
---
-
-     * Mentions légales
-
-   © la tour d’argent

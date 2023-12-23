@@ -6,11 +6,11 @@
    OK
    (BUTTON)
 
-AccÃ¨s rapide
+Accès rapide
 
      * Contractualisations
      * Fiche projet LEADER
-     * Comptes-rendus du comitÃ© syndical
+     * Comptes-rendus du comité syndical
      * Concertation
      * Agenda
 
@@ -19,69 +19,68 @@ AccÃ¨s rapide
 Main navigation
 
      * Accueil
-     * Pays CÃ´te dâ€™Argent
+     * Pays Côte d'Argent
           + Le territoire
-               o Le mot du PrÃ©sident
-               o PrÃ©sentation du territoire
+               o Le mot du Président
+               o Présentation du territoire
                o Ambitions 2030
-               o SchÃ©mas et Etudes
+               o Schémas et Etudes
           + Historique du Pays
-          + Le comitÃ© syndical
-               o Les Ã©lus du comitÃ© syndical
-               o Instances et dÃ©libÃ©rations
-               o ConfÃ©rences des maires
+          + Le comité syndical
+               o Les élus du comité syndical
+               o Instances et délibérations
+               o Conférences des maires
           + Participation citoyenne
-               o Ateliers & EvÃ©nements
-               o Conseil de dÃ©veloppement
+               o Ateliers & Evénements
+               o Conseil de développement
                o Concours photo
-               o EnquÃªte collective
-          + L'Ã©quipe
-          + BD La forÃªt OcÃ©ane
-               o La BD interactive
-               o TÃ©lÃ©charger lâ€™application
-               o VidÃ©os de la BD interactive
-     * Dispositifs dâ€™aide
-          + CRTE (Etat-DÃ©partement)
-          + Contrat de DÃ©veloppement et de Transitions (RÃ©gion)
+               o Enquête collective
+          + L'équipe
+          + BD La forêt Océane
+               o La création de la BD
+               o Vidéos de la BD
+     * Dispositifs d'aide
+          + CRTE (Etat-Département)
+          + Contrat de Développement et de Transitions (Région)
           + LEADER
-          + MobilitÃ© durable
+          + Mobilité durable
           + Autres dispositifs financiers
-          + Les rÃ©alisations
+          + Les réalisations
                o Suivez les projets du territoire
-               o VidÃ©os projets LEADER
+               o Vidéos projets LEADER
                o Panorama des projets LEADER
      * LEADER
           + Qu'est ce que LEADER
           + Au niveau local
           + Vous avez un projet ?
                o Accompagnement
-               o Les Ã©tapes d'un projet LEADER
-          + CR ComitÃ©s de programmation
+               o Les étapes d'un projet LEADER
+          + CR Comités de programmation
           + Prochaine programmation 2021-2027
-     * NOMADâ€™ emploi saisonnier
-          + CÃ´tÃ© saisonnier
+     * NOMAD' emploi saisonnier
+          + Côté saisonnier
                o Droits et devoirs
                o Types d'emplois sur notre territoire
-               o HÃ©bergements
-               o Se dÃ©placer
-          + CÃ´tÃ© Employeurs
+               o Hébergements
+               o Se déplacer
+          + Côté Employeurs
                o Le travail des mineurs
                o Faciliter le recrutement
-               o Boite Ã  outils Entreprises
-          + CÃ´tÃ© propriÃ©taires
-          + Carte de rÃ©duction
+               o Boite à outils Entreprises
+          + Côté propriétaires
+          + Carte de réduction
           + Vie de la mission
-               o SantÃ© & les JournÃ©es prÃ©vention santÃ©
+               o Santé & les Journées prévention santé
                o Forum de l'Emploi Saisonnier
-     * MobilitÃ©
-          + Se dÃ©placer
+     * Mobilité
+          + Se déplacer
           + Documentation
-               o Contrat OpÃ©rationnel de MobilitÃ©
-               o Ã‰tude mobilitÃ©
-               o Aides Ã  la mobilitÃ© durable
+               o Contrat Opérationnel de Mobilité
+               o Étude mobilité
+               o Aides à la mobilité durable
           + Animations
-               o Challenge de la mobilitÃ©
-               o Mai Ã  vÃ©lo
+               o Challenge de la mobilité
+               o Mai à vélo
 
    petit_matin_en_foret2
      * Sanguinet
@@ -97,88 +96,76 @@ Main navigation
      * Mimizan
      * Bias
      * St-Julien-en-Born
-     * MÃ©zos
+     * Mézos
      * Uza
      * Lit-et-Mixe
-     * LÃ©vignacq
+     * Lévignacq
      * Vielle-st-Girons
      * Linxe
      * St-Michel-Escalus
-     * LÃ©on
+     * Léon
      * Taller
      * Castets
 
-     * CommunautÃ© de communes de Biscarrosse
-     * CommunautÃ© de communes de Mimizan
-     * CommunautÃ© de communes de Castets
+     * Communauté de communes de Biscarrosse
+     * Communauté de communes de Mimizan
+     * Communauté de communes de Castets
 
-Bienvenue au Pays Landes Nature CÃ´te d'Argent
+Bienvenue au Pays Landes Nature Côte d'Argent
 
-Les derniÃ¨res actualitÃ©s
+Les dernières actualités
 
    Logo_France_rura_fonds_vert
    Pays_LNCA
-   11 dÃ©cembre 2023
+   11 décembre 2023
 
-[MobilitÃ©] France RuralitÃ©s et le Fonds vert 2024
+[Mobilité] France Ruralités et le Fonds vert 2024
 
-   2 guides viennent de paraitre et prÃ©cisent les aides de l'Etat
+   2 guides viennent de paraitre et précisent les aides de l'Etat
    mobilisables en 2024 pour ...
-     * En savoir plus sur [MobilitÃ©] France RuralitÃ©s et le Fonds vert
+     * En savoir plus sur [Mobilité] France Ruralités et le Fonds vert
        2024
 
-   Image par dÃ©faut
+   Image par défaut
    3 novembre 2023
 
-La Fondation GEOTEC lance son appel Ã  projets 2024
+La Fondation GEOTEC lance son appel à projets 2024
 
-   Projets concrets contribuant Ã  lâ€™attÃ©nuation du rÃ©chauffement
-   climatique, privilÃ©giant ...
-     * En savoir plus sur La Fondation GEOTEC lance son appel Ã  projets
+   Projets concrets contribuant à l'atténuation du réchauffement
+   climatique, privilégiant ...
+     * En savoir plus sur La Fondation GEOTEC lance son appel à projets
        2024
 
-   logo RÃ©gion NA
+   logo Région NA
    13 octobre 2023
 
 AMI Innovation sociale
 
-   Soutien Ã  lâ€™expÃ©rimentation de projets socialement innovants
+   Soutien à l'expérimentation de projets socialement innovants
      * En savoir plus sur AMI Innovation sociale
 
-   Toutes les actualitÃ©s
+   Toutes les actualités
 
 Suivez-nous !
 
-   #payslandesnaturecÃ´tedargent
+   #payslandesnaturecôtedargent
 
 
 
-
-L'agenda
-
-   19 dÃ©cembre
-
-ComitÃ© syndical
-
-   Les Ã©lus du Pays se rÃ©uniront pour le dernier comitÃ© syndical de
-   l'annÃ©e 2023 Ã  18 heures ...
-     * En savoir plus sur ComitÃ© syndical
-
-   Tout l'agenda
 
    Avenue de la Gare
    40200 Mimizan
 
    05 58 82 49 43
 
-   CommunautÃ© de communes
+   Communauté de communes
    des grands lacs
 
-   CommunautÃ© de communes
+   Communauté de communes
    de Mimizan
 
-   CommunautÃ© de communes
-   CÃ´tes Landes Nature
+   Communauté de communes
+   Côtes Landes Nature
 
 Logos
 
@@ -187,9 +174,9 @@ Logos
        europe-nouvelle-aquitaine
        Lien
        europe-en-nouvelle-aquitaine.eu
-     * RÃ©publique FranÃ§aise
+     * République Française
        Logo
-       Logo RÃ©publique FranÃ§aise
+       Logo République Française
        Lien
        agence-cohesion-territoires.gouv.fr
      * LEADER
@@ -197,26 +184,26 @@ Logos
        Logo LEADER
        Lien
        leaderfrance.fr
-     * DÃ©partement des Landes
+     * Département des Landes
        Logo
-       Logo DÃ©partement des Landes
+       Logo Département des Landes
        Lien
        www.landes.fr
-     * RÃ©gion Nouvelle Aquitaine
+     * Région Nouvelle Aquitaine
        Logo
-       Logo RÃ©gion Nouvelle-Aquitaine
+       Logo Région Nouvelle-Aquitaine
        Lien
        territoires.nouvelle-aquitaine.fr
-     * Association Nationale des PÃ´les territoriaux et des Pays
+     * Association Nationale des Pôles territoriaux et des Pays
        Logo
-       Association Nationale des PÃ´les territoriaux et des Pays
+       Association Nationale des Pôles territoriaux et des Pays
        Lien
-       Association Nationale des PÃ´les territoriaux et des Pays
+       Association Nationale des Pôles territoriaux et des Pays
 
-Espace connectÃ© / RÃ©seaux sociaux
+Espace connecté / Réseaux sociaux
 
-     * Espace connectÃ©
-     * Espace connectÃ©
+     * Espace connecté
+     * Espace connecté
      * Suivez-nous !
           + Linkedin
           + Facebook
@@ -226,5 +213,5 @@ Menu pied de page
 
      * Contact
      * Plan du site
-     * Mentions lÃ©gales
+     * Mentions légales
      * Gestion des cookies

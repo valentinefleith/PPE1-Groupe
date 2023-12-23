@@ -51,7 +51,7 @@
      * Launch your WSO
 
    Learn
-   7
+   8
    ____________________ (BUTTON) Search
    Search The Warrior Forum
    ____________________ (BUTTON) Search
@@ -833,8 +833,8 @@ How to start making money for non English speaker
        Russian, so buy that translation. Of course, you could read the
        English version too, but Russian is far better for you - all the
        more that this book comes with a hypnosis CD that you better use
-       too. The Russian title of the book is this: Я сделаю вас богатыми.
-       Пол МакКенна.
+       too. The Russian title of the book is this: YA sdelayu vas
+       bogatymi. Pol MakKenna.
           + Thanks
           + 1 reply
        Signature
@@ -1158,7 +1158,7 @@ How to start making money for non English speaker
        That way you would be able to collect some money for relocation or
        other needs. In the same time get some freelance skills, make
        website and start sell your service online charging western rates
-       (because you won´t be desperate for money). With your own site and
+       (because you won�t be desperate for money). With your own site and
        laptop you have a virtual company - you just need clients and you
        can work from anywhere in the world.
        Or create some digital product and sell it online (for instance -
@@ -1175,58 +1175,58 @@ How to start making money for non English speaker
 
 Trending Topics
 
-     * 28 {{ upvoteCount | shortNum }}
+     * 2 {{ upvoteCount | shortNum }}
 
-If you had to start an online business from scratch today, what niche would
-you choose and why?
-       MYDCOM 1 week ago in Beginners Area
-       What's a good niche for you to start an online business in and why
-       you choose it?
-       13 Replies
+Traffic arbitration
+       Denys Romaniuk 5 hours ago in Beginners Area
+       I want to learn traffic arbitrage, but I don't know how. Can you
+       give me some advice (literature, youtube channels, or something
+       else). I will be very grateful for any ... [read more]
+       1 Reply
        Share
-     * 6 {{ upvoteCount | shortNum }}
+     * 13 {{ upvoteCount | shortNum }}
 
-Creating a SMMA service alongside my music promotional agency help
-       punkmonk 2 days ago in Internet Marketing
-       Hey everyone, I currently operate a music promotion agency in
-       London where I specialise in Spotify promotion, music video
-       promotion, PR/Press, Ad curation (Really good on Final Cut) &
-       Facebook ... [read more]
+Brand new here
+       daleasay 2 days ago in Beginners Area
+       A complete newbie but willing to learn. I have bought a number of
+       programs and seek more knowledge on prioritizing which ones to work
+       on first to generate the eventual ... [read more]
+       7 Replies
+       Share
+     * 10 {{ upvoteCount | shortNum }}
+
+Will Automatic Translation affect my SEO negatively?
+       kurosaki4d 1 day ago in SEO
+       Hello Everyone, I recently found out that some review blogs are
+       using a plugin called GTranslate. I noticed that some of their
+       translated pages were ranking in other languages. Apparently, ...
+       [read more]
+       5 Replies
+       Share
+     * 8 {{ upvoteCount | shortNum }}
+
+Christmas holidays
+       WarriorForum.com 2 days ago in Internet Marketing
+       Hey everyone! Our admin team will be on a holiday break starting
+       Dec 22, and will be back on Jan 2, 2024. Approval of marketplace
+       listings will be delayed ever ... [read more]
        4 Replies
        Share
-     * 56 {{ upvoteCount | shortNum }}
+     * 2 {{ upvoteCount | shortNum }}
 
-How to move a prospect through the sales funnel?
-       BluesPlayer 1 week ago in Internet Marketing
-       Hi all, it seems to me that the name of the game in ecommerce
-       marketing is being able to successfully move the prospect through
-       the sales funnel. The key is ... [read more]
-       21 Replies
-       Share
-     * 6 {{ upvoteCount | shortNum }}
-
-New account, New Me
-       grindstonedesign 3 days ago in Off Topic
-       Yo! Wasn't sure what the posting requirements for the marketplace
-       were so I figured I'd just start here. I used to post here back in
-       the day... but it's been ... [read more]
-       3 Replies
-       Share
-     * 14 {{ upvoteCount | shortNum }}
-
-Domain Registrar and SEO
-       adamtoby 1 week ago in Beginners Area
-       I transferred 2 of my client domains that were ranking all on first
-       page from namesilo to nicenic.com Few weeks later, the homepages of
-       the 2 websites transferred to them, ... [read more]
-       10 Replies
+The evolving generative AI landscape
+       WarriorForum.com 3 days ago in Learn
+       Generative AI highlighted this year, with big names joining the
+       fray. Of course ChatGPT is at the forefront, and has quickly become
+       the "Google" of generative AI. This chart shows ... [read more]
+       Reply
        Share
 
-   ← View all trending topics
+   <- View all trending topics
 
 Warrior Special Offers
 
-   Warrior Special Offers® (WSOs) are deals available exclusively through
+   Warrior Special Offers� (WSOs) are deals available exclusively through
    Warrior Forum that no one else can beat.
    Super High ROI Amazon Affiliate Website - Build for You + Coach You to
    Profit + 1 Year Money Back by Verena

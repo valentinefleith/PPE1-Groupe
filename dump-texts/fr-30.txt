@@ -2,176 +2,180 @@
    alternate alternate alternate alternate
 
    Nous utilisons des cookies (et ceux de tierces parties) pour
-   enregistrer vos prÃ©fÃ©rences, amÃ©liorer la navigation et pour rendre
-   plus pertinentes les publicitÃ©s que nous affichons sur les sites tiers.
-   Pour en savoir plus, lisez nos politiques de confidentialitÃ© et sur les
+   enregistrer vos préférences, améliorer la navigation et pour rendre
+   plus pertinentes les publicités que nous affichons sur les sites tiers.
+   Pour en savoir plus, lisez nos politiques de confidentialité et sur les
    cookies.
 
-   Acceptez lâ€™utilisation de cookies en cliquant sur Â« Jâ€™accepte Â» ou
-   choisissez vos cookies avec le bouton Â« Options Â».
-   (BUTTON) Options (BUTTON) Jâ€™accepte
+   Acceptez l'utilisation de cookies en cliquant sur « J'accepte » ou
+   choisissez vos cookies avec le bouton « Options ».
+   (BUTTON) Options (BUTTON) J'accepte
 
+   Noël 2023 et Nouvel An : Les transactions se poursuivent sur la
+   plateforme 24 heures sur 24 et 7 jours sur 7. Veuillez vérifier la
+   disponibilité de l'équipe d'assistance et des options de dépôts et
+   retraits : heures d'ouverture. L'équipe francophone sera très réduite
+   du 22 au 31 Décembre.
+   (BUTTON)
    BullionVault
-     * (BUTTON) FranÃ§ais
-       English English (UK) Deutsch EspaÃ±ol FranÃ§ais Italiano Polski æ—¥æœ¬èª
-       ç®€ä½“ä¸­æ–‡ ç¹é«”ä¸­æ–‡
+     * (BUTTON) Français
+       English English (UK) Deutsch Español Français Italiano Polski
      * Audit quotidien
      * Aide
      * Contact
-     * DÃ©pÃ´t
+     * Dépôt
      * Connexion
      * Ouvrir un compte
 
      * A PROPOS
-       A propos de BullionVault Dans la presse TÃ©moignages
+       A propos de BullionVault Dans la presse Témoignages
      * ACHAT / VENTE
-       Plate-forme des marchÃ©s Cours du jour
+       Plate-forme des marchés Cours du jour
      * GUIDE DE L'OR
-       Le guide de l'or Achat d'or Comment investir dans l'or PiÃ¨ces vs or
+       Le guide de l'or Achat d'or Comment investir dans l'or Pièces vs or
        des grossistes Diversifier l'investissement Conseils pour acheter
-       de l'or Le guide de lâ€™argent Comment acheter de l'argent Le guide
+       de l'or Le guide de l'argent Comment acheter de l'argent Le guide
        du platine Comment acheter du platine Investir dans le platine
      * ANALYSES
-       ActualitÃ© sur l'or Commentaires quotidiens Analyses Fondamentaux
-       ActualitÃ©s Concernant l'argent
+       Actualité sur l'or Commentaires quotidiens Analyses Fondamentaux
+       Actualités Concernant l'argent
      * GRAPHIQUES
-       Cours de lâ€™or Cours de lâ€™argent Cours du platine Cours du Palladium
+       Cours de l'or Cours de l'argent Cours du platine Cours du Palladium
        Alertes des prix
 
-     * (BUTTON) FranÃ§ais
-       English English (UK) Deutsch EspaÃ±ol FranÃ§ais Italiano Polski æ—¥æœ¬èª
-       ç®€ä½“ä¸­æ–‡ ç¹é«”ä¸­æ–‡
+     * (BUTTON) Français
+       English English (UK) Deutsch Español Français Italiano Polski
      * Audit quotidien
      * Aide
      * Contact
-     * DÃ©pÃ´t
-     * (BUTTON) DÃ©connexion
+     * Dépôt
+     * (BUTTON) Déconnexion
 
      * Votre Compte
-       Solde DÃ©pÃ´t Virement Retrait lingotins 100g Barres reservÃ©es
-       Validation Documents RÃ©glages
+       Solde Dépôt Virement Retrait lingotins 100g Barres reservées
+       Validation Documents Réglages
      * Historique
-       Ordres RelevÃ© Approvisionnements & retraits Pertes & profits
-       Retrait lingotins 100g RÃ©fÃ©rencement
+       Ordres Relevé Approvisionnements & retraits Pertes & profits
+       Retrait lingotins 100g Référencement
      * ACHAT / VENTE
-       Plate-forme des marchÃ©s Cours du jour
+       Plate-forme des marchés Cours du jour
      * GUIDE DE L'OR
-       Le guide de l'or Achat d'or Comment investir dans l'or PiÃ¨ces vs or
+       Le guide de l'or Achat d'or Comment investir dans l'or Pièces vs or
        des grossistes Diversifier l'investissement Conseils pour acheter
-       de l'or Le guide de lâ€™argent Comment acheter de l'argent Le guide
+       de l'or Le guide de l'argent Comment acheter de l'argent Le guide
        du platine Comment acheter du platine
      * ANALYSES
-       ActualitÃ© sur l'or Commentaires quotidiens Analyses Fondamentaux
-       ActualitÃ©s Concernant l'argent
+       Actualité sur l'or Commentaires quotidiens Analyses Fondamentaux
+       Actualités Concernant l'argent
      * GRAPHIQUES
-       Cours de lâ€™or Cours de lâ€™argent Cours du platine Cours du Palladium
+       Cours de l'or Cours de l'argent Cours du platine Cours du Palladium
        Alertes des prix
 
    (BUTTON)
 
 Il vous faut un navigateur internet moderne acceptant Javascript pour
-afficher le graphique entiÃ¨rement, veuillez cliquer sur ce lien
+afficher le graphique entièrement, veuillez cliquer sur ce lien
 https://or.bullionvault.fr/Cours-De-L-Argent-Metal.do pour le graphique
-rÃ©cent des cours de l'argent.
+récent des cours de l'argent.
 
-   BullionVault Ltd Â© 2023 - Alertes de prix par email
+   BullionVault Ltd © 2023 - Alertes de prix par email
    Graphique des cours de l'or en direct Graphique des cours du platine en
    direct Graphique des cours du palladium en direct
 
 Graphique BullionVault des cours de l'argent
 
-   Cours de l'argent en direct Ã  Zurich, Londres, Toronto et Singapour -
+   Cours de l'argent en direct à Zurich, Londres, Toronto et Singapour -
    BullionVault
 
-   Le graphique de BullionVault montre le cours spot en temps rÃ©el sur le
-   marchÃ© professionnel de l'argent. Vous pouvez acheter Ã  ces cours en
-   utilisant BullionVault. Ce graphique est donnÃ© Ã  titre indicatif.
+   Le graphique de BullionVault montre le cours spot en temps réel sur le
+   marché professionnel de l'argent. Vous pouvez acheter à ces cours en
+   utilisant BullionVault. Ce graphique est donné à titre indicatif.
 
-   Nous vous offrons les mises Ã  jour les plus rapides en ligne, avec des
-   donnÃ©es en direct traitÃ©es toutes les cinq secondes. Il nâ€™est pas
-   nÃ©cessaire de rafraÃ®chir votre navigateur internet. Les graphiques de
-   lâ€™or et de lâ€™argent vous offrent aussi des donnÃ©es historiques sur 20
+   Nous vous offrons les mises à jour les plus rapides en ligne, avec des
+   données en direct traitées toutes les cinq secondes. Il n'est pas
+   nécessaire de rafraîchir votre navigateur internet. Les graphiques de
+   l'or et de l'argent vous offrent aussi des données historiques sur 20
    ans, pour que vous puissiez voir la tendance sur le long terme des
-   cours de ces mÃ©taux. Les donnÃ©es historiques et en direct sont
+   cours de ces métaux. Les données historiques et en direct sont
    disponibles dans sept devises.
 
-   Le graphique des cours de l'argent vous permet de sÃ©lectionner la
-   devise dÃ©sirÃ©e : le dollar US, le dollar australien, le dollar
-   canadien, lâ€™euro, le yen japonais, le franc suisse et la livre
+   Le graphique des cours de l'argent vous permet de sélectionner la
+   devise désirée : le dollar US, le dollar australien, le dollar
+   canadien, l'euro, le yen japonais, le franc suisse et la livre
    sterling.
 
    Acheter de l'or et de l'argent sur BullionVault en euros, dollars,
    livres sterling et yens.
-   Questions frÃ©quentes pour le graphique
-   (BUTTON) Pourquoi les cours cotÃ©s sur BullionVault changent pendant le
+   Questions fréquentes pour le graphique
+   (BUTTON) Pourquoi les cours cotés sur BullionVault changent pendant le
    week-end, alors que le graphique ne change pas ?
-   Ce graphique est un flux direct des cours spot du marchÃ© professionnel.
-   Ce marchÃ© est fermÃ© le week-end et lors des jours fÃ©riÃ©s. BullionVault
-   dâ€™un autre cÃ´tÃ© ne ferme jamais. Le site BullionVault vous permet
-   dâ€™acheter et de vendre de lâ€™or et de lâ€™argent 24 heures/24, tous les
-   jours de lâ€™annÃ©e.
-   (BUTTON) Puis-je Ãªtre prÃ©venu si le marchÃ© Ã©volue de faÃ§on importante ?
-   Oui. Etablissez une alerte des prix de largent qui vous est envoyÃ©e par
-   email quand les cours atteignent la limite que vous avez fixÃ©e. Si vous
-   avez un compte Twitter, vous pouvez Ãªtre prÃ©venu des mouvements dans
+   Ce graphique est un flux direct des cours spot du marché professionnel.
+   Ce marché est fermé le week-end et lors des jours fériés. BullionVault
+   d'un autre côté ne ferme jamais. Le site BullionVault vous permet
+   d'acheter et de vendre de l'or et de l'argent 24 heures/24, tous les
+   jours de l'année.
+   (BUTTON) Puis-je être prévenu si le marché évolue de façon importante ?
+   Oui. Etablissez une alerte des prix de largent qui vous est envoyée par
+   email quand les cours atteignent la limite que vous avez fixée. Si vous
+   avez un compte Twitter, vous pouvez être prévenu des mouvements dans
    diverses devises (euros, dollars, livres et yens) en suivant nos
    alertes des prix sur Twitter.
-   (BUTTON) Puis-je acheter Ã  ces cours de l'argent ?
-   Oui. BullionVault donne aux particuliers Ã  travers le monde lâ€™accÃ¨s aux
-   marchÃ©s professionnels des mÃ©taux prÃ©cieux. Vous pouvez profiter des
-   coÃ»ts les plus bas pour lâ€™achat, la vente et le stockage de lâ€™or et de
-   lâ€™argent-mÃ©tal, en commenÃ§ant par 1 gramme. Pour plus dâ€™informations,
-   voir notre page qui explique comment acheter de lâ€™argent. Pour estimer
+   (BUTTON) Puis-je acheter à ces cours de l'argent ?
+   Oui. BullionVault donne aux particuliers à travers le monde l'accès aux
+   marchés professionnels des métaux précieux. Vous pouvez profiter des
+   coûts les plus bas pour l'achat, la vente et le stockage de l'or et de
+   l'argent-métal, en commençant par 1 gramme. Pour plus d'informations,
+   voir notre page qui explique comment acheter de l'argent. Pour estimer
    les frais de commission et de stockage, vous pouvez utiliser le
-   calculateur des coÃ»ts.
-   (BUTTON) Quâ€™est-ce que le Cours officiel de Londres ?
-   Londres est le cÅ“ur du marchÃ© de lâ€™argent physique dans le monde. Tous
-   les jours de semaine, les plus grandes banques de mÃ©taux prÃ©cieux se
-   mettent dâ€™accord sur un cours pour rÃ©gler les ordres courants, et ce
-   prix est publiÃ© sur le site internet de la London Bullion Market
-   Association. Le cours est publiÃ© pendant les jours ouvrÃ©s britanniques
-   Ã  minuit. Passez vos ordres avant 11H40 pour lâ€™argent, avant 14H35 pour
-   lâ€™or (heure de Londres) et avant 13H35 pour le platine et le palladium.
-   Il nâ€™y a pas de cours officiel publiÃ© le samedi, le dimanche et lors de
-   certains jours fÃ©riÃ©s britanniques.
-   (BUTTON) Puis-je acheter au cours de lâ€™argent de Londres ou Cours
+   calculateur des coûts.
+   (BUTTON) Qu'est-ce que le Cours officiel de Londres ?
+   Londres est le coeur du marché de l'argent physique dans le monde. Tous
+   les jours de semaine, les plus grandes banques de métaux précieux se
+   mettent d'accord sur un cours pour régler les ordres courants, et ce
+   prix est publié sur le site internet de la London Bullion Market
+   Association. Le cours est publié pendant les jours ouvrés britanniques
+   à minuit. Passez vos ordres avant 11H40 pour l'argent, avant 14H35 pour
+   l'or (heure de Londres) et avant 13H35 pour le platine et le palladium.
+   Il n'y a pas de cours officiel publié le samedi, le dimanche et lors de
+   certains jours fériés britanniques.
+   (BUTTON) Puis-je acheter au cours de l'argent de Londres ou Cours
    officiel du jour avec BullionVault ?
-   Oui. Passer un ordre au Cours officiel du jour est une faÃ§on simple
-   dâ€™acheter et de vendre de lâ€™argent. Saisissez la somme ou la quantitÃ© Ã 
-   Ã©changer et nous nous chargerons du reste pour vous.
-   Il faut compter deux jours ouvrÃ©s pour que lâ€™ordre soit rÃ©gler. Pour
-   les achats dâ€™argent, vos fonds restent sur votre compte et sont
-   rÃ©servÃ©s jusquâ€™Ã  ce que le mÃ©tal soit disponible. De mÃªme pour la vente
-   de lâ€™argent, le mÃ©tal que vous vendez est rÃ©servÃ© sur votre compte
-   jusquâ€™Ã  ce que vous receviez les espÃ¨ces, qui arrivent en gÃ©nÃ©ral aprÃ¨s
-   deux jours ouvrÃ©s. Câ€™est le dÃ©lai standard de lâ€™industrie.
-   Les ordres ouverts ne sont exÃ©cutÃ©s que les jours oÃ¹ un prix adÃ©quat
-   est publiÃ©.
-   (BUTTON) Comment BullionVault dÃ©termine un prix par kg pour le Cours de
-   lâ€™argent officiel du jour ?
-   Le Cours officiel du jour est publiÃ© en devises par once troy,
-   câ€™est-Ã -dire en dollars US, en euros et en livres sterling par once (1
-   once troy (ozt) = 0,0311034768 kg). Les ordres placÃ©s chez BullionVault
-   le sont en kilogramme. Nous convertissons le prix publiÃ© par once en
-   prix par kg et arrondissant au dollar, euro ou livre supÃ©rieur(e). Nous
-   utilisons le mÃªme prix par kg pour lâ€™achat et la vente sans Ã©cart ou
+   Oui. Passer un ordre au Cours officiel du jour est une façon simple
+   d'acheter et de vendre de l'argent. Saisissez la somme ou la quantité à
+   échanger et nous nous chargerons du reste pour vous.
+   Il faut compter deux jours ouvrés pour que l'ordre soit régler. Pour
+   les achats d'argent, vos fonds restent sur votre compte et sont
+   réservés jusqu'à ce que le métal soit disponible. De même pour la vente
+   de l'argent, le métal que vous vendez est réservé sur votre compte
+   jusqu'à ce que vous receviez les espèces, qui arrivent en général après
+   deux jours ouvrés. C'est le délai standard de l'industrie.
+   Les ordres ouverts ne sont exécutés que les jours où un prix adéquat
+   est publié.
+   (BUTTON) Comment BullionVault détermine un prix par kg pour le Cours de
+   l'argent officiel du jour ?
+   Le Cours officiel du jour est publié en devises par once troy,
+   c'est-à-dire en dollars US, en euros et en livres sterling par once (1
+   once troy (ozt) = 0,0311034768 kg). Les ordres placés chez BullionVault
+   le sont en kilogramme. Nous convertissons le prix publié par once en
+   prix par kg et arrondissant au dollar, euro ou livre supérieur(e). Nous
+   utilisons le même prix par kg pour l'achat et la vente sans écart ou
    spread.
    (BUTTON) Comment comprendre ce qui influence et impacte les cours de
    l'or ?
-   Des articles dâ€™information et dâ€™actualitÃ© explorant les relations entre
-   les marchÃ©s financiers, lâ€™environnement macroÃ©conomique et lâ€™or,
-   lâ€™argent, le platine et le palldium sont publiÃ©s sur les pages de De
-   Lâ€™Or de BullionVault tous les jours.
+   Des articles d'information et d'actualité explorant les relations entre
+   les marchés financiers, l'environnement macroéconomique et l'or,
+   l'argent, le platine et le palldium sont publiés sur les pages de De
+   L'Or de BullionVault tous les jours.
    (BUTTON) Qu'est-ce que BullionVault ?
-   BullionVault est maintenant le service dâ€™investissement en or, en
+   BullionVault est maintenant le service d'investissement en or, en
    argent, en platine et en palladium le plus grand au monde, prenant en
-   charge les avoirs actuels de 100â€¯000 utilisateurs pour une valeur de
-   3,8 milliards deuros.
+   charge les avoirs actuels de 100000 utilisateurs pour une valeur de 3,8
+   milliards deuros.
    (BUTTON) Puis-je suivre les cours de l'argent aujourd'hui ?
-   Oui. Vous pouvez modifier lâ€™Ã©chelle du graphique pour afficher des
-   pÃ©riodes de 10 minutes, une heure, six heures, un jour et contrÃ´ler les
-   Ã©volutions des prix de lâ€™argent sur les pÃ©riodes les plus courtes. Vous
-   pouvez aussi suivre les cours de lâ€™argent sur votre mobile ou tablette
+   Oui. Vous pouvez modifier l'échelle du graphique pour afficher des
+   périodes de 10 minutes, une heure, six heures, un jour et contrôler les
+   évolutions des prix de l'argent sur les périodes les plus courtes. Vous
+   pouvez aussi suivre les cours de l'argent sur votre mobile ou tablette
    avec les applications iPhone ou Android.
 
 Configuration du graphique des cours de l'argent
@@ -182,65 +186,65 @@ Configuration du graphique des cours de l'argent
      * Cours de l'argent en EUR par kg pour ce mois
      * Cours de l'argent par gramme en GBP aujourd'hui
      * Cours de l'argent par once troy en USD cette semaine
-     * Cours de l'argent par kg en euros ces 5 derniÃ¨res annÃ©es
+     * Cours de l'argent par kg en euros ces 5 dernières années
 
-   Lâ€™ouverture dâ€™un compte est gratuite et sans engagement. Elle se fait
-   en une minute et vous permet de commencer Ã  tester la plate-forme
-   dâ€™achat avec une petite quantitÃ© de mÃ©tal et un petit solde en liquide
+   L'ouverture d'un compte est gratuite et sans engagement. Elle se fait
+   en une minute et vous permet de commencer à tester la plate-forme
+   d'achat avec une petite quantité de métal et un petit solde en liquide
    gratuits.
    OUVRIR UN COMPTE
 
 Luxury and power Persia to Greece
 
-Une exposition que BullionVault est fiÃ¨re de soutenir
+Une exposition que BullionVault est fière de soutenir
 
    [javascript]
      * ozt/kg
      * FAQ
      * Cookies
      * Tarifs
-     * SÃ©curitÃ©
+     * Sécurité
      * Estimez vos frais
 
-   BullionVault Ltd Â© 2023
+   BullionVault Ltd © 2023
 
-Enregistrez vos prÃ©fÃ©rences de cookies
+Enregistrez vos préférences de cookies
 
    (BUTTON)
 
-   Nous utilisons des cookies pour enregistrer vos prÃ©fÃ©rences, amÃ©liorer
-   la navigationet et pour rendre plus pertinentes les publicitÃ©s que nous
-   affichons sur les sites tiers. Pour plus dâ€™informations, veuillez
+   Nous utilisons des cookies pour enregistrer vos préférences, améliorer
+   la navigationet et pour rendre plus pertinentes les publicités que nous
+   affichons sur les sites tiers. Pour plus d'informations, veuillez
    consulter notre politique concernant les cookies.
 
-   SÃ©lectionnez une option ci-dessous et enregistrez votre choix.
+   Sélectionnez une option ci-dessous et enregistrez votre choix.
    (*) Pas de cookies. Sans cookie, notre site ne peut se souvenir des
-   paramÃ¨tres que vous avez sÃ©lectionnÃ©s (affiliation, devise, unitÃ© de
-   poids, choix des marchÃ©s, etc.) lors de votre prochaine visite. Les
-   cookies dÃ©jÃ  mis en place seront supprimÃ©s Ã  la fin de votre session de
-   navigation. Ne pouvant enregistrer votre choix de cookie, la banniÃ¨re
-   des cookies apparaitra encore Ã  votre prochaine visite.
-   ( ) Cookies de BullionVault uniquement (recommandÃ©). Nous utilisons ces
-   cookies pour enregistrer votre utilisation du site et vos prÃ©fÃ©rences
-   (cookies, devise, unitÃ©s de poids, marchÃ©s, rÃ©fÃ©rent, etc.) lors de
+   paramètres que vous avez sélectionnés (affiliation, devise, unité de
+   poids, choix des marchés, etc.) lors de votre prochaine visite. Les
+   cookies déjà mis en place seront supprimés à la fin de votre session de
+   navigation. Ne pouvant enregistrer votre choix de cookie, la bannière
+   des cookies apparaitra encore à votre prochaine visite.
+   ( ) Cookies de BullionVault uniquement (recommandé). Nous utilisons ces
+   cookies pour enregistrer votre utilisation du site et vos préférences
+   (cookies, devise, unités de poids, marchés, référent, etc.) lors de
    votre prochaine visite avec ce navigateur.
    ( ) Cookies de BullionVault et de tierces parties. Ceci nous permet
-   aussi dâ€™utiliser des cookies de tierces parties bien connues comme par
-   exemple Google, Facebook, Bing ou Youtube. Ils nous aident Ã  comprendre
-   comment les visiteurs utilisent nos sites web et Ã  rendre plus
-   pertinentes les publicitÃ©s que nous affichons sur les sites tiers.
+   aussi d'utiliser des cookies de tierces parties bien connues comme par
+   exemple Google, Facebook, Bing ou Youtube. Ils nous aident à comprendre
+   comment les visiteurs utilisent nos sites web et à rendre plus
+   pertinentes les publicités que nous affichons sur les sites tiers.
    (BUTTON) Enregister
 
-   Vous pouvez mettre Ã  jour vos choix de cookies Ã  tout moment en suivant
-   le lien Â« Cookies Â» en bas de page.
+   Vous pouvez mettre à jour vos choix de cookies à tout moment en suivant
+   le lien « Cookies » en bas de page.
 
-SÃ©curisez votre avis de dÃ©connexion automatique
+Sécurisez votre avis de déconnexion automatique
 
    (BUTTON)
 
-   Vous Ãªtes inactif depuis un certain temps
+   Vous êtes inactif depuis un certain temps
 
-   Pour des raisons de sÃ©curitÃ©, vous allez Ãªtre dÃ©connectÃ© dans   minutes
+   Pour des raisons de sécurité, vous allez être déconnecté dans   minutes
    si vous restez inactif
 
    (BUTTON) Cliquez ici pour continuer la session ou vous re-connecter

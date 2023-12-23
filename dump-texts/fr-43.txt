@@ -1,16 +1,16 @@
    #alternate alternate alternate alternate
 
    +33 (0)3 89 58 80 50
-   FermÃ© aujourd'hui
-   AccÃ¨s Ã  l'office de tourisme
+   Ouvert aujourd'hui de 09h00 à 12h00 et de 14h00 à 17h00
+   Accès à l'office de tourisme
    Bulletin des neiges
    [en-flag.png] [de-flag.png]
 
    (BUTTON)
-     * La magie des mines d'argent et des minÃ©raux
-     * Toutes les expÃ©riences Ã  vivre
+     * La magie des mines d'argent et des minéraux
+     * Toutes les expériences à vivre
      * Dormir au coeur de l'Alsace
-     * Manger local c'est l'idÃ©al
+     * Manger local c'est l'idéal
      * Agenda
      * Billetterie
 
@@ -39,17 +39,18 @@
    Billetterie
 
    en ligne
-   J'ACHÃˆTE MES BILLETS
+   J'ACHÈTE MES BILLETS
 
    Close
 
    Close
    ____________________
 
-Concert de NoÃ«l de la Chorale du LycÃ©e ce Dimanche 17 DÃ©cembre Ã  18H.
+L'Office de Tourisme du Val d'Argent sera fermé du Samedi 23 au Mardi 26
+Décembre 2023 inclus. Joyeux Noël à vous !
 
-   (BUTTON) Ã—
-   Affiche chorale LycÃ©e NoÃ«l 2023
+   (BUTTON) ×
+   Un très Joyeux Noël
    (BUTTON)
 
    [AdobeStock_290200066.jpg]
@@ -59,24 +60,24 @@ Les incontournables
 
    Val d'Argent - Office de tourisme
 
-   Notre belle vallÃ©e, plus communÃ©ment appelÃ©e le Val dâ€™Argent, est
-   idÃ©alement situÃ©e au centre de lâ€™Alsace, Ã  mi-chemin entre Strasbourg
-   et Colmar, au cÅ“ur du Parc RÃ©gional Naturel du Ballon des Vosges.
-   VÃ©ritable havre de paix verdoyant Ã  lâ€™abri du tourisme de masse, le Val
-   dâ€™Argent est pourtant tout proche de nombreux sites touristiques
-   alsaciens phares tels que le chÃ¢teau du Haut-Koenigsbourg, la montagne
+   Notre belle vallée, plus communément appelée le Val d'Argent, est
+   idéalement située au centre de l'Alsace, à mi-chemin entre Strasbourg
+   et Colmar, au coeur du Parc Régional Naturel du Ballon des Vosges.
+   Véritable havre de paix verdoyant à l'abri du tourisme de masse, le Val
+   d'Argent est pourtant tout proche de nombreux sites touristiques
+   alsaciens phares tels que le château du Haut-Koenigsbourg, la montagne
    des singes ou la volerie des aigles.
 
-   DÃ©couvrez ici quelques-unes de nos pÃ©pites !
+   Découvrez ici quelques-unes de nos pépites !
 
    [incontournable_parc_tellure.jpg?v=1]
 
 Parc minier Tellure
 
-   Site emblÃ©matique du Val dâ€™Argent
+   Site emblématique du Val d'Argent
    [capitale_de_la_mineralogie.jpg?v=1]
 
-Capitale de la minÃ©ralogie
+Capitale de la minéralogie
 
    Sainte Marie aux Mines
    [les_instagrammables.jpg?v=1]
@@ -86,14 +87,14 @@ Les Instagrammables
    En Val d'Argent
    [incontournable_territoire.jpg?v=2]
 
-Un territoire chargÃ© d'histoire
+Un territoire chargé d'histoire
 
-   LabellisÃ© Pays d'art et d'histoire
+   Labellisé Pays d'art et d'histoire
    [incontournable_textile.jpg?v=1]
 
 Le textile fait son show
 
-   en Val dâ€™Argent
+   en Val d'Argent
 
    [map_bg.jpg]
    [visit-alsace.svg]
@@ -113,7 +114,7 @@ suivez nous sur #visitvaldargent
 Guide pdf
 Office de tourisme
 
-   TÃ‰LÃ‰CHARGEZ NOTRE BROCHURE
+   TÉLÉCHARGEZ NOTRE BROCHURE
 
    Logo Office du tourisme Blanc
 
@@ -128,11 +129,11 @@ OFFICE DE TOURISME DU VAL D'ARGENT
 
    Posez-nous une question
 
-Toutes les expÃ©riences Ã  vivre
+Toutes les expériences à vivre
 
-   Mines et MinÃ©raux
+   Mines et Minéraux
 
-   ExpÃ©riences insolites
+   Expériences insolites
 
    Cycle et VTT
 
@@ -140,7 +141,7 @@ Toutes les expÃ©riences Ã  vivre
 
    Histoire et Patrimoine
 
-   RandonnÃ©es
+   Randonnées
 
    Loisirs
 
@@ -148,35 +149,35 @@ Toutes les expÃ©riences Ã  vivre
 
    Chez nos voisins
 
-La magie des mines d'argent et des minÃ©raux
+La magie des mines d'argent et des minéraux
 
 Dormir au coeur de l'Alsace
 
-   HÃ´tels
+   Hôtels
 
-   Chambres d'hÃ´tes
+   Chambres d'hôtes
 
-   Gites et meublÃ©s
+   Gites et meublés
 
    Campings
 
-   HÃ©bergements collectifs
+   Hébergements collectifs
 
-   Habitations lÃ©gÃ¨res
+   Habitations légères
 
    Aires pour camping-car
 
 Agenda
 
-   MarchÃ©s hebdomadaires
+   Marchés hebdomadaires
 
-   Animations / Ã‰vÃ¨nements
+   Animations / Évènements
 
-Manger local c'est l'idÃ©al
+Manger local c'est l'idéal
 
    Les restaurants
 
-   Les salons de thÃ©
+   Les salons de thé
 
    Les fermes-auberges
 
@@ -184,20 +185,20 @@ Manger local c'est l'idÃ©al
 
    Aires de pique-nique
 
-   MarchÃ©s hebdomadaires
+   Marchés hebdomadaires
 
-   Vente Ã  la ferme
+   Vente à la ferme
 
    Commerces locaux
 
 Billetterie
 
-   Art histoire Tellure Visit alsace Carte HÃ´tes Val d'argent Massif des
-   vosges ClÃ©vacances
-   mentions lÃ©gales donnÃ©es personnelles
+   Art histoire Tellure Visit alsace Carte Hôtes Val d'argent Massif des
+   vosges Clévacances
+   mentions légales données personnelles
    Agence de communication Alsace Greencub
 
-   ParamÃ©trer les cookies.
+   Paramétrer les cookies.
    en savoir plus
    ( ) Oui (*) Non
 
@@ -209,7 +210,7 @@ Billetterie
 
    ( ) Oui (*) Non
 
-   Accepter les cookies des rÃ©seaux sociaux ?
+   Accepter les cookies des réseaux sociaux ?
 
    ( ) Oui (*) Non
 

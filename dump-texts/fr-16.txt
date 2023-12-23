@@ -1,130 +1,145 @@
-   #alternate Modifier WikipÃ©dia (fr) Flux Atom de WikipÃ©dia
+   #alternate Modifier Wikipédia (fr) Flux Atom de Wikipédia
 
    Aller au contenu
 
    [ ] Menu principal
    Menu principal
-   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
    Navigation
      * Accueil
-     * Portails thÃ©matiques
+     * Portails thématiques
      * Article au hasard
      * Contact
 
    Contribuer
-     * DÃ©buter sur WikipÃ©dia
+     * Débuter sur Wikipédia
      * Aide
-     * CommunautÃ©
-     * Modifications rÃ©centes
+     * Communauté
+     * Modifications récentes
      * Faire un don
 
    Langues
-   Sur cette version linguistique de WikipÃ©dia, les liens interlangues
-   sont placÃ©s en haut Ã  droite du titre de lâ€™article.
+   Sur cette version linguistique de Wikipédia, les liens interlangues
+   sont placés en haut à droite du titre de l'article.
    Aller en haut.
-   WikipÃ©dia l'encyclopÃ©die libre
+   Wikipédia l'encyclopédie libre
    Rechercher
    ____________________
    (BUTTON) Rechercher
 
-     * CrÃ©er un compte
+     * Créer un compte
      * Se connecter
 
    [ ] Outils personnels
-     * CrÃ©er un compte
+     * Créer un compte
      * Se connecter
 
-   Pages pour les contributeurs dÃ©connectÃ©s en savoir plus
+   Pages pour les contributeurs déconnectés en savoir plus
      * Contributions
      * Discussion
 
 Sommaire
 
-   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
-     * DÃ©but
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
      * 1Historique
-     * 2Membres
-     * 3Musicien invitÃ©
-     * 4Discographie
-       (BUTTON) Afficherâ€¯/â€¯masquer la sous-section Discographie
-          + 4.1Albums studio
-          + 4.2Albums live
-          + 4.3Compilations
-     * 5Notes et rÃ©fÃ©rences
-     * 6Liens externes
 
-   [ ] Basculer la table des matiÃ¨res
+     2Membres
+
+     3Musicien invité
+
+     4Discographie
+   (BUTTON) Afficher/masquer la sous-section Discographie
+     * 4.1Albums studio
+
+
+
+   4.2Albums live
+
+
+
+   4.3Compilations
+
+
+
+   5Notes et références
+
+
+
+   6Liens externes
+
+   [ ] Basculer la table des matières
 
 Argent (groupe)
 
    [ ] 15 langues
-     * Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©
-     * Ğ‘ÑŠĞ»Ğ³Ğ°Ñ€ÑĞºĞ¸
-     * ÄŒeÅ¡tina
+     * a+l+e+r+b+y+tm
+     * B"lgarski
+     * Cestina
      * Deutsch
      * English
-     * EspaÃ±ol
+     * Español
      * Suomi
      * Italiano
-     * æ—¥æœ¬èª
+     *
      * Nederlands
-     * PortuguÃªs
-     * Ğ ÑƒÑÑĞºĞ¸Ğ¹
+     * Português
+     * Russkij
      * Svenska
-     * TÃ¼rkÃ§e
-     * Ğ£ĞºÑ€Ğ°Ñ—Ğ½ÑÑŒĞºĞ°
+     * Türkçe
+     * Ukrayins'ka
 
    Modifier les liens
 
      * Article
      * Discussion
 
-   [ ] franÃ§ais
+   [ ] français
 
      * Lire
      * Modifier
      * Modifier le code
-     * Voir lâ€™historique
+     * Voir l'historique
 
    [ ] Outils
    Outils
-   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
    Actions
      * Lire
      * Modifier
      * Modifier le code
-     * Voir lâ€™historique
+     * Voir l'historique
 
-   GÃ©nÃ©ral
-     * Pages liÃ©es
-     * Suivi des pages liÃ©es
-     * TÃ©lÃ©verser un fichier
-     * Pages spÃ©ciales
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
      * Lien permanent
      * Informations sur la page
      * Citer cette page
      * Obtenir l'URL raccourcie
-     * Ã‰lÃ©ment Wikidata
+     * Élément Wikidata
 
-   Imprimerâ€¯/â€¯exporter
-     * CrÃ©er un livre
-     * TÃ©lÃ©charger comme PDF
+   Imprimer/exporter
+     * Créer un livre
+     * Télécharger comme PDF
      * Version imprimable
 
-   Dans dâ€™autres projets
+   Dans d'autres projets
      * Wikimedia Commons
 
-   Un article de WikipÃ©dia, l'encyclopÃ©die libre.
-   Page dâ€™aide sur lâ€™homonymie
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d'aide sur l'homonymie
 
    Pour les articles homonymes, voir Argent (homonymie).
    Argent
 
-   CAPTION: DonnÃ©es clÃ©s
+   CAPTION: Données clés
 
    Pays d'origine Drapeau du Royaume-Uni Royaume-Uni
    Genre musical  Rock progressif, rock symphonique, hard rock, pop
-   AnnÃ©es actives 1968â€“1976, 2010, 2012, 2013
+   Années actives 1968-1976, 2010, 2012, 2013
        Labels     Epic, RCA
 
    CAPTION: Composition du groupe
@@ -137,36 +152,36 @@ Argent (groupe)
    John Verity
    John Grimaldi
 
-   modifier Consultez la documentation du modÃ¨le
+   modifier Consultez la documentation du modèle
 
    Argent est un groupe britannique de rock progressif, originaire de
    Londres, en Angleterre. Il est actif entre 1968 et 1976.Le plus grand
-   succÃ¨s du groupe est Hold Your Head Up. Leur titre God Gave Rock N'Roll
+   succès du groupe est Hold Your Head Up. Leur titre God Gave Rock N'Roll
    to You est repris en 1992 par le groupe Kiss. Le groupe se reforme
    occasionnellement pour les concerts.
 
 Historique[modifier | modifier le code]
 
-   AprÃ¨s la dissolution de son prÃ©cÃ©dent groupe The Zombies, le
-   claviÃ©riste Rod Argent forme Argent. Outre Rod Argent, la premiÃ¨re
+   Après la dissolution de son précédent groupe The Zombies, le
+   claviériste Rod Argent forme Argent. Outre Rod Argent, la première
    formation inclut le bassiste Jim Rodford (cousin de Rod et ex membre de
    Mike Cotton Sound), le batteur Bob Henrit et le guitariste et
-   claviÃ©riste Russ Ballard (ex-The Roulettes et Unit 4 + 2)^[1]. Le chant
-   Ã©tait partagÃ© entre Ballard, Rodford et Argent.
+   claviériste Russ Ballard (ex-The Roulettes et Unit 4 + 2)^[1]. Le chant
+   était partagé entre Ballard, Rodford et Argent.
 
-   Les trois premiÃ¨res dÃ©mos d'Argent, enregistrÃ©es Ã  l'automne 1968 font
-   participer Mac MacLeod Ã  la basse^[2], Rod Argent, Chris White
+   Les trois premières démos d'Argent, enregistrées à l'automne 1968 font
+   participer Mac MacLeod à la basse^[2], Rod Argent, Chris White
    (ex-basiste des Zombies) et Russ Ballard. Sur le dernier album du
-   groupe Counterpoints, Phil Collins de Genesis a Ã©tÃ© invitÃ© Ã  jouer
-   comme deuxiÃ¨me batteur et percussionniste.
+   groupe Counterpoints, Phil Collins de Genesis a été invité à jouer
+   comme deuxième batteur et percussionniste.
 
-   AprÃ¨s le dÃ©part de Ballard en 1974, il est remplacÃ© par le chanteur et
+   Après le départ de Ballard en 1974, il est remplacé par le chanteur et
    guitariste John Verity et le guitariste John Grimaldi. Cette formation
    produit deux albums et un film qui ne sera jamais sorti. Jim Rodford
-   ira rejoindre les Kinks Ã  partir de 1979 pour l'album Low Budget, puis
+   ira rejoindre les Kinks à partir de 1979 pour l'album Low Budget, puis
    Bob Henrit en fera autant en 1984 pour l'album Word of Mouth.
 
-   Rodford dÃ©cÃ¨de en janvier 2018.
+   Rodford décède en janvier 2018.
 
 Membres[modifier | modifier le code]
 
@@ -178,7 +193,7 @@ Membres[modifier | modifier le code]
      * Jim Rodford - basse (1968-1976)
      * Bob Henrit - batterie (1968-1976)
 
-Musicien invitÃ©[modifier | modifier le code]
+Musicien invité[modifier | modifier le code]
 
      * Phil Collins - batterie et percussions sur Counterpoints
 
@@ -206,15 +221,15 @@ Compilations[modifier | modifier le code]
      * 1978 : Hold Your Head Up
      * 1991 : Music from the Spheres
 
-Notes et rÃ©fÃ©rences[modifier | modifier le code]
+Notes et références[modifier | modifier le code]
 
-    1. â†‘ Â« Argent Â», AllMuisc (consultÃ© le 12 dÃ©cembre 2015).
-    2. â†‘ Â« Microsoft Word - MacMacleod5.doc Â» [PDF] (version du 19
+    1. ^| « Argent », AllMuisc (consulté le 12 décembre 2015).
+    2. ^| « Microsoft Word - MacMacleod5.doc » [PDF] (version du 19
        novembre 2011 sur Internet Archive)
 
 Liens externes[modifier | modifier le code]
 
-     * Ressources relatives Ã  la musique Voir et modifier les donnÃ©es sur
+     * Ressources relatives à la musique Voir et modifier les données sur
        Wikidata  :
           + AllMusic
           + Billboard
@@ -227,28 +242,28 @@ Liens externes[modifier | modifier le code]
           + Songkick
           + SoundCloud
 
-     * icÃ´ne dÃ©corative Portail du rock
-     * icÃ´ne dÃ©corative Portail de lâ€™Angleterre
+     * icône décorative Portail du rock
+     * icône décorative Portail de l'Angleterre
 
    Ce document provient de
-   Â« https://fr.wikipedia.org/w/index.php?title=Argent_(groupe)&oldid=2053
-   42576 Â».
-   CatÃ©goriesâ€¯:
+   « https://fr.wikipedia.org/w/index.php?title=Argent_(groupe)&oldid=2053
+   42576 ».
+   Catégories:
      * Groupe anglais de rock progressif
      * Groupe anglais de hard rock
      * Groupe de rock symphonique
-     * Groupe musical britannique des annÃ©es 1970
+     * Groupe musical britannique des années 1970
      * Artiste d'Epic Records
-     * Groupe musical formÃ© en 1968
-     * Groupe musical sÃ©parÃ© en 1976
-     * Groupe musical reformÃ© en 2010
-     * Groupe musical sÃ©parÃ© en 2010
-     * Groupe musical reformÃ© en 2012
-     * Groupe musical sÃ©parÃ© en 2012
-     * Groupe musical reformÃ© en 2013
-     * Groupe musical sÃ©parÃ© en 2013
+     * Groupe musical formé en 1968
+     * Groupe musical séparé en 1976
+     * Groupe musical reformé en 2010
+     * Groupe musical séparé en 2010
+     * Groupe musical reformé en 2012
+     * Groupe musical séparé en 2012
+     * Groupe musical reformé en 2013
+     * Groupe musical séparé en 2013
 
-   CatÃ©gories cachÃ©esâ€¯:
+   Catégories cachées:
      * Article utilisant une Infobox
      * Page utilisant P1728
      * Page utilisant P4208
@@ -261,36 +276,36 @@ Liens externes[modifier | modifier le code]
      * Page utilisant P3478
      * Page utilisant P3040
      * Page pointant vers des bases externes
-     * Page pointant vers des bases relatives Ã  la musique
-     * Portail:Rock/Articles liÃ©s
-     * Portail:Musique/Articles liÃ©s
-     * Portail:Angleterre/Articles liÃ©s
-     * Portail:Royaume-Uni/Articles liÃ©s
-     * Portail:Europe/Articles liÃ©s
+     * Page pointant vers des bases relatives à la musique
+     * Portail:Rock/Articles liés
+     * Portail:Musique/Articles liés
+     * Portail:Angleterre/Articles liés
+     * Portail:Royaume-Uni/Articles liés
+     * Portail:Europe/Articles liés
 
-     * La derniÃ¨re modification de cette page a Ã©tÃ© faite le 20 juin 2023
-       Ã  22:20.
+     * La dernière modification de cette page a été faite le 20 juin 2023
+       à 22:20.
      * Droit d'auteur : les textes sont disponibles sous licence Creative
-       Commons attribution, partage dans les mÃªmes conditions ; dâ€™autres
-       conditions peuvent sâ€™appliquer. Voyez les conditions dâ€™utilisation
-       pour plus de dÃ©tails, ainsi que les crÃ©dits graphiques. En cas de
-       rÃ©utilisation des textes de cette page, voyez comment citer les
+       Commons attribution, partage dans les mêmes conditions ; d'autres
+       conditions peuvent s'appliquer. Voyez les conditions d'utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
        auteurs et mentionner la licence.
-       WikipediaÂ® est une marque dÃ©posÃ©e de la Wikimedia Foundation, Inc.,
-       organisation de bienfaisance rÃ©gie par le paragraphe 501(c)(3) du
-       code fiscal des Ã‰tats-Unis.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
 
-     * Politique de confidentialitÃ©
-     * Ã€ propos de WikipÃ©dia
+     * Politique de confidentialité
+     * À propos de Wikipédia
      * Avertissements
      * Contact
      * Code de conduite
-     * DÃ©veloppeurs
+     * Développeurs
      * Statistiques
-     * DÃ©claration sur les tÃ©moins (cookies)
+     * Déclaration sur les témoins (cookies)
      * Version mobile
 
      * Wikimedia Foundation
      * Powered by MediaWiki
 
-     * (BUTTON) Activer ou dÃ©sactiver la limitation de largeur du contenu
+     * (BUTTON) Activer ou désactiver la limitation de largeur du contenu
