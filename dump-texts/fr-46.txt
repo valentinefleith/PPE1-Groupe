@@ -866,7 +866,7 @@ Format
    SIMMEL, Georg. L'argent dans la culture moderne In : L'argent dans la
    culture moderne : et autres essais sur l'économie de la vie [en ligne].
    Paris : Éditions de la Maison des sciences de l'homme, 2019 (généré le
-   23 décembre 2023). Disponible sur Internet :
+   24 décembre 2023). Disponible sur Internet :
    <http://books.openedition.org/editionsmsh/23617>. ISBN : 9782735127320.
    DOI : https://doi.org/10.4000/books.editionsmsh.23617.
    Simmel, G. 2019. L'argent dans la culture moderne. In L'argent dans la
@@ -885,7 +885,7 @@ Format
    OpenEdition APA MLA
    SIMMEL, Georg. L'argent dans la culture moderne : et autres essais sur
    l'économie de la vie. Nouvelle édition [en ligne]. Paris : Éditions de
-   la Maison des sciences de l'homme, 2019 (généré le 23 décembre 2023).
+   la Maison des sciences de l'homme, 2019 (généré le 24 décembre 2023).
    Disponible sur Internet :
    <http://books.openedition.org/editionsmsh/23557>. ISBN : 9782735127320.
    DOI : https://doi.org/10.4000/books.editionsmsh.23557.

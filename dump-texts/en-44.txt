@@ -1175,14 +1175,14 @@ How to start making money for non English speaker
 
 Trending Topics
 
-     * 2 {{ upvoteCount | shortNum }}
+     * 4 {{ upvoteCount | shortNum }}
 
 Traffic arbitration
-       Denys Romaniuk 5 hours ago in Beginners Area
+       Denys Romaniuk 6 hours ago in Beginners Area
        I want to learn traffic arbitrage, but I don't know how. Can you
        give me some advice (literature, youtube channels, or something
        else). I will be very grateful for any ... [read more]
-       1 Reply
+       2 Replies
        Share
      * 13 {{ upvoteCount | shortNum }}
 

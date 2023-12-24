@@ -183,7 +183,7 @@ How to recover my 2700 Dollars ?
    Gaëlle L.G (X)
    Gaëlle L.G (X)
    France
-   Local time: 23:44
+   Local time: 00:44
    Spanish to French
    + ...
    Aug 12, 2017
@@ -244,7 +244,7 @@ How to recover my 2700 Dollars ?
    Sheila Wilson
    Sheila Wilson   Identity Verified
    Spain
-   Local time: 22:44
+   Local time: 23:44
    Member (2007)
    English
    + ...
@@ -296,7 +296,7 @@ How to recover my 2700 Dollars ?
    Matthias Brombach
    Matthias Brombach   Identity Verified
    Germany
-   Local time: 23:44
+   Local time: 00:44
    Member (2007)
    Dutch to German
    + ...
@@ -328,7 +328,7 @@ How to recover my 2700 Dollars ?
    Tom in London
    Tom in London
    United Kingdom
-   Local time: 22:44
+   Local time: 23:44
    Member (2008)
    Italian to English
    Don't believe it.
@@ -365,7 +365,7 @@ How to recover my 2700 Dollars ?
    Michael Newton
    Michael Newton   Identity Verified
    United States
-   Local time: 17:44
+   Local time: 18:44
    Japanese to English
    + ...
    Recovering 2700 dollars
@@ -399,7 +399,7 @@ How to recover my 2700 Dollars ?
    Tom in London
    Tom in London
    United Kingdom
-   Local time: 22:44
+   Local time: 23:44
    Member (2008)
    Italian to English
    Don't give up
@@ -445,7 +445,7 @@ How to recover my 2700 Dollars ?
    Aakash5555
    Aakash5555
    India
-   Local time: 04:14
+   Local time: 05:14
    Member (2014)
    English to Hindi
    + ...
@@ -479,7 +479,7 @@ How to recover my 2700 Dollars ?
    Gaëlle L.G (X)
    Gaëlle L.G (X)
    France
-   Local time: 23:44
+   Local time: 00:44
    Spanish to French
    + ...
    TOPIC STARTER
@@ -517,7 +517,7 @@ How to recover my 2700 Dollars ?
    Gaëlle L.G (X)
    Gaëlle L.G (X)
    France
-   Local time: 23:44
+   Local time: 00:44
    Spanish to French
    + ...
    TOPIC STARTER
@@ -548,7 +548,7 @@ How to recover my 2700 Dollars ?
    Aakash5555
    Aakash5555
    India
-   Local time: 04:14
+   Local time: 05:14
    Member (2014)
    English to Hindi
    + ...
@@ -580,7 +580,7 @@ How to recover my 2700 Dollars ?
    Tom in London
    Tom in London
    United Kingdom
-   Local time: 22:44
+   Local time: 23:44
    Member (2008)
    Italian to English
    I agree but
@@ -617,7 +617,7 @@ How to recover my 2700 Dollars ?
    Matthias Brombach
    Matthias Brombach   Identity Verified
    Germany
-   Local time: 23:44
+   Local time: 00:44
    Member (2007)
    Dutch to German
    + ...
@@ -646,7 +646,7 @@ How to recover my 2700 Dollars ?
    Gaëlle L.G (X)
    Gaëlle L.G (X)
    France
-   Local time: 23:44
+   Local time: 00:44
    Spanish to French
    + ...
    TOPIC STARTER
@@ -698,7 +698,7 @@ How to recover my 2700 Dollars ?
    implemented)______
    Jennifer Forbes
    Jennifer Forbes   Identity Verified
-   Local time: 22:44
+   Local time: 23:44
    French to English
    + ...
    In memoriam
@@ -749,7 +749,7 @@ How to recover my 2700 Dollars ?
    Gaëlle L.G (X)
    Gaëlle L.G (X)
    France
-   Local time: 23:44
+   Local time: 00:44
    Spanish to French
    + ...
    TOPIC STARTER
@@ -823,13 +823,12 @@ How to recover my 2700 Dollars ?
    track payments, store and manage project files, generate business
    reports on turnover profit per client/manager etc.
    More info »
-   TM-Town
-   [5b0ad6904252d328dd6807e0c90f7639.png]
-   Manage your TMs and Terms ... and boost your translation business
-   Are you ready for something fresh in the industry? TM-Town is a unique
-   new site for you -- the freelance translator -- to store, manage and
-   share translation memories (TMs) and glossaries...and potentially meet
-   new clients on the basis of your prior work.
+   Trados Business Manager Lite
+   [b906eb6a0a3f5bafa326ddb2b68cb9b4.png]
+   Create customer quotes and invoices from within Trados Studio
+   Trados Business Manager Lite helps to simplify and speed up some of the
+   daily tasks, such as invoicing and reporting, associated with running
+   your freelance translation business.
    More info »
 
    X

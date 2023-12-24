@@ -229,7 +229,3 @@ sur les réseaux sociaux
 
    Sauf mention contraire, tous les contenus de ce site sont sous licence
    etalab-2.0
-
-   IFRAME: iframeOP
-
-   IFRAME: iframeCheckSession

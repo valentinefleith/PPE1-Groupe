@@ -109,8 +109,8 @@ Pièces Argent Françaises
    Pureté/titre : 900 0/00
        Poids : 30g
        Valeur Faciale : 50 Francs
-       Au 23/12/2023
-       19,00 EUR
+       Au 24/12/2023
+       19,17 EUR
        0.00 %
        23,50 EUR
        10__________________ = 235,00 EUR
@@ -122,8 +122,8 @@ Pièces Argent Françaises
    Pureté/titre : 900 0/00
        Poids : 25g
        Valeur Faciale : 10 Francs
-       Au 23/12/2023
-       15,84 EUR
+       Au 24/12/2023
+       15,97 EUR
        0.00 %
        19,90 EUR
        10__________________ = 199,00 EUR
@@ -135,8 +135,8 @@ Pièces Argent Françaises
    Pureté/titre : 900 0/00
        Poids : 25g
        Valeur Faciale : 5 Francs
-       Au 23/12/2023
-       15,84 EUR
+       Au 24/12/2023
+       15,97 EUR
        0.00 %
        21,20 EUR
        10__________________ = 212,00 EUR
@@ -148,8 +148,8 @@ Pièces Argent Françaises
    Pureté/titre : 900 0/00
        Poids : 15g
        Valeur Faciale : 100 Francs
-       Au 23/12/2023
-       9,50 EUR
+       Au 24/12/2023
+       9,58 EUR
        0.00 %
        11,70 EUR
        30__________________ = 351,00 EUR
@@ -161,8 +161,8 @@ Pièces Argent Françaises
    Pureté/titre : 835 0/00
        Poids : 12g
        Valeur Faciale : 5 Francs
-       Au 23/12/2023
-       7,05 EUR
+       Au 24/12/2023
+       7,11 EUR
        0.00 %
        8,20 EUR
        30__________________ = 246,00 EUR
@@ -174,8 +174,8 @@ Pièces Argent Françaises
    Pureté/titre : 835 0/00
        Poids : 10g
        Valeur Faciale : 2 Francs
-       Au 23/12/2023
-       5,88 EUR
+       Au 24/12/2023
+       5,93 EUR
        0.00 %
        7,90 EUR
        50__________________ = 395,00 EUR
@@ -187,8 +187,8 @@ Pièces Argent Françaises
    Pureté/titre : 835 0/00
        Poids : 5g
        Valeur Faciale : 1 Francs
-       Au 23/12/2023
-       2,94 EUR
+       Au 24/12/2023
+       2,96 EUR
        0.00 %
        3,60 EUR
        50__________________ = 180,00 EUR
@@ -199,8 +199,8 @@ Pièces Argent Françaises
        La quantité minimale d'achat est de 50
    Pureté/titre : 835 0/00
        Poids : 2.5
-       Au 23/12/2023
-       1,47 EUR
+       Au 24/12/2023
+       1,48 EUR
        0.00 %
        2,00 EUR
        50__________________ = 100,00 EUR

@@ -105,6 +105,6 @@ fi
 done < "$URLS"
 echo "         </table>
         </div>
-    </div>
 </body>
 </html>" >> $OUTPUT_FILE
+
