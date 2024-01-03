@@ -44,7 +44,7 @@ if [ $LANGUE = "zh" ]; then
 	#grep -P -o "([\p{Han}]+[^\p{Han}]+){0,5}($MOT)([\p{Han}]+[^\p{Han}]+){0,5}" $CONTEXTE | sed -E "s/(.*)($MOT)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> $OUTPUT_FILE
 	#grep -P -o "([\p{Han}]{0,5}[^\p{Han}]{0,5})($MOT)([^\p{Han}]{0,5}[\p{Han}]{0,5}[^\p{Han}]+){0,5}" $CONTEXTE | sed -E "s/(.*)($MOT)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> $OUTPUT_FILE
     #grep -P -o "([\p{Han}]{0,5}[^\p{Han}]*?)($MOT)([^\p{Han}]*?[\p{Han}]{0,5})" $CONTEXTE | sed -E "s/(.*)($MOT)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> $OUTPUT_FILE
-	ggrep -P -o "([\p{Han}]{0,5}[^\p{Han}]*?)($MOT)([^\p{Han}]*?[\p{Han}]{0,5})" $CONTEXTE | sed -E "s/(.*)($MOT)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> $OUTPUT_FILE
+	grep -P -o "([\p{Han}]{0,5}[^\p{Han}]*?)($MOT)([^\p{Han}]*?[\p{Han}]{0,5})" $CONTEXTE | sed -E "s/(.*)($MOT)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> $OUTPUT_FILE
     
     else
 		egrep -o "(\w+\W+){0,5}($MOT)(\W+\w+){0,5}" $CONTEXTE | sed -E "s/(.*)($MOT)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" | sed "s/concordancier\.sh//g" | sed "s/creation_tableaux\.sh//g" | sed "s/make_itrameur_corpus\.sh//g" | sed "s/make_itrameur_corpus\.//g" | sed "s/creation_tableaux\.//g" | sed "s/concordancier\.sh//g"  >> $OUTPUT_FILE
