@@ -1,21 +1,20 @@
-
-
-
-   5Money supply
-
-   (BUTTON) Toggle Money supply subsection
-     * 5.1Creation of money
-
-
-
+          + 3.3Standard of deferred payment
+          + 3.4Store of value
+     * 4Properties
+     * 5Money supply
+       (BUTTON) Toggle Money supply subsection
+          + 5.1Creation of money
+          + 5.2Market liquidity
+     * 6Types
+       (BUTTON) Toggle Types subsection
 --
-
-
-
-   9.2Money laundering
-
-
-
+     * 9Financial crimes
+       (BUTTON) Toggle Financial crimes subsection
+          + 9.1Counterfeiting
+          + 9.2Money laundering
+     * 10See also
+     * 11References
+     * 12Further reading
 --
 
    [ ] Toggle the table of contents
@@ -30,8 +29,7 @@ Money
    Object or record accepted as payment
    For other uses, see Money (disambiguation).
 
-   [330px-Dollar_bill_and_small_change.jpg] A United States dollar bill,
-   two five-cent coins and a penny
+   [330px-Euro_coins_and_banknotes_%28cropped%29.jpg] Banknotes and coins
 
    Money is any item or verifiable record that is generally accepted as
    payment for goods and services and repayment of debts, such as taxes,
@@ -84,9 +82,9 @@ History
    commodity money. The Mesopotamian shekel was a unit of weight, and
    relied on the mass of something like 160 grains of barley.^[12] The
    first usage of the term came from Mesopotamia circa 3000 BC. Societies
-   in the Americas, Asia, Africa and Australia used shell money--often,
-   the shells of the cowry (Cypraea moneta L. or C. annulus L.). According
-   to Herodotus, the Lydians were the first people to introduce the use of
+   in the Americas, Asia, Africa and Australia used shell money—often, the
+   shells of the cowry (Cypraea moneta L. or C. annulus L.). According to
+   Herodotus, the Lydians were the first people to introduce the use of
    gold and silver coins.^[13] It is thought by modern scholars that these
    first stamped coins were minted around 650 to 600 BC.^[14]
    [170px-Jiao_zi.jpg] Song Dynasty Jiaozi, the world's earliest paper
@@ -187,7 +185,7 @@ History
 --
    particularly older ones, other texts subsume this under other
    functions.^[4]^[20]^[21]^[clarification needed] A "standard of deferred
-   payment" is an accepted way to settle a debt--a unit in which debts are
+   payment" is an accepted way to settle a debt—a unit in which debts are
    denominated, and the status of money as legal tender, in those
    jurisdictions which have this concept, states that it may function for
    the discharge of debts. When debts are denominated in money, the real
@@ -199,11 +197,11 @@ History
    Main article: Store of value
 
    To act as a store of value, money must be able to be reliably saved,
-   stored, and retrieved--and be predictably usable as a medium of
-   exchange when it is retrieved. The value of the money must also remain
-   stable over time. Some have argued that inflation, by reducing the
-   value of money, diminishes the ability of the money to function as a
-   store of value.^[4]^[failed verification]
+   stored, and retrieved—and be predictably usable as a medium of exchange
+   when it is retrieved. The value of the money must also remain stable
+   over time. Some have argued that inflation, by reducing the value of
+   money, diminishes the ability of the money to function as a store of
+   value.^[4]^[failed verification]
 
 Properties
 
@@ -258,6 +256,8 @@ Money supply
    reserve requirements of commercial banks.
 
   Creation of money
+
+   Main article: Money creation
 
    In current economic systems, money is created by two
    procedures:^[citation needed]
@@ -369,7 +369,7 @@ Types
    that was less of a burden than exchanging thousands of copper coins led
    to the introduction of paper money. This economic phenomenon was a slow
    and gradual process that took place from the late Tang dynasty
-   (618-907) into the Song dynasty (960-1279). It began as a means for
+   (618–907) into the Song dynasty (960–1279). It began as a means for
    merchants to exchange heavy coinage for receipts of deposit issued as
 --
    century the government finally took over these shops to produce
@@ -383,7 +383,7 @@ Types
    [220px-Money_poster.JPG] Paper money from different countries
 
    At around the same time in the medieval Islamic world, a vigorous
-   monetary economy was created during the 7th-12th centuries on the basis
+   monetary economy was created during the 7th–12th centuries on the basis
 --
    exchange rates, the transfer of credit and debt,^[39] and banking
    institutions for loans and deposits.^[39]^[need quotation to verify]
@@ -559,7 +559,7 @@ Financial crimes
    Counterfeit money is imitation currency produced without the legal
    sanction of the state or government. Producing or using counterfeit
    money is a form of fraud or forgery. Counterfeiting is almost as old as
-   money itself. Plated copies (known as Fourr�es) have been found of
+   money itself. Plated copies (known as Fourrées) have been found of
    Lydian coins which are thought to be among the first western
    coins.^[58] Historically, objects that were difficult to counterfeit
    (e.g. shells, rare stones, precious metals) were often chosen as
@@ -621,19 +621,19 @@ References
     3. ^ "money : The New Palgrave Dictionary of Economics". The New
        Palgrave Dictionary of Economics. Retrieved 18 December 2010.
     4. ^ ^a ^b ^c ^d Mankiw, N. Gregory (2007). "2". Macroeconomics
-       (6th ed.). New York: Worth Publishers. pp. 22-32.
+       (6th ed.). New York: Worth Publishers. pp. 22–32.
 --
        Thirteenth Century: Being a Description, by that Early Traveller,
        of Remarkable Places and Things, in the Eastern Parts of the World.
-       pp. 353-355. Retrieved 19 September 2012.
+       pp. 353–355. Retrieved 19 September 2012.
    17. ^ Wray, L. Randall (2012). Modern money theory: a primer on
        macroeconomics for sovereign monetary systems. Houndmills,
-       Basingstoke, Hampshire: Palgrave Macmillan. pp. 45-50.
+       Basingstoke, Hampshire: Palgrave Macmillan. pp. 45–50.
        ISBN 978-0230368897.
 --
        New York (2006)
    21. ^ ^a ^b Abel, Andrew; Bernanke, Ben (2005). "7". Macroeconomics
-       (5th ed.). Pearson. pp. 266-269. ISBN 978-0-201-32789-2.
+       (5th ed.). Pearson. pp. 266–269. ISBN 978-0-201-32789-2.
    22. ^ ^a ^b T.H. Greco. Money: Understanding and Creating Alternatives
        to Legal Tender, White River Junction, Vt: Chelsea Green Publishing
        (2001). ISBN 1-890132-37-3
@@ -648,7 +648,7 @@ References
    27. ^ "History of Money". Zzaponline.com. Archived from the original on
        24 February 2015. Retrieved 24 February 2015.
    28. ^ Bernstein, Peter, A Primer on Money and Banking, and Gold, Wiley,
-       2008 edition, pp. 29-39
+       2008 edition, pp. 29–39
    29. ^ "Money creation in the modern economy | Bank of England".
        www.bankofengland.co.uk. 14 March 2014. Retrieved 2018-01-14.
    30. ^ Mises, Ludwig von. The Theory of Money and Credit, (Indianapolis,
@@ -679,7 +679,7 @@ References
        2019-11-16.
 --
    54. ^ Milton Friedman; Anna Jacobson Schwartz (1971). Monetary History
-       of the United States, 1867-1960. Princeton, N.J: Princeton
+       of the United States, 1867–1960. Princeton, N.J: Princeton
        University Press. ISBN 978-0-691-00354-2.
    55. ^ David Laidler (1997). Money and Macroeconomics: The Selected
        Essays of David Laidler (Economists of the Twentieth Century).
@@ -702,9 +702,9 @@ Further reading
      * Keen, Steve (February 2015). "What Is Money and How Is It Created?"
        argues, "Banks create money by issuing a loan to a borrower; they
        record the loan as an asset, and the money they deposit in the
-       borrower's account as a liability. This, in one way, is no
+       borrower’s account as a liability. This, in one way, is no
        different to the way the Federal Reserve creates money ... money is
-       simply a third party's promise to pay which we accept as full
+       simply a third party’s promise to pay which we accept as full
        payment in exchange for goods. The two main third parties whose
        promises we accept are the government and the banks ... money ...
        is not backed by anything physical, and instead relies on trust. Of
@@ -721,7 +721,7 @@ Further reading
 
      Lanchester, John, "The Invention of Money: How the heresies of two
    bankers became the basis of our modern economy", The New Yorker, 5 & 12
-   August 2019, pp. 28-31.
+   August 2019, pp. 28–31.
 
      Weatherford, Jack. The history of money (2009). by a cultural
    anthropologist. excerpt
@@ -736,8 +736,8 @@ External links
        Evans and Jane Humphries (In Our Time, Mar. 1, 2001)
      *
 
-   Bastable, Charles Francis (1911). "Money" . Encyclop�dia Britannica.
-   Vol. 18 (11th ed.). pp. 694-708.
+   Bastable, Charles Francis (1911). "Money" . Encyclopædia Britannica.
+   Vol. 18 (11th ed.). pp. 694–708.
 
      * v
 --
@@ -767,7 +767,7 @@ External links
 --
      * Mint
      * Akkadian standards of measurement (c. 2150 BC)
-     * Code of Hammurabi (�100; �122-125; c. 1750 BC)
+     * Code of Hammurabi (§100; §122–125; c. 1750 BC)
      * Commodity theory of money (Metallism)
      * Credit theory of money
           + Chartalism
@@ -776,10 +776,10 @@ External links
           + Market monetarism
      * Standard of deferred payment
 --
-     * Isl�m Ansiklopedisi
+     * İslâm Ansiklopedisi
 
    Retrieved from
-   "https://en.wikipedia.org/w/index.php?title=Money&oldid=1190403136"
+   "https://en.wikipedia.org/w/index.php?title=Money&oldid=1193309138"
 
    Categories:
      * Money

@@ -265,21 +265,21 @@ The Government Is Coming After Social Security Overpayments
    By: Pete Grieve
    Pete Grieve, expert in Personal finance, housing, and Reporter at Money
    Pete Grieve
-   Reporter | Joined December 2023
+   Reporter | Joined January 2024
    Pete Grieve is a personal finance reporter. In his time at Money, Pete
    has covered everything from car buying to credit cards to the housing
    market.
    Has also written:
+     * Social Security Checks Are Bigger This Year — Here's When Benefits
+       Will Pay Out
      * The IRS Just Increased the Amount You Can Save in Your Retirement
        Accounts
      * 5 Ways to Fix Social Security's Funding Problems, According to
        Actuaries
      * What's the Best Country for Retirement? The U.S. Isn't Even in the
        Top 20
-     * 401(k) Gender Gap: Men's Retirement Account Balances Are 50% Higher
-       Than Women's
-     * Inflation and Recession Fears Have Workers Contributing Less to
-       Their 401(k)s
+     * 401(k) Gender Gap: Men’s Retirement Account Balances Are 50% Higher
+       Than Women’s
 
    See full bio
    Editor: Brad Tuttle
@@ -287,14 +287,14 @@ The Government Is Coming After Social Security Overpayments
    Senior Editor at Money
    Brad Tuttle
    Senior Editor | Joined January 2014
-   Brad Tuttle is a senior editor at Money with over 10 years' experience
+   Brad Tuttle is a senior editor at Money with over 10 years’ experience
    covering a vast number of personal finance topics, including careers,
    cars, travel, budgeting, investing, insurance, credit cards, consumer
    psychology, real estate, banking, and shopping and deals.
    Has also written:
      * Do You Have $1 Million in Your 401(k) Yet? The Number of People Who
        Do Just Hit an All-Time High
-     * 4 Best Extended Car Warranties of 2023
+     * 4 Best Extended Car Warranties
      * The Best Basketball Hoops for Your Money
      * The Best Ping-Pong Tables for Your Money
      * The Best Pizza Stones for Your Money
@@ -316,7 +316,7 @@ The Government Is Coming After Social Security Overpayments
 
    The federal agency that administers Social Security benefits is making
    new efforts to reclaim overpayments, and it may try to claw back money
-   if you've been receiving too much.
+   if you’ve been receiving too much.
 
    About 1 million people per year received overpayment notices from the
    Social Security Administration (SSA) in the 2022 and 2023 fiscal years,
@@ -325,7 +325,7 @@ The Government Is Coming After Social Security Overpayments
    overpayment issues last month, Kijakazi said.
 
    Roughly 0.5% of Social Security payments are overpayments, according to
-   the agency. Overpayments can either be the government's fault or the
+   the agency. Overpayments can either be the government’s fault or the
    result of a mistake by the beneficiary. Either way, the result is that
    beneficiaries owe money back to the government.
 
@@ -361,12 +361,12 @@ Government to track down Social Security overpayments
 
    "This figure was derived from the total amount of overpayments that
    have occurred over the history of the programs," the SSA explained in a
-   statement last month. "Each person's situation is unique, and the
+   statement last month. "Each person’s situation is unique, and the
    agency handles overpayments on a case-by-case basis."
 
    The news of the overpayment review could be concerning for Social
    Security beneficiaries who are unsure if they are being paid the
-   correct amount -- or for anyone who suspects their checks are larger
+   correct amount — or for anyone who suspects their checks are larger
    than they should be.
 
    The SSA said the overpayment problem occurs "given the number of people
@@ -400,7 +400,7 @@ What happens if you were paid too much in Social Security
    scenarios.
 
    You can file an appeal or make a request that the Social Security
-   Administration not seek the money back. The agency also said it's
+   Administration not seek the money back. The agency also said it’s
    working to reduce overpayments in the future and make relief more
    accessible to overpaid beneficiaries seeking waivers.
 
@@ -443,7 +443,7 @@ More from Money:
 
    5 Best Tax Relief Companies of 2023
 
-   Millennials vs. Boomers: Who's Doing a Better Job Saving for
+   Millennials vs. Boomers: Who’s Doing a Better Job Saving for
    Retirement?
 
    Retirees Are Not Confident They'll Be Able to Afford Long-Term Care:
@@ -515,7 +515,7 @@ More from Money:
    Guaynabo, PR 00968
    BBB Rating A+ BBB Rating A+
 
-   � Copyright 2023 Money Group, LLC. All Rights Reserved. Terms of Use |
+   © Copyright 2024 Money Group, LLC. All Rights Reserved. Terms of Use |
    Privacy Policy
    Money is an independent, advertiser-supported website and may receive
    compensation for some links to products and services throughout this

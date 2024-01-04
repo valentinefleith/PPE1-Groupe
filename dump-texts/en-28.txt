@@ -10,7 +10,7 @@
 
 Log In
 
-   (BUTTON) ×
+   (BUTTON) Ã—
    Access to this requires a paid subscription to Money magazine.
    Email *
    ____________________
@@ -23,14 +23,14 @@ Log In
 
 Forgot Password
 
-   (BUTTON) ×
+   (BUTTON) Ã—
    Email *
    ____________________
    (BUTTON) Submit
 
 Forgot Password
 
-   (BUTTON) ×
+   (BUTTON) Ã—
    (BUTTON) Close
 
      * ____________________ (BUTTON)
@@ -159,15 +159,6 @@ How to give yourself the best chance of securing a loan
 
 Related Stories
 
-   should you cancel your credit card when applying for a home loan
-
-Should you cancel your credit card before taking out a mortgage?
-
-   By Tom Watson
-   So you're applying for a home loan and have a $10,000 credit card
-   limit. But because you pay it off each month, it doesn't count, right?
-   Wrong.
-
    ask paul clitheroe should we borrow more to buy a bigger house
 
 Ask Paul: Should we borrow more to buy a bigger house?
@@ -175,6 +166,14 @@ Ask Paul: Should we borrow more to buy a bigger house?
    By Paul Clitheroe
    Jo and her husband like the idea of buying a bigger home in a better
    suburb, but are they too old to take on a new mortgage?
+
+   ask paul clitheroe i need a reverse mortgage
+
+Ask Paul: I'm 77, how can I access equity in my home?
+
+   By Paul Clitheroe
+   At 77, Frank wants to withdraw up to $100,000 equity out of his home.
+   So which reverse mortgage does Paul Clitheroe recommend?
    TAGS
    debt,  banks,  mortgages + home loans,  credit cards
    1
@@ -202,7 +201,7 @@ Diana Sitnikoski
 
 Sign up to Money Newsletter
 
-   (BUTTON) ×
+   (BUTTON) Ã—
    Email
    First Name
    Last Name
@@ -241,7 +240,7 @@ Money Newsletter
    Subscribe
    Magazine Subscriptions
    Best of the Best issue out now!
-   Copyright © Rainmaker Group
+   Copyright Â© Rainmaker Group
    All material on this site is subject to copyright. All rights reserved.
    No part of this material may be reproduced, translated, transmitted,
    framed or stored in a retrieval system for public or private use
@@ -251,7 +250,7 @@ Money Newsletter
 
 Sign up to Money Newsletter
 
-   (BUTTON) ×
+   (BUTTON) Ã—
    Email *
    ____________________
    First Name *
@@ -263,7 +262,7 @@ Sign up to Money Newsletter
 
 Sign up to Money Newsletter
 
-   (BUTTON) ×
+   (BUTTON) Ã—
 
    Welcome to Money!
 

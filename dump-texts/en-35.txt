@@ -67,28 +67,28 @@ Money Advice Scotland featured in BBC Disclosure: The Debt Dealers
 
 6th June 2023
 
-   BBC Scotland's programme Disclosure - The Debt Dealers features Money
-   Advice Scotland's Training Development Lead, Ged Mulvey, who spoke to
+   BBC Scotland’s programme Disclosure – The Debt Dealers features Money
+   Advice Scotland’s Training Development Lead, Ged Mulvey, who spoke to
    reporter Sam Poling about the impact of being in the wrong debt
    solution. The programme focuses on the trust deed market in Scotland,
    and in particular how some providers advertise and sign up clients.
 
-   Ged Mulvey said: "For the right person, a trust deed can absolutely be
+   Ged Mulvey said: “For the right person, a trust deed can absolutely be
    the right solution and there are some great trust deed providers out
    there.
 
-   "However, our concern is that someone who would have been better suited
+   “However, our concern is that someone who would have been better suited
    to another debt solution can end up in a trust deed. Because clients
    will pay fees to their trust deed provider and these are typically paid
    more at the start, if the trust deed fails due to a client being unable
    to maintain payments (indicating it was not the most appropriate
    solution in the first place), they can find themselves back in their
    original position with their debt outstanding but having paid
-   significant fees to their trust deed provider - as we see with
+   significant fees to their trust deed provider – as we see with
    Cassandra who is featured in the programme. She should have never been
-   in a trust deed based on her circumstances."
+   in a trust deed based on her circumstances.”
 
-   The programme also discusses the FCA's upcoming intervention in this
+   The programme also discusses the FCA’s upcoming intervention in this
    market with its ban on debt packagers (third parties who receive a
    referral fee from passing a client to a trust deed provider). However,
    this does not completely mitigate the risk of clients going into a
@@ -101,13 +101,13 @@ Money Advice Scotland featured in BBC Disclosure: The Debt Dealers
    in Scotland, where organisations like Christians Against Poverty and
    StepChange (both featured) and others such as Citizens Advice Bureaux,
    local authorities, and other free-to-client money advice agencies can
-   assess each client's individual circumstances to determine which option
+   assess each client’s individual circumstances to determine which option
    will be best for them in helping them with their debt.
 
    For more information on where to access free advice, visit our
    website.
 
-   Disclosure - The Debt Dealers airs on BBC 1 Scotland at 8pm Monday
+   Disclosure – The Debt Dealers airs on BBC 1 Scotland at 8pm Monday
    19^th June and BBC Iplayer.
 
    Published: 19^th June, 2023
@@ -122,8 +122,8 @@ Money Advice Scotland featured in BBC Disclosure: The Debt Dealers
 
 Latest
 
-     * Money Advice Scotland's Response to the Scottish Budget 2024-25
-    Money Advice Scotland's Response to the Scottish Budget 2024-25
+     * Money Advice Scotland’s Response to the Scottish Budget 2024-25
+    Money Advice Scotland’s Response to the Scottish Budget 2024-25
        Read MAS' response to the Scottish Budget which sets out the
        Scottish Government's proposed spending and tax plans for 2024-25.
      * Navigating the Currents: A Closer Look at Scotland's Economic
@@ -148,7 +148,7 @@ Most read
      * Regulated and Unregulated (Exempt) Credit Agreements
      * Help for people with money worries
      * What we do
-       Money Advice Scotland is Scotland's money charity. We exist to help
+       Money Advice Scotland is Scotland’s money charity. We exist to help
        people in debt, support money advisers, and influence policy. Our
        mission is to be the driving force towards financial wellbeing for
        the people of Scotland.
@@ -165,12 +165,12 @@ Most read
     What is a 100% Mortgage?
        In this blog, we look at the recent news about 100% mortgages and
        unpack some common questions surrounding mortgages.
+     * MATRICS learn
      * E-learning module
     E-learning module
        As well as delivering training and workshops, our financial
        capability team administers the financial capability e-learning
        module (ELM).
-     * MATRICS learn
      * Prescription of a debt
      * Our people
 

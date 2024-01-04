@@ -24,7 +24,7 @@ Search
    [ ] Search first posts only
    [ ] Search titles only
    By: ____________________
-   (BUTTON) Search Advanced search...
+   (BUTTON) Search Advanced searchâ€¦
      * Rules/Help/FAQ
        Help/FAQ
      * Members
@@ -375,7 +375,7 @@ Senior Member
      * Help
      * RSS
 
-   Community platform by XenForo^® © 2010-2023 XenForo Ltd.
+   Community platform by XenForo^Â® Â© 2010-2023 XenForo Ltd.
 
    Back
 

@@ -46,7 +46,7 @@ Search by state
    Most unclaimed money is held by state governments from sources such as
    bank accounts, insurance policies, or state agencies.
 
-   Search for unclaimed money from your state's unclaimed property office.
+   Search for unclaimed money from your state’s unclaimed property office.
    If you have lived in other states, check their unclaimed property
    offices, too.
 
@@ -58,23 +58,23 @@ Search other databases
    Search for unclaimed money Database or agency
 
    Employers
-     * Unpaid wages - Search the Department of Labor's database for back
+     * Unpaid wages – Search the Department of Labor’s database for back
 --
-     * Pensions from former employers - Contact the Pension Benefit
+     * Pensions from former employers – Contact the Pension Benefit
        Guaranty Corporation (PBGC) to search for an unclaimed pension.
 
    Unclaimed insurance money
-     * VA life insurance funds - Search the U.S. Department of Veterans
+     * VA life insurance funds – Search the U.S. Department of Veterans
        Affairs (VA) database for unclaimed insurance funds.
-     * FHA insurance refunds - If you had an FHA-insured mortgage, search
+     * FHA insurance refunds – If you had an FHA-insured mortgage, search
 --
    Investments
 
-   SEC enforcement funds - Search the Securities and Exchange Commission
+   SEC enforcement funds – Search the Securities and Exchange Commission
    (SEC) database for money from an investment enforcement case.
 
    Bank failures
-     * Bank failures - Search the FDIC database for unclaimed funds from
+     * Bank failures – Search the FDIC database for unclaimed funds from
 --
 
    Bankruptcies

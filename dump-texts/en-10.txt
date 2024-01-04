@@ -44,103 +44,37 @@ Contents
    (BUTTON) move to sidebar (BUTTON) hide
      * (Top)
      * 1Etymology
-
-     2History
-
-     3Functions
-   (BUTTON) Toggle Functions subsection
-     * 3.1Medium of exchange
-
-     3.2Measure of value
-
-
-
-   3.3Standard of deferred payment
-
-
-
-   3.4Store of value
-
-
-
-   4Properties
-
-
-
-   5Money supply
-
-   (BUTTON) Toggle Money supply subsection
-     * 5.1Creation of money
-
-
-
-   5.2Market liquidity
-
-
-
-   6Types
-
-   (BUTTON) Toggle Types subsection
-     * 6.1Commodity
-
-
-
-   6.2Representative
-
-
-
-   6.3Fiat
-
-
-
-   6.4Coinage
-
-
-
-   6.5Paper
-
-
-
-   6.6Commercial bank
-
-
-
-   6.7Digital or electronic
-
-
-
-   7Monetary policy
-
-
-
-   8Locality
-
-
-
-   9Financial crimes
-
-   (BUTTON) Toggle Financial crimes subsection
-     * 9.1Counterfeiting
-
-
-
-   9.2Money laundering
-
-
-
-   10See also
-
-
-
-   11References
-
-
-
-   12Further reading
-
-
-
-   13External links
+     * 2History
+     * 3Functions
+       (BUTTON) Toggle Functions subsection
+          + 3.1Medium of exchange
+          + 3.2Measure of value
+          + 3.3Standard of deferred payment
+          + 3.4Store of value
+     * 4Properties
+     * 5Money supply
+       (BUTTON) Toggle Money supply subsection
+          + 5.1Creation of money
+          + 5.2Market liquidity
+     * 6Types
+       (BUTTON) Toggle Types subsection
+          + 6.1Commodity
+          + 6.2Representative
+          + 6.3Fiat
+          + 6.4Coinage
+          + 6.5Paper
+          + 6.6Commercial bank
+          + 6.7Digital or electronic
+     * 7Monetary policy
+     * 8Locality
+     * 9Financial crimes
+       (BUTTON) Toggle Financial crimes subsection
+          + 9.1Counterfeiting
+          + 9.2Money laundering
+     * 10See also
+     * 11References
+     * 12Further reading
+     * 13External links
 
    [ ] Toggle the table of contents
 
@@ -149,197 +83,197 @@ Money
    [ ] 193 languages
      * Afrikaans
      * Alemannisch
-     * emarNa
-     * Assha
-     * a+l+e+r+b+y+tm
-     * Aragon�s
-     *
+     * አማርኛ
+     * Аԥсшәа
+     * العربية
+     * Aragonés
+     * অসমীয়া
      * Asturianu
-     * Ava�e'e?
-     * Avar
+     * Avañe'ẽ
+     * Авар
      * Aymar aru
-     * Az@rbaycanca
-     * t+r+g+h+
-     *
+     * Azərbaycanca
+     * تۆرکجه
+     * বাংলা
      * Banjar
-     * B�n-l�m-g�
-     * Bashortsa
-     * Belaruskaya
-     * Belaruskaya (tarashkeviica)
-     *
+     * Bân-lâm-gú
+     * Башҡортса
+     * Беларуская
+     * Беларуская (тарашкевіца)
+     * भोजपुरी
      * Bikol Central
-     * B"lgarski
+     * Български
      * Boarisch
-     *
+     * བོད་ཡིག
      * Bosanski
      * Brezhoneg
-     * Buryaad
-     * Catal�
-     * CHvashla
+     * Буряад
+     * Català
+     * Чӑвашла
      * Cebuano
-     * Cestina
+     * Čeština
      * Chavacano de Zamboanga
      * ChiShona
      * Cymraeg
      * Dagbanli
      * Dansk
-     * a+l+d+a+r+g+tm
-     * Davvis�megiella
+     * الدارجة
+     * Davvisámegiella
      * Deutsch
-     * Din� bizaad
+     * Diné bizaad
      * Eesti
-     * Ellynika'
-     * `Erzyan'
-     * Espa�ol
+     * Ελληνικά
+     * Эрзянь
+     * Español
      * Esperanto
-     * Estreme�u
+     * Estremeñu
      * Euskara
-     * f+a+r+s+
+     * فارسی
      * Fiji Hindi
-     * Fran�ais
+     * Français
      * Frysk
      * Gaeilge
-     * G�idhlig
+     * Gàidhlig
      * Galego
-     * Galgaj
-     *
-     *
-     * /Hak-k�-ng�
-     *
+     * ГӀалгӀай
+     * 贛語
+     * 𐌲𐌿𐍄𐌹𐍃𐌺
+     * 客家語/Hak-kâ-ngî
+     * 한국어
      * Hausa
-     *
-     *
+     * Հայերեն
+     * हिन्दी
      * Hrvatski
      * Ido
      * Igbo
      * Ilokano
      * Bahasa Indonesia
      * Interlingua
-     * I�upiatun
+     * Iñupiatun
      * IsiXhosa
      * IsiZulu
-     * �slenska
+     * Íslenska
      * Italiano
-     * E+B+R+J+T+
+     * עברית
      * Jawa
-     *
-     * K"arachaj-malk"ar
-     *
-     * azasha
+     * ಕನ್ನಡ
+     * Къарачай-малкъар
+     * ქართული
+     * Қазақша
      * Ikinyarwanda
      * Kiswahili
-     * Krey�l ayisyen
-     * Kriy�l gwiyannen
-     * Kurd�
-     * Kyrgyzcha
-     * Lakku
-     *
+     * Kreyòl ayisyen
+     * Kriyòl gwiyannen
+     * Kurdî
+     * Кыргызча
+     * Лакку
+     * ລາວ
      * Latina
-     * Latviesu
-     * L�tzebuergesch
-     * Lietuviu
+     * Latviešu
+     * Lëtzebuergesch
+     * Lietuvių
      * Li Niha
      * Ligure
      * Limburgs
-     * Ling�la
+     * Lingála
      * Lingua Franca Nova
      * Lombard
      * Magyar
-     *
-     * Makedonski
+     * मैथिली
+     * Македонски
      * Malagasy
-     *
-     * Maori
-     *
-     * m+c+r+j+
-     * m+a+z+1+r+w+n+
+     * മലയാളം
+     * Māori
+     * მარგალური
+     * مصرى
+     * مازِرونی
      * Bahasa Melayu
-     *
+     * ꯃꯤꯇꯩ ꯂꯣꯟ
      * Minangkabau
-     * / M�ng-de<?>ng-ngu--:�
-     * Mirand�s
-     * Mokshen'
-     * Mongol
-     *
+     * 閩東語 / Mìng-dĕ̤ng-ngṳ̄
+     * Mirandés
+     * Мокшень
+     * Монгол
+     * မြန်မာဘာသာ
      * Nederlands
      * Nedersaksies
-     *
-     *
-     *
-     * Nohchijn
+     * नेपाली
+     * नेपाल भाषा
+     * 日本語
+     * Нохчийн
      * Nordfriisk
      * Norfuk / Pitkern
-     * Norsk bokm�l
+     * Norsk bokmål
      * Norsk nynorsk
      * Occitan
-     * O;Szbekcha / v%zbekcha
-     *
-     * p+n+g+a+b+
-     * p+t+w+
+     * Oʻzbekcha / ўзбекча
+     * ਪੰਜਾਬੀ
+     * پنجابی
+     * پښتو
      * Patois
-     * Piemont�is
+     * Piemontèis
      * Tok Pisin
      * Polski
-     * Portugu�s
-     * Rom�na
-     * Romani chib
+     * Português
+     * Română
+     * Romani čhib
      * Runa Simi
-     * Rusin'skyj
-     * Russkij
-     * Saha tyla
+     * Русиньскый
+     * Русский
+     * Саха тыла
      * Sakizaya
      * Gagana Samoa
-     *
-     *
+     * संस्कृतम्
+     * ᱥᱟᱱᱛᱟᱲᱤ
      * Scots
      * Shqip
      * Sicilianu
-     *
+     * සිංහල
      * Simple English
-     * s+n+y+
-     * Slovencina
-     * Slovenscina
-     * Slunski
+     * سنڌي
+     * Slovenčina
+     * Slovenščina
+     * Ślůnski
      * Soomaaliga
-     * w+r+d+
-     * Srpski / srpski
-     * Srpskohrvatski / srpskohrvatski
+     * کوردی
+     * Српски / srpski
+     * Srpskohrvatski / српскохрватски
      * Sunda
      * Suomi
      * Svenska
      * Tagalog
-     *
-     * Taclh-.it
-     * Tatarcha / tatar�a
+     * தமிழ்
+     * Taclḥit
+     * Татарча / tatarça
      * Tayal
-     *
-     *
-     * Toik
-     *
-     * T�rk�e
-     * T�rkmen�e
+     * తెలుగు
+     * ไทย
+     * Тоҷикӣ
+     * ᏣᎳᎩ
+     * Türkçe
+     * Türkmençe
      * Tyap
-     * Tyva dyl
-     * Ukrayins'ka
-     * a+r+d+w+
+     * Тыва дыл
+     * Українська
+     * اردو
      * Vahcuengh
-     * V�neto
-     * Veps�n kel'
-     * Tie>'ng Vie>-.t
-     * V�ro
+     * Vèneto
+     * Vepsän kel’
+     * Tiếng Việt
+     * Võro
      * Walon
      * Wayuunaiki
-     *
+     * 文言
      * Winaray
      * Wolof
-     *
+     * 吴语
      * Xitsonga
-     * J+J+iD+J+Sh
-     * Yor�b�
-     *
+     * ייִדיש
+     * Yorùbá
+     * 粵語
      * Zazaki
-     * Zemaiteska
-     *
+     * Žemaitėška
+     * 中文
 
    Edit links
 
@@ -386,8 +320,7 @@ Money
    Object or record accepted as payment
    For other uses, see Money (disambiguation).
 
-   [330px-Dollar_bill_and_small_change.jpg] A United States dollar bill,
-   two five-cent coins and a penny
+   [330px-Euro_coins_and_banknotes_%28cropped%29.jpg] Banknotes and coins
 
    Money is any item or verifiable record that is generally accepted as
    payment for goods and services and repayment of debts, such as taxes,
@@ -443,9 +376,9 @@ History
    commodity money. The Mesopotamian shekel was a unit of weight, and
    relied on the mass of something like 160 grains of barley.^[12] The
    first usage of the term came from Mesopotamia circa 3000 BC. Societies
-   in the Americas, Asia, Africa and Australia used shell money--often,
-   the shells of the cowry (Cypraea moneta L. or C. annulus L.). According
-   to Herodotus, the Lydians were the first people to introduce the use of
+   in the Americas, Asia, Africa and Australia used shell money—often, the
+   shells of the cowry (Cypraea moneta L. or C. annulus L.). According to
+   Herodotus, the Lydians were the first people to introduce the use of
    gold and silver coins.^[13] It is thought by modern scholars that these
    first stamped coins were minted around 650 to 600 BC.^[14]
    [170px-Jiao_zi.jpg] Song Dynasty Jiaozi, the world's earliest paper
@@ -470,7 +403,7 @@ History
    used alongside coins. The gold standard, a monetary system where the
    medium of exchange are paper notes that are convertible into pre-set,
    fixed quantities of gold, replaced the use of gold coins as currency in
-   the 17th-19th centuries in Europe. These gold standard notes were made
+   the 17th–19th centuries in Europe. These gold standard notes were made
    legal tender, and redemption into gold coins was discouraged. By the
    beginning of the 20th century, almost all countries had adopted the
    gold standard, backing their legal tender notes with fixed amounts of
@@ -542,22 +475,22 @@ Functions
      * Universal basic income
 
    Models
-     * IS-LM
-     * AD-AS
+     * IS–LM
+     * AD–AS
      * Keynesian cross
      * Multiplier
      * Accelerator
      * Phillips curve
-     * Arrow-Debreu
-     * Harrod-Domar
-     * Solow-Swan
-     * Ramsey-Cass-Koopmans
+     * Arrow–Debreu
+     * Harrod–Domar
+     * Solow–Swan
+     * Ramsey–Cass–Koopmans
      * Overlapping generations
      * General equilibrium
           + DSGE
      * Endogenous growth
      * Matching theory
-     * Mundell-Fleming
+     * Mundell–Fleming
      * Overshooting
      * NAIRU
 
@@ -593,17 +526,17 @@ Functions
      * Market monetarism
 
    People
-     * Fran�ois Quesnay
+     * François Quesnay
      * Adam Smith
      * Thomas Robert Malthus
      * Karl Marx
-     * L�on Walras
+     * Léon Walras
      * Knut Wicksell
      * Irving Fisher
      * Wesley Clair Mitchell
      * John Maynard Keynes
      * Alvin Hansen
-     * Michal/ Kalecki
+     * Michał Kalecki
      * Gunnar Myrdal
      * Simon Kuznets
      * Joan Robinson
@@ -668,7 +601,7 @@ Functions
    inclusive term for all liquid instruments, whether or not they are a
    uniformly recognized tender.
 
-  Medium of exchange
+Medium of exchange
 
    Main article: Medium of exchange
 
@@ -706,7 +639,7 @@ Functions
    While standard of deferred payment is distinguished by some texts,^[22]
    particularly older ones, other texts subsume this under other
    functions.^[4]^[20]^[21]^[clarification needed] A "standard of deferred
-   payment" is an accepted way to settle a debt--a unit in which debts are
+   payment" is an accepted way to settle a debt—a unit in which debts are
    denominated, and the status of money as legal tender, in those
    jurisdictions which have this concept, states that it may function for
    the discharge of debts. When debts are denominated in money, the real
@@ -718,11 +651,11 @@ Functions
    Main article: Store of value
 
    To act as a store of value, money must be able to be reliably saved,
-   stored, and retrieved--and be predictably usable as a medium of
-   exchange when it is retrieved. The value of the money must also remain
-   stable over time. Some have argued that inflation, by reducing the
-   value of money, diminishes the ability of the money to function as a
-   store of value.^[4]^[failed verification]
+   stored, and retrieved—and be predictably usable as a medium of exchange
+   when it is retrieved. The value of the money must also remain stable
+   over time. Some have argued that inflation, by reducing the value of
+   money, diminishes the ability of the money to function as a store of
+   value.^[4]^[failed verification]
 
 Properties
 
@@ -778,6 +711,8 @@ Money supply
    reserve requirements of commercial banks.
 
   Creation of money
+
+   Main article: Money creation
 
    In current economic systems, money is created by two
    procedures:^[citation needed]
@@ -926,7 +861,7 @@ Types
    that was less of a burden than exchanging thousands of copper coins led
    to the introduction of paper money. This economic phenomenon was a slow
    and gradual process that took place from the late Tang dynasty
-   (618-907) into the Song dynasty (960-1279). It began as a means for
+   (618–907) into the Song dynasty (960–1279). It began as a means for
    merchants to exchange heavy coinage for receipts of deposit issued as
    promissory notes from shops of wholesalers, notes that were valid for
    temporary use in a small regional territory. In the 10th century, the
@@ -944,7 +879,7 @@ Types
    [220px-Money_poster.JPG] Paper money from different countries
 
    At around the same time in the medieval Islamic world, a vigorous
-   monetary economy was created during the 7th-12th centuries on the basis
+   monetary economy was created during the 7th–12th centuries on the basis
    of the expanding levels of circulation of a stable high-value currency
    (the dinar). Innovations introduced by economists, traders and
    merchants of the Muslim world include the earliest uses of credit,^[38]
@@ -1186,7 +1121,7 @@ Financial crimes
    Counterfeit money is imitation currency produced without the legal
    sanction of the state or government. Producing or using counterfeit
    money is a form of fraud or forgery. Counterfeiting is almost as old as
-   money itself. Plated copies (known as Fourr�es) have been found of
+   money itself. Plated copies (known as Fourrées) have been found of
    Lydian coins which are thought to be among the first western
    coins.^[58] Historically, objects that were difficult to counterfeit
    (e.g. shells, rare stones, precious metals) were often chosen as
@@ -1252,7 +1187,7 @@ References
     3. ^ "money : The New Palgrave Dictionary of Economics". The New
        Palgrave Dictionary of Economics. Retrieved 18 December 2010.
     4. ^ ^a ^b ^c ^d Mankiw, N. Gregory (2007). "2". Macroeconomics
-       (6th ed.). New York: Worth Publishers. pp. 22-32.
+       (6th ed.). New York: Worth Publishers. pp. 22–32.
        ISBN 978-0-7167-6213-3.
     5. ^ D'Eprio, Peter & Pinkowish, Mary Desmond (1998). What Are the
        Seven Wonders of the World? First Anchor Books, p. 192.
@@ -1260,18 +1195,18 @@ References
     6. ^ "Online Etymology Dictionary". etymonline.com. Retrieved
        2009-04-20.
     7. ^ Mauss, Marcel. The Gift: The Form and Reason for Exchange in
-       Archaic Societies. pp. 36-37.
+       Archaic Societies. pp. 36–37.
     8. ^ "The Myth of the Myth of the Myth of Barter and the Return of the
        Armchair Ethnologists". Bella Caledonia. 2016-06-08. Retrieved
        2020-02-12.
-    9. ^ "What is Debt? - An Interview with Economic Anthropologist David
+    9. ^ "What is Debt? – An Interview with Economic Anthropologist David
        Graeber". Naked Capitalism. 2011-08-26.
    10. ^ David Graeber: Debt: The First 5000 Years, Melville 2011. Cf.
        review Archived 2020-04-20 at the Wayback Machine
    11. ^ David Graeber (2001). Toward an anthropological theory of value:
-       the false coin of our own dreams. Palgrave Macmillan. pp. 153-154.
+       the false coin of our own dreams. Palgrave Macmillan. pp. 153–154.
        ISBN 978-0-312-24045-5. Retrieved 10 February 2011.
-   12. ^ Kramer, History Begins at Sumer, pp. 52-55.
+   12. ^ Kramer, History Begins at Sumer, pp. 52–55.
    13. ^ Herodotus. Histories, I, 94
    14. ^ Goldsborough, Reid (2003-10-02). "World's First Coin".
        rg.ancients.info. Retrieved 2009-04-20.
@@ -1280,10 +1215,10 @@ References
    16. ^ Marco Polo (1818). The Travels of Marco Polo, a Venetian, in the
        Thirteenth Century: Being a Description, by that Early Traveller,
        of Remarkable Places and Things, in the Eastern Parts of the World.
-       pp. 353-355. Retrieved 19 September 2012.
+       pp. 353–355. Retrieved 19 September 2012.
    17. ^ Wray, L. Randall (2012). Modern money theory: a primer on
        macroeconomics for sovereign monetary systems. Houndmills,
-       Basingstoke, Hampshire: Palgrave Macmillan. pp. 45-50.
+       Basingstoke, Hampshire: Palgrave Macmillan. pp. 45–50.
        ISBN 978-0230368897.
    18. ^ Milnes, Alfred (1919). The economic foundations of
        reconstruction. Macdonald and Evans. p. 55.
@@ -1292,7 +1227,7 @@ References
    20. ^ ^a ^b Krugman, Paul & Wells, Robin, Economics, Worth Publishers,
        New York (2006)
    21. ^ ^a ^b Abel, Andrew; Bernanke, Ben (2005). "7". Macroeconomics
-       (5th ed.). Pearson. pp. 266-269. ISBN 978-0-201-32789-2.
+       (5th ed.). Pearson. pp. 266–269. ISBN 978-0-201-32789-2.
    22. ^ ^a ^b T.H. Greco. Money: Understanding and Creating Alternatives
        to Legal Tender, White River Junction, Vt: Chelsea Green Publishing
        (2001). ISBN 1-890132-37-3
@@ -1307,7 +1242,7 @@ References
    27. ^ "History of Money". Zzaponline.com. Archived from the original on
        24 February 2015. Retrieved 24 February 2015.
    28. ^ Bernstein, Peter, A Primer on Money and Banking, and Gold, Wiley,
-       2008 edition, pp. 29-39
+       2008 edition, pp. 29–39
    29. ^ "Money creation in the modern economy | Bank of England".
        www.bankofengland.co.uk. 14 March 2014. Retrieved 2018-01-14.
    30. ^ Mises, Ludwig von. The Theory of Money and Credit, (Indianapolis,
@@ -1327,7 +1262,7 @@ References
    35. ^ Black, Henry Campbell (1910). A Law Dictionary Containing
        Definitions Of The Terms And Phrases Of American And English
        Jurisprudence, Ancient And Modern, p. 494. West Publishing Co.
-       Black's Law Dictionary defines the word "fiat" to mean "a short
+       Black’s Law Dictionary defines the word "fiat" to mean "a short
        order or warrant of a Judge or magistrate directing some act to be
        done; an authority issuing from some competent source for the doing
        of some legal act"
@@ -1336,12 +1271,12 @@ References
    37. ^ Shredded & Mutilated: Mutilated Currency, Bureau of Engraving and
        Printing. Retrieved 2007-05-09.
    38. ^ Banaji, Jairus (2007). "Islam, the Mediterranean and the Rise of
-       Capitalism". Historical Materialism. 15 (1): 47-74.
+       Capitalism". Historical Materialism. 15 (1): 47–74.
        doi:10.1163/156920607X171591. ISSN 1465-4466. OCLC 440360743.
        Archived from the original on May 23, 2009. Retrieved August 28,
        2010.
    39. ^ ^a ^b Labib, Subhi Y. (March 1969). "Capitalism in Medieval
-       Islam". The Journal of Economic History. 29 (1): 79-86.
+       Islam". The Journal of Economic History. 29 (1): 79–86.
        doi:10.1017/S0022050700097837. ISSN 0022-0507. JSTOR 2115499.
        OCLC 478662641. S2CID 153962294.
    40. ^ O'Sullivan, Arthur; Sheffrin, Steven M. (2003). Economics:
@@ -1350,7 +1285,7 @@ References
    41. ^ Mankiw, N. Gregory (2022), Macroeconomics (11th ed.), Worth
        Publishers, p. 82, ISBN 978-1-319-26390-4
    42. ^ Goodhart, Charles (2016). "Monetary Base". The New Palgrave
-       Dictionary of Economics. Palgrave Macmillan UK. pp. 1-5.
+       Dictionary of Economics. Palgrave Macmillan UK. pp. 1–5.
        doi:10.1057/978-1-349-95121-5_997-1. ISBN 978-1-349-95121-5.
        Retrieved 19 October 2023.
    43. ^ Ihrig, Jane; Weinbach, Gretchen C.; Wolla, Scott A. (September
@@ -1384,10 +1319,10 @@ References
        Policy". Board of Governors of the Federal Reserve System. 8 March
        2018. Retrieved 2 November 2023.
    53. ^ Baker, Nick; Rafter, Sally (16 June 2022). "An International
-       Perspective on Monetary Policy Implementation Systems | Bulletin -
+       Perspective on Monetary Policy Implementation Systems | Bulletin –
        June 2022". Reserve Bank of Australia. Retrieved 2 November 2023.
    54. ^ Milton Friedman; Anna Jacobson Schwartz (1971). Monetary History
-       of the United States, 1867-1960. Princeton, N.J: Princeton
+       of the United States, 1867–1960. Princeton, N.J: Princeton
        University Press. ISBN 978-0-691-00354-2.
    55. ^ David Laidler (1997). Money and Macroeconomics: The Selected
        Essays of David Laidler (Economists of the Twentieth Century).
@@ -1395,12 +1330,12 @@ References
    56. ^ Blanchard, Olivier (2021). Macroeconomics (Eighth, global ed.).
        Harlow, England: Pearson. p. 505-507. ISBN 978-0-134-89789-9.
    57. ^ Radford, R. A. (November 1945). "The Economic Organisation of a
-       P.O.W. Camp". Economica. 12 (48): 189-201. doi:10.2307/2550133.
+       P.O.W. Camp". Economica. 12 (48): 189–201. doi:10.2307/2550133.
        JSTOR 2550133.
    58. ^ "A Case for the World's Oldest Coin". Retrieved 29 January 2013.
-   59. ^ Gourinchas, Pierre-Olivier; Rey, H�l�ne; Sauzet, Maxime (2019).
+   59. ^ Gourinchas, Pierre-Olivier; Rey, Hélène; Sauzet, Maxime (2019).
        "The International Monetary and Financial System". Annual Review of
-       Economics. 11 (1): 859-893.
+       Economics. 11 (1): 859–893.
        doi:10.1146/annurev-economics-080217-053518. ISSN 1941-1383.
        S2CID 169545752.
    60. ^ "Counterfeiting statistics for several currencies".
@@ -1417,9 +1352,9 @@ Further reading
      * Keen, Steve (February 2015). "What Is Money and How Is It Created?"
        argues, "Banks create money by issuing a loan to a borrower; they
        record the loan as an asset, and the money they deposit in the
-       borrower's account as a liability. This, in one way, is no
+       borrower’s account as a liability. This, in one way, is no
        different to the way the Federal Reserve creates money ... money is
-       simply a third party's promise to pay which we accept as full
+       simply a third party’s promise to pay which we accept as full
        payment in exchange for goods. The two main third parties whose
        promises we accept are the government and the banks ... money ...
        is not backed by anything physical, and instead relies on trust. Of
@@ -1436,7 +1371,7 @@ Further reading
 
      Lanchester, John, "The Invention of Money: How the heresies of two
    bankers became the basis of our modern economy", The New Yorker, 5 & 12
-   August 2019, pp. 28-31.
+   August 2019, pp. 28–31.
 
      Weatherford, Jack. The history of money (2009). by a cultural
    anthropologist. excerpt
@@ -1451,8 +1386,8 @@ External links
        Evans and Jane Humphries (In Our Time, Mar. 1, 2001)
      *
 
-   Bastable, Charles Francis (1911). "Money" . Encyclop�dia Britannica.
-   Vol. 18 (11th ed.). pp. 694-708.
+   Bastable, Charles Francis (1911). "Money" . Encyclopædia Britannica.
+   Vol. 18 (11th ed.). pp. 694–708.
 
      * v
      * t
@@ -1521,7 +1456,7 @@ External links
           + Depository institution
      * Mint
      * Akkadian standards of measurement (c. 2150 BC)
-     * Code of Hammurabi (�100; �122-125; c. 1750 BC)
+     * Code of Hammurabi (§100; §122–125; c. 1750 BC)
      * Commodity theory of money (Metallism)
      * Credit theory of money
           + Chartalism
@@ -1643,7 +1578,7 @@ External links
      * Humanistic
      * Institutional
      * Keynesian
-          + Neo- (neoclassical-Keynesian synthesis)
+          + Neo- (neoclassical–Keynesian synthesis)
           + New
           + Post-
                o Circuitism
@@ -1671,7 +1606,7 @@ External links
      * Malthus
      * Say
      * Ricardo
-     * von Th�nen
+     * von Thünen
      * List
      * Bastiat
      * Cournot
@@ -1686,7 +1621,7 @@ External links
      * Edgeworth
      * Clark
      * Pareto
-     * von B�hm-Bawerk
+     * von Böhm-Bawerk
      * von Wieser
      * Veblen
      * Fisher
@@ -1702,7 +1637,7 @@ External links
      * Myrdal
      * Hayek
      * Kalecki
-     * R�pke
+     * Röpke
      * Kuznets
      * Robinson
      * von Neumann
@@ -1763,10 +1698,10 @@ External links
 
     Other
      * Historical Dictionary of Switzerland
-     * Isl�m Ansiklopedisi
+     * İslâm Ansiklopedisi
 
    Retrieved from
-   "https://en.wikipedia.org/w/index.php?title=Money&oldid=1190403136"
+   "https://en.wikipedia.org/w/index.php?title=Money&oldid=1193309138"
 
    Categories:
      * Money
@@ -1800,12 +1735,12 @@ External links
      * Articles with NKC identifiers
      * Articles with PLWABN identifiers
      * Articles with HDS identifiers
-     * Articles with TDVIA identifiers
+     * Articles with TDVİA identifiers
 
-     * This page was last edited on 17 December 2023, at 18:06 (UTC).
+     * This page was last edited on 3 January 2024, at 04:12 (UTC).
      * Text is available under the Creative Commons Attribution-ShareAlike
        License 4.0; additional terms may apply. By using this site, you
-       agree to the Terms of Use and Privacy Policy. Wikipedia� is a
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
        registered trademark of the Wikimedia Foundation, Inc., a
        non-profit organization.
 

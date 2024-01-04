@@ -7,7 +7,7 @@
    Cookie settings (BUTTON) Accept cookies
 
    (BUTTON) Toggle navigation ProZ.com ProZ.com Register (free)
-     * �
+     * ×
      * Terminology
           + KudoZ help network
           + Term search
@@ -169,7 +169,7 @@
      *
      * Login
 
-   Translation - art & business � Money matters �
+   Translation - art & business » Money matters »
 
 Receiving money via PayPal: good thing or bad thing?
 
@@ -183,7 +183,7 @@ Receiving money via PayPal: good thing or bad thing?
    Dorothy Schaps
    Dorothy Schaps   Identity Verified
    Germany
-   Local time: 00:44
+   Local time: 13:15
    Member (2010)
    German to English
    May 5, 2015
@@ -214,13 +214,13 @@ Receiving money via PayPal: good thing or bad thing?
    for me and I'd like to understand both sides of the argument.
    What are your experiences with being paid via PayPal? Do agencies
    generally bear the costs? Could I just add a line to my invoice 'Plus
-   1.9% + EUR0.35 PayPal charges' and have them accept it, no questions
+   1.9% + €0.35 PayPal charges' and have them accept it, no questions
    asked? Are the PayPal charges likely to be lower than bank charges? Or
    if they won't accept the costs could I demand payment within one or two
    weeks? What do you do?
    Thanks very much [icon_smile.gif]
    All the best
-   Dorothy ^ Collapse
+   Dorothy ▲ Collapse
    [128_profile_placeholder.png]
 
    Subject:
@@ -242,7 +242,7 @@ Receiving money via PayPal: good thing or bad thing?
    Lincoln Hui
    Lincoln Hui   Identity Verified
    Hong Kong
-   Local time: 07:44
+   Local time: 20:15
    Member
    Chinese to English
    + ...
@@ -270,7 +270,7 @@ Receiving money via PayPal: good thing or bad thing?
    Paypal. The invoicing process is bothersome enough without wasting my
    time trying to get savings that come out to below minimum wage when
    time spent is taken into account.
-   [Edited at 2015-05-05 13:29 GMT] ^ Collapse
+   [Edited at 2015-05-05 13:29 GMT] ▲ Collapse
    [128_profile_placeholder.png]
 
    Subject:
@@ -292,7 +292,7 @@ Receiving money via PayPal: good thing or bad thing?
    Thomas T. Frost
    Thomas T. Frost   Identity Verified
    Portugal
-   Local time: 23:44
+   Local time: 12:15
    Danish to English
    + ...
    Sometimes the least bad solution
@@ -328,9 +328,9 @@ Receiving money via PayPal: good thing or bad thing?
    accept transfers in their currencies without charges.
    What fees are concerned, it's a compromise to consider. If the fees
    make the job unprofitable, then I would refuse it. If you can earn
-   enough money working for clients that don't require Paypal, then you
+   enough money working for clients that don’t require Paypal, then you
    can turn them down. Otherwise, it's simply a part of normal and
-   deductible business expenses. ^ Collapse
+   deductible business expenses. ▲ Collapse
    [128_profile_placeholder.png]
 
    Subject:
@@ -352,7 +352,7 @@ Receiving money via PayPal: good thing or bad thing?
    Natalia Mackevich
    Natalia Mackevich   Identity Verified
    United Kingdom
-   Local time: 23:44
+   Local time: 12:15
    English to Russian
    + ...
    On budgeting
@@ -373,7 +373,7 @@ Receiving money via PayPal: good thing or bad thing?
    minutes). So basically, offering several payment options gave me some
    flexibility in budgeting. My main clients pay directly to my bank
    account, while some minor irregular payments top up my "pocket money".
-   [Redaktirovalos' 2015-05-05 14:58 GMT] ^ Collapse
+   [Редактировалось 2015-05-05 14:58 GMT] ▲ Collapse
    [128_profile_placeholder.png]
 
    Subject:
@@ -395,7 +395,7 @@ Receiving money via PayPal: good thing or bad thing?
    Sheila Wilson
    Sheila Wilson   Identity Verified
    Spain
-   Local time: 23:44
+   Local time: 12:15
    Member (2007)
    English
    + ...
@@ -431,7 +431,7 @@ Receiving money via PayPal: good thing or bad thing?
    conversion as I spend the dollars online) - that's why I'm ready to
    accept these payments.
    You need to decide what you'll accept and why, and make sure there's a
-   good business case. ^ Collapse
+   good business case. ▲ Collapse
    [128_profile_placeholder.png]
 
    Subject:
@@ -453,7 +453,7 @@ Receiving money via PayPal: good thing or bad thing?
    Gabriele Demuth
    Gabriele Demuth   Identity Verified
    United Kingdom
-   Local time: 23:44
+   Local time: 12:15
    English to German
    Sheila
    May 5, 2015
@@ -497,7 +497,7 @@ Receiving money via PayPal: good thing or bad thing?
    Thomas T. Frost
    Thomas T. Frost   Identity Verified
    Portugal
-   Local time: 23:44
+   Local time: 12:15
    Danish to English
    + ...
    Usually free
@@ -593,7 +593,7 @@ Receiving money via PayPal: good thing or bad thing?
    Even refunds are easy with PayPal. Suppose you get a wrong amount, the
    refund can be instant, and without costing a penny.
    Best,
-   [Edited at 2015-05-05 18:38 GMT] ^ Collapse
+   [Edited at 2015-05-05 18:38 GMT] ▲ Collapse
    [128_profile_placeholder.png]
 
    Subject:
@@ -615,7 +615,7 @@ Receiving money via PayPal: good thing or bad thing?
    Anton Konashenok
    Anton Konashenok   Identity Verified
    Czech Republic
-   Local time: 00:44
+   Local time: 13:15
    Russian to English
    + ...
    Don't forget about the conversion rates
@@ -645,7 +645,7 @@ Receiving money via PayPal: good thing or bad thing?
    Tom in London
    Tom in London
    United Kingdom
-   Local time: 23:44
+   Local time: 12:15
    Member (2008)
    Italian to English
    About PayPal
@@ -707,7 +707,7 @@ Receiving money via PayPal: good thing or bad thing?
    Tom in London
    Tom in London
    United Kingdom
-   Local time: 23:44
+   Local time: 12:15
    Member (2008)
    Italian to English
    Alternatives
@@ -727,7 +727,7 @@ Receiving money via PayPal: good thing or bad thing?
    payments system, which I have suggested could be called ProzPay. So
    far, no result ! It would probably be far too complicated to organise,
    and would have a relatively limited number of users.
-   [Edited at 2015-05-06 06:32 GMT] ^ Collapse
+   [Edited at 2015-05-06 06:32 GMT] ▲ Collapse
    [128_profile_placeholder.png]
 
    Subject:
@@ -796,7 +796,7 @@ Receiving money via PayPal: good thing or bad thing?
    Samuel Murray
    Samuel Murray   Identity Verified
    Netherlands
-   Local time: 00:44
+   Local time: 13:15
    Member (2006)
    English to Afrikaans
    + ...
@@ -902,7 +902,7 @@ Receiving money via PayPal: good thing or bad thing?
    Andriy Bublikov   [Call to this topic]
    Rita Pang         [Call to this topic]
    James Heppe-Smith [Call to this topic]
-   You can also contact site staff by submitting a support request �
+   You can also contact site staff by submitting a support request »
 
 Receiving money via PayPal: good thing or bad thing?
 
@@ -916,15 +916,15 @@ Receiving money via PayPal: good thing or bad thing?
    Country-specific forums
    Forums about ProZ.com
    [icon-new.png] Translation news
-   � British Museum Vs. Translator on plagiarism claims
+   » British Museum Vs. Translator on plagiarism claims
    (2 comments)
-   � Survey: gender and family in the language services industry
+   » Survey: gender and family in the language services industry
    (2 comments)
-   � International influence on Hong Kong's English street names
+   » International influence on Hong Kong's English street names
    (0 comments)
 
-                                                 Submit translation news �
-                                              Read more translation news �
+                                                Submit translation news »
+                                             Read more translation news »
 
    Forum rules
    Help and orientation
@@ -934,14 +934,15 @@ Receiving money via PayPal: good thing or bad thing?
    Translation Office 3000 is an advanced accounting tool for freelance
    translators and small agencies. TO3000 easily and seamlessly integrates
    with the business life of professional freelance translators.
-   More info �
-   Trados Business Manager Lite
-   [b906eb6a0a3f5bafa326ddb2b68cb9b4.png]
-   Create customer quotes and invoices from within Trados Studio
-   Trados Business Manager Lite helps to simplify and speed up some of the
-   daily tasks, such as invoicing and reporting, associated with running
-   your freelance translation business.
-   More info �
+   More info »
+   Wordfast Pro
+   [4b1068fb7ecebb0e790a2d08d89129f0.png]
+   Translation Memory Software for Any Platform
+   Exclusive discount for ProZ.com users! Save over 13% when purchasing
+   Wordfast Pro through ProZ.com. Wordfast is the world's #1 provider of
+   platform-independent Translation Memory software. Consistently ranked
+   the most user-friendly and highest value
+   Buy now! »
 
    X
    Sign in to your ProZ.com account...
@@ -995,7 +996,7 @@ Receiving money via PayPal: good thing or bad thing?
      *
      *
 
-   Copyright � 1999-2023 ProZ.com - All rights reserved. Privacy - Print
+   Copyright © 1999-2024 ProZ.com - All rights reserved. Privacy - Print
    page
    TM-Town For another site operated by ProZ.com for finding translators
    and getting found, go to TM-Town.
@@ -1017,19 +1018,19 @@ Your current localization setting
 Select a language
 
      * Magyar
-     * Chinese
+     * Chinese汉语
      * Deutsch
-     * Espa�ol
+     * Español
      * Nederlands
-     * cestina
-     * Fran�ais
+     * čeština
+     * Français
      * Italiano
-     *
+     * 日本語
      * Polski
-     * Portugu�s (Br)
-     * Rom�na
-     * russkij
-     * e+r+b+y+
+     * Português (Br)
+     * Română
+     * русский
+     * عربي
 
    More languages...
 

@@ -3,8 +3,8 @@
 
 [XBTF]Questions about making money
 
-   General discussions about the games by Egosoft including X-BTF, XT, X²,
-   X³: Reunion, X³: Terran Conflict and X³: Albion Prelude.
+   General discussions about the games by Egosoft including X-BTF, XT, XÂ²,
+   XÂ³: Reunion, XÂ³: Terran Conflict and XÂ³: Albion Prelude.
 --
           Joined: Mon, 25. May 09, 14:01
           x3tc
@@ -28,14 +28,14 @@
 --
      * Quote
 
-   Post by AgamemnonArgon » Mon, 2. Sep 13, 00:12
+   Post by AgamemnonArgon Â» Mon, 2. Sep 13, 00:12
    As long as you have money to buy energy cells, you can buy or use a
    current ship to buy for your station.
    The ship or fighter needs Trade 1 and 2 installed and supply software.
    Goto ships command menu.
 --
 
-   Post by N4N » Mon, 2. Sep 13, 00:36
+   Post by N4N Â» Mon, 2. Sep 13, 00:36
 
    AgamemnonArgon wrote:As long as you have money to buy energy cells, you
    can buy or use a current ship to buy for your station.

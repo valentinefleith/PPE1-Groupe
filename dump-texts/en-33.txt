@@ -47,10 +47,10 @@ What Is Money?
    exactly what money is, or how it works.
 
    In short, money can be anything that can serve as a
-   o store of value, which means people can save it and use it
-       later--smoothing their purchases over time;
-       o unit of account, that is, provide a common base for prices; or
-       o medium of exchange, something that people can use to buy and sell
+   • store of value, which means people can save it and use it
+       later—smoothing their purchases over time;
+       • unit of account, that is, provide a common base for prices; or
+       • medium of exchange, something that people can use to buy and sell
        from one another.
 
        IFRAME: http://www.youtube.com/embed/FpMB0Qhnp7E
@@ -69,10 +69,10 @@ What Is Money?
    specialize. People might starve before they were able to find the right
    person with whom to barter.
 
-   But with money, you don't need to find a particular person. You just
+   But with money, you don’t need to find a particular person. You just
    need a market in which to sell your goods or services. In that market,
-   you don't barter for individual goods. Instead you exchange your goods
-   or services for a common medium of exchange--that is, money. You can
+   you don’t barter for individual goods. Instead you exchange your goods
+   or services for a common medium of exchange—that is, money. You can
    then use that money to buy what you need from others who also accept
    the same medium of exchange. As people become more specialized, it is
    easier to produce more, which leads to more demand for transactions
@@ -83,7 +83,7 @@ Many monies
 
    To put it a different way, money is something that holds its value over
    time, can be easily translated into prices, and is widely accepted.
-   Many different things have been used as money over the years--among
+   Many different things have been used as money over the years—among
    them, cowry shells, barley, peppercorns, gold, and silver.
 
    At first, the value of money was anchored by its alternative uses, and
@@ -95,7 +95,7 @@ Many monies
    happy to trade for them, but they make poor money because they are
    perishable. They are difficult to save for use next month, let alone
    next year, and almost impossible to use in trade with people far away.
-   There is also the problem of divisibility--not everything of value is
+   There is also the problem of divisibility—not everything of value is
    easily divided, and standardizing each unit is also tricky; for
    example, the value of a basket of strawberries measured against
    different items is not easy to establish and keep constant. Not only do
@@ -121,7 +121,7 @@ Many monies
    fiat money was born. Fiat money is materially worthless, but has value
    simply because a nation collectively agrees to ascribe a value to it.
    In short, money works because people believe that it will. As the means
-   of exchange evolved, so did its source--from individuals in barter, to
+   of exchange evolved, so did its source—from individuals in barter, to
    some sort of collective acceptance when money was barley or shells, to
    governments in more recent times.
 
@@ -135,12 +135,12 @@ Many monies
    farmer has a hard time finding people with money who want to buy wheat,
    he may have to accept fewer coins or bills in exchange for the grain.
    The result is that the price of wheat goes down because the supply of
-   money is too tight. One reason might be that there just isn't enough
+   money is too tight. One reason might be that there just isn’t enough
    gold to mint new money. When prices as a whole go down, it is called
    deflation. On the other hand, if there is more money in circulation but
    the same level of demand for goods, the value of the money will drop.
-   This is inflation--when it takes more money to get the same amount of
-   goods and services (see "What Is Inflation?" in the March 2010 issue of
+   This is inflation—when it takes more money to get the same amount of
+   goods and services (see “What Is Inflation?” in the March 2010 issue of
    F&D). Keeping the demand for and supply of money balanced can be
    tricky.
 
@@ -165,9 +165,9 @@ Manufacturing money
    this temptation to print money willy-nilly, most countries today have
    delegated the task of deciding how much money to print to independent
    central banks, which are charged with making the call based on their
-   assessment of the economy's needs and do not transfer funds to the
-   government to finance its spending (see "What Is Monetary Policy?" in
-   the September 2009 issue of F&D). The term "printing money" is
+   assessment of the economy’s needs and do not transfer funds to the
+   government to finance its spending (see “What Is Monetary Policy?” in
+   the September 2009 issue of F&D). The term “printing money” is
    something of a misnomer in itself. Most money today is in the form of
    bank deposits rather than paper currency (see box).
 
@@ -180,20 +180,20 @@ Belief can fade
    currency, because inflation was eroding its value so rapidly. They
    started using a more stable one, the U.S. dollar, as the de facto
    currency. This phenomenon is called unofficial, or de facto,
-   dollarization. The government loses its monopoly on issuing money--and
+   dollarization. The government loses its monopoly on issuing money—and
    dollarization can be very difficult to reverse.
 
    Some policies governments have used to restore confidence in a currency
-   nicely highlight the "faith" part of money functioning. In Turkey, for
+   nicely highlight the “faith” part of money functioning. In Turkey, for
    example, the government rebased the currency, the lira, eliminating six
    zeros in 2005. Overnight, 1,000,000 liras became 1 lira. Brazil, on the
    other hand, introduced a new currency in 1994, the real. In both
    countries, citizens went along, demonstrating that as long as everyone
    accepts that a different denomination or a new currency is the norm, it
    simply will be. Just like fiat money. If it is accepted as money, it is
-   money. fS
+   money. ■
 
-   Irena Asmundson and Ceyda Oner are Economists in the IMF's Strategy,
+   Irena Asmundson and Ceyda Oner are Economists in the IMF’s Strategy,
    Policy, and Review Department.
 
 Reference
@@ -243,9 +243,9 @@ F&D Magazine
      * Scam Alert
 
      * English
-     * e+r+b+y+
-     *
-     * Fran�ais
-     *
-     * Russkij
-     * Espa�ol
+     * عربي
+     * 中文
+     * Français
+     * 日本語
+     * Русский
+     * Español

@@ -2,7 +2,7 @@
 
    Skip to main content
 
-   (BUTTON) -HVN- (BUTTON) back home (BUTTON) search
+   (BUTTON) ☰ (BUTTON) back home (BUTTON) search
 
      * Banking and budgeting
           + Banking
@@ -292,7 +292,7 @@ Financial counselling
    Financial counselling is a free and confidential service offered by
    not-for-profit community organisations.
 
-   Financial counsellors do not offer legal advice. If you're facing legal
+   Financial counsellors do not offer legal advice. If you’re facing legal
    action, get free legal advice straight away.
 
 What financial counsellors do
@@ -444,7 +444,7 @@ Credit scores and credit reports
      *
 
 Credit repair
-       Don't pay to fix your credit report -- do it yourself for free
+       Don't pay to fix your credit report — do it yourself for free
        2 min read
      *
 
@@ -469,7 +469,7 @@ Bankruptcy and debt agreements
      *
 
 Free legal advice
-       If you're facing legal action, you can get free legal advice
+       If you’re facing legal action, you can get free legal advice
        2 min read
      *
 

@@ -74,6 +74,7 @@ if [ $response -eq 200 ];then
 	then
 		iconv -f "$encoding" -t "UTF-8" "$FICHIER_ASPIRATION" > "temp.html"
 		mv "temp.html" "$FICHIER_ASPIRATION"
+		encoding="UTF-8"
 	fi
 		FICHIER_DUMP="../dump-texts/${LANGUE}-${lineno}.txt"
 		lynx -assume_charset="UTF-8" -dump -nolist "$FICHIER_ASPIRATION" > "$FICHIER_DUMP"

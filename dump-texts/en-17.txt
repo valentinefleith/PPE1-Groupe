@@ -1,9 +1,9 @@
    European Central Bank - eurosystem
    LANGUAGE:
    EN
-   B"lgarskiCestinaDanskDeutschEllynika'EnglishEspa�olEesti
-   keelSuomiFran�aisGaeilgeHrvatskiMagyarItalianoLietuviuLatviesuMaltiNede
-   rlandsPolskiPortugu�sRom�naSlovencinaSlovenscinaSvenska
+   БългарскиČeštinaDanskDeutschEλληνικάEnglishEspañolEesti
+   keelSuomiFrançaisGaeilgeHrvatskiMagyarItalianoLietuviųLatviešuMaltiNede
+   rlandsPolskiPortuguêsRomânăSlovenčinaSlovenščinaSvenska
    (BUTTON) Menu
    our logo, a yellow Euro sign surrounded by yellow stars centered in a
    dark blue circle resting on a dark blue base
@@ -21,7 +21,7 @@
    Suggestions
    []
    Home Media Explainers Research & Publications Statistics Monetary
-   Policy The EURuro Payments & Markets Careers
+   Policy The €uro Payments & Markets Careers
    Suggestions
    Sort by
    (*) Relevance ( ) Date
@@ -39,20 +39,20 @@ What is money?
 
    Euro banknotes and coins are money but so is the balance on a bank
    account. What actually is money? How is it created and what is the
-   ECB's role?
+   ECB’s role?
    Tell me: What is a central bank?
 
 The changing essence of money
 
    The nature of money has evolved over time. Early money was usually
-   commodity money - an object made of something that had a market value,
+   commodity money – an object made of something that had a market value,
    such as a gold coin. Later on, representative money consisted of
    banknotes that could be swapped against a certain amount of gold or
    silver. Modern economies, including the euro area, are based on fiat
    money. This is money that is declared legal tender and issued by a
    central bank but, unlike representative money, cannot be converted
-   into, for example, a fixed weight of gold. It has no intrinsic value -
-   the paper used for banknotes is in principle worthless - yet is still
+   into, for example, a fixed weight of gold. It has no intrinsic value –
+   the paper used for banknotes is in principle worthless – yet is still
    accepted in exchange for goods and services because people trust the
    central bank to keep the value of money stable over time. If central
    banks were to fail in this endeavour, fiat money would lose its general
@@ -74,18 +74,18 @@ The nature of money over time
 
    Despite the rapid rise in electronic payments, cash is still very
    popular. In the euro area, cash is used for a high proportion of all
-   payments under EUR20. The value of euro cash is guaranteed by the ECB
-   and the national central banks of the euro area countries, which
-   together form the Eurosystem.
+   payments under €20. The value of euro cash is guaranteed by the ECB and
+   the national central banks of the euro area countries, which together
+   form the Eurosystem.
 
 The uses of money and how the ECB keeps track of it
 
    Money, whatever its form, has three different functions. It is a medium
-   of exchange - a means of payment with a value that everyone trusts.
+   of exchange – a means of payment with a value that everyone trusts.
    Money is also a unit of account allowing goods and services to be
    priced. And it is a store of value. Only a portion of euro cash in
    circulation actually circulates, i.e. is used for processing payments.
-   For example, many of the circulating EUR50 notes are hoarded.
+   For example, many of the circulating €50 notes are hoarded.
 
 The functions of money
 
@@ -94,8 +94,8 @@ The functions of money
    money and prices. Several aggregates are needed because many different
    financial assets are substitutable and the nature and characteristics
    of financial assets, transactions and means of payment change over
-   time. The Eurosystem has defined a narrow (M1), an "intermediate" (M2)
-   and a broad monetary aggregate (M3) for use in the ECB's monetary
+   time. The Eurosystem has defined a narrow (M1), an “intermediate” (M2)
+   and a broad monetary aggregate (M3) for use in the ECB’s monetary
    analysis. The ECB looks at developments in these aggregates, together
    with a lot of other information and analyses, as part of its monetary
    policy strategy.
@@ -106,30 +106,30 @@ How is money created?
    influences the flow of money and credit in the economy to achieve
    stable prices. Commercial banks, in turn, can borrow money, i.e.
    central bank reserves, from the ECB, usually to cover very short-term
-   liquidity needs. The ECB's main tool for controlling the quantity of
-   "outside" money, and hence the demand for central bank reserves by
-   commercial banks, is setting very short-term interest rates - the "cost
-   of money".
+   liquidity needs. The ECB’s main tool for controlling the quantity of
+   “outside” money, and hence the demand for central bank reserves by
+   commercial banks, is setting very short-term interest rates – the “cost
+   of money”.
 
 Money creation in the euro area
 
-   Commercial banks can also create so-called "inside" money, i.e. bank
-   deposits - this happens every time they issue a new loan. The
+   Commercial banks can also create so-called “inside” money, i.e. bank
+   deposits – this happens every time they issue a new loan. The
    difference between outside and inside money is that the former is an
-   asset for the economy as a whole, but it is nobody's liability. Inside
+   asset for the economy as a whole, but it is nobody’s liability. Inside
    money, on the other hand, is named this way because it is backed by
    private credit: if all the claims held by banks on private debtors were
    to be settled, the inside money created would be reversed to zero. So,
-   it is one form of currency that is created - and can be reversed -
+   it is one form of currency that is created – and can be reversed –
    within the private economy.
 
-What about the ECB's "money-printing" scheme I keep reading about?
+What about the ECB’s “money-printing” scheme I keep reading about?
 
    In practice, only the national central banks physically issue euro
-   banknotes. "Money-printing" is the colloquial term for the ECB's asset
-   purchase programme, a form of "quantitative easing". By purchasing
+   banknotes. “Money-printing” is the colloquial term for the ECB’s asset
+   purchase programme, a form of “quantitative easing”. By purchasing
    assets in the financial market, the ECB creates additional central bank
-   reserves that can help reduce - through a variety of channels - the
+   reserves that can help reduce – through a variety of channels – the
    interest rates faced by households and firms with a view to supporting
    the economy and, ultimately, to keep the value of money stable when the
    room to cut those interest rates directly controlled by the ECB is
@@ -141,7 +141,7 @@ What about the ECB's "money-printing" scheme I keep reading about?
    contribute to improving monetary and financial conditions, making it
    cheaper for businesses and households to borrow so they can invest and
    spend more. The ultimate aim is that inflation rates return to levels
-   close to but below 2% in line with the ECB's price stability mandate.
+   close to but below 2% in line with the ECB’s price stability mandate.
    Tell me more: What is the expanded asset purchase programme?
 
 Here is a challenge for you!
@@ -165,7 +165,7 @@ Find out more about related content
    Site directory
    FOLLOW US
 
-   Copyright 2023, European Central Bank
+   Copyright 2024, European Central Bank
    Useful links
      * Work with us
      * Glossary

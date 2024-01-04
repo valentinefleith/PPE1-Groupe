@@ -10,7 +10,7 @@
 --
 Log In
 
-   (BUTTON) ×
+   (BUTTON) Ã—
    Access to this requires a paid subscription to Money magazine.
    Email *
    ____________________
@@ -76,7 +76,7 @@ What the bank looks at when you ask to borrow money
 
 Sign up to Money Newsletter
 
-   (BUTTON) ×
+   (BUTTON) Ã—
    Email
    First Name
    Last Name
@@ -115,7 +115,7 @@ Money Newsletter
 
 Sign up to Money Newsletter
 
-   (BUTTON) ×
+   (BUTTON) Ã—
    Email *
 --
    [ ] By signing up, I accept the Privacy Policy and Terms & Conditions
@@ -123,7 +123,7 @@ Sign up to Money Newsletter
 
 Sign up to Money Newsletter
 
-   (BUTTON) ×
+   (BUTTON) Ã—
 
    Welcome to Money!
 
