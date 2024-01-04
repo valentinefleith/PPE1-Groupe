@@ -1,9 +1,9 @@
    #alternate alternate alternate next
 
-   La boutique ne fonctionnera pas correctement dans le cas où les cookies
-   sont désactivés.
+   La boutique ne fonctionnera pas correctement dans le cas oÃ¹ les cookies
+   sont dÃ©sactivÃ©s.
 
-   Javascript est désactivé dans votre navigateur. Pour une expérience
+   Javascript est dÃ©sactivÃ© dans votre navigateur. Pour une expÃ©rience
    optimale sur notre site, veuillez autoriser Javascript sur votre
    navigateur.
 
@@ -13,109 +13,105 @@
    fr
      * en
 
-   Vous êtes
+   Vous Ãªtes
      * Enseignants
      * Chercheurs
      * Journalistes
      * Sites touristiques
      * Banques centrales
-     * Mécènes
+     * MÃ©cÃ¨nes
 
      * Boutique en ligne
           + Collections
                o Gustave Eiffel
                o La Semeuse - Le Roi Midas
-               o Ors de France - Le Napoléon
+               o Ors de France - Le NapolÃ©on
                o Calendrier Chinois
                o Paris 2024 - Les Mascottes
-               o Excellence à la française - Lacoste
+               o Excellence Ã  la franÃ§aise - Lacoste
                o Naruto
                o Paris 2024
-               o Disney - 100ème anniversaire
+               o Disney - 100Ã¨me anniversaire
                o Voir toutes les collections
           + Plus d'informations
-               o Programme de fidélité
+               o Programme de fidÃ©litÃ©
                o FAQ
                o Contact
-               o S'informer sur les métaux précieux
+               o Sâ€™informer sur les mÃ©taux prÃ©cieux
           + Espace professionnel
-               o Mini-médailles pour sites culturels et touristiques
-               o Médailles personnalisées
-               o Décorations officielles
+               o Mini-mÃ©dailles pour sites culturels et touristiques
+               o MÃ©dailles personnalisÃ©es
+               o DÃ©corations officielles
           + Monnaies
-               o Millésime 2024
-               o Millésime 2023
-               o Millésime 2022
-               o Millésime 2021
-               o Millésime 2020
-               o Monnaies 2EUR
+               o MillÃ©sime 2024
+               o MillÃ©sime 2023
+               o MillÃ©sime 2022
+               o MillÃ©sime 2021
+               o MillÃ©sime 2020
+               o Monnaies 2â‚¬
                o Monnaies d'investissement or
                o Euros Or et Argent
                o Monnaies de collection classiques
-               o Découvrir toutes les monnaies
-          + Mini-Médailles
+               o DÃ©couvrir toutes les monnaies
+          + Mini-MÃ©dailles
                o Paris 2024
                o Jeunesse
-               o Autres thématiques
-               o Découvrir toutes les mini-médailles
-          + Médailles
+               o Autres thÃ©matiques
+               o DÃ©couvrir toutes les mini-mÃ©dailles
+          + MÃ©dailles
           + Bijoux
-          + Décorations Officielles
-               o Légion d'honneur
-               o Ordre National du Mérite
+          + DÃ©corations Officielles
+               o LÃ©gion d'honneur
+               o Ordre National du MÃ©rite
                o Autres Grands Ordres
-               o Médaille d'honneur du travail
-               o Médaille régionale, départementale et communale
-               o Décorations civiles
-               o Décorations militaires
-               o Autres décorations
-               o Découvrir toutes les décorations
-          + Célébrations
+               o MÃ©daille d'honneur du travail
+               o MÃ©daille rÃ©gionale, dÃ©partementale et communale
+               o DÃ©corations civiles
+               o DÃ©corations militaires
+               o Autres dÃ©corations
+               o DÃ©couvrir toutes les dÃ©corations
+          + CÃ©lÃ©brations
                o Mariage & Anniversaire
-               o Réussite et baccalaureat
+               o RÃ©ussite et baccalaureat
                o Naissance
           + Autres produits
-               o Musée et expositions
+               o MusÃ©e et expositions
                o Accessoires Rangement
           + Bronzes d'art
        [Mascottes_V2_Header_250x265.jpg]
-       Paris 2024 Monnaies euros or et argent Découvrir
-       [Nouveau-header_offre_noel-2023_250x265.jpg]
-       Nos offres de fin d'année Découvrir
+       Paris 2024 Monnaies euros or et argent DÃ©couvrir
      * Le lieu culturel
-          + Préparer sa visite
-               o Horaires & accès
+          + PrÃ©parer sa visite
+               o Horaires & accÃ¨s
                o Billets & tarifs
-               o Accessibilité
-          + Vous êtes
+               o AccessibilitÃ©
+          + Vous Ãªtes
                o Scolaires
-               o Groupes accompagnés
+               o Groupes accompagnÃ©s
                o Groupes autonomes
                o Chercheurs
-          + Musée
+          + MusÃ©e
           + Expositions
-               o Exposition à venir - Insert coin
-               o Expositions passées
-          + Visites et activités
+               o Exposition Ã  venir - Insert coin
+               o Expositions passÃ©es
+          + Visites et activitÃ©s
                o Tout public
                o Familles
-               o Mon anniversaire à la Monnaie
+               o Mon anniversaire Ã  la Monnaie
                o Public en situation de handicap
-          + Événements
-          + Conférences et colloques
+          + Ã‰vÃ©nements
+          + ConfÃ©rences et colloques
           + Privatisation d'espaces
           + Boutique
           + Restaurant Guy Savoy
-          + Café Bloom
-       [Jeux_concours-_Guy_savoy_770x1300.jpg]
-       Tentez votre chance ! En savoir plus
+          + CafÃ© Bloom
      * L'institution
           + Banques centrales
           + Qui sommes-nous ?
-               o Présentation de l'institution
-               o Le mot du Président-Directeur Général
-               o Le rôle de la monnaie aujourd'hui
-               o Notre stratégie
+               o PrÃ©sentation de l'institution
+               o Le mot du PrÃ©sident-Directeur GÃ©nÃ©ral
+               o Le rÃ´le de la monnaie aujourd'hui
+               o Notre stratÃ©gie
                o Nos missions
                o Notre histoire
                o Le Prix de la Monnaie de Paris
@@ -128,12 +124,12 @@
                o L'architecture de la Monnaie de Paris
           + Notre gouvernance
                o Le conseil d'administration
-               o Les comités spécialisés du conseil d'administration
-               o Le comité exécutif
+               o Les comitÃ©s spÃ©cialisÃ©s du conseil d'administration
+               o Le comitÃ© exÃ©cutif
                o Nos engagements RSE
           + Nous rejoindre
                o Le mot du DRH
-               o Nos opportunités
+               o Nos opportunitÃ©s
           + Nos rapports annuels
           + Nous contacter
           + Espace presse
@@ -146,118 +142,118 @@
      * Boutique en ligne
        Boutique en ligne
           + Collections
-               o NouveautéGustave Eiffel
-               o EpuiséLa Semeuse - Le Roi Midas
-               o NouveautéOrs de France - Le Napoléon
-               o NouveautéCalendrier Chinois
-               o NouveautéParis 2024 - Les Mascottes
-               o Excellence à la française - Lacoste
+               o NouveautÃ©Gustave Eiffel
+               o EpuisÃ©La Semeuse - Le Roi Midas
+               o NouveautÃ©Ors de France - Le NapolÃ©on
+               o NouveautÃ©Calendrier Chinois
+               o NouveautÃ©Paris 2024 - Les Mascottes
+               o Excellence Ã  la franÃ§aise - Lacoste
                o Naruto
                o Paris 2024
-               o NouveautéDisney - 100ème anniversaire
+               o NouveautÃ©Disney - 100Ã¨me anniversaire
           + Monnaies
-               o Millésime 2024
-               o Millésime 2023
-               o Millésime 2022
-               o Millésime 2021
-               o Millésime 2020
-               o Monnaies 2EUR
+               o MillÃ©sime 2024
+               o MillÃ©sime 2023
+               o MillÃ©sime 2022
+               o MillÃ©sime 2021
+               o MillÃ©sime 2020
+               o Monnaies 2â‚¬
                o Monnaies d'investissement or
                o Euros Or et Argent
                o Monnaies de collection classiques
-          + Médailles
-          + Mini-Médailles
+          + MÃ©dailles
+          + Mini-MÃ©dailles
                o Paris 2024
                o Jeunesse
-               o Autres thématiques
-          + Décorations Officielles
-               o Légion d'honneur
-                    # Médaille Légion d'Honneur
-                      Médaille Légion d'Honneur Ordonnance Chevalier  -
+               o Autres thÃ©matiques
+          + DÃ©corations Officielles
+               o LÃ©gion d'honneur
+                    # MÃ©daille LÃ©gion d'Honneur
+                      MÃ©daille LÃ©gion d'Honneur Ordonnance Chevalier  -
                       Argent 950/1000 (46938) Ajouter au panier
-                      340,00 EUR
-               o Médaille Légion d'Honneur
-                 Médaille Légion d'Honneur Ordonnance Officier  -  Argent
+                      340,00 â‚¬
+               o MÃ©daille LÃ©gion d'Honneur
+                 MÃ©daille LÃ©gion d'Honneur Ordonnance Officier  -  Argent
                  950/1000 (46939) Ajouter au panier
-                 430,00 EUR
-               o Médaille Légion d'Honneur
-                 Médaille Légion d'Honneur Agrafe boutonnière Chevalier
+                 430,00 â‚¬
+               o MÃ©daille LÃ©gion d'Honneur
+                 MÃ©daille LÃ©gion d'Honneur Agrafe boutonniÃ¨re Chevalier
                  (1077) Ajouter au panier
-                 5,00 EUR
-     * Ordre National du Mérite
+                 5,00 â‚¬
+     * Ordre National du MÃ©rite
      * Autres Grands Ordres
-     * Médaille d'honneur du travail
-     * Médaille régionale, départementale et communale
-     * Décorations civiles
-     * Décorations militaires
-     * Autres décorations
+     * MÃ©daille d'honneur du travail
+     * MÃ©daille rÃ©gionale, dÃ©partementale et communale
+     * DÃ©corations civiles
+     * DÃ©corations militaires
+     * Autres dÃ©corations
 
      Bijoux
 
-     Célébrations
+     CÃ©lÃ©brations
      * Mariage & Anniversaire
-     * Réussite et baccalaureat
+     * RÃ©ussite et baccalaureat
      * Naissance
 
      Bronzes d'art
 
      Autres produits
 
-     * Musée et expositions
+     * MusÃ©e et expositions
      * Accessoires Rangement
 
-     Programme de fidélité
+     Programme de fidÃ©litÃ©
 
      FAQ
 
      Contact
 
-     S'informer sur les métaux précieux
+     Sâ€™informer sur les mÃ©taux prÃ©cieux
 
      Espace pro
 
-     Mini-médailles pour sites culturels et touristiques
+     Mini-mÃ©dailles pour sites culturels et touristiques
 
-     Médailles personnalisées
+     MÃ©dailles personnalisÃ©es
 
-     Décorations officielles
+     DÃ©corations officielles
 
      Le lieu culturel
 
    Le lieu culturel
-     * Préparer sa visite
-          + Horaires & accès
+     * PrÃ©parer sa visite
+          + Horaires & accÃ¨s
           + Billets & tarifs
-          + Accessibilité
-     * Vous êtes
+          + AccessibilitÃ©
+     * Vous Ãªtes
           + Scolaires
-          + Groupes accompagnés
+          + Groupes accompagnÃ©s
           + Groupes autonomes
           + Chercheurs
-     * Musée
+     * MusÃ©e
      * Expositions
-          + Exposition à venir - Insert coin
-          + Expositions passées
-     * Visites et activités
+          + Exposition Ã  venir - Insert coin
+          + Expositions passÃ©es
+     * Visites et activitÃ©s
           + Tout public
           + Familles
-          + Mon anniversaire à la Monnaie
+          + Mon anniversaire Ã  la Monnaie
           + Public en situation de handicap
-     * Événements
-     * Conférences et colloques
+     * Ã‰vÃ©nements
+     * ConfÃ©rences et colloques
      * Privatisation d'espaces
      * Boutique
      * Restaurant Guy Savoy
-     * Café Bloom
+     * CafÃ© Bloom
 
      L'institution
 
    L'institution
      * Qui sommes-nous ?
-          + Présentation de l'institution
-          + Le mot du Président-Directeur Général
-          + Le rôle de la monnaie aujourd'hui
-          + Notre stratégie
+          + PrÃ©sentation de l'institution
+          + Le mot du PrÃ©sident-Directeur GÃ©nÃ©ral
+          + Le rÃ´le de la monnaie aujourd'hui
+          + Notre stratÃ©gie
           + Nos missions
           + Notre histoire
           + Le Prix de la Monnaie de Paris
@@ -268,12 +264,12 @@
           + L'architecture de la Monnaie de Paris
      * Notre gouvernance
           + Le conseil d'administration
-          + Les comités spécialisés du conseil d'administration
-          + Le comité exécutif
+          + Les comitÃ©s spÃ©cialisÃ©s du conseil d'administration
+          + Le comitÃ© exÃ©cutif
           + Nos engagements RSE
      * Nous rejoindre
           + Le mot du DRH
-          + Nos opportunités
+          + Nos opportunitÃ©s
      * Nos rapports annuels
      * Espace presse
      * Nous contacter
@@ -309,33 +305,33 @@ Euros Or et Argent
    Filtrer par (BUTTON)
    Filtrer par
    Affiner la recherche
-   Matière
+   MatiÃ¨re
     1. Or 33 articles (*)
     2. Argent 115 articles ( )
-    3. Métal Courant 3 articles ( )
+    3. MÃ©tal Courant 3 articles ( )
 
-   Qualité
+   QualitÃ©
     1. Belle Epreuve 8 articles (*)
     2. Brillant Universel 28 articles ( )
     3. Fleur de Coin 1 article ( )
-    4. Qualité courante 114 articles ( )
+    4. QualitÃ© courante 114 articles ( )
 
-   Série
+   SÃ©rie
     1. 10 ans du mariage pour tous 1 article (*)
     2. 20 ans de l'Euro 5 articles ( )
     3. 24 Heures du Mans 1 article ( )
-    4. Astérix - Euros or et argent 11 articles ( )
-    5. Astérix - monnaies de collection 27 articles ( )
+    4. AstÃ©rix - Euros or et argent 11 articles ( )
+    5. AstÃ©rix - monnaies de collection 27 articles ( )
     6. BICENTENAIRE LOUIS PASTEUR 1 article ( )
     7. Coupe du Monde de Rugby 2023 3 articles ( )
-    8. Disney - 100ème anniversaire 3 articles ( )
+    8. Disney - 100Ã¨me anniversaire 3 articles ( )
     9. Gustave Eiffel - 100 ans de sa disparition 2 articles ( )
    10. Harry Potter 35 articles ( )
    11. Jacques Chirac 1 article ( )
    12. Jean de La Fontaine - 400 ans de sa naissance 2 articles ( )
    13. Jeux Olympiques et Paralympiques Paris 2024 36 articles ( )
    14. Leaders de la WWII 4 articles ( )
-   15. Les mini-médailles Schtroumpfs 1 article ( )
+   15. Les mini-mÃ©dailles Schtroumpfs 1 article ( )
    16. Les Valeurs de la Republique 1 article ( )
    17. Napoleon Ier Bonaparte 3 articles ( )
    18. Natures de France 21 articles ( )
@@ -347,11 +343,11 @@ Euros Or et Argent
     2. Monnaie de collection 3 articles ( )
 
    Prix
-   ____________________ EUR
+   ____________________ â‚¬
    -
    ____________________
    (BUTTON) Appliquer
-   Millésime
+   MillÃ©sime
     1. 2024 2 articles (*)
     2. 2023 49 articles ( )
     3. 2022 51 articles ( )
@@ -359,34 +355,34 @@ Euros Or et Argent
     5. 2020 11 articles ( )
 
    Valeur faciale
-    1. 2EUR 1 article (*)
-    2. 6EUR 2 articles ( )
-    3. 10EUR 89 articles ( )
-    4. 20EUR 8 articles ( )
-    5. 50EUR 16 articles ( )
-    6. 100EUR 11 articles ( )
-    7. 250EUR 14 articles ( )
-    8. 500EUR 4 articles ( )
-    9. 1000EUR 4 articles ( )
-   10. 5000EUR 4 articles ( )
-   11. 0EUR 5 articles ( )
-   12. 75EUR 1 article ( )
-   13. 2500EUR 4 articles ( )
-   14. 10000EUR 3 articles ( )
+    1. 2â‚¬ 1 article (*)
+    2. 6â‚¬ 2 articles ( )
+    3. 10â‚¬ 89 articles ( )
+    4. 20â‚¬ 8 articles ( )
+    5. 50â‚¬ 16 articles ( )
+    6. 100â‚¬ 11 articles ( )
+    7. 250â‚¬ 14 articles ( )
+    8. 500â‚¬ 4 articles ( )
+    9. 1000â‚¬ 4 articles ( )
+   10. 5000â‚¬ 4 articles ( )
+   11. 0â‚¬ 5 articles ( )
+   12. 75â‚¬ 1 article ( )
+   13. 2500â‚¬ 4 articles ( )
+   14. 10000â‚¬ 3 articles ( )
 
    Coupure
-    1. 10EUR Argent 83 articles (*)
-    2. 100EUR Argent 11 articles ( )
-    3. 1000EUR Or BU 4 articles ( )
-    4. 10000EUR Or BE 3 articles ( )
-    5. 20EUR Argent 5 articles ( )
-    6. 20EUR Argent BE 3 articles ( )
-    7. 250EUR Or BU 14 articles ( )
-    8. 2500EUR Or BU 4 articles ( )
-    9. 50EUR Argent 14 articles ( )
-   10. 500EUR Or BU 4 articles ( )
-   11. 5000EUR Or BE 4 articles ( )
-   12. Séries euros 2 articles ( )
+    1. 10â‚¬ Argent 83 articles (*)
+    2. 100â‚¬ Argent 11 articles ( )
+    3. 1000â‚¬ Or BU 4 articles ( )
+    4. 10000â‚¬ Or BE 3 articles ( )
+    5. 20â‚¬ Argent 5 articles ( )
+    6. 20â‚¬ Argent BE 3 articles ( )
+    7. 250â‚¬ Or BU 14 articles ( )
+    8. 2500â‚¬ Or BU 4 articles ( )
+    9. 50â‚¬ Argent 14 articles ( )
+   10. 500â‚¬ Or BU 4 articles ( )
+   11. 5000â‚¬ Or BE 4 articles ( )
+   12. SÃ©ries euros 2 articles ( )
 
      Partager sur Facebook
      * Partager sur Twitter
@@ -395,65 +391,65 @@ Euros Or et Argent
      * Partager sur Tumblr
 
    152 produits
-   Trier par [Date lancement__] Par ordre croissant
-    1. Bientôt disponible
-       face 10EUR argent hercule paris 2024
-       Jeux Olympiques de Paris 2024 Monnaie 10EUR Argent - Hexagonale
-       Hercule  -  Qualité courante Millésime 2024
-       15,00 EUR
-    2. Bientôt disponible
+   Trier par [Date lancement___] Par ordre croissant
+    1. BientÃ´t disponible
+       face 10â‚¬ argent hercule paris 2024
+       Jeux Olympiques de Paris 2024 Monnaie 10â‚¬ Argent - Hexagonale
+       Hercule  -  QualitÃ© courante MillÃ©sime 2024
+       15,00 â‚¬
+    2. BientÃ´t disponible
        Jeux Olympiques de Paris 2024
-       Jeux Olympiques de Paris 2024 Monnaie 250EUR Or - Hexagonale
-       Hercule  -  Qualité BU Millésime 2024
-       270,00 EUR
-    3. Eiffel, 100 ans Eiffel, Gustave Eiffel, tour Eiffel, rivet, métal,
-       portrait, 100EUR argent, 2023
-       Gustave Eiffel - 100 ans de sa disparition Monnaie de 100EUR argent
-        -  Qualité courante millésime 2023
-       100,00 EUR
-    4. Eiffel, 100 ans Eiffel, Gustave Eiffel, tour Eiffel, rivet, métal,
-       portrait, 10EUR argent, 2023
-       Gustave Eiffel - 100 ans de sa disparition Monnaie de 10EUR argent
-        -  Qualité courante millésime 2023
-       12,00 EUR
+       Jeux Olympiques de Paris 2024 Monnaie 250â‚¬ Or - Hexagonale Hercule
+        -  QualitÃ© BU MillÃ©sime 2024
+       270,00 â‚¬
+    3. Eiffel, 100 ans Eiffel, Gustave Eiffel, tour Eiffel, rivet, mÃ©tal,
+       portrait, 100â‚¬ argent, 2023
+       Gustave Eiffel - 100 ans de sa disparition Monnaie de 100â‚¬ argent
+       -  QualitÃ© courante millÃ©sime 2023
+       100,00 â‚¬
+    4. Eiffel, 100 ans Eiffel, Gustave Eiffel, tour Eiffel, rivet, mÃ©tal,
+       portrait, 10â‚¬ argent, 2023
+       Gustave Eiffel - 100 ans de sa disparition Monnaie de 10â‚¬ argent
+       -  QualitÃ© courante millÃ©sime 2023
+       12,00 â‚¬
     5. Ors de France face Or
-       Ors de France - Le Napoléon III Monnaie de 10000EUR Or  -  Qualité
-       BU Millésime 2023
-       10500,00 EUR
+       Ors de France - Le NapolÃ©on III Monnaie de 10000â‚¬ Or  -  QualitÃ© BU
+       MillÃ©sime 2023
+       10â€¯500,00 â‚¬
     6. Ors de France face Or
-       Ors de France - Le Napoléon III Monnaie de 2500EUR Or  -  Qualité
-       BU Millésime 2023
-       2500,00 EUR
+       Ors de France - Le NapolÃ©on III Monnaie de 2500â‚¬ Or  -  QualitÃ© BU
+       MillÃ©sime 2023
+       2â€¯500,00 â‚¬
     7. Indisponible
-       Disney 100 10EUR Argent face
-       Disney - 100ème anniversaire Monnaie de 10EUR Argent  -  Qualité
-       courante Millésime 2023
-       14,00 EUR
-    8. Indisponible
+       Disney 100 10â‚¬ Argent face
+       Disney - 100Ã¨me anniversaire Monnaie de 10â‚¬ Argent  -  QualitÃ©
+       courante MillÃ©sime 2023
+       14,00 â‚¬
+    8. NouveautÃ©
+       Disney 100 100â‚¬ argent face
+       Disney - 100Ã¨me anniversaire Monnaie de 100â‚¬ argent  -  QualitÃ©
+       courante millÃ©sime 2023
+       110,00 â‚¬
+    9. Indisponible
        Disney 100 pack duo cartelette face
-       Disney - 100ème anniversaire Set duo Mickey 10EUR + 50EUR  -
-       Qualité courante Millésime 2023
-       73,00 EUR
-    9. Nouveauté
-       Disney 100 100EUR argent face
-       Disney - 100ème anniversaire Monnaie de 100EUR argent  -  Qualité
-       courante millésime 2023
-       110,00 EUR
+       Disney - 100Ã¨me anniversaire Set duo Mickey 10â‚¬ + 50â‚¬  -  QualitÃ©
+       courante MillÃ©sime 2023
+       73,00 â‚¬
    10. Mascotte, Jeux Olympiques, Mascotte des JO, sports, Volleyball,
-       Paris 2024, 10EUR, Argent, Monnaie argent
-       Mascotte - Volleyball Monnaie de 10EUR Argent  -  Qualité courante
-       millésime 2023
-       12,00 EUR
+       Paris 2024, 10â‚¬, Argent, Monnaie argent
+       Mascotte - Volleyball Monnaie de 10â‚¬ Argent  -  QualitÃ© courante
+       millÃ©sime 2023
+       12,00 â‚¬
    11. Mascotte, Jeux Olympiques, Mascotte des JO, sports, Judo, Paris
-       2024, 10EUR, Argent, Monnaie argent
-       Mascotte - Judo Monnaie de 10EUR argent  -  Qualité courante
-       millésime 2023
-       12,00 EUR
+       2024, 10â‚¬, Argent, Monnaie argent
+       Mascotte - Judo Monnaie de 10â‚¬ argent  -  QualitÃ© courante
+       millÃ©sime 2023
+       12,00 â‚¬
    12. Mascotte, Jeux Olympiques, Mascotte des JO, sports, Saut
-       d'obstacles, Paris 2024, 10EUR, Argent, Monnaie argent
-       Mascotte - Saut d'obstacles Monnaie de 10EUR Argent  -  Qualité
-       courante millésime 2023
-       12,00 EUR
+       dâ€™obstacles, Paris 2024, 10â‚¬, Argent, Monnaie argent
+       Mascotte - Saut d'obstacles Monnaie de 10â‚¬ Argent  -  QualitÃ©
+       courante millÃ©sime 2023
+       12,00 â‚¬
 
    Page
      * Vous lisez actuellement la page 1
@@ -470,30 +466,30 @@ Euros Or et Argent
 
      * Une question ?
        Visitez notre FAQ
-     * Paiement sécurisé et 14 jours pour changer d'avis !
+     * Paiement sÃ©curisÃ© et 14 jours pour changer d'avis !
      * Appelez nous au
        01 40 46 59 30
-       Du lundi au vendredi de 9h à 20h et le samedi de 10h à 19h
+       Du lundi au vendredi de 9h Ã  20h et le samedi de 10h Ã  19h
      * Frais de ports offerts
-       dès 149EUR d'achats en France métropolitaine
+       dÃ¨s 149â‚¬ d'achats en France mÃ©tropolitaine
 
    Restons en contact !
-   Suivez-nous sur les réseaux sociaux ou inscrivez-vous à notre
+   Suivez-nous sur les rÃ©seaux sociaux ou inscrivez-vous Ã  notre
    newsletter !
 
 Newsletter
 
    Je m'inscris aux deux newsletters de la Monnaie de Paris pour recevoir
-   ses actualités : concernant d'une part les lancement produits,
-   anecdotes sur nos produits et d'autre part les expositions, événements.
+   ses actualitÃ©s : concernant dâ€™une part les lancement produits,
+   anecdotes sur nos produits et dâ€™autre part les expositions, Ã©vÃ©nements.
    [ ] Agenda culturel
-   [ ] Agenda monnétaire
+   [ ] Agenda monnÃ©taire
    Enter your email ____________________
    (BUTTON)
 
 Suivez-nous
 
-   Retrouvez-nous sur les réseaux sociaux
+   Retrouvez-nous sur les rÃ©seaux sociaux
      * Retrouvez nous sur facebook
      * Retrouvez nous sur Instagram
      * Retrouvez nous sur Twitter
@@ -505,49 +501,49 @@ A propos
 
      * Notre histoire
      * Notre institution
-     * Rejoindre l'équipe
+     * Rejoindre l'Ã©quipe
      * Portail des collections historiques
-     * Crédits
+     * CrÃ©dits
 
 Aide
 
      * FAQ
      * Nous contacter
      * Votre livraison
-     * Conditions générales de vente boutique en ligne
-     * Conditions générales de vente billetterie
-     * Données personnelles
-     * Mentions légales
-     * Gérer mes cookies
-     * Programme de fidélité
+     * Conditions gÃ©nÃ©rales de vente boutique en ligne
+     * Conditions gÃ©nÃ©rales de vente billetterie
+     * DonnÃ©es personnelles
+     * Mentions lÃ©gales
+     * GÃ©rer mes cookies
+     * Programme de fidÃ©litÃ©
 
 Professionnel
 
      * Presse
-     * Marchés publics
-     * Conditions générales d'achat
+     * MarchÃ©s publics
+     * Conditions gÃ©nÃ©rales d'achat
 
    Monnaie de Paris 11, Quai de Conti - 75006 PARIS Tel.: +33 1 40 46 55
    00
 
 OUPS...!
 
-Votre navigateur web n'est pas supporté par ce site,
-veuillez le mettre à jour.
+Votre navigateur web n'est pas supportÃ© par ce site,
+veuillez le mettre Ã  jour.
 
-   Nous vous invitons à le mettre à jour pour avoir une expérience
-   optimale et sécurisée.
+   Nous vous invitons Ã  le mettre Ã  jour pour avoir une expÃ©rience
+   optimale et sÃ©curisÃ©e.
      * Chrome
-       Télécharger
+       TÃ©lÃ©charger
      * Firefox
-       Télécharger
+       TÃ©lÃ©charger
      * Safari
-       Télécharger
+       TÃ©lÃ©charger
      * Opera
-       Télécharger
+       TÃ©lÃ©charger
      * Edge
-       Télécharger
+       TÃ©lÃ©charger
      * Internet Explorer
-       Télécharger
+       TÃ©lÃ©charger
 
    Je souhaite poursuivre ma navigation

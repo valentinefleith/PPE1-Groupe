@@ -1,38 +1,100 @@
        OR
-       P�TROLE WTI
-       P�TROLE BRENT
+       PÉTROLE WTI
+       PÉTROLE BRENT
        ARGENT
        PLATINE
        Cryptomonnaies
        Accueil
 --
                o OR
-               o P�TROLE WTI
-               o P�TROLE BRENT
+               o PÉTROLE WTI
+               o PÉTROLE BRENT
                o ARGENT
                o PLATINE
           + Cryptomonnaies
                o Accueil
 --
-               o Accueil
-               o Basket-ball Am�ricain
-               o Sant� Digitale et T�l�m�decine
-               o Or et Argent
-               o L'Am�rique en PEA
-               o In Vino Veritas
-               o Les SPAC
---
-               o Outils
-               o Formation vid�o
+   Nederlands (België)
+   (BUTTON) Annuler
 
    ARGENT
-   (BUTTON) Ajouter � une liste
-   Ajouter � une liste
-   Pour utiliser cette fonction vous devez �tre client ou membre
+   (BUTTON) Ajouter à une liste
+   Ajouter à une liste
+   Pour utiliser cette fonction vous devez être client ou membre
    ConnexionInscription
    (BUTTON) Retour
 
 Cours Argent
 
-Mati�re premi�re
+Matière première
 
+--
+
+   Graphique dynamique
+
+Dernières actualités sur Argent
+
+   L'or rebondit sur le recul du dollar ; les projecteurs sont braqués sur
+   les données de l'emploi américain 11:34 RE
+--
+   Les actions baissent alors que les traders analysent les minutes du
+   FOMC et les commentaires du président de la Fed de Richmond 03/01 MT
+   Regency Silver prend une option sur deux projets d'exploitation
+   d'argent à haute teneur près de San Dimas, à Durango, au Mexique. 03/01
+   MT
+   Les marchés d'actions baissent en intraday alors que les traders pèsent
+   sur les données macroéconomiques 03/01 MT
+--
+   chinoise Stemirna, en proie à des difficultés de financement 03/01 RE
+   Plus d'actualités
+
+Actualités dans d'autres langues sur Argent
+
+   China's CMOC cobalt output jumps 174% in 2023 12:42
+   Gold rebounds on dollar retreat; spotlight on US jobs data 11:34
+--
+   TeraWulf Mines Reports 3% Increase in Bitcoins Mined in December 03/01
+   Plus d'actualités
+
+Produits Dérivés Populaires sur Argent
+
+   3.QMw6xZnd_Yr8S0KTAjTd1C2jeufGbJY6qjhlHg7m3nU.J51Ji9a6tuzOfDSjNXuLjWnkM
+   de2Dq9dmnovSG-QsiwEvEmX6bCLzJElCw
+   Mnemo Type Type de produit Maturité Elasticité Levier Parité Cours
+   Emetteur
+   BNP Paribas 6225N Matière première Argent
+   CALL
+   CALL Certificat Turbo Stop Loss Illimité - 1
+
+   9,81 EUR
+   BNP Paribas
+   BNP Paribas 6592N Matière première Argent
+   CALL
+   CALL Certificat Turbo Stop Loss Illimité - 1
+
+   9,22 EUR
+   BNP Paribas
+   BNP Paribas R134B Matière première Argent
+   PUT
+   PUT Certificat Turbo Stop Loss Illimité - 10
+
+   0,805 EUR
+   BNP Paribas
+   Citi Q646C Matière première Argent
+   PUT
+   PUT Certificat Turbo Stop Loss Illimité - 1
+
+   8,27 EUR
+   Citi
+   BNP Paribas 67HYB Matière première Argent
+   CALL
+   CALL Certificat Turbo Illimité - 1
+
+--
+
+     Matières premières
+
+     Matière première Argent
+
+   RUBRIQUES
+     * Indices

@@ -1,21 +1,21 @@
-   #Trésor-Info - Publications de la direction générale du Trésor
+   #TrÃ©sor-Info - Publications de la direction gÃ©nÃ©rale du TrÃ©sor
 
    (BUTTON) Recherche (BUTTON) Menu
-   Le portail du ministère de l'Économie, des Finances et de la
-   Souveraineté industrielle et numérique Direction générale du Trésor
-     * Actualités
-     * Événements
-     * Trésor International
-     * Publications, chiffres clés
+   Le portail du ministÃ¨re de l'Ã‰conomie, des Finances et de la
+   SouverainetÃ© industrielle et numÃ©rique Direction gÃ©nÃ©rale du TrÃ©sor
+     * ActualitÃ©s
+     * Ã‰vÃ©nements
+     * TrÃ©sor International
+     * Publications, chiffres clÃ©s
      * Services aux entreprises
      * Sanctions Russie
      * Banque assurance finance
      * Qui sommes-nous ?
      * The French Treasury (English Pages)
 
-     * Accès directs
+     * AccÃ¨s directs
           + Nous rejoindre
-     * Suivez la DG Trésor sur :
+     * Suivez la DG TrÃ©sor sur :
           + Twitter
           + Linkedin
           + Youtube
@@ -27,13 +27,13 @@
    ____________________ (BUTTON) Rechercher
 
     1. Accueil
-    2. Trésor-Info
+    2. TrÃ©sor-Info
 
-   Chef économiste
+   Chef Ã©conomiste
 
-D'où vient l'argent ?
+Dâ€™oÃ¹ vient lâ€™argent ?
 
-   Rédigé par Agnès Bénassy-Quéré o Publié le 02 septembre 2021
+   RÃ©digÃ© par AgnÃ¨s BÃ©nassy-QuÃ©rÃ© â€¢ PubliÃ© le 02 septembre 2021
 
      * billet-agnes-benassy-quere
      * billet-chef-eco
@@ -41,178 +41,177 @@ D'où vient l'argent ?
                              billet agnes header
 
 
-   Si vous êtes économiste comme moi, peut-être avez-vous été assailli(e)
+   Si vous Ãªtes Ã©conomiste comme moi, peut-Ãªtre avez-vous Ã©tÃ© assailli(e)
    par vos proches durant la pause estivale, autour de la question
    suivante :
 
-                            D'où vient l'argent ?
+                          Dâ€™oÃ¹ vient lâ€™argent ?
 
-   L'Etat semblait désargenté, il essayait de réduire le déficit, menait
-   des réformes en ce sens ; et puis soudain, virage à 180°, il déverse
+   Lâ€™Etat semblait dÃ©sargentÃ©, il essayait de rÃ©duire le dÃ©ficit, menait
+   des rÃ©formes en ce sens ; et puis soudain, virage Ã  180Â°, il dÃ©verse
    des milliards pour financer les masques, les tests, les vaccins, mais
-   aussi les entreprises dont le chiffre d'affaires s'est effondré lors de
-   la crise sanitaire, et les ménages dont les revenus sans cela se
-   seraient affaissés. Nos entreprises n'avaient plus de clients, et
-   pourtant nous étions toujours payés en fin de mois. Comment ce miracle
-   est-il possible ? Où est le loup ?
+   aussi les entreprises dont le chiffre dâ€™affaires sâ€™est effondrÃ© lors de
+   la crise sanitaire, et les mÃ©nages dont les revenus sans cela se
+   seraient affaissÃ©s. Nos entreprises nâ€™avaient plus de clients, et
+   pourtant nous Ã©tions toujours payÃ©s en fin de mois. Comment ce miracle
+   est-il possible ? OÃ¹ est le loup ?
 
-   Tout le monde a en tête le circuit normal de l'argent dans l'économie :
-   les entreprises rémunèrent leurs salariés pour leur travail ; cette
-   rémunération fournit l'essentiel de leurs revenus aux ménages, lesquels
-   en dépensent la majorité pour consommer des biens et des services
-   produits par les entreprises, lesquelles rémunèrent les salariés, etc.
+   Tout le monde a en tÃªte le circuit normal de lâ€™argent dans lâ€™Ã©conomie :
+   les entreprises rÃ©munÃ¨rent leurs salariÃ©s pour leur travail ; cette
+   rÃ©munÃ©ration fournit lâ€™essentiel de leurs revenus aux mÃ©nages, lesquels
+   en dÃ©pensent la majoritÃ© pour consommer des biens et des services
+   produits par les entreprises, lesquelles rÃ©munÃ¨rent les salariÃ©s, etc.
    (graphique 1).
          Loup
 
-         Graphique 1 : le circuit normal de l'argent dans l'économie
+      Graphique 1 : le circuit normal de lâ€™argent dans lâ€™Ã©conomie
 
-                le circuit normal de l'argent dans l'économie
+             le circuit normal de lâ€™argent dans lâ€™Ã©conomie
 
-   Lors du premier confinement, en mars 2020, les dépenses de consommation
-   ont brutalement chuté, de manière inégale selon les secteurs ; les
-   secteurs aval (comme les restaurants) ont réduit leurs achats de biens
-   intermédiaires (comme les bouteilles de vin) ; c'est ainsi que la chute
-   du chiffre d'affaires s'est propagée dans l'économie (voir Barrot,
-   Grassi et Sauvagnat, 2020). J'illustrerai ici le propos sur le cas de
-   la France, mais les schémas sont identiques qualitativement dans les
-   autres pays avancés.
+   Lors du premier confinement, en mars 2020, les dÃ©penses de consommation
+   ont brutalement chutÃ©, de maniÃ¨re inÃ©gale selon les secteurs ; les
+   secteurs aval (comme les restaurants) ont rÃ©duit leurs achats de biens
+   intermÃ©diaires (comme les bouteilles de vin) ; câ€™est ainsi que la chute
+   du chiffre dâ€™affaires sâ€™est propagÃ©e dans lâ€™Ã©conomie (voir Barrot,
+   Grassi et Sauvagnat, 2020). Jâ€™illustrerai ici le propos sur le cas de
+   la France, mais les schÃ©mas sont identiques qualitativement dans les
+   autres pays avancÃ©s.
 
-        Graphique 2 : dépenses de consommation des ménages en volume
+       Graphique 2 : dÃ©penses de consommation des mÃ©nages en volume
 
-                    (Indice 100 au 4^ème trimestre 2019)
+                    (Indice 100 au 4^Ã¨me trimestre 2019)
 
-               dépenses de consommation des ménages en volume
+              dÃ©penses de consommation des mÃ©nages en volume
 
    Source : Insee, Comptes trimestriels (30/07/2021) et Note de
    conjoncture (01/07/2021).
 
-   Prévisions à partir du 3^ème trimestre 2021.
+   PrÃ©visions Ã  partir du 3^Ã¨me trimestre 2021.
 
-   Privées de chiffre d'affaires, de nombreuses entreprises ne pouvaient
-   plus payer leurs salariés, enrayant un peu plus encore le circuit
-   présenté sur le graphique 1. Pour éviter cette amplification
-   catastrophique de la crise économique, le Gouvernement a très
+   PrivÃ©es de chiffre dâ€™affaires, de nombreuses entreprises ne pouvaient
+   plus payer leurs salariÃ©s, enrayant un peu plus encore le circuit
+   prÃ©sentÃ© sur le graphique 1. Pour Ã©viter cette amplification
+   catastrophique de la crise Ã©conomique, le Gouvernement a trÃ¨s
    rapidement mis en place trois types de soutiens :
-     * Des subventions directes, à travers notamment le fonds de
-       solidarité et les exonérations de cotisations sociales ;
-     * Une large extension du dispositif d'activité partielle ;
-     * Des prêts garantis par l'Etat et des reports de cotisations et
-       d'échéances fiscales.
+     * Des subventions directes, Ã  travers notamment le fonds de
+       solidaritÃ© et les exonÃ©rations de cotisations sociales ;
+     * Une large extension du dispositif dâ€™activitÃ© partielle ;
+     * Des prÃªts garantis par lâ€™Etat et des reports de cotisations et
+       dâ€™Ã©chÃ©ances fiscales.
 
    Ces soutiens ont permis aux entreprises de continuer de verser les
-   salaires. Le pouvoir d'achat du revenu disponible brut a ainsi augmenté
-   en moyenne de 0,4 % en 2020 selon l'Insee, alors que le PIB baissait de
+   salaires. Le pouvoir dâ€™achat du revenu disponible brut a ainsi augmentÃ©
+   en moyenne de 0,4 % en 2020 selon lâ€™Insee, alors que le PIB baissait de
    7,9 % (graphique 3).
 
-     Graphique 3 : PIB en volume et pouvoir d'achat du revenu disponible
+    Graphique 3 : PIB en volume et pouvoir dâ€™achat du revenu disponible
                                  brut (RDB)
 
                              Indice 100 en 2019
 
-      PIB en volume et pouvoir d'achat du revenu disponible brut (RDB)
+     PIB en volume et pouvoir dâ€™achat du revenu disponible brut (RDB)
 
-   Source : Insee, Note de conjoncture 1^er juillet 2021. Prévisions pour
+   Source : Insee, Note de conjoncture 1^er juillet 2021. PrÃ©visions pour
    2021.
 
-   Ainsi, le pouvoir d'achat du revenu disponible brut des ménages a
-   augmenté en 2020 et 2021, mais leur consommation est restée déprimée en
-   moyenne sur la période. L'épargne des ménages a donc fortement
-   augmenté. Cette épargne a été principalement thésaurisée sous forme
-   liquide : dépôts bancaires, livrets d'épargne (graphique 4).
+   Ainsi, le pouvoir dâ€™achat du revenu disponible brut des mÃ©nages a
+   augmentÃ© en 2020 et 2021, mais leur consommation est restÃ©e dÃ©primÃ©e en
+   moyenne sur la pÃ©riode. Lâ€™Ã©pargne des mÃ©nages a donc fortement
+   augmentÃ©. Cette Ã©pargne a Ã©tÃ© principalement thÃ©saurisÃ©e sous forme
+   liquide : dÃ©pÃ´ts bancaires, livrets dâ€™Ã©pargne (graphique 4).
 
-     Graphique 4 : flux nets de placements liquides des ménages français
+    Graphique 4 : flux nets de placements liquides des mÃ©nages franÃ§ais
 
-            flux nets de placements liquides des ménages français
+           flux nets de placements liquides des mÃ©nages franÃ§ais
 
-   Les ménages auraient pu prêter directement cet argent à l'État, mais
-   c'était compliqué et peu rémunérateur, puisque les taux d'intérêt
-   étaient (et sont toujours) négatifs. Ils l'ont en fait principalement
-   laissé sur leurs comptes bancaires ou leurs livrets d'épargne.
+   Les mÃ©nages auraient pu prÃªter directement cet argent Ã  lâ€™Ã‰tat, mais
+   câ€™Ã©tait compliquÃ© et peu rÃ©munÃ©rateur, puisque les taux dâ€™intÃ©rÃªt
+   Ã©taient (et sont toujours) nÃ©gatifs. Ils lâ€™ont en fait principalement
+   laissÃ© sur leurs comptes bancaires ou leurs livrets dâ€™Ã©pargne.
 
-   Comment les banques ont-elles placé votre argent ? Elles avaient
-   schématiquement quatre choix possibles :
-     * Conserver les sommes sous forme de dépôts à la banque des banques
-       (la Banque centrale européenne - BCE - via la Banque de France) ;
-     * Acheter des titres de dette publique française ;
-     * Prêter aux entreprises et ménages français ;
-     * Prêter aux États et entreprises étrangers.
+   Comment les banques ont-elles placÃ© votre argent ? Elles avaient
+   schÃ©matiquement quatre choix possibles :
+     * Conserver les sommes sous forme de dÃ©pÃ´ts Ã  la banque des banques
+       (la Banque centrale europÃ©enne â€“ BCE â€“ via la Banque de France) ;
+     * Acheter des titres de dette publique franÃ§aise ;
+     * PrÃªter aux entreprises et mÃ©nages franÃ§ais ;
+     * PrÃªter aux Ã‰tats et entreprises Ã©trangers.
 
-   Les deux premiers placements portaient des taux d'intérêt négatifs,
-   mais c'était le prix à payer pour conserver l'argent en sécurité. Les
-   banques ont ainsi réparti leurs avoirs sur les quatre types de
+   Les deux premiers placements portaient des taux dâ€™intÃ©rÃªt nÃ©gatifs,
+   mais câ€™Ã©tait le prix Ã  payer pour conserver lâ€™argent en sÃ©curitÃ©. Les
+   banques ont ainsi rÃ©parti leurs avoirs sur les quatre types de
    placements.
 
-   Cependant, la BCE a cherché à inciter les banques à prêter davantage au
-   secteur privé. Pour cela, elle leur a proposé de racheter leurs titres
-   de dette publique, non seulement les titres à court terme, mais aussi
-   les obligations à long terme. Ce faisant, elle voulait les inciter à
-   prêter à d'autres que l'État, tout en faisant pression à la baisse sur
-   les taux d'intérêt payés par tous les emprunteurs - publics et privés.
-   In fine, l'objectif était d'empêcher la zone euro de sombrer dans une
-   spirale déflationniste : faciliter l'intervention publique, inciter les
-   ménages à consommer et les entreprises à maintenir leurs programmes
-   d'investissement ; en bref, soutenir un certain niveau de demande
-   malgré les restrictions et les incertitudes.
+   Cependant, la BCE a cherchÃ© Ã  inciter les banques Ã  prÃªter davantage au
+   secteur privÃ©. Pour cela, elle leur a proposÃ© de racheter leurs titres
+   de dette publique, non seulement les titres Ã  court terme, mais aussi
+   les obligations Ã  long terme. Ce faisant, elle voulait les inciter Ã 
+   prÃªter Ã  dâ€™autres que lâ€™Ã‰tat, tout en faisant pression Ã  la baisse sur
+   les taux dâ€™intÃ©rÃªt payÃ©s par tous les emprunteurs â€“ publics et privÃ©s.
+   In fine, lâ€™objectif Ã©tait dâ€™empÃªcher la zone euro de sombrer dans une
+   spirale dÃ©flationniste : faciliter lâ€™intervention publique, inciter les
+   mÃ©nages Ã  consommer et les entreprises Ã  maintenir leurs programmes
+   dâ€™investissement ; en bref, soutenir un certain niveau de demande
+   malgrÃ© les restrictions et les incertitudes.
 
-   L'ensemble constitué des banques commerciales et de la banque centrale
-   a donc recyclé l'épargne des ménages pour prêter à l'État, lequel a
-   aidé les entreprises à continuer de verser des revenus aux ménages : le
-   circuit normal de la dépense étant bloqué, l'État a mis en place, avec
-   l'aide de la BCE, une sorte de déviation temporaire (graphique 5). En
-   maintenant des taux d'intérêt très bas, la BCE a aussi réduit le coût
-   de l'endettement supplémentaire de l'État tout en incitant les
-   entreprises et les ménages à ne pas trop couper dans leurs dépenses.
+   Lâ€™ensemble constituÃ© des banques commerciales et de la banque centrale
+   a donc recyclÃ© lâ€™Ã©pargne des mÃ©nages pour prÃªter Ã  lâ€™Ã‰tat, lequel a
+   aidÃ© les entreprises Ã  continuer de verser des revenus aux mÃ©nages : le
+   circuit normal de la dÃ©pense Ã©tant bloquÃ©, lâ€™Ã‰tat a mis en place, avec
+   lâ€™aide de la BCE, une sorte de dÃ©viation temporaire (graphique 5). En
+   maintenant des taux dâ€™intÃ©rÃªt trÃ¨s bas, la BCE a aussi rÃ©duit le coÃ»t
+   de lâ€™endettement supplÃ©mentaire de lâ€™Ã‰tat tout en incitant les
+   entreprises et les mÃ©nages Ã  ne pas trop couper dans leurs dÃ©penses.
 
-         Graphique 5 : le circuit de l'argent dans l'économie Covid
+       Graphique 5 : le circuit de lâ€™argent dans lâ€™Ã©conomie Covid
 
-                le circuit de l'argent dans l'économie Covid
+              le circuit de lâ€™argent dans lâ€™Ã©conomie Covid
 
-   Sur l'ensemble de l'année 2020, les ménages français ont épargné
-   environ 100 MdEUR de plus qu'en 2019. Ils ont également moins investi,
-   si bien que leur épargne financière a crû d'environ 110 MdEUR. De leur
-   côté, les administrations publiques ont financé 73,7 MdEUR de mesures
-   exceptionnelles (dont 27,4 MdEUR au titre de l'activité partielle,
-   15,9 MdEUR pour le fonds de solidarité et 14 MdEUR en dépenses
-   exceptionnelles de santé - montants mesurées en comptabilité
-   nationale). L'État a aussi garanti 130 MdEUR de prêts aux entreprises
-   et leur a accordé de nombreux reports de cotisations (voir le détail
-   dans le Rapport du comité de suivi, juillet 2021). Du côté des
-   recettes, l'État a souffert de la chute de l'activité, qui a réduit
-   quasi proportionnellement les différentes assiettes fiscales (les
-   prélèvements obligatoires ont toutefois montré une certaine résistance
-   à la crise en se repliant moins que l'activité).
+   Sur lâ€™ensemble de lâ€™annÃ©e 2020, les mÃ©nages franÃ§ais ont Ã©pargnÃ©
+   environ 100 Mdâ‚¬ de plus quâ€™en 2019. Ils ont Ã©galement moins investi, si
+   bien que leur Ã©pargne financiÃ¨re a crÃ» dâ€™environ 110 Mdâ‚¬. De leur cÃ´tÃ©,
+   les administrations publiques ont financÃ© 73,7 Mdâ‚¬ de mesures
+   exceptionnelles (dont 27,4 Mdâ‚¬ au titre de lâ€™activitÃ© partielle,
+   15,9 Mdâ‚¬ pour le fonds de solidaritÃ© et 14 Mdâ‚¬ en dÃ©penses
+   exceptionnelles de santÃ© â€“ montants mesurÃ©es en comptabilitÃ©
+   nationale). Lâ€™Ã‰tat a aussi garanti 130 Mdâ‚¬ de prÃªts aux entreprises et
+   leur a accordÃ© de nombreux reports de cotisations (voir le dÃ©tail dans
+   le Rapport du comitÃ© de suivi, juillet 2021). Du cÃ´tÃ© des recettes,
+   lâ€™Ã‰tat a souffert de la chute de lâ€™activitÃ©, qui a rÃ©duit quasi
+   proportionnellement les diffÃ©rentes assiettes fiscales (les
+   prÃ©lÃ¨vements obligatoires ont toutefois montrÃ© une certaine rÃ©sistance
+   Ã  la crise en se repliant moins que lâ€™activitÃ©).
 
-   Comptablement, le déficit des administrations publiques en 2020
-   (212 MdEUR au compte provisoire des administrations publiques 2020) et
-   le besoin de financement résiduel des entreprises françaises (30 MdEUR)
-   ont été financés en grande partie par les ménages (180 MdEUR), via le
-   système financier, le reste (60 MdEUR) étant comblé par les
-   investisseurs étrangers. La monnaie créée par le système bancaire (au
-   premier rang duquel la BCE) ne modifie pas cette comptabilité. En
-   effet, les dépôts bancaires des ménages et des entreprises sont
-   assimilables à de la dette des banques à leur égard ; et lorsque vous
-   retirez 20 euros d'un distributeur de billets, vous ne faites que
-   transformer une forme d'actif (un dépôt bancaire) en une autre (un
-   billet), sans modifier le total. Ainsi, les banques ont « emprunté »
-   auprès des ménages et des entreprises autant qu'elles leur ont prêté.
-   Les achats massifs de dette publique par la BCE ont gonflé son bilan de
-   manière équilibrée à l'actif et au passif. Autrement dit, la BCE a créé
-   autant de moyens de paiement qu'elle a acquis de titres de dette
-   publique.
+   Comptablement, le dÃ©ficit des administrations publiques en 2020
+   (212 Mdâ‚¬ au compte provisoire des administrations publiques 2020) et le
+   besoin de financement rÃ©siduel des entreprises franÃ§aises (30 Mdâ‚¬) ont
+   Ã©tÃ© financÃ©s en grande partie par les mÃ©nages (180 Mdâ‚¬), via le systÃ¨me
+   financier, le reste (60 Mdâ‚¬) Ã©tant comblÃ© par les investisseurs
+   Ã©trangers. La monnaie crÃ©Ã©e par le systÃ¨me bancaire (au premier rang
+   duquel la BCE) ne modifie pas cette comptabilitÃ©. En effet, les dÃ©pÃ´ts
+   bancaires des mÃ©nages et des entreprises sont assimilables Ã  de la
+   dette des banques Ã  leur Ã©gard ; et lorsque vous retirez 20 euros dâ€™un
+   distributeur de billets, vous ne faites que transformer une forme
+   dâ€™actif (un dÃ©pÃ´t bancaire) en une autre (un billet), sans modifier le
+   total. Ainsi, les banques ont Â« empruntÃ© Â» auprÃ¨s des mÃ©nages et des
+   entreprises autant quâ€™elles leur ont prÃªtÃ©. Les achats massifs de dette
+   publique par la BCE ont gonflÃ© son bilan de maniÃ¨re Ã©quilibrÃ©e Ã 
+   lâ€™actif et au passif. Autrement dit, la BCE a crÃ©Ã© autant de moyens de
+   paiement quâ€™elle a acquis de titres de dette publique.
 
-   Avec la réouverture de l'économie, les ménages ont retrouvé le chemin
-   de la consommation et l'argent a retrouvé son circuit « normal ».
-   Toutefois, chacun sort de la crise avec de l'épargne accumulée
-   (ménages), de la dette accumulée (entreprises et surtout État), ou les
-   deux à la fois (banques commerciales, BCE, cf. graphique 6). La
-   question centrale va être la façon dont ces stocks d'actifs et de
-   dettes vont influencer les flux nouveaux de production et de dépense,
-   et comment ils peuvent progressivement se dégonfler sans enrayer la
+   Avec la rÃ©ouverture de lâ€™Ã©conomie, les mÃ©nages ont retrouvÃ© le chemin
+   de la consommation et lâ€™argent a retrouvÃ© son circuit Â« normal Â».
+   Toutefois, chacun sort de la crise avec de lâ€™Ã©pargne accumulÃ©e
+   (mÃ©nages), de la dette accumulÃ©e (entreprises et surtout Ã‰tat), ou les
+   deux Ã  la fois (banques commerciales, BCE, cf. graphique 6). La
+   question centrale va Ãªtre la faÃ§on dont ces stocks dâ€™actifs et de
+   dettes vont influencer les flux nouveaux de production et de dÃ©pense,
+   et comment ils peuvent progressivement se dÃ©gonfler sans enrayer la
    reprise.
 
-           Graphique 6 : le circuit de l'argent dans l'après-Covid
+        Graphique 6 : le circuit de lâ€™argent dans lâ€™aprÃ¨s-Covid
 
-                  le circuit de l'argent dans l'après-Covid
+               le circuit de lâ€™argent dans lâ€™aprÃ¨s-Covid
 
 
    ***
@@ -221,23 +220,23 @@ Lire aussi :
 
    >> English version: Where does the money come from?
 
-   >> Tous les billets d'Agnès Bénassy-Quéré, chef économiste de la DG
-   Trésor.
+   >> Tous les billets d'AgnÃ¨s BÃ©nassy-QuÃ©rÃ©, chef Ã©conomiste de la DG
+   TrÃ©sor.
 
    Partager sur Facebook Partager sur Twitter Partager sur Linkedin
    Envoyer par Messagerie
 
-   Abonnez-vous à notre lettre d'information
-   Suivez la DG Trésor sur : Twitter LinkedIn Youtube
+   Abonnez-vous Ã  notre lettre d'information
+   Suivez la DG TrÃ©sor sur : Twitter LinkedIn Youtube
 
-     * Accéder au site de l'Agence France Trésor - dans une nouvelle
-       fenêtre
-     * Point de Contact National français
-     * FIN INFRA - Mission d'appui au financement des infrastructures
+     * AccÃ©der au site de lâ€™Agence France TrÃ©sor â€“ dans une nouvelle
+       fenÃªtre
+     * Point de Contact National franÃ§ais
+     * FIN INFRA - Mission dâ€™appui au financement des infrastructures
 
      * Contact
-     * Mentions légales
-     * Politique de confidentialité
+     * Mentions lÃ©gales
+     * Politique de confidentialitÃ©
      * Politique de cookies
      * Gestion des cookies
      * Flux RSS
@@ -248,4 +247,4 @@ Lire aussi :
      * france.fr
      * data.gouv.fr
 
-   2023 Direction générale du Trésor
+   2024 Direction gÃ©nÃ©rale du TrÃ©sor

@@ -1,32 +1,32 @@
    (BUTTON) Aller au menu principal (BUTTON) Aller au contenu
      * (BUTTON) Particuliers
-          + Banque Privée
+          + Banque PrivÃ©e
           + Agents du secteur public
           + Professionnels
           + Associations
           + Entreprises
-          + Économie publique
-          + Découvrir SG
-     * (BUTTON) Nos régions
-          + SG Crédit du Nord
+          + Ã‰conomie publique
+          + DÃ©couvrir SG
+     * (BUTTON) Nos rÃ©gions
+          + SG CrÃ©dit du Nord
           + SG Grand Est
           + SG Laydernier
-          + SG Auvergne Rhône Alpes
+          + SG Auvergne RhÃ´ne Alpes
           + SG SMC
-          + SG Société Générale (Corse)
+          + SG SociÃ©tÃ© GÃ©nÃ©rale (Corse)
           + SG Courtois
           + SG Sud Ouest
           + SG Tarneaud
           + SG Grand Ouest
-          + SG Société Générale (Île-de-France)
+          + SG SociÃ©tÃ© GÃ©nÃ©rale (ÃŽle-de-France)
      * Agences
      * Aide et contacts
-     * Sécurité
+     * SÃ©curitÃ©
 
    (BUTTON)
      * Ouvrir un compte
      * Emprunter
-     * Épargner
+     * Ã‰pargner
      * Assurer
      * Nos conseils
 
@@ -36,29 +36,29 @@
      ____________________
      * Ouvrir un compte
      * Emprunter
-     * Épargner
+     * Ã‰pargner
      * Assurer
      * Nos Conseils
      * (BUTTON) Particuliers
-          + Banque Privée
+          + Banque PrivÃ©e
           + Agents du secteur public
           + Professionnels
           + Entreprises
           + Associations
-          + Économie publique
-          + Découvrir SG
-     * (BUTTON) Nos régions
-          + SG Crédit du Nord
+          + Ã‰conomie publique
+          + DÃ©couvrir SG
+     * (BUTTON) Nos rÃ©gions
+          + SG CrÃ©dit du Nord
           + SG Grand Est
           + SG Laydernier
-          + SG Auvergne Rhône Alpes
+          + SG Auvergne RhÃ´ne Alpes
           + SG SMC
-          + SG Société Générale (Corse)
+          + SG SociÃ©tÃ© GÃ©nÃ©rale (Corse)
           + SG Courtois
           + SG Sud Ouest
           + SG Tarneaud
           + SG Grand Ouest
-          + SG Société Générale (Île-de-France)
+          + SG SociÃ©tÃ© GÃ©nÃ©rale (ÃŽle-de-France)
      * Aide et contacts
      * Agences
 
@@ -67,174 +67,174 @@
 
 Placer son argent et investir
 
-   Pour préparer un projet (achat immobilier, retraite...), anticiper un
-   imprévu ou faire fructifier votre argent, vous avez une bonne raison
-   d'épargner.
+   Pour prÃ©parer un projet (achat immobilier, retraite...), anticiper un
+   imprÃ©vu ou faire fructifier votre argent, vous avez une bonne raison
+   d'Ã©pargner.
    Prendre rendez-vous
 
-L'épargne SG
+L'Ã©pargne SG
 
-   Découvrez les trois grandes familles de produits d'épargne
+   DÃ©couvrez les trois grandes familles de produits d'Ã©pargne
 
-Livret d'épargne
+Livret d'Ã©pargne
 
    Sans risque, disponible et sans frais.
    En savoir plus
 
 Assurance vie
 
-   Pour diversifier son épargne et chercher à la dynamiser.
+   Pour diversifier son Ã©pargne et chercher Ã  la dynamiser.
    En savoir plus
 
 Comptes titres
 
-   Accédez aux marchés financiers grâce à différents cadres
+   AccÃ©dez aux marchÃ©s financiers grÃ¢ce Ã  diffÃ©rents cadres
    d'investissements.
    En savoir plus
-   Tous les produits d'épargne
+   Tous les produits d'Ã©pargne
 
-L'épargne responsable, une nouvelle vision de
+Lâ€™Ã©pargne responsable, une nouvelle vision de
 notre futur
 
-   Conjuguer responsabilité et recherche de performance
-   Nouvelle génération d'épargne
+   Conjuguer responsabilitÃ© et recherche de performance
+   Nouvelle gÃ©nÃ©ration dâ€™Ã©pargne
 
-Le vent fait tourner les éoliennes et peut même faire décoller votre épargne.
+Le vent fait tourner les Ã©oliennes et peut mÃªme faire dÃ©coller votre Ã©pargne.
 
-   La nouvelle génération d'épargne est une gamme de produits d'épargne
-   gérés par des N°1 en gestion d'actifs, français ou internationaux, et
-   sélectionnés pour leur expertise.
-   Découvrir
+   La nouvelle gÃ©nÃ©ration dâ€™Ã©pargne est une gamme de produits dâ€™Ã©pargne
+   gÃ©rÃ©s par des NÂ°1 en gestion dâ€™actifs, franÃ§ais ou internationaux, et
+   sÃ©lectionnÃ©s pour leur expertise.
+   DÃ©couvrir
    Finance durable
 
 Comprendre la finance durable
 
-   Découvrez les différentes approches pour investir de manière durable.
+   DÃ©couvrez les diffÃ©rentes approches pour investir de maniÃ¨re durable.
    En savoir plus
    Lumo
 
-Lumo, la plateforme de financement participatif à impact positif
+Lumo, la plateforme de financement participatif Ã  impact positif
 
-   Pour donner du sens à votre épargne en finançant des projets à impact
+   Pour donner du sens Ã  votre Ã©pargne en finanÃ§ant des projets Ã  impact
    positif.
    En savoir plus
 
-Donnez vie à vos projets
+Donnez vie Ã  vos projets
 
-Prévoir
-l'imprévu
+PrÃ©voir
+l'imprÃ©vu
 
-   Faites face à toutes les situations avec tous nos livrets d'épargne.
+   Faites face Ã  toutes les situations avec tous nos livrets d'Ã©pargne.
    En savoir plus
 
-Préparer
+PrÃ©parer
 sa retraite
 
-   Constituez votre épargne pour faciliter vos projets et votre retraite.
+   Constituez votre Ã©pargne pour faciliter vos projets et votre retraite.
    En savoir plus
 
 Investir
 en bourse
 
-   Accédez aux marchés financiers et bénéficiez d'un accompagnement.
+   AccÃ©dez aux marchÃ©s financiers et bÃ©nÃ©ficiez d'un accompagnement.
    En savoir plus
 
 Investir
 en immobilier
 
-   Diversifiez votre épargne avec nos solutions dédiées.
+   Diversifiez votre Ã©pargne avec nos solutions dÃ©diÃ©es.
    En savoir plus
 
 Accompagnement et conseils
 
-Diagnostic épargne
+Diagnostic Ã©pargne
 
    Renseignez votre questionnaire en ligne en toute autonomie pour
-   découvrir votre profil investisseur. Par la suite, bénéficiez de
-   l'accompagnement de votre conseiller pour définir votre stratégie
-   d'épargne personnalisée.
+   dÃ©couvrir votre profil investisseur. Par la suite, bÃ©nÃ©ficiez de
+   l'accompagnement de votre conseiller pour dÃ©finir votre stratÃ©gie
+   d'Ã©pargne personnalisÃ©e.
    En savoir plus
 
-Un conseiller toujours à
+Un conseiller toujours Ã 
 votre service
 
-   Votre conseiller se tient à disposition pour identifier avec vous les
-   solutions adaptées à votre situation. Il prendra en considération vos
-   connaissances financières, le niveau de risque que vous êtes en mesure
+   Votre conseiller se tient Ã  disposition pour identifier avec vous les
+   solutions adaptÃ©es Ã  votre situation. Il prendra en considÃ©ration vos
+   connaissances financiÃ¨res, le niveau de risque que vous Ãªtes en mesure
    d'accepter, vos objectifs et horizon de placement ainsi que vos
-   préférences en matière de durabilité.
+   prÃ©fÃ©rences en matiÃ¨re de durabilitÃ©.
    Prendre rendez-vous
 
-Coup de projecteur sur l'Assurance Vie
+Coup de projecteur sur lâ€™Assurance Vie
 
-   Le placement préféré des français, non sans raisons ! Les
-   possibilités offertes par l'assurance vie sont nombreuses :
+   Le placement prÃ©fÃ©rÃ© des franÃ§ais, non sans raisons ! Les
+   possibilitÃ©s offertes par lâ€™assurance vie sont nombreuses :
      * Votre argent est toujours disponible
-     * Sortie en capital ou en rente sous conditions d'aliénation du
-       capital à l'assureur
-     * Un rendement potentiellement plus important en unités de compte en
+     * Sortie en capital ou en rente sous conditions d'aliÃ©nation du
+       capital Ã  l'assureur
+     * Un rendement potentiellement plus important en unitÃ©s de compte en
        contrepartie d'un risque de perte en capital
      * Profitez d'une large gamme de supports dont certains responsables
 
    Prendre rendez-vous En savoir plus
 
-Découvrez ce que pourrait être votre assurance vie
+DÃ©couvrez ce que pourrait Ãªtre votre assurance vie
 
    En fonction de vos moyens, de vos objectifs et de vos ambitions.
-   Démarrer la simulation
+   DÃ©marrer la simulation
 
 Des services de gestion
 
 Service Bourse
 
-   Vous êtes intéressé par les marchés financiers ? Bénéficiez de
+   Vous Ãªtes intÃ©ressÃ© par les marchÃ©s financiers ? BÃ©nÃ©ficiez de
    recommandations d'experts.
    En savoir plus
 
 Gestion Sous Mandat
 
-   Vous disposez d'un patrimoine financier ? Confiez sa gestion à des
+   Vous disposez d'un patrimoine financier ? Confiez sa gestion Ã  des
    experts.
    En savoir plus
 
 Alliage Gestion
 
-   Vous disposez d'épargne financière ? Faites vous accompagner pour
+   Vous disposez d'Ã©pargne financiÃ¨re ? Faites vous accompagner pour
    dynamiser ses performances.
    En savoir plus
 
-Bien accompagné pour épargner
+Bien accompagnÃ© pour Ã©pargner
 
-   Découvrez nos conseils pour bien épargner
+   DÃ©couvrez nos conseils pour bien Ã©pargner
    Photo d'un conseiller Nos Conseils
-     * Épargner
+     * Ã‰pargner
      * |
      * 6 min
 
-Le PER, pour avoir plus d'argent à la retraite
+Le PER, pour avoir plus dâ€™argent Ã  la retraite
 
-   Regarder la vidéo
-     * Épargner
+   Regarder la vidÃ©o
+     * Ã‰pargner
      * |
      * 5 min
 
-Les clés pour réussir son investissement immobilier locatif
+Les clÃ©s pour rÃ©ussir son investissement immobilier locatif
 
-   Regarder la vidéo
-     * Épargner
+   Regarder la vidÃ©o
+     * Ã‰pargner
      * |
      * 5 min
 
-Bonne nouvelle : ne cherchez plus votre épargne retraite
+Bonne nouvelle : ne cherchez plus votre Ã©pargne retraite
 
    Lire l'article
    Voir plus de conseils
 
-Placements : méfiez-vous des arnaques
+Placements : mÃ©fiez-vous des arnaques
 
    IFRAME: /static/Particuliers/rcwb/assets/html/cmpIframe.html
 
-   Politique relatives aux risques en matière de durabilité
+   Politique relatives aux risques en matiÃ¨re de durabilitÃ©
 
      * Accueil
      * Epargner
@@ -247,52 +247,52 @@ Placements : méfiez-vous des arnaques
 
    Offres Bancaires
      * Nos cartes bancaires
-     * Épargne et placements
-     * Nos crédits à la consommation
+     * Ã‰pargne et placements
+     * Nos crÃ©dits Ã  la consommation
      * Nos assurances vie
      * Personnaliser sa carte bancaire
 
    Immobilier
-     * Nos prêts immobiliers
-     * Simulation de prêt immobilier
+     * Nos prÃªts immobiliers
+     * Simulation de prÃªt immobilier
 
    Ouvrir un compte
      * L'offre Sobrio
      * Ouvrir un compte en ligne
      * Nos comptes bancaires
 
-   Se protéger
+   Se protÃ©ger
      * Nos assurances auto
      * Nos assurances habitation
      * Nos assurances moto
-     * Nos complémentaires santé
+     * Nos complÃ©mentaires santÃ©
 
    Conseils & Services
-     * Aléas de la vie
+     * AlÃ©as de la vie
      * Services
 
-     * Questions fréquentes
+     * Questions frÃ©quentes
      * Trouver une agence
      * (BUTTON) Autres sites SG
-          + Banque privée
+          + Banque privÃ©e
           + Professionnels
           + Entreprises
           + Associations
-          + Économie publique
-          + Découvrir SG
+          + Ã‰conomie publique
+          + DÃ©couvrir SG
           + Nos offres d'emploi
-          + Groupe Société Générale
+          + Groupe SociÃ©tÃ© GÃ©nÃ©rale
 
      *
      *
      *
 
-   Société Générale
-     * Sécurité
+   SociÃ©tÃ© GÃ©nÃ©rale
+     * SÃ©curitÃ©
      * Nos engagements
      * Gestion des Cookies
-     * Données personnelles
+     * DonnÃ©es personnelles
      * Documentation et Tarifs
-     * Résilier une prestation
-     * Informations légales
-     * Accessibilité Numérique (partiellement conforme)
+     * RÃ©silier une prestation
+     * Informations lÃ©gales
+     * AccessibilitÃ© NumÃ©rique (partiellement conforme)

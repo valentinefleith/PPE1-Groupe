@@ -2,12 +2,13 @@
           + Drapeau France France - garde ou livraison possible
           + Drapeau Suisse Suisse - garde uniquement
      * Argent
-       Toutes les pièces argent
+       Toutes les piÃ¨ces argent
           + Vera Valor
-            Cours Légal
+            Cours LÃ©gal
+               o Lot de 10 Vera Silver Kulukulu 1 once
 --
                o Lot de 10 VeraSilver MTD
-               o Découvrir notre dernière Vera Silver Jeton
+               o DÃ©couvrir notre derniÃ¨re Vera Silver Jeton
           + Krugerrand
                o 25 Krugerrand Argent 1 once (LSP)
           + Britannia
@@ -17,15 +18,20 @@
                o 500 Maple Leaf 1 once (LSP)
 --
                o 25 semeuses 5 Fr
-               o Découvrir toutes les semeuses
+               o DÃ©couvrir toutes les semeuses
           + Philarmonique de Vienne
                o 20 Philharmonique de Vienne Argent 1 once
                o 500 Philharmonique de Vienne Argent 1 once
                o 1000 Philharmonique de Vienne Argent 1 once
-               o Découvrir toutes les Philarmonique de Vienne
+               o DÃ©couvrir toutes les Philarmonique de Vienne
           + Hercule
                o 4 Hercule 50 francs
---
+               o 25 Hercule 10 francs
+               o 50 Hercule 50 francs
+               o DÃ©couvrir toutes les Hercule
+          + DÃ©couvrir toutes les piÃ¨ces argent
+       Par coffre
+          + Drapeau France France - garde ou livraison possible
           + Drapeau Suisse Suisse - garde uniquement
        Les fractionnements
           + Fractionnement 10g
@@ -39,7 +45,7 @@
                o Argent pur - 10 francs Hercule
                o Argent pur - Britannia
        Les produits LSP
-       Les précommandes ARGENT
+       Les prÃ©commandes ARGENT
        Les packs ARGENT
      * Platine / Palladium
        Les fractionnements platine
@@ -60,13 +66,13 @@
 
 Le cours de l'argent - Graphique et courbe
 
-   Suivez le cours de l'argent en direct ainsi que le prix en temps réel
+   Suivez le cours de l'argent en direct ainsi que le prix en temps rÃ©el
    du kilo d'argent et de l'once d'argent. Les cotations de l'argent
-   indiquées sur AuCOFFRE sont représentatives de notre marché sur lequel
-   plus de 30 000 membres s'échangent chaque jour plusieurs milliers de
-   produits. Les prix sur l'once d'argent ou sur les pièces d'argent
-   indiqués sont une moyenne des échanges effectués sur la plateforme
-   pondérée par la variation du cours international de l'or.
+   indiquÃ©es sur AuCOFFRE sont reprÃ©sentatives de notre marchÃ© sur lequel
+   plus de 30 000 membres s'Ã©changent chaque jour plusieurs milliers de
+   produits. Les prix sur l'once d'argent ou sur les piÃ¨ces d'argent
+   indiquÃ©s sont une moyenne des Ã©changes effectuÃ©s sur la plateforme
+   pondÃ©rÃ©e par la variation du cours international de l'or.
 
 Quel est le cours de l'argent massif en euros ce jour ?
 
@@ -79,207 +85,217 @@ d'argent ?
    Retrouvez le cours de l'argent de 10 grammes, de l'once d'argent
    physique et d'un kilo d'argent.
    Cours de l'argent
-   Once d'argent           21,98 EUR  -> Loading...
-   Lingot d'argent 1kg     848,13 EUR -> Loading...
-   Vera Silver LSP         26,38 EUR  -> Loading...
-   Vera Silver Cours Légal 29,68 EUR  -> Loading...
+   Once d'argent           20,98 â‚¬  â†˜ Loading...
+   Lingot d'argent 1kg     810,43 â‚¬ â†˜ Loading...
+   Vera Silver LSP         25,20 â‚¬  â†˜ Loading...
+   Vera Silver Cours LÃ©gal 28,35 â‚¬  â†˜ Loading...
 
---
-   déterminer votre prix de vente ou vous décider à passer à l'action sur
-   les pièces d'argent les plus demandées sur notre plateforme.
-   Intitulé Variation Cours Prime
+   Voir les 354 cotations
+
+La cotation en temps rÃ©el des piÃ¨ces d'argent d'investissement
+
+   Suivez la cotation des piÃ¨ces d'argent phares en temps rÃ©el pour
+   dÃ©terminer votre prix de vente ou vous dÃ©cider Ã  passer Ã  l'action sur
+   les piÃ¨ces d'argent les plus demandÃ©es sur notre plateforme.
+   IntitulÃ© Variation Cours Prime
    [mtype_6_3.jpg] 10 grammes d'argent pur - Britannia (LSP)
-   Britannia \v -0.354 % Loading... 8,48 EUR 19.98% Acheter
+   Britannia â†˜ -2.836 % Loading... 8,11 â‚¬ 20.24% Acheter
    [mtype_6_3.jpg] 100 grammes d'argent pur - Britannia (LSP)
-   Britannia \v -0.344 % Loading... 81,28 EUR 15.00% Acheter
+   Britannia â†˜ -2.739 % Loading... 77,76 â‚¬ 15.29% Acheter
    [mtype_6_3.jpg] 25 Britannia Argent 1 once (LSP)
-   Britannia \v -0.351 % Loading... 686,35 EUR 25.00% Acheter
+   Britannia â†’ 0 % Loading... 639,33 â‚¬ 22.01% Acheter
    [mtype_7_3.jpg] 100 grammes d'argent pur - Maple Leaf (LSP)
-   Dollars Canadien \v -0.344 % Loading... 81,28 EUR 15.00% Acheter
+   Dollars Canadien â†˜ -2.739 % Loading... 77,76 â‚¬ 15.29% Acheter
    [mtype_7_3.jpg] 1000 Maple Leaf Argent 1 once (LSP)
-   Dollars Canadien \v -0.351 % Loading... 24 181,52 EUR 10.00% Acheter
+   Dollars Canadien â†˜ -2.741 % Loading... 23 134,13 â‚¬ 10.28% Acheter
    [mtype_7_3.jpg] 25 Maple Leaf Argent 1 once (LSP)
-   Dollars Canadien \v -0.351 % Loading... 686,97 EUR 25.00% Acheter
+   Dollars Canadien â†˜ -2.74 % Loading... 657,22 â‚¬ 25.31% Acheter
    [mtype_7_3.jpg] 25 Maple Leaf Argent 1 once (Non LSP)
-   Dollars Canadien \v -0.352 % Loading... 659,49 EUR 20.00% Acheter
+   Dollars Canadien â†˜ -2.74 % Loading... 630,93 â‚¬ 20.30% Acheter
    [mtype_7_3.jpg] 500 Maple Leaf Argent 1 once (LSP)
-   Dollars Canadien -> 0 % Loading... 12 982,46 EUR 18.11% Acheter
+   Dollars Canadien â†˜ -2.741 % Loading... 12 618,61 â‚¬ 20.30% Acheter
    [mtype_30_3.jpg] 10 Francs Hercule
-   Hercule \v -0.343 % Loading... 17,49 EUR 9.98% Acheter
+   Hercule â†˜ -2.688 % Loading... 16,74 â‚¬ 10.31% Acheter
    [mtype_30_3.jpg] 100 grammes d'argent pur - 10 Francs Hercule (LSP)
-   Hercule \v -0.351 % Loading... 79,87 EUR 13.01% Acheter
+   Hercule â†˜ -2.735 % Loading... 76,41 â‚¬ 13.29% Acheter
    [mtype_30_3.jpg] 100 grammes d'argent pur - 50 Francs Hercule (LSP)
-   Hercule \v -0.342 % Loading... 81,99 EUR 16.01% Acheter
+   Hercule â†˜ -2.741 % Loading... 78,43 â‚¬ 16.28% Acheter
    [mtype_30_3.jpg] 50 Francs Hercule
-   Hercule \v -0.343 % Loading... 20,42 EUR 7.01% Acheter
+   Hercule â†˜ -2.765 % Loading... 19,53 â‚¬ 7.24% Acheter
 --
-   Hercule \v -0.353 % Loading... 87,78 EUR 15.00% Acheter
-   [mtype_30_3.jpg] Lot 50 pièces Hercule 50 Francs
-   Hercule \v -0.351 % Loading... 1 020,94 EUR 7.00% Acheter
+   Hercule â†˜ -2.739 % Loading... 83,98 â‚¬ 15.29% Acheter
+   [mtype_30_3.jpg] Lot 50 piÃ¨ces Hercule 50 Francs
+   Hercule â†˜ -2.741 % Loading... 976,72 â‚¬ 7.27% Acheter
    [mtype_10_3.jpg] 10 grammes d'argent pur - Philharmonique de Vienne
    (LSP)
-   Philharmonique de Vienne \v -0.354 % Loading... 8,48 EUR 19.98% Acheter
+   Philharmonique de Vienne â†˜ -2.836 % Loading... 8,11 â‚¬ 20.24% Acheter
    [mtype_10_3.jpg] 100 grammes d'argent pur - Philharmonique de Vienne
    (LSP)
-   Philharmonique de Vienne \v -0.344 % Loading... 81,28 EUR 15.00%
-   Acheter
+   Philharmonique de Vienne â†˜ -2.739 % Loading... 77,76 â‚¬ 15.29% Acheter
    [mtype_10_3.jpg] 1000 Philharmonique de Vienne Argent 1 once (LSP)
-   Philharmonique de Vienne \v -0.351 % Loading... 24 181,05 EUR 10.00%
+   Philharmonique de Vienne â†˜ -2.741 % Loading... 23 133,67 â‚¬ 10.28%
    Acheter
-   [mtype_10_3.jpg] 20 Philharmonique de Vienne Argent 1 once (Expédiées)
-   Philharmonique de Vienne \v -0.351 % Loading... 507,61 EUR 15.45%
-   Acheter
+   [mtype_10_3.jpg] 20 Philharmonique de Vienne Argent 1 once (ExpÃ©diÃ©es)
+   Philharmonique de Vienne â†˜ -2.73 % Loading... 485,71 â‚¬ 15.76% Acheter
    [mtype_10_3.jpg] 20 Philharmonique de Vienne Argent 1 once (LSP)
-   Philharmonique de Vienne \v -0.351 % Loading... 518,80 EUR 18.00%
-   Acheter
+   Philharmonique de Vienne â†˜ -2.74 % Loading... 496,33 â‚¬ 18.30% Acheter
    [mtype_10_3.jpg] 500 Philharmonique de Vienne Argent 1 once (LSP)
-   Philharmonique de Vienne \v -0.351 % Loading... 11 541,18 EUR 5.00%
+   Philharmonique de Vienne â†˜ -2.741 % Loading... 11 041,29 â‚¬ 5.26%
    Acheter
    [mtype_35_3.jpg] 100 kilos d'argent pur - Vera Silver (LSP)
-   Vera Valor \v -0.351 % Loading... 69 264,00 EUR -2.00% Acheter
-   [mtype_35_3.jpg] Lot 10 Vera Silver 1 once (Cours Légal - LSP)
-   Vera Valor \v -0.354 % Loading... 263,07 EUR 19.00% Acheter
+   Vera Valor â†˜ -2.748 % Loading... 66 259,27 â‚¬ -1.76% Acheter
+   [mtype_35_3.jpg] Lot 10 Vera Silver 1 once (Cours LÃ©gal - LSP)
+   Vera Valor â†˜ -2.75 % Loading... 251,66 â‚¬ 19.29% Acheter
 --
    [mtype_35_3.jpg] Vera Silver 1 once Perso
-   Vera Valor \v -0.339 % Loading... 26,52 EUR 20.01% Acheter
+   Vera Valor â†˜ -2.759 % Loading... 25,37 â‚¬ 20.30% Acheter
 
    Avant d'acheter de l'argent ou de l'or, il est important de vous tenir
-   informé des évolutions du cours de l'argent métal. Chez Aucoffre.com,
+   informÃ© des Ã©volutions du cours de l'argent mÃ©tal. Chez Aucoffre.com,
    nous vous proposons de suivre, heure par heure, le cours de l'argent en
-   direct. La cotation de l'argent métal est définie quotidiennement par
-   la LMBA (London Bullion Market Association) à Londres en fonction des
-   indicateurs des marchés. Nous ajustons ce prix en fonction des volumes
-   de transactions effectuées sur notre site.
+   direct. La cotation de l'argent mÃ©tal est dÃ©finie quotidiennement par
+   la LMBA (London Bullion Market Association) Ã  Londres en fonction des
+   indicateurs des marchÃ©s. Nous ajustons ce prix en fonction des volumes
+   de transactions effectuÃ©es sur notre site.
 
 Vous souhaitez acheter de l'argent sur la plateforme AuCOFFRE ?
 
-   Retrouvez toutes nos pièces en argent telles que des Hercule, les
-   Philarmoniques de Vienne, des Britannia ou encore des pièces Semeuse.
-   Découvrez également les pièces en argent VeraValor telles que la
+   Retrouvez toutes nos piÃ¨ces en argent telles que des Hercule, les
+   Philarmoniques de Vienne, des Britannia ou encore des piÃ¨ces Semeuse.
+   DÃ©couvrez Ã©galement les piÃ¨ces en argent VeraValor telles que la
    Elizabeth II - Lotus, la Elizabeth II Gecko.
 
 Comprendre la valeur et le prix de l'argent massif
 
 Quel est le prix du gramme d'argent ?
 
-   Une once d'argent pèse 31,103 grammes. En conséquence, pour connaître
+   Une once d'argent pÃ¨se 31,103 grammes. En consÃ©quence, pour connaÃ®tre
    le prix du gramme d'argent, il faut appliquer la formule suivante :
-   Prix de l'once /31,103. L'évolution du cours de l'argent est à suivre
+   Prix de l'once /31,103. L'Ã©volution du cours de l'argent est Ã  suivre
    en direct sur Aucoffre.com
 
 Quel est le cours de l'argent aujourd'hui versus le cours de l'argent en 2019
 ?
 
-   Le cours de l'argent aujourd'hui se situe autour de 20EUR l'once,
-   contre 13EUR l'once en moyenne en 2019. La cotation de l'argent est peu
-   soumise aux variations, c'est un placement sûr dont la valeur reste
+   Le cours de l'argent aujourd'hui se situe autour de 20â‚¬ l'once, contre
+   13â‚¬ l'once en moyenne en 2019. La cotation de l'argent est peu soumise
+   aux variations, c'est un placement sÃ»r dont la valeur reste
    relativement stable.
 
---
-   La valeur du métal argent au poids dépend de la cotation de l'argent
-   définie par la LMBA. Un kilo d'argent équivaut à 32,15 onces d'argent.
-   Pour connaître le prix du kilo d'argent, il faut donc faire la formule
+Combien coÃ»te 1 kilo d'argent ?
+
+   La valeur du mÃ©tal argent au poids dÃ©pend de la cotation de l'argent
+   dÃ©finie par la LMBA. Un kilo d'argent Ã©quivaut Ã  32,15 onces d'argent.
+   Pour connaÃ®tre le prix du kilo d'argent, il faut donc faire la formule
    : Prix de l'once d'argent X 32,15.
 
 Combien de grammes d'argent acheter ?
 
-   Selon votre budget, vous pourrez acquérir des lingots d'argent de
-   plusieurs centaines de grammes, ou encore des pièces d'argent cotées
---
+   Selon votre budget, vous pourrez acquÃ©rir des lingots d'argent de
+   plusieurs centaines de grammes, ou encore des piÃ¨ces d'argent cotÃ©es
+   selon leur millÃ©sime. Ces piÃ¨ces peuvent bÃ©nÃ©ficier d'une Â« prime Â» :
+   leur valeur sur le marchÃ© est plus Ã©levÃ©e que leur prix au poids en
+   raison de leur raretÃ©. Investir dans des piÃ¨ces d'argent permet
+   d'acheter et de revendre plus facilement : la valeur de piÃ¨ces est
+   moins Ã©levÃ©e que celle d'un lingot, et on peut les revendre par lots
    donc plus facilement. Vous pouvez commencer par acheter 100 grammes de
-   pièces, qui seront faciles à revendre en lots.
+   piÃ¨ces, qui seront faciles Ã  revendre en lots.
 
 Quel est le prix du gramme d'argent ?
 
-   Une once d'argent pèse 31,103 grammes. En conséquence, pour connaître
+   Une once d'argent pÃ¨se 31,103 grammes. En consÃ©quence, pour connaÃ®tre
    le prix du gramme d'argent, il faut appliquer la formule suivante :
    Prix de l'once /31,103. Actuellement avec un prix de l'once d'argent
    autour de 15 Euros, cela fait 0,48 cens pour le prix du gramme
-   d'argent. L'évolution du cours de l'argent est à suivre en direct sur
+   d'argent. L'Ã©volution du cours de l'argent est Ã  suivre en direct sur
    Aucoffre.com
 
-Réussir son achat d'argent : les réponses à vos questions
+RÃ©ussir son achat d'argent : les rÃ©ponses Ã  vos questions
 
 Pourquoi acheter de l'argent ?
 
-   L'argent possède un double statut : métal précieux servant de valeur
-   refuge aux investisseurs, il est également utilisé dans l'industrie
-   etla métallurgie. Ses propriétés exceptionnelles, son éclat et sa
-   conductivité électrique le rendent nécessaire à de nombreux secteurs
+   L'argent possÃ¨de un double statut : mÃ©tal prÃ©cieux servant de valeur
+   refuge aux investisseurs, il est Ã©galement utilisÃ© dans l'industrie
+   etla mÃ©tallurgie. Ses propriÃ©tÃ©s exceptionnelles, son Ã©clat et sa
+   conductivitÃ© Ã©lectrique le rendent nÃ©cessaire Ã  de nombreux secteurs
 --
-   complément de l'or et qui a prouvé sa résistance aux aléas des marchés
-   financiers en cas de crise économique. Vous souhaitez avoir davantage
-   d'informations sur ce métal précieux ? Suivez l'évolution du cours de
-   l'argent métal et du cours de l'argent 925 en Euros sur AuCOFFRE !
+   complÃ©ment de l'or et qui a prouvÃ© sa rÃ©sistance aux alÃ©as des marchÃ©s
+   financiers en cas de crise Ã©conomique. Vous souhaitez avoir davantage
+   d'informations sur ce mÃ©tal prÃ©cieux ? Suivez l'Ã©volution du cours de
+   l'argent mÃ©tal et du cours de l'argent 925 en Euros sur AuCOFFRE !
 
-Argent massif ou métal argenté : comment faire la différence ?
+Argent massif ou mÃ©tal argentÃ© : comment faire la diffÃ©rence ?
 
-   L'argent commercialisé sur les marchés n'est pas totalement pur. Le
-   composé chimique « argent » est trop mou et fragile. Pour le rendre
-   plus solide et utilisable en joaillerie, il est mélangé avec des métaux
-   comme le cuivre ou l'acier. Aussi parle-t-on d'argent massif à partir
-   de 80% d'argent. Dans le commerce, l'argent massif de référence
-   contient 92,5% d'argent d'où son nom d'argent 925 (Sterling Silver 925
-   en anglais). Le poinçon permet de distinguer un argent massif d'un
-   alliage ou encore d'un métal argenté, c'est-à-dire un métal recouvert
-   d'une fine couche d'argent. Nous avons rédigé un article spécial pour
-   vous permettre de déterminer la différence entre l'argent massif et le
-   métal argenté et comment savoir si c'est de l'argent ou non.
+   L'argent commercialisÃ© sur les marchÃ©s n'est pas totalement pur. Le
+   composÃ© chimique Â« argent Â» est trop mou et fragile. Pour le rendre
+   plus solide et utilisable en joaillerie, il est mÃ©langÃ© avec des mÃ©taux
+   comme le cuivre ou l'acier. Aussi parle-t-on d'argent massif Ã  partir
+   de 80% d'argent. Dans le commerce, l'argent massif de rÃ©fÃ©rence
+   contient 92,5% d'argent d'oÃ¹ son nom d'argent 925 (Sterling Silver 925
+   en anglais). Le poinÃ§on permet de distinguer un argent massif d'un
+   alliage ou encore d'un mÃ©tal argentÃ©, c'est-Ã -dire un mÃ©tal recouvert
+   d'une fine couche d'argent. Nous avons rÃ©digÃ© un article spÃ©cial pour
+   vous permettre de dÃ©terminer la diffÃ©rence entre l'argent massif et le
+   mÃ©tal argentÃ© et comment savoir si c'est de l'argent ou non.
 
---
-   La tête de Minerve est utilisée pour l'argent massif. Le cygne est
-   utilisé pour de l'argent à 500/1000ème.
+Quels sont les poinÃ§ons pour l'argent ?
+
+   Les bijoux et les objets composÃ©s d'argent sont marquÃ©s par un poinÃ§on.
+   Ce poinÃ§on permet de reconnaÃ®tre la teneur d'argent pur qu'il contient.
+   La tÃªte de Minerve est utilisÃ©e pour l'argent massif. Le cygne est
+   utilisÃ© pour de l'argent Ã  500/1000Ã¨me.
 
 C'est quoi une once d'argent ?
 
-   L'once troy est une unité de mesure utilisée par de nombreux pays
-   lorsque l'on parle de métaux précieux et notamment de pièces en argent
-   d'investissement. Son symbole est « oz ». Une once d'argent physique en
-   gramme vaut 31,1035 grammes d'argent. C'est l'unité de mesure utilisée
+   L'once troy est une unitÃ© de mesure utilisÃ©e par de nombreux pays
+   lorsque l'on parle de mÃ©taux prÃ©cieux et notamment de piÃ¨ces en argent
+   d'investissement. Son symbole est Â« oz Â». Une once d'argent physique en
+   gramme vaut 31,1035 grammes d'argent. C'est l'unitÃ© de mesure utilisÃ©e
    par la LMBA pour la cotation de l'argent.
 
 Comment savoir si c'est de l'argent ?
 
-   Cette question est légitime lorsque l'on souhaite acheter des pièces
-   d'argent ou un lingot d'argent. Chez AuCOFFRE, nos experts contrôlent
-   l'ensemble des produits présents sur la plateforme. De plus, nos pièces
-   d'argent telles que les Hercule, les Britannia ou encore les pièces
-   Semeuses sont stockées dans des coffres hautement sécurisés. Elles ne
-   sont donc pas manipulées et ne subissent pas d'usure inutilement.
+   Cette question est lÃ©gitime lorsque l'on souhaite acheter des piÃ¨ces
+   d'argent ou un lingot d'argent. Chez AuCOFFRE, nos experts contrÃ´lent
+   l'ensemble des produits prÃ©sents sur la plateforme. De plus, nos piÃ¨ces
+   d'argent telles que les Hercule, les Britannia ou encore les piÃ¨ces
+   Semeuses sont stockÃ©es dans des coffres hautement sÃ©curisÃ©s. Elles ne
+   sont donc pas manipulÃ©es et ne subissent pas d'usure inutilement.
 
 Comment acheter de l'argent ?
 
-   Vous êtes décidé à acquérir de l'argent ? Inutile de courir vers le
+   Vous Ãªtes dÃ©cidÃ© Ã  acquÃ©rir de l'argent ? Inutile de courir vers le
    bijoutier le plus proche ! En effet, l'argent peut attirer des
-   convoitises, il s'agit d'un métal précieux et recherché. Pour vous
-   mettre à l'abri des vols ou cambriolages, la solution la plus fiable
+   convoitises, il s'agit d'un mÃ©tal prÃ©cieux et recherchÃ©. Pour vous
+   mettre Ã  l'abri des vols ou cambriolages, la solution la plus fiable
    est d'acheter de l'argent en ligne. Aucoffre.com vous propose un large
-   choix de pièces d'argent ou de lingots. Nous vous proposons de le
-   stocker directement dans nos coffres sous haute-sécurité, ou encore de
-   le livrer à domicile. Pour savoir comment acheter de l'argent en ligne,
---
-   Depuis plus de 10 ans, 30 000 utilisateurs font confiance à
-   Aucoffre.com pour leurs transactions et stockages de métaux précieux.
-   Nous stockons dans nos coffres sécurisés des dizaines de tonnes d'or et
-   d'argent et assurons la livraison à votre domicile de façon sécurisée.
-   Notre plateforme est la première plateforme d'achat et de vente d'or en
-   France hors système bancaire. N'hésitez pas à nous contacter pour toute
+   choix de piÃ¨ces d'argent ou de lingots. Nous vous proposons de le
+   stocker directement dans nos coffres sous haute-sÃ©curitÃ©, ou encore de
+   le livrer Ã  domicile. Pour savoir comment acheter de l'argent en ligne,
+   rÃ©fÃ©rez-vous Ã  notre guide.
+
+   Depuis plus de 10 ans, 30 000 utilisateurs font confiance Ã 
+   Aucoffre.com pour leurs transactions et stockages de mÃ©taux prÃ©cieux.
+   Nous stockons dans nos coffres sÃ©curisÃ©s des dizaines de tonnes d'or et
+   d'argent et assurons la livraison Ã  votre domicile de faÃ§on sÃ©curisÃ©e.
+   Notre plateforme est la premiÃ¨re plateforme d'achat et de vente d'or en
+   France hors systÃ¨me bancaire. N'hÃ©sitez pas Ã  nous contacter pour toute
    demande d'informations !
 
 Existe-t-il un cours de rachat de l'argent ?
 
-   Pour déterminer le prix de rachat d'une pièce en argent, il y a
-   plusieurs facteurs à prendre en compte. Il y a notamment la valeur
-   intrinsèque du métal de la pièce en question qui varie selon le cours
-   de l'argent en direct mais il faut également ajouter une prime liée à
-   la pièce. Cette prime varie en fonction de différents facteurs tels que
-   l'état de la pièce, sa rareté, ou encore la demande en temps réel de
-   cette pièce.
+   Pour dÃ©terminer le prix de rachat d'une piÃ¨ce en argent, il y a
+   plusieurs facteurs Ã  prendre en compte. Il y a notamment la valeur
+   intrinsÃ¨que du mÃ©tal de la piÃ¨ce en question qui varie selon le cours
+   de l'argent en direct mais il faut Ã©galement ajouter une prime liÃ©e Ã 
+   la piÃ¨ce. Cette prime varie en fonction de diffÃ©rents facteurs tels que
+   l'Ã©tat de la piÃ¨ce, sa raretÃ©, ou encore la demande en temps rÃ©el de
+   cette piÃ¨ce.
 
-   Sur AuCOFFRE, vous trouverez la cotation en temps des pièces en argent
+   Sur AuCOFFRE, vous trouverez la cotation en temps des piÃ¨ces en argent
    les plus connues. Cette cotation se base sur le cours internationnal de
    l'argent et sur les milliers de transactions mensuelles qui ont lieu
-   sur la plateforme. Ainsi, vous etes assurés d'avoir un prix juste.
+   sur la plateforme. Ainsi, vous etes assurÃ©s d'avoir un prix juste.
 
 Vous souhaitez connaiter la cotation de l'or ?
 --

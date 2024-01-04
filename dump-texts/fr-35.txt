@@ -1,18 +1,18 @@
-   #Recherche avancée sur Zonebourse alternate alternate alternate
+   #Recherche avancÃ©e sur Zonebourse alternate alternate alternate
    alternate alternate alternate alternate alternate alternate alternate
    alternate alternate
 
-   Zonebourse : site de bourse en ligne en temps réel
-   d09f.gxtsOqdqVAqpKci22i6YvrC51D18ZHVnHhZhMpcejnQ.6iocA5MINVnGfpHFrl6u69
-   fw4A03MwdVVHwke-JRyxH0Sl1g0D85M8dDpw
-   ____________________ (BUTTON) Recherche avancée
-   Recherche avancée
+   Zonebourse : site de bourse en ligne en temps rÃ©el
+   d1d93b6fe600cae03493713db5.WeQyOtu3WycTWNlrgndt6E2qoHA3n7Wy5cSOVcD56KQ.
+   bpRZAqjnInRpB60E6U8ImSP7zgpwpuP3iKrgE5DPqsgUvUtlkcAxb2p1nA
+   ____________________ (BUTTON) Recherche avancÃ©e
+   Recherche avancÃ©e
    Connexion
    Connexion
    ____________________
    ____________________
    [password_eye_0.png] [password_eye_1.png]
-   Mot de passe oublié ?
+   Mot de passe oubliÃ© ?
    [X] Retenir
    Valider
    Ou se connecter avec
@@ -23,33 +23,33 @@
    Ou se connecter avec
    Google Google
    Apple Apple
-   Français (France)
+   FranÃ§ais (France)
    English (USA) English (USA)
    English (UK) English (UK)
    English (India) English (India)
    English (Canada) English (Canada)
    Deutsch (Deutschland) Deutsch (Deutschland)
    Deutsch (Schweiz) Deutsch (Schweiz)
-   Español Español
-   Français (France) Français (France)
-   Français (Suisse) Français (Suisse)
+   EspaÃ±ol EspaÃ±ol
+   FranÃ§ais (France) FranÃ§ais (France)
+   FranÃ§ais (Suisse) FranÃ§ais (Suisse)
    Italiano Italiano
    Nederlands (Nederland) Nederlands (Nederland)
-   Nederlands (België) Nederlands (België)
+   Nederlands (BelgiÃ«) Nederlands (BelgiÃ«)
 
    ____________________ (BUTTON)
-   Recherche avancée
+   Recherche avancÃ©e
 
      * Bourse
        Actions
-       Palmarès Capitalisation
+       PalmarÃ¨s Capitalisation
        France
        Europe
-       Amérique du Nord
+       AmÃ©rique du Nord
        Asie
        Moyen-Orient
        Recherche Sectorielle
-       Calendrier des sociétés
+       Calendrier des sociÃ©tÃ©s
        Analyses Actions
        Top consultations
        LVMH
@@ -61,13 +61,13 @@
        SCHNEIDER ELECTRIC SE
        Indices
        Accueil
-       Palmarès
+       PalmarÃ¨s
        Europe
-       Amériques
+       AmÃ©riques
        Asie
        Afrique
        Analyses Indices
-       Actualités sur les Indices
+       ActualitÃ©s sur les Indices
        CAC 40
        BEL 20
        SMI
@@ -78,34 +78,34 @@
        NASDAQ 100
        Devises / Forex
        Accueil
-       Palmarès
-       Cours Croisés
+       PalmarÃ¨s
+       Cours CroisÃ©s
        Convertisseur de monnaie
        Analyses Devises
-       Actualités sur les Devises
+       ActualitÃ©s sur les Devises
        EUR / USD
        EUR / GBP
        EUR / CHF
        EUR / RUB
        EUR / SEK
-       Matières Premières
+       MatiÃ¨res PremiÃ¨res
        Accueil
        Energies
-       Métaux précieux
+       MÃ©taux prÃ©cieux
        Produits agricoles
-       Métaux Industriels
-       Elevage et Bétail
+       MÃ©taux Industriels
+       Elevage et BÃ©tail
        OR
-       PÉTROLE WTI
-       PÉTROLE BRENT
+       PÃ‰TROLE WTI
+       PÃ‰TROLE BRENT
        ARGENT
        PLATINE
        Cryptomonnaies
        Accueil
-       Palmarès
+       PalmarÃ¨s
        Graphiques
        Analyses
-       Actualités
+       ActualitÃ©s
        Logo Crypto <span class='mar-left-1 txt-link txt-s1'>BITCOIN
        BITCOIN
        Logo Crypto <span class='mar-left-1 txt-link txt-s1'>ETHEREUM
@@ -117,50 +117,49 @@
        CARDANO
        Logo Crypto <span class='mar-left-1 txt-link txt-s1'>FTX TOKEN FTX
        TOKEN
-       Taux d'Intérêts
+       Taux d'IntÃ©rÃªts
        Accueil
-       Pays Développés
+       Pays DÃ©veloppÃ©s
        Pays Emergents
-       ETF Taux
        Produits de Bourse
-       Synthèse
+       SynthÃ¨se
        Screener
        Recommandations
-       Pédagogie
+       PÃ©dagogie
        ETF
-       Synthèse
+       SynthÃ¨se
        Screener
        Fonds & OPCVM
-       Synthèse
+       SynthÃ¨se
        Screener
-       Sociétés de gestion
-       Gérants
-     * Actualités
-       Toute l'actualité
+       SociÃ©tÃ©s de gestion
+       GÃ©rants
+     * ActualitÃ©s
+       Toute l'actualitÃ©
        Monde
        France
        Europe
-       Amérique du Nord
-       Amérique du Sud
+       AmÃ©rique du Nord
+       AmÃ©rique du Sud
        Asie
        Afrique
        Moyen-Orient
        Emergents
-       Sociétés
-       Toute l'actualité
+       SociÃ©tÃ©s
+       Toute l'actualitÃ©
        Reco analystes
        Rumeurs
        Introductions
-       Opérations capitalistiques
+       OpÃ©rations capitalistiques
        Nouveaux contrats
        Profits warnings
        Nominations
-       Communiqués
-       Opérations sur titre
-       Publications de résultats
-       Nouveaux marchés
+       CommuniquÃ©s
+       OpÃ©rations sur titre
+       Publications de rÃ©sultats
+       Nouveaux marchÃ©s
        Nouveaux produits
-       Stratégies sociétés
+       StratÃ©gies sociÃ©tÃ©s
        Risques juridiques
        Rachats d'actions
        Fusions et acquisitions
@@ -168,28 +167,28 @@
        Guidance
        Indices
        Devises / Forex
-       Matières Premières
+       MatiÃ¨res PremiÃ¨res
        Cryptomonnaies
        ETF
        Taux
-       Économie
-       Thématiques
+       Ã‰conomie
+       ThÃ©matiques
        Gestion d'actifs
        Activisme
        Climat et ESG
-       Cybersécurité
-       Géopolitique
+       CybersÃ©curitÃ©
+       GÃ©opolitique
        Banques centrales
        Private Equity
        Inflation
        Barons de la Bourse
        Secteurs
        Tous nos articles
-       Actualités les plus lues
-       Actualités qui impactent
+       ActualitÃ©s les plus lues
+       ActualitÃ©s qui impactent
      * Analyses
        Tous les articles
-       Décryptages
+       DÃ©cryptages
        Actions
        Interviews
        Indices
@@ -197,19 +196,19 @@
        Analyses Intraday
        Analyses Moyen et Long Terme
        Devises
-       Matières Premières
+       MatiÃ¨res PremiÃ¨res
        ETF
        Cryptomonnaies
-       Produits Dérivés
+       Produits DÃ©rivÃ©s
        Trading Actions
        Tous
-       Amériques
+       AmÃ©riques
        Europe
        Asie
-     * Émissions
-       Les Émissions
+     * Ã‰missions
+       Les Ã‰missions
        L'Art d'Investir
-       Stratégie
+       StratÃ©gie
        Must Watch
        La Formation
        Clin d'Oeil
@@ -230,76 +229,76 @@
      * Listes
        Mes Listes
        Listes de valeurs
-       Mes dernières consultations
+       Mes derniÃ¨res consultations
        Mes top consultations
        Top consultations
        Listes Style d'investissement
        Accueil
+       Valeurs de croissance
+       Multibaggers
+       Petites capitalisations
+       Valeurs dÃ©cotÃ©es
        Valeurs momentum
-       Valeurs de qualité
-       Dividend Kings
-       Top ROE
-       Valeurs ESG
-       Valeurs en trend following
-       Listes Thématiques
+       Valeurs Ã  dividendes
+       Listes ThÃ©matiques
        Accueil
-       L'Industrie du Cannabis
-       Millennials
-       Basket-ball Américain
-       Eolien
-       Les Oligopoles
-       Diabète
-     * Palmarès
-       Palmarès Variations
-       Palmarès Variations
+       Smart City
+       L'Eau dans tous ses Ã©tats
+       MÃ©tavers
+       SantÃ© Digitale et TÃ©lÃ©mÃ©decine
+       Moat
+       L'Alimentation de demain
+     * PalmarÃ¨s
+       PalmarÃ¨s Variations
+       PalmarÃ¨s Variations
        Volumes anormaux
        Nouveaux plus haut
        Nouveaux plus bas
        Long Terme
-       Palmarès Fondamentaux
-       Palmarès Fondamentaux
+       PalmarÃ¨s Fondamentaux
+       PalmarÃ¨s Fondamentaux
        Croissance Revenus
-       Croissance Bénéfices
-       Profitabilité
-       Situation Financière
-       Palmarès Valorisation
-       Palmarès Valorisation
+       Croissance BÃ©nÃ©fices
+       ProfitabilitÃ©
+       Situation FinanciÃ¨re
+       PalmarÃ¨s Valorisation
+       PalmarÃ¨s Valorisation
        PER
        Valeur d'entreprise
        Rendement
-       Palmarès Consensus
-       Palmarès Consensus
+       PalmarÃ¨s Consensus
+       PalmarÃ¨s Consensus
        Opinion Analystes
        Objectif de cours
-       Révisions des Estimations
+       RÃ©visions des Estimations
        Divergences
-       Palmarès Techniques
-       Palmarès RSI
+       PalmarÃ¨s Techniques
+       PalmarÃ¨s RSI
        GAPS
        STIM
        Franchissements
        Tendances
-       Volatilité
-       Palmarès ESG
-       Palmarès ESG
+       VolatilitÃ©
+       PalmarÃ¨s ESG
+       PalmarÃ¨s ESG
        Environnement
        Social
        Gouvernance
-       Palmarès Visibilité
+       PalmarÃ¨s VisibilitÃ©
      * Screeners
        Accueil Stock Screener
-       Sélections Thématiques
-       L'Eau dans tous ses états
-       Cybersécurité
+       SÃ©lections ThÃ©matiques
        La Robotique
-       E-Commerce & Logistique
+       La rÃ©volution gÃ©nomique
+       Maison connectÃ©e
+       Les SPAC
+       Hydraulique
        Animaux de compagnie
-       L'Amérique en PEA
        Notations Techniques
        Actions survendues
-       Actions surachetées
-       Proximités résistances
-       Proximités supports
+       Actions surachetÃ©es
+       ProximitÃ©s rÃ©sistances
+       ProximitÃ©s supports
        Phases d'accumulation
        Actions les plus volatiles
        Notations Fondamentales
@@ -324,16 +323,16 @@
        Portfolio Creator
        Event Screener
        Graphique dynamique
-       Calendrier des sociétés
-       Agenda économique
+       Calendrier des sociÃ©tÃ©s
+       Agenda Ã©conomique
        Apprendre la bourse
-       Guides thématiques
+       Guides thÃ©matiques
        Convertisseur de monnaie
      * Nos Services
        Nos abonnements
        Nos Conseils
        Stock Screener
-       Listes thématiques
+       Listes thÃ©matiques
        Portefeuilles Zonebourse
        Investisseur Europe PEA
        Investisseur USA
@@ -344,20 +343,20 @@
        Autres Services
        Fonds Europa One
        Outils
-       Formation vidéo
+       Formation vidÃ©o
 
    ConnexionInscription
      * Accueil
      * Bourse
           + Actions
-               o Palmarès Capitalisation
+               o PalmarÃ¨s Capitalisation
                o France
                o Europe
-               o Amérique du Nord
+               o AmÃ©rique du Nord
                o Asie
                o Moyen-Orient
                o Recherche Sectorielle
-               o Calendrier des sociétés
+               o Calendrier des sociÃ©tÃ©s
                o Analyses Actions
                o Top consultations
                o LVMH
@@ -369,13 +368,13 @@
                o SCHNEIDER ELECTRIC SE
           + Indices
                o Accueil
-               o Palmarès
+               o PalmarÃ¨s
                o Europe
-               o Amériques
+               o AmÃ©riques
                o Asie
                o Afrique
                o Analyses Indices
-               o Actualités sur les Indices
+               o ActualitÃ©s sur les Indices
                o CAC 40
                o BEL 20
                o SMI
@@ -386,34 +385,34 @@
                o NASDAQ 100
           + Devises / Forex
                o Accueil
-               o Palmarès
-               o Cours Croisés
+               o PalmarÃ¨s
+               o Cours CroisÃ©s
                o Convertisseur de monnaie
                o Analyses Devises
-               o Actualités sur les Devises
+               o ActualitÃ©s sur les Devises
                o EUR / USD
                o EUR / GBP
                o EUR / CHF
                o EUR / RUB
                o EUR / SEK
-          + Matières Premières
+          + MatiÃ¨res PremiÃ¨res
                o Accueil
                o Energies
-               o Métaux précieux
+               o MÃ©taux prÃ©cieux
                o Produits agricoles
-               o Métaux Industriels
-               o Elevage et Bétail
+               o MÃ©taux Industriels
+               o Elevage et BÃ©tail
                o OR
-               o PÉTROLE WTI
-               o PÉTROLE BRENT
+               o PÃ‰TROLE WTI
+               o PÃ‰TROLE BRENT
                o ARGENT
                o PLATINE
           + Cryptomonnaies
                o Accueil
-               o Palmarès
+               o PalmarÃ¨s
                o Graphiques
                o Analyses
-               o Actualités
+               o ActualitÃ©s
                o Logo Crypto <span class='mar-left-1 txt-link
                  txt-s1'>BITCOIN BITCOIN
                o Logo Crypto <span class='mar-left-1 txt-link
@@ -426,50 +425,49 @@
                  txt-s1'>CARDANO CARDANO
                o Logo Crypto <span class='mar-left-1 txt-link txt-s1'>FTX
                  TOKEN FTX TOKEN
-          + Taux d'Intérêts
+          + Taux d'IntÃ©rÃªts
                o Accueil
-               o Pays Développés
+               o Pays DÃ©veloppÃ©s
                o Pays Emergents
-               o ETF Taux
           + Produits de Bourse
-               o Synthèse
+               o SynthÃ¨se
                o Screener
                o Recommandations
-               o Pédagogie
+               o PÃ©dagogie
           + ETF
-               o Synthèse
+               o SynthÃ¨se
                o Screener
           + Fonds & OPCVM
-               o Synthèse
+               o SynthÃ¨se
                o Screener
-               o Sociétés de gestion
-               o Gérants
-     * Actualités
-          + Toute l'actualité
+               o SociÃ©tÃ©s de gestion
+               o GÃ©rants
+     * ActualitÃ©s
+          + Toute l'actualitÃ©
                o Monde
                o France
                o Europe
-               o Amérique du Nord
-               o Amérique du Sud
+               o AmÃ©rique du Nord
+               o AmÃ©rique du Sud
                o Asie
                o Afrique
                o Moyen-Orient
                o Emergents
-          + Sociétés
-               o Toute l'actualité
+          + SociÃ©tÃ©s
+               o Toute l'actualitÃ©
                o Reco analystes
                o Rumeurs
                o Introductions
-               o Opérations capitalistiques
+               o OpÃ©rations capitalistiques
                o Nouveaux contrats
                o Profits warnings
                o Nominations
-               o Communiqués
-               o Opérations sur titre
-               o Publications de résultats
-               o Nouveaux marchés
+               o CommuniquÃ©s
+               o OpÃ©rations sur titre
+               o Publications de rÃ©sultats
+               o Nouveaux marchÃ©s
                o Nouveaux produits
-               o Stratégies sociétés
+               o StratÃ©gies sociÃ©tÃ©s
                o Risques juridiques
                o Rachats d'actions
                o Fusions et acquisitions
@@ -477,28 +475,28 @@
                o Guidance
           + Indices
           + Devises / Forex
-          + Matières Premières
+          + MatiÃ¨res PremiÃ¨res
           + Cryptomonnaies
           + ETF
           + Taux
-          + Économie
-          + Thématiques
+          + Ã‰conomie
+          + ThÃ©matiques
                o Gestion d'actifs
                o Activisme
                o Climat et ESG
-               o Cybersécurité
-               o Géopolitique
+               o CybersÃ©curitÃ©
+               o GÃ©opolitique
                o Banques centrales
                o Private Equity
                o Inflation
                o Barons de la Bourse
           + Secteurs
           + Tous nos articles
-          + Actualités les plus lues
-          + Actualités qui impactent
+          + ActualitÃ©s les plus lues
+          + ActualitÃ©s qui impactent
      * Analyses
           + Tous les articles
-          + Décryptages
+          + DÃ©cryptages
           + Actions
           + Interviews
           + Indices
@@ -506,19 +504,19 @@
                o Analyses Intraday
                o Analyses Moyen et Long Terme
           + Devises
-          + Matières Premières
+          + MatiÃ¨res PremiÃ¨res
           + ETF
           + Cryptomonnaies
-          + Produits Dérivés
+          + Produits DÃ©rivÃ©s
           + Trading Actions
                o Tous
-               o Amériques
+               o AmÃ©riques
                o Europe
                o Asie
-     * Émissions
-          + Les Émissions
+     * Ã‰missions
+          + Les Ã‰missions
           + L'Art d'Investir
-          + Stratégie
+          + StratÃ©gie
           + Must Watch
           + La Formation
           + Clin d'Oeil
@@ -539,76 +537,76 @@
      * Listes
           + Mes Listes
                o Listes de valeurs
-               o Mes dernières consultations
+               o Mes derniÃ¨res consultations
                o Mes top consultations
                o Top consultations
           + Listes Style d'investissement
                o Accueil
-               o Valeurs momentum
-               o Valeurs de croissance
-               o Valeurs de qualité
                o Dividend Kings
-               o Valeurs décotées
+               o Valeurs de croissance
+               o Valeurs momentum
                o Top ROE
-          + Listes Thématiques
+               o Valeurs ESG
+               o Dividend Aristocrats
+          + Listes ThÃ©matiques
                o Accueil
-               o Basket-ball Américain
-               o Santé Digitale et Télémédecine
-               o Or et Argent
-               o L'Amérique en PEA
-               o In Vino Veritas
-               o Les SPAC
-     * Palmarès
-          + Palmarès Variations
-               o Palmarès Variations
+               o Intelligence artificielle
+               o La petite Reine
+               o Enseignement
+               o Animaux de compagnie
+               o Les Family Business
+               o Moat
+     * PalmarÃ¨s
+          + PalmarÃ¨s Variations
+               o PalmarÃ¨s Variations
                o Volumes anormaux
                o Nouveaux plus haut
                o Nouveaux plus bas
                o Long Terme
-          + Palmarès Fondamentaux
-               o Palmarès Fondamentaux
+          + PalmarÃ¨s Fondamentaux
+               o PalmarÃ¨s Fondamentaux
                o Croissance Revenus
-               o Croissance Bénéfices
-               o Profitabilité
-               o Situation Financière
-          + Palmarès Valorisation
-               o Palmarès Valorisation
+               o Croissance BÃ©nÃ©fices
+               o ProfitabilitÃ©
+               o Situation FinanciÃ¨re
+          + PalmarÃ¨s Valorisation
+               o PalmarÃ¨s Valorisation
                o PER
                o Valeur d'entreprise
                o Rendement
-          + Palmarès Consensus
-               o Palmarès Consensus
+          + PalmarÃ¨s Consensus
+               o PalmarÃ¨s Consensus
                o Opinion Analystes
                o Objectif de cours
-               o Révisions des Estimations
+               o RÃ©visions des Estimations
                o Divergences
-          + Palmarès Techniques
-               o Palmarès RSI
+          + PalmarÃ¨s Techniques
+               o PalmarÃ¨s RSI
                o GAPS
                o STIM
                o Franchissements
                o Tendances
-               o Volatilité
-          + Palmarès ESG
-               o Palmarès ESG
+               o VolatilitÃ©
+          + PalmarÃ¨s ESG
+               o PalmarÃ¨s ESG
                o Environnement
                o Social
                o Gouvernance
-          + Palmarès Visibilité
+          + PalmarÃ¨s VisibilitÃ©
      * Screeners
           + Accueil Stock Screener
-          + Sélections Thématiques
-               o L'Amérique en PEA
-               o L'Alimentation de demain
-               o L'innovation Israélienne
-               o Basket-ball Américain
+          + SÃ©lections ThÃ©matiques
+               o Affreux, Sales et MÃ©chants
                o Financement dilutif
-               o Millennials
+               o Private Equity
+               o AcquÃ©reurs en sÃ©rie
+               o Blockchain
+               o Les Family Business
           + Notations Techniques
                o Actions survendues
-               o Actions surachetées
-               o Proximités résistances
-               o Proximités supports
+               o Actions surachetÃ©es
+               o ProximitÃ©s rÃ©sistances
+               o ProximitÃ©s supports
                o Phases d'accumulation
                o Actions les plus volatiles
           + Notations Fondamentales
@@ -633,16 +631,16 @@
                o Portfolio Creator
                o Event Screener
           + Graphique dynamique
-          + Calendrier des sociétés
-          + Agenda économique
+          + Calendrier des sociÃ©tÃ©s
+          + Agenda Ã©conomique
           + Apprendre la bourse
-          + Guides thématiques
+          + Guides thÃ©matiques
           + Convertisseur de monnaie
      * Nos Services
           + Nos abonnements
           + Nos Conseils
           + Stock Screener
-          + Listes thématiques
+          + Listes thÃ©matiques
           + Portefeuilles Zonebourse
                o Investisseur Europe PEA
                o Investisseur USA
@@ -653,246 +651,271 @@
           + Autres Services
                o Fonds Europa One
                o Outils
-               o Formation vidéo
+               o Formation vidÃ©o
+
+   Changer d'Ã©dition
+   Changer d'Ã©dition
+
+   FranÃ§ais (France)
+
+   FranÃ§ais (Suisse)
+
+   English (United States)
+
+   English (United Kingdom)
+
+   English (Canada)
+
+   English (India)
+
+   Deutsch (Deutschland)
+
+   Deutsch (Schweiz)
+
+   EspaÃ±ol
+
+   Italiano
+
+   Nederlands (Nederland)
+
+   Nederlands (BelgiÃ«)
+   (BUTTON) Annuler
 
    ARGENT
-   (BUTTON) Ajouter à une liste
-   Ajouter à une liste
-   Pour utiliser cette fonction vous devez être client ou membre
+   (BUTTON) Ajouter Ã  une liste
+   Ajouter Ã  une liste
+   Pour utiliser cette fonction vous devez Ãªtre client ou membre
    ConnexionInscription
    (BUTTON) Retour
 
 Cours Argent
 
-Matière première
+MatiÃ¨re premiÃ¨re
 
 XAGUSD
 
-   Temps Différé 23:00:00 22/12/2023               Varia. 5j. Varia. 1 janv.
-   24,19 ^USD -1,05 % Graphique intraday de Silver +1,41 %    +1,00 %
-   22/12 Les actions sont en hausse alors que la mesure de l'inflation
-   préférée de la Fed ralentit MT
-   22/12 Les actions sont en hausse alors que la mesure de l'inflation
-   préférée de la Fed ralentit MT
+   Temps DiffÃ©rÃ© 13:08:29 04/01/2024               Varia. 5j. Varia. 1 janv.
+   22,94 ^USD -0,31 % Graphique intraday de Silver -5,53 %    -3,50 %
+   11:34 L'or rebondit sur le recul du dollar ; les projecteurs sont
+   braquÃ©s sur les donnÃ©es de l'emploi amÃ©ricain RE
+   03:12 L'or reste stable, les traders attendent les donnÃ©es de l'emploi
+   pour les indices de la Fed RE
 
-   Synthèse
+   SynthÃ¨se
    Cotations
    Graphiques
-   Actualités
+   ActualitÃ©s
 
 Graphique Silver
 
-   Durée [6 mois___]
-   Période [1 jour____]
+   DurÃ©e [6 mois___]
+   PÃ©riode [1 jour____]
    Style [Chandeliers]
 
    IFRAME: about:blank
 
    Graphique dynamique
 
-Dernières actualités sur Argent
+DerniÃ¨res actualitÃ©s sur Argent
 
-   Les actions sont en hausse alors que la mesure de l'inflation préférée
-   de la Fed ralentit 22/12 MT
-   Les actions sont en hausse alors que la mesure de l'inflation préférée
-   de la Fed ralentit 22/12 MT
-   Les marchés d'actions progressent en intrajournalier alors que la
-   mesure de l'inflation préférée de la Fed ralentit 22/12 MT
-   L'atténuation de l'inflation et l'augmentation des dépenses de
-   consommation stimulent les fonds négociés en bourse et les actions
-   américaines 22/12 MT
-   Le ralentissement de l'inflation et l'augmentation des dépenses de
-   consommation conduisent les indices boursiers américains à la hausse,
-   alors que les paris sur un pivot de la Fed augmentent. 22/12 MT
-   La compagnie pétrolière brésilienne Petrobras envisage un partenariat
-   de raffinage avec Mubadala 22/12 RE
-   Silvercorp gagne 3 % grâce aux résultats de ses forages à la mine HPG
-   22/12 MT
-   Les données clés sur l'inflation à venir poussent les fonds négociés en
-   bourse et les contrats à terme sur actions à la baisse avant la cloche
-   du vendredi 22/12 MT
-   L'or atteint son plus haut niveau depuis près de trois semaines en
-   raison des prévisions de baisse des taux d'intérêt de la Fed 22/12 RE
-   L'entreprise IRH d'Abu Dhabi va investir 1,1 milliard de dollars dans
-   la société zambienne Mopani Copper Mines 22/12 RE
-   EnQuest progresse grâce à une vente de 46 millions de livres sterling
-   22/12 AN
-   L'or atteint son plus haut niveau depuis près de trois semaines en
-   raison des prévisions de réduction des taux d'intérêt de la Fed 22/12
-   RE
-   Worley obtient des contrats pour l'étape 1 du projet de potasse Jansen
-   de BHP 22/12 MT
-   Les actions augmentent alors que le rapport sur le PIB montre que les
-   pressions inflationnistes s'atténuent 21/12 MT
-   Les actions augmentent alors que le rapport sur le PIB montre que les
-   pressions inflationnistes s'atténuent 21/12 MT
-   Plus d'actualités
+   L'or rebondit sur le recul du dollar ; les projecteurs sont braquÃ©s sur
+   les donnÃ©es de l'emploi amÃ©ricain 11:34 RE
+   L'or reste stable, les traders attendent les donnÃ©es de l'emploi pour
+   les indices de la Fed 03:12 RE
+   Les actions baissent alors que les traders analysent les minutes du
+   FOMC et les commentaires du prÃ©sident de la Fed de Richmond 03/01 MT
+   TeraWulf Mines annonce une augmentation de 3% des bitcoins extraits en
+   dÃ©cembre 03/01 MT
+   Les actions baissent alors que les traders analysent les minutes du
+   FOMC et les commentaires du prÃ©sident de la Fed de Richmond 03/01 MT
+   Regency Silver prend une option sur deux projets d'exploitation
+   d'argent Ã  haute teneur prÃ¨s de San Dimas, Ã  Durango, au Mexique. 03/01
+   MT
+   Les marchÃ©s d'actions baissent en intraday alors que les traders pÃ¨sent
+   sur les donnÃ©es macroÃ©conomiques 03/01 MT
+   Guanajuato Silver nomme Danny Lee au poste de directeur financier 03/01
+   MT
+   Les actions amÃ©ricaines se replient aprÃ¨s un rapport manufacturier plus
+   fort ; les investisseurs attendent les minutes de la Fed 03/01 MT
+   L'activitÃ© manufacturiÃ¨re et les offres d'emploi pÃ¨sent sur les fonds
+   nÃ©gociÃ©s en bourse et les actions amÃ©ricaines 03/01 MT
+   Benton Resources en hausse aprÃ¨s avoir prÃ©sentÃ© les rÃ©sultats d'analyse
+   de son programme de forage sur le gisement de cuivre Great Burnt dans
+   le centre-sud de Terre-Neuve 03/01 MT
+   Canuc Resources en hausse de 4,2 % aprÃ¨s avoir annoncÃ© le dÃ©but d'un
+   programme de cartographie et d'Ã©chantillonnage Ã  San Javier 03/01 MT
+   L'or chute en raison du raffermissement du dollar et de l'attention
+   portÃ©e aux minutes de la Fed 03/01 RE
+   L'or tombe Ã  son plus bas niveau en une semaine alors que le dollar se
+   raffermit avant la publication des minutes de la Fed 03/01 RE
+   Un fonctionnaire du gouvernement de Shanghai rend visite Ã  la sociÃ©tÃ©
+   chinoise Stemirna, en proie Ã  des difficultÃ©s de financement 03/01 RE
+   Plus d'actualitÃ©s
 
-Actualités dans d'autres langues sur Argent
+ActualitÃ©s dans d'autres langues sur Argent
 
-   2023: tutto quello che c'è da ricordare su quest'anno borsistico 23/12
-   Skeena Resources Brief: Eskay Creek 2023 Updated Feasibility Study
-   Highlights Include After-tax net present value (5%) of C$2 billion at a
-   base case of US$1,800 gold and US$23 silver 22/12
-   Equities Mostly Rise as Fed's Preferred Inflation Measure Cools 22/12
-   Equities Mostly Rise as Fed's Preferred Inflation Measure Cools 22/12
-   Equity Markets Rise Intraday as Fed's Preferred Inflation Measure Cools
-   22/12
-   Plus d'actualités
+   China's CMOC cobalt output jumps 174% in 2023 12:42
+   Gold rebounds on dollar retreat; spotlight on US jobs data 11:34
+   Gold steady as traders await jobs data for Fed cues 03:12
+   Equities Slip as Traders Parse FOMC Minutes, Richmond Fed President
+   Comments 03/01
+   TeraWulf Mines Reports 3% Increase in Bitcoins Mined in December 03/01
+   Plus d'actualitÃ©s
 
-Produits Dérivés Populaires sur Argent
+Produits DÃ©rivÃ©s Populaires sur Argent
 
-   a844655c1d073a75989cf2f.VuM8heXRgBg_aKd43Ti9__1qN_5RKM_PBBeXA2vUJRk.L9A
-   K7aK2sEF1Bfg0tXX0y65ZXbEzbbujSlHjNh22RkMus17Oupv5cEwrzA
-   Mnemo Type Type de produit Maturité Elasticité Levier Parité Cours
+   3.QMw6xZnd_Yr8S0KTAjTd1C2jeufGbJY6qjhlHg7m3nU.J51Ji9a6tuzOfDSjNXuLjWnkM
+   de2Dq9dmnovSG-QsiwEvEmX6bCLzJElCw
+   Mnemo Type Type de produit MaturitÃ© ElasticitÃ© Levier ParitÃ© Cours
    Emetteur
-   BNP Paribas 6225N Matière première Argent
+   BNP Paribas 6225N MatiÃ¨re premiÃ¨re Argent
    CALL
-   CALL Certificat Turbo Stop Loss Illimité - 1
+   CALL Certificat Turbo Stop Loss IllimitÃ© - 1
 
-   10,99 EUR
+   9,81 EUR
    BNP Paribas
-   BNP Paribas 6592N Matière première Argent
+   BNP Paribas 6592N MatiÃ¨re premiÃ¨re Argent
    CALL
-   CALL Certificat Turbo Stop Loss Illimité - 1
+   CALL Certificat Turbo Stop Loss IllimitÃ© - 1
 
-   10,4 EUR
+   9,22 EUR
    BNP Paribas
-   BNP Paribas R134B Matière première Argent
+   BNP Paribas R134B MatiÃ¨re premiÃ¨re Argent
    PUT
-   PUT Certificat Turbo Stop Loss Illimité - 10
+   PUT Certificat Turbo Stop Loss IllimitÃ© - 10
 
-   0,685 EUR
+   0,805 EUR
    BNP Paribas
-   Citi Q646C Matière première Argent
+   Citi Q646C MatiÃ¨re premiÃ¨re Argent
    PUT
-   PUT Certificat Turbo Stop Loss Illimité - 1
+   PUT Certificat Turbo Stop Loss IllimitÃ© - 1
 
-   6,98 EUR
+   8,27 EUR
    Citi
-   BNP Paribas 67HYB Matière première Argent
+   BNP Paribas 67HYB MatiÃ¨re premiÃ¨re Argent
    CALL
-   CALL Certificat Turbo Illimité - 1
+   CALL Certificat Turbo IllimitÃ© - 1
 
-   10,22 EUR
+   9,05 EUR
    BNP Paribas
-   Plus de produits dérivés
+   Plus de produits dÃ©rivÃ©s
 
-Actualités Matières Premières
+ActualitÃ©s MatiÃ¨res PremiÃ¨res
 
-   Ukraine-Un mort et sept blessés après un bombardement dans le sud du
-   pays-responsables 23/12 RE
-   Le Canada s'engage à soutenir 2 milliards de dollars canadiens de prêts
-   supplémentaires pour Trans Mountain Corp 23/12 RE
-   Le Congo réaffirme son engagement envers l'OPEP, selon le ministre du
-   pétrole 23/12 RE
-   Un navire marchand affilié à Israël frappé par un drone au large de
-   l'Inde 23/12 RE
-   La Russie augmentera de 10 % les frais de transit du pétrole vers la
-   Biélorussie à partir de février - Kommersant 23/12 RE
-   Un navire marchand affilié à Israël heurté par un véhicule aérien au
-   large de l'Inde - société britannique 23/12 RE
-   Un navire marchand affilié à Israël heurté par un drone au large de
-   l'Inde 23/12 RE
-   Gazprom expédiera samedi 40,5 millions de m3 de gaz vers l'Europe via
-   l'Ukraine 23/12 RE
-   GAZPROM : POURSUITE DE L'ACHEMINEMENT DU GAZ VERS L'EUROPE VIA
-   L'UKRAINE,... 23/12 RE
-   Koryx Copper Inc. publie ses résultats pour l'exercice clos le 31 août
-   2023 22/12 CI
-   Plus d'actualités
+   L'aluminium s'effondre en raison de l'attÃ©nuation des craintes
+   concernant l'offre et de la rÃ©vision des prÃ©visions de taux d'intÃ©rÃªt
+   12:51 RE
+   Les entreprises saoudiennes avertissent que la hausse des prix du
+   carburant par Aramco pourrait rÃ©duire leurs bÃ©nÃ©fices 12:17 RE
+   Le pÃ©trole monte encore avec les perturbations de l'offre libyenne
+   12:09 AW
+   Le Mib poursuit sa hausse ; Leonardo mÃ¨ne les gains 12:08 AN
+   MORNING BID AMERICAS - Le compte-rendu de la rÃ©union de la RÃ©serve
+   fÃ©dÃ©rale calme les chevaux 12:06 RE
+   TotalEnergies engage l'ancien premier ministre du BÃ©nin pour Ã©valuer
+   les achats de terres en Afrique de l'Est 12:05 RE
+   L'or rebondit sur le recul du dollar ; les projecteurs sont braquÃ©s sur
+   les donnÃ©es de l'emploi amÃ©ricain 11:34 RE
+   Le tremblement de terre au Japon jette un doute sur la volontÃ© de
+   redÃ©marrer les centrales nuclÃ©aires 11:34 RE
+   Gold Fields signale le dÃ©cÃ¨s d'un employÃ© dans un accident Ã  la mine de
+   South Deep 11:30 RE
+   GOLD FIELDS SIGNALE LE DÃ‰CÃˆS D'UN EMPLOYÃ‰ DANS UN ACCIDENT Ã€ LA MINE DE
+   SOUTH DEEP... 11:30 RE
+   Plus d'actualitÃ©s
 
 Cotations 5 jours
 
      Date   Cours Variation
-   22/12/23 24,19 -1,05 %
-   21/12/23 24,45 +1,20 %
-   20/12/23 24,16 +0,49 %
-   19/12/23 24,04 +1,00 %
-   18/12/23 23,8  +0,37 %
+   04/01/24 22,94 -0,31 %
+   03/01/24 23,01 -2,61 %
+   02/01/24 23,63 -0,74 %
+   01/01/24 23,81 +0,12 %
+   31/12/23 23,78 0,00 %
 
-   Cours en différé Autre
+   Cours en diffÃ©rÃ© Autre
 
-   Dernière mise à jour Le 22 décembre 2023 à 23:00
+   DerniÃ¨re mise Ã  jour Le 04 janvier 2024 Ã  12:44
    Plus de cotations
 
 A la une
 
-   L'atténuation de l'inflation et l'augmentation des dépenses de
-   consommation stimulent les fonds négociés en bourse et les actions
-   américaines
+   Tour d'horizon des matiÃ¨res premiÃ¨res : Le prix de l'or a atteint son
+   plus haut niveau en prÃ¨s de trois semaines
 
-   L'atténuation de l'inflation et l'augmentation des dépenses de
-   consommation stimulent les fonds négociés en bourse et les actions
-   américaines
+   Tour d'horizon des matiÃ¨res premiÃ¨res : Le prix de l'or a atteint son
+   plus haut niveau en prÃ¨s de trois semaines
 
-   Le 22 décembre 2023 à 19:08
-
-   Tour d'horizon des matières premières : les planètes s'alignent à
-   nouveau pour les métaux industriels
-   Le 18 décembre 2023 à 17:25
-   Tour d'horizon des matières premières : les planètes s'alignent à
-   nouveau pour les métaux industriels
+   Le 27 dÃ©cembre 2023 Ã  15:30
 
    Uranium Energy Corp. : Nouvelle bulle en formation
-   Le 12 décembre 2023 à 15:00
+   Le 12 dÃ©cembre 2023 Ã  15:00
    Uranium Energy Corp. : Nouvelle bulle en formation
 
-   Le bric-à-brac de Zonebourse : Les mineurs et l'Allemagne se
-   réveillent, Orpéa à sa place
-   Le 01 décembre 2023 à 11:49
-   Le bric-à-brac de Zonebourse : Les mineurs et l'Allemagne se
-   réveillent, Orpéa à sa place
+   Le bric-Ã -brac de Zonebourse : Les mineurs et l'Allemagne se
+   rÃ©veillent, OrpÃ©a Ã  sa place
+   Le 01 dÃ©cembre 2023 Ã  11:49
+   Le bric-Ã -brac de Zonebourse : Les mineurs et l'Allemagne se
+   rÃ©veillent, OrpÃ©a Ã  sa place
+
+   ETF : Capitaliser sur la longÃ©vitÃ©
+   Le 31 octobre 2023 Ã  13:43
+   ETF : Capitaliser sur la longÃ©vitÃ©
 
 Cotations et Performances
 
-   1 semaine      +1,41 %
-   Mois en cours  -4,57 %
-   1 mois         +2,50 %
-   3 mois         +2,72 %
-   6 mois         +8,84 %
-   Année en cours +1,00 %
+   1 semaine      -5,26 %
+   Mois en cours  -3,22 %
+   1 mois         -10,54 %
+   3 mois         +8,56 %
+   6 mois         +0,52 %
+   AnnÃ©e en cours -3,22 %
    Plus de cotations
 
-   Indices Europe Amériques Asie
+   Indices Europe AmÃ©riques Asie
+
+
+
+
+
    Plus d'Indices
    Ma Liste
      __________________________________________________________________
 
    Espace mes listes
-   Palmarès
+   PalmarÃ¨s
      __________________________________________________________________
 
-   Suite du Palmarès
-   Palmarès
+   Suite du PalmarÃ¨s
+   PalmarÃ¨s
      __________________________________________________________________
 
-   Suite du Palmarès
+   Suite du PalmarÃ¨s
 
    Devises / Forex
    Espace Devises et Forex
 
-   Matières Premières
-   Espace Matières Premières
+   MatiÃ¨res PremiÃ¨res
+   Espace MatiÃ¨res PremiÃ¨res
 
    Cryptomonnaies
    Espace Cryptomonnaies
 
     1. Bourse
 
-     Matières premières
+     MatiÃ¨res premiÃ¨res
 
-     Matière première Argent
+     MatiÃ¨re premiÃ¨re Argent
 
    RUBRIQUES
      * Indices
      * Actions
      * Devises
-     * Matières premières
+     * MatiÃ¨res premiÃ¨res
      * Produit de bourse
      * Trackers / ETF
      * Fonds / OCPVM
-     * Actualités
+     * ActualitÃ©s
      * Analyses
 
    SERVICES GRATUITS
@@ -908,24 +931,24 @@ Cotations et Performances
      * Portefeuille Asie
      * Stock Screener
      * Conseils
-     * Listes Thématiques
+     * Listes ThÃ©matiques
      * Listes Style d'investissement
      * Outils
      * Devenir Client
 
-   ÉDITIONS BOURSE
+   Ã‰DITIONS BOURSE
      * English (USA) English (USA)
      * English (UK) English (UK)
      * English (India) English (India)
      * English (Canada) English (Canada)
      * Deutsch (Deutschland) Deutsch (Deutschland)
      * Deutsch (Schweiz) Deutsch (Schweiz)
-     * Español Español
-     * Français (France) Français (France)
-     * Français (Suisse) Français (Suisse)
+     * EspaÃ±ol EspaÃ±ol
+     * FranÃ§ais (France) FranÃ§ais (France)
+     * FranÃ§ais (Suisse) FranÃ§ais (Suisse)
      * Italiano Italiano
      * Nederlands (Nederland) Nederlands (Nederland)
-     * Nederlands (België) Nederlands (België)
+     * Nederlands (BelgiÃ«) Nederlands (BelgiÃ«)
 
    SERVICES FINANCIERS
      * Offre de courtage Interactive Brokers
@@ -935,18 +958,18 @@ Cotations et Performances
 
    Logo
    twitter youtube linkedin appstore
-   À PROPOS
+   Ã€ PROPOS
      * Surperformance SAS
      * Contact
-     * Mentions légales
-     * Paramétrer les cookies
+     * Mentions lÃ©gales
+     * ParamÃ©trer les cookies
      * Recrutement
 
-   Copyright © 2023 Surperformance. Tous droits réservés.
+   Copyright Â© 2024 Surperformance. Tous droits rÃ©servÃ©s.
    Les cotations sont fournies par Factset, Morningstar et S&P Capital IQ
 
-   Toute l'équipe de Zonebourse vous souhaite un Joyeux Noël
-   Découvrez nos services
+   Prenez une bonne rÃ©solution pour 2024 !
+   Abonnez-vous Maintenant
 
    IFRAME:
    /mods_a/setcesi.php?u=%2Fcours%2Fmatiere-premiere%2FSILVER-16221%2F

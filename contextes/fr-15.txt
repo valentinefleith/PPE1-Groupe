@@ -1,3 +1,19 @@
+                         @ Vernis
+          + MÃ©taux
+               o MÃ©taux
+               o MÃ©taux Argent
+                         @ Voir tout
+                         @ Bandes
+                         @ Bandes Galeries
+--
+                         @ Fils ronds
+                         @ Grenailles
+                         @ Plaques
+                         @ PÃ¢tes Argent
+                         @ Tubes carrÃ©s
+                         @ Tubes charniÃ¨res
+               o MÃ©taux Or (PRO)
+--
                          @ Plaques
                o Investissement (PRO)
                          @ Voir tout
@@ -8,15 +24,55 @@
                          @ Bains Argent
                          @ Bains Cuivrage
                          @ Bains Dorure
-                         @ Bains Dégraissage
+                         @ Bains DÃ©graissage
 --
-                         @ Systèmes Oreilles
+                         @ Vernis Epargne
+          + ApprÃªts
+               o ApprÃªts
+               o ApprÃªts Argent
+                         @ Voir tout
+                         @ Anneaux de bout
+                         @ Bande galerie
+--
+                         @ Pendentifs
+                         @ Perles Ã  Ã©craser
+                         @ SystÃ¨mes Oreilles
+               o ApprÃªts plaquÃ©s Or et Argent
+                         @ Voir tout
+                         @ Anneau de bout
+                         @ Bagues
+--
+                         @ SystÃ¨mes Oreilles
           + Fermoirs
                o Fermoirs
                o Fermoirs Argent
                          @ Voir tout
                          @ Anneaux de bout
                          @ Anneaux marins
+--
+                         @ MagnÃ©tiques
+                         @ Menottes
+                         @ Pour perles
+               o Fermoirs plaquÃ©s Or et Argent
+                         @ Voir tout
+                         @ Anneaux de bout
+                         @ Anneaux Ressort
+--
+                         @ Pour perles
+          + Chaines
+               o Chaines
+               o ChaÃ®nes au mÃ¨tre Argent
+                         @ Voir tout
+                         @ Anneau
+                         @ Boule
+--
+                         @ Rectangle
+                         @ Serpent
+                         @ VÃ©nitienne
+               o ChaÃ®nes terminÃ©es Argent
+                         @ Voir tout
+                         @ AlternÃ©e
+                         @ Boule
 --
                          @ Serpent
           + Corps de bagues Chatons
@@ -34,15 +90,23 @@
                          @ Pour pendentif
                          @ Pour 3 pierres
 --
-                         @ Apprêts supports résine
+                         @ ApprÃªts supports rÃ©sine
                          @ Baume
                          @ Ebauches
                          @ Fils et Bandes Argent
                          @ Kits
                          @ Moules Silicones
-                         @ Perles et éclats
+                         @ Perles et Ã©clats
 --
-                         @ Créoles
+                         @ Voir tout
+                         @ Accessoires
+                         @ ApprÃªts
+                         @ PÃ¢tes Argent
+                         @ PÃ¢tes Bronze
+          + Cordons Perles et Pierres
+               o Cordons Perles et Pierres
+--
+                         @ CrÃ©oles
                          @ Pendentifs
                          @ Sautoirs
                o Caplain Argent (PRO)
@@ -51,7 +115,7 @@
                          @ Bagues Joncs
 --
                          @ Bracelets Joncs
-                         @ Chaînes
+                         @ ChaÃ®nes
                          @ Colliers
                o Bijoux Argent et Fantaisie
                          @ Voir tout
@@ -63,8 +127,10 @@
      * Accueil
      * metaux argent
 
-Métaux Argent
+MÃ©taux Argent
 
+   (BUTTON) Filtres
+   [Ventes___]
 --
      * (Enlevez) Plaques
 
@@ -78,137 +144,137 @@ Métaux Argent
 --
    Tri par [Ventes___]
 
-   N°1 des ventes
+   NÂ°1 des ventes
    Plaque Argent 950 recuit, 1,00 mm
 
    Plaque Argent 950 recuit, 1,00 mm
 
-   Réf.: CSI 018
+   RÃ©f.: CSI 018
    [av_300_png2.png]
 
      * Argent 950 recuit,
-     * Épaisseur : 1,00 mm,
-     * Poids au cm² : 1,04 g,
+     * Ã‰paisseur : 1,00 mm,
+     * Poids au cmÂ² : 1,04 g,
 
 --
    Voir
 
-   N°1 des ventes
+   NÂ°1 des ventes
    Fil rond Argent 950 recuit, 1,00 mm
 
    Fil rond Argent 950 recuit, 1,00 mm
 
-   Réf.: HSI 0020
+   RÃ©f.: HSI 0020
    [av_300_png2.png]
 
      * Argent 950 recuit,
-     * Diamètre : 1,00 mm,
-     * Poids au mètre : 8,16 g,
+     * DiamÃ¨tre : 1,00 mm,
+     * Poids au mÃ¨tre : 8,16 g,
 
 --
    Voir
 
-   N°1 des ventes
+   NÂ°1 des ventes
    Fil rond Argent 950 recuit, 0,80 mm
 
    Fil rond Argent 950 recuit, 0,80 mm
 
-   Réf.: HSI 0017
+   RÃ©f.: HSI 0017
    [av_300_png2.png]
 
      * Argent 950 recuit,
-     * Diamètre : 0,80 mm,
-     * Poids au mètre : 5,22 g,
+     * DiamÃ¨tre : 0,80 mm,
+     * Poids au mÃ¨tre : 5,22 g,
 
 --
    Voir
 
-   N°1 des ventes
+   NÂ°1 des ventes
    Fil rond Argent 950 recuit, 1,50 mm
 
    Fil rond Argent 950 recuit, 1,50 mm
 
-   Réf.: HSI 0010
+   RÃ©f.: HSI 0010
    [av_300_png2.png]
 
      * Argent 950 recuit,
-     * Diamètre : 1,50 mm,
-     * Poids au mètre : 18,37 g,
+     * DiamÃ¨tre : 1,50 mm,
+     * Poids au mÃ¨tre : 18,37 g,
 
 --
    Voir
 
-   N°1 des ventes
+   NÂ°1 des ventes
    Fil rond Argent 950 recuit, 2,00 mm
 
    Fil rond Argent 950 recuit, 2,00 mm
 
-   Réf.: HSI 0012
+   RÃ©f.: HSI 0012
    [av_300_png2.png]
 
      * Argent 950 recuit,
-     * Diamètre : 2,00 mm,
-     * Poids au mètre : 32,67 g,
+     * DiamÃ¨tre : 2,00 mm,
+     * Poids au mÃ¨tre : 32,67 g,
 
 --
    Voir
 
-   N°1 des ventes
+   NÂ°1 des ventes
    Plaque Argent 950 recuit, 0,80 mm
 
    Plaque Argent 950 recuit, 0,80 mm
 
-   Réf.: CSI 016
+   RÃ©f.: CSI 016
    [av_300_png2.png]
 
      * Argent 950 recuit,
-     * Épaisseur : 0,80 mm,
-     * Poids au cm² : 0,83 g,
+     * Ã‰paisseur : 0,80 mm,
+     * Poids au cmÂ² : 0,83 g,
 
 --
    Voir
 
-   N°1 des ventes
+   NÂ°1 des ventes
    Plaque Argent 950 recuit, 1,50 mm
 
    Plaque Argent 950 recuit, 1,50 mm
 
-   Réf.: CSI 028
+   RÃ©f.: CSI 028
    [av_300_png2.png]
 
      * Argent 950 recuit,
-     * Épaisseur : 1,50 mm,
-     * Poids au cm² : 1,56 g,
+     * Ã‰paisseur : 1,50 mm,
+     * Poids au cmÂ² : 1,56 g,
 
 --
    Voir
 
-   N°1 des ventes
+   NÂ°1 des ventes
    Fil rond Argent 950 recuit, 3,00 mm
 
    Fil rond Argent 950 recuit, 3,00 mm
 
-   Réf.: HSI 0007
+   RÃ©f.: HSI 0007
    [av_300_png2.png]
 
      * Argent 950 recuit,
-     * Diamètre : 3,00 mm,
-     * Poids au mètre : 73,51 g,
+     * DiamÃ¨tre : 3,00 mm,
+     * Poids au mÃ¨tre : 73,51 g,
 
 --
    Voir
 
-   N°1 des ventes
+   NÂ°1 des ventes
    Plaque Argent 950 recuit, 2,00 mm
 
    Plaque Argent 950 recuit, 2,00 mm
 
-   Réf.: CSI 009
+   RÃ©f.: CSI 009
    [av_300_png2.png]
 
      * Argent 950 recuit,
-     * Épaisseur : 2,00 mm,
-     * Poids au cm² : 2,08 g,
+     * Ã‰paisseur : 2,00 mm,
+     * Poids au cmÂ² : 2,08 g,
 
 --
 
@@ -218,12 +284,12 @@ Métaux Argent
 
    Grenaille, Argent 925
 
-   Réf.: ASA 000
+   RÃ©f.: ASA 000
    [av_300_png2.png]
 
      * Grenaille en Argent Sterling,
-     * Intervalle de fusion : 820 - 880°C,
-     * Pour fonte à cire perdue.
+     * Intervalle de fusion : 820 - 880Â°C,
+     * Pour fonte Ã  cire perdue.
 
 --
 
@@ -233,12 +299,12 @@ Métaux Argent
 
    Plaque Argent 950 recuit, 0,50 mm
 
-   Réf.: CSI 031
+   RÃ©f.: CSI 031
    [av_300_png2.png]
 
      * Argent 950 recuit,
-     * Épaisseur : 0,50 mm,
-     * Poids au cm² : 0,52 g,
+     * Ã‰paisseur : 0,50 mm,
+     * Poids au cmÂ² : 0,52 g,
 
 --
 
@@ -248,12 +314,12 @@ Métaux Argent
 
    Fil rond Argent 950 recuit, 1,20 mm
 
-   Réf.: HSI 0005
+   RÃ©f.: HSI 0005
    [av_300_png2.png]
 
      * Argent 950 recuit,
-     * Diamètre : 1,20 mm,
-     * Poids au mètre : 11,76 g,
+     * DiamÃ¨tre : 1,20 mm,
+     * Poids au mÃ¨tre : 11,76 g,
 
 --
 
@@ -263,35 +329,72 @@ Métaux Argent
 
    Plaque Argent 950 recuit, 0,70 mm
 
-   Réf.: CSI 013
+   RÃ©f.: CSI 013
    [av_300_png2.png]
 
      * Argent 950 recuit,
-     * Épaisseur : 0,70 mm,
-     * Poids au cm² : 0,72 g,
+     * Ã‰paisseur : 0,70 mm,
+     * Poids au cmÂ² : 0,72 g,
 
 --
    Voir
 
-   N°1 des ventes
+   NÂ°1 des ventes
    Fil rectangle Argent 925 recuit, 6,00 x 1,20 mm
 
    Fil rectangle Argent 925 recuit, 6,00 x 1,20 mm
 
-   Réf.: KSA 523
+   RÃ©f.: KSA 523
    [av_300_png2.png]
 
      * Argent 925 recuit,
      * Dimensions : 6,00 x 1,20 mm,
-     * Poids au mètre : 74,80 g,
+     * Poids au mÃ¨tre : 74,80 g,
 
 --
-   Réf.: JSI 0005
+
+   / kg | TTC
+   Voir
+   Brasure moyenne, bande de 6 g, 0,70 x 600 mm, Argent
+
+   Brasure moyenne, bande de 6 g, 0,70 x 600 mm, Argent
+
+   RÃ©f.: DTU M720
+   [av_300_png2.png]
+
+     * Bande de brasure en Argent moyen,
+     * Intervalle de fusion 720-765Â°C,
+     * Dimensions : 600 x 1,50 x 0,70 mm,
+
+--
+
+   TTC
+   ____________________ Ajouter au panier
+   Fil carrÃ© Argent 950 recuit, 2,00 mm
+
+   Fil carrÃ© Argent 950 recuit, 2,00 mm
+
+   RÃ©f.: JSI 0005
    [av_300_png2.png]
 
      * Argent 950 recuit,
      * Section : 2,00 mm,
-     * Poids au mètre : 41,60 g,
+     * Poids au mÃ¨tre : 41,60 g,
+
+--
+   Voir
+
+   NÂ°1 des ventes
+   Fil perlÃ© 1,50 mm, Argent 925 recuit
+
+   Fil perlÃ© 1,50 mm, Argent 925 recuit
+
+   RÃ©f.: NVZ 001
+   [av_300_png2.png]
+
+     * Argent 925 recuit,
+     * DiamÃ¨tre : 1,50 mm,
+     * Poids au mÃ¨tre : 14,50 g,
 
 --
 
@@ -301,7 +404,7 @@ Métaux Argent
 
    Bande Argent fin pour serti clos, 0,30 x 3,00 mm
 
-   Réf.: DSF 603
+   RÃ©f.: DSF 603
    [av_300_png2.png]
 
      * Argent fin,
@@ -309,42 +412,19 @@ Métaux Argent
      * Dimensions : 0,30 x 3 mm.
 
 --
-   Réf.: NVZ 001
-   [av_300_png2.png]
-
-     * Argent 925 recuit,
-     * Diamètre : 1,50 mm,
-     * Poids au mètre : 14,50 g,
-
---
 
    / kg | TTC
    Voir
-   Brasure moyenne, bande de 6 g, 0,70 x 600 mm, Argent
-
-   Brasure moyenne, bande de 6 g, 0,70 x 600 mm, Argent
-
-   Réf.: DTU M720
-   [av_300_png2.png]
-
-     * Bande de brasure en Argent moyen,
-     * Intervalle de fusion 720-765°C,
-     * Dimensions : 600 x 1,50 x 0,70 mm,
-
---
-
-   TTC
-   ____________________ Ajouter au panier
    Plaque Argent 950 recuit, 1,20 mm
 
    Plaque Argent 950 recuit, 1,20 mm
 
-   Réf.: CSI 019
+   RÃ©f.: CSI 019
    [av_300_png2.png]
 
      * Argent 950 recuit,
-     * Épaisseur : 1,20 mm,
-     * Poids au cm² : 1,24 g,
+     * Ã‰paisseur : 1,20 mm,
+     * Poids au cmÂ² : 1,24 g,
 
 --
 
@@ -354,7 +434,7 @@ Métaux Argent
 
    Bande Argent fin pour serti clos, 0,30 x 5,00 mm
 
-   Réf.: DSF 605
+   RÃ©f.: DSF 605
    [av_300_png2.png]
 
      * Argent fin,
@@ -362,27 +442,19 @@ Métaux Argent
      * Dimensions : 0,30 x 5 mm.
 
 --
-   Réf.: JSI 0004
+
+   / kg | TTC
+   Voir
+   Fil carrÃ© Argent 950 recuit, 1,50 mm
+
+   Fil carrÃ© Argent 950 recuit, 1,50 mm
+
+   RÃ©f.: JSI 0004
    [av_300_png2.png]
 
      * Argent 950 recuit,
      * Section : 1,50 mm,
-     * Poids au mètre : 23,40g,
-
---
-
-   / kg | TTC
-   Voir
-   Fil rond Argent 950 recuit, 0,70 mm
-
-   Fil rond Argent 950 recuit, 0,70 mm
-
-   Réf.: HSI 0019
-   [av_300_png2.png]
-
-     * Argent 950 recuit,
-     * Diamètre : 0,70 mm,
-     * Poids au mètre : 4 g,
+     * Poids au mÃ¨tre : 23,40g,
 
 --
 
@@ -392,12 +464,27 @@ Métaux Argent
 
    Fil rond Argent 950 recuit, 2,50 mm
 
-   Réf.: HSI 0011
+   RÃ©f.: HSI 0011
    [av_300_png2.png]
 
      * Argent 950 recuit,
-     * Diamètre : 2,50 mm,
-     * Poids au mètre : 51,05 g,
+     * DiamÃ¨tre : 2,50 mm,
+     * Poids au mÃ¨tre : 51,05 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil rond Argent 950 recuit, 0,70 mm
+
+   Fil rond Argent 950 recuit, 0,70 mm
+
+   RÃ©f.: HSI 0019
+   [av_300_png2.png]
+
+     * Argent 950 recuit,
+     * DiamÃ¨tre : 0,70 mm,
+     * Poids au mÃ¨tre : 4 g,
 
 --
 
@@ -407,20 +494,42 @@ Métaux Argent
 
    Fil demi-jonc Argent 950 recuit, 2,50 x 1,50 mm
 
-   Réf.: LSI 251
+   RÃ©f.: LSI 251
    [av_300_png2.png]
 
      * Argent 950 recuit,
      * Dimensions : 2,50 x 1,50 mm,
-     * Poids au mètre : 30,63 g,
+     * Poids au mÃ¨tre : 30,63 g,
 
 --
-   Réf.: NVZ 002
+   Voir
+
+   NÂ°1 des ventes
+   Fil perlÃ© 2,00 mm, Argent 925 recuit
+
+   Fil perlÃ© 2,00 mm, Argent 925 recuit
+
+   RÃ©f.: NVZ 002
    [av_300_png2.png]
 
      * Argent 925 recuit,
-     * Diamètre : 2 mm,
-     * Poids au mètre : 26 g,
+     * DiamÃ¨tre : 2 mm,
+     * Poids au mÃ¨tre : 26 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil rond Argent 950 recuit, 0,50 mm
+
+   Fil rond Argent 950 recuit, 0,50 mm
+
+   RÃ©f.: HSI 0021
+   [av_300_png2.png]
+
+     * Argent 950 recuit,
+     * DiamÃ¨tre : 0,50 mm,
+     * Poids au mÃ¨tre : 2,04 g,
 
 --
 
@@ -430,27 +539,12 @@ Métaux Argent
 
    Fil demi-jonc Argent 950 recuit, 2,00 x 1,00 mm
 
-   Réf.: LSI 201
+   RÃ©f.: LSI 201
    [av_300_png2.png]
 
      * Argent 950 recuit,
      * Dimensions : 2,00 x 1,00 mm,
-     * Poids au mètre : 16,34 g,
-
---
-
-   / kg | TTC
-   Voir
-   Fil rond Argent 950 recuit, 0,50 mm
-
-   Fil rond Argent 950 recuit, 0,50 mm
-
-   Réf.: HSI 0021
-   [av_300_png2.png]
-
-     * Argent 950 recuit,
-     * Diamètre : 0,50 mm,
-     * Poids au mètre : 2,04 g,
+     * Poids au mÃ¨tre : 16,34 g,
 
 --
 
@@ -460,57 +554,27 @@ Métaux Argent
 
    Plaque Argent 950 recuit, 0,60 mm
 
-   Réf.: CSI 020S
+   RÃ©f.: CSI 020S
    [av_300_png2.png]
 
      * Argent 950 recuit,
-     * Épaisseur : 0,60 mm,
-     * Poids au cm² : 0,62 g,
+     * Ã‰paisseur : 0,60 mm,
+     * Poids au cmÂ² : 0,62 g,
 
 --
    Voir
 
-   N°1 des ventes
+   NÂ°1 des ventes
    Fil rectangle Argent 925 recuit, 4,00 x 1,30 mm
 
    Fil rectangle Argent 925 recuit, 4,00 x 1,30 mm
 
-   Réf.: KSA 404
+   RÃ©f.: KSA 404
    [av_300_png2.png]
 
      * Argent 925 recuit,
      * Dimensions : 4,00 x 1,30 mm,
-     * Poids au mètre : 54,02 g,
-
---
-
-   / kg | TTC
-   Voir
-   Plaque Argent 950 recuit, 0,30 mm
-
-   Plaque Argent 950 recuit, 0,30 mm
-
-   Réf.: CSI 023
-   [av_300_png2.png]
-
-     * Argent 950 recuit,
-     * Épaisseur : 0,30 mm,
-     * Poids au cm² : 0,31 g,
-
---
-
-   / kg | TTC
-   Voir
-   Plaque Argent 950 recuit, 0,40 mm
-
-   Plaque Argent 950 recuit, 0,40 mm
-
-   Réf.: CSI 021
-   [av_300_png2.png]
-
-     * Argent 950 recuit,
-     * Épaisseur : 0,40 mm,
-     * Poids au cm² : 0,41 g,
+     * Poids au mÃ¨tre : 54,02 g,
 
 --
 
@@ -520,55 +584,85 @@ Métaux Argent
 
    Brasure faible, bande de 9 g, 0,50 x 600 mm, Argent
 
-   Réf.: DTT E705
+   RÃ©f.: DTT E705
 
      * Bande de brasure en Argent faible,
-     * Intervalle de fusion 705-725°C,
+     * Intervalle de fusion 705-725Â°C,
      * Dimensions : 600 x 3 x 0,50 mm,
 
 --
 
    TTC
    ____________________ Ajouter au panier
-   Fil demi-jonc Argent 950 recuit, 3,00 x 1,50 mm
-
-   Fil demi-jonc Argent 950 recuit, 3,00 x 1,50 mm
-
-   Réf.: LSI 0010
-   [av_300_png2.png]
-
-     * Argent 950 recuit,
-     * Dimensions : 3,00 x 1,50 mm,
-     * Poids au mètre : 36,76 g,
-
---
-
-   / kg | TTC
-   Voir
    Brasure forte, bande de 22 g, 0,60 x 600 mm, Argent
 
    Brasure forte, bande de 22 g, 0,60 x 600 mm, Argent
 
-   Réf.: DTV H760
+   RÃ©f.: DTV H760
 
      * Bande de brasure en Argent forte,
-     * Intervalle de fusion 760-785°C,
+     * Intervalle de fusion 760-785Â°C,
      * Dimensions : 600 x 6 x 0,60 mm,
 
 --
 
    TTC
    ____________________ Ajouter au panier
-   Fil rond Argent 950 recuit, 0,60 mm
+   Plaque Argent 950 recuit, 0,40 mm
 
-   Fil rond Argent 950 recuit, 0,60 mm
+   Plaque Argent 950 recuit, 0,40 mm
 
-   Réf.: HSI 0013
+   RÃ©f.: CSI 021
    [av_300_png2.png]
 
      * Argent 950 recuit,
-     * Diamètre : 0,60 mm,
-     * Poids au mètre : 2,94 g,
+     * Ã‰paisseur : 0,40 mm,
+     * Poids au cmÂ² : 0,41 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Plaque Argent 950 recuit, 0,30 mm
+
+   Plaque Argent 950 recuit, 0,30 mm
+
+   RÃ©f.: CSI 023
+   [av_300_png2.png]
+
+     * Argent 950 recuit,
+     * Ã‰paisseur : 0,30 mm,
+     * Poids au cmÂ² : 0,31 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil demi-jonc Argent 950 recuit, 3,00 x 1,50 mm
+
+   Fil demi-jonc Argent 950 recuit, 3,00 x 1,50 mm
+
+   RÃ©f.: LSI 0010
+   [av_300_png2.png]
+
+     * Argent 950 recuit,
+     * Dimensions : 3,00 x 1,50 mm,
+     * Poids au mÃ¨tre : 36,76 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil rond Argent 950 recuit, 0,60 mm
+
+   Fil rond Argent 950 recuit, 0,60 mm
+
+   RÃ©f.: HSI 0013
+   [av_300_png2.png]
+
+     * Argent 950 recuit,
+     * DiamÃ¨tre : 0,60 mm,
+     * Poids au mÃ¨tre : 2,94 g,
 
 --
 
@@ -578,27 +672,27 @@ Métaux Argent
 
    Fil rond Argent 925 recuit, 2,00 mm
 
-   Réf.: HSA 200Z
+   RÃ©f.: HSA 200Z
    [av_300_png2.png]
 
      * Argent 925 recuit,
-     * Diamètre : 2,00 mm,
-     * Poids au mètre : 32,50 g,
+     * DiamÃ¨tre : 2,00 mm,
+     * Poids au mÃ¨tre : 32,50 g,
 
 --
    Voir
 
-   N°1 des ventes
+   NÂ°1 des ventes
    Fil rectangle Argent 925 recuit, 4,00 x 0,84 mm
 
    Fil rectangle Argent 925 recuit, 4,00 x 0,84 mm
 
-   Réf.: KSA 521
+   RÃ©f.: KSA 521
    [av_300_png2.png]
 
      * Argent 925 recuit,
      * Dimensions : 4,00 x 0,84 mm,
-     * Poids au mètre : 34,91 g,
+     * Poids au mÃ¨tre : 34,91 g,
 
 --
 
@@ -608,12 +702,12 @@ Métaux Argent
 
    Plaque Argent 925 recuit, 0,60 mm
 
-   Réf.: CSA 060
+   RÃ©f.: CSA 060
    [av_300_png2.png]
 
      * Argent 925 recuit,
-     * Épaisseur : 0,60 mm,
-     * Poids au cm² : 0,62 g,
+     * Ã‰paisseur : 0,60 mm,
+     * Poids au cmÂ² : 0,62 g,
 
 --
 
@@ -623,35 +717,42 @@ Métaux Argent
 
    Fil rond Argent 925 recuit, 1,50 mm
 
-   Réf.: HSA 150Z
+   RÃ©f.: HSA 150Z
    [av_300_png2.png]
 
      * Argent 925 recuit,
-     * Diamètre : 1,50 mm,
-     * Poids au mètre : 18,36 g,
+     * DiamÃ¨tre : 1,50 mm,
+     * Poids au mÃ¨tre : 18,36 g,
 
 --
-   Réf.: JSA 100
+
+   / kg | TTC
+   Voir
+   Fil carrÃ© Argent 925 recuit, 1,00 mm
+
+   Fil carrÃ© Argent 925 recuit, 1,00 mm
+
+   RÃ©f.: JSA 100
    [av_300_png2.png]
 
      * Argent 925 recuit,
      * Section : 1,00 mm,
-     * Poids au mètre : 10,39 g,
+     * Poids au mÃ¨tre : 10,39 g,
 
 --
    Voir
 
-   N°1 des ventes
+   NÂ°1 des ventes
    Fil rectangle Argent fin recuit, 2,00 x 1,00 mm
 
    Fil rectangle Argent fin recuit, 2,00 x 1,00 mm
 
-   Réf.: KSF 0200
+   RÃ©f.: KSF 0200
    [av_300_png2.png]
 
      * Argent fin recuit,
      * Dimensions : 2,00 x 1,00 mm,
-     * Poids au mètre : 21 g,
+     * Poids au mÃ¨tre : 21 g,
 
 --
 
@@ -661,58 +762,27 @@ Métaux Argent
 
    Fil demi-jonc Argent 925 recuit, 4,00 x 2,00 mm
 
-   Réf.: LS1 511
+   RÃ©f.: LS1 511
    [av_300_png2.png]
 
      * Argent 925 recuit,
      * Dimensions : 4,00 x 2,00 mm,
-     * Poids au mètre : 65,28 g,
-
---
-   Réf.: JSI 0009
-   [av_300_png2.png]
-
-     * Argent 950 recuit,
-     * Section : 3,00 mm,
-     * Poids au mètre : 93,60 g,
-
---
-   Réf.: PAT 021
-   [av_300_png2.png]
-
-     * Brasure Argent en pâte - 10g,
-     * Intervalle de fusion : 705°C - 723°C,
-     * Composée de flux de brasage.
-
---
-
-   TTC
-   ____________________ Ajouter au panier
-   Fil rond Argent 950 recuit, 4,00 mm
-
-   Fil rond Argent 950 recuit, 4,00 mm
-
-   Réf.: HSI 0002
-   [av_300_png2.png]
-
-     * Argent 950 recuit,
-     * Diamètre : 4,00 mm,
-     * Poids au mètre : 130,69 g,
+     * Poids au mÃ¨tre : 65,28 g,
 
 --
 
    / kg | TTC
    Voir
-   Fil rond Argent 925 recuit, 1,00 mm
+   Fil carrÃ© Argent 950 recuit, 3,00 mm
 
-   Fil rond Argent 925 recuit, 1,00 mm
+   Fil carrÃ© Argent 950 recuit, 3,00 mm
 
-   Réf.: HSA 100S
+   RÃ©f.: JSI 0009
    [av_300_png2.png]
 
-     * Argent 925 recuit,
-     * Diamètre : 1,00 mm,
-     * Poids au mètre : 8,16 g,
+     * Argent 950 recuit,
+     * Section : 3,00 mm,
+     * Poids au mÃ¨tre : 93,60 g,
 
 --
    Voir
@@ -722,411 +792,561 @@ Métaux Argent
 
    Brasure extra faible, bande de 5 g, 0,45 x 400 mm, Argent
 
-   Réf.: CTA 500
+   RÃ©f.: CTA 500
    [av_300_png2.png]
 
-     * Bande de brasure en Argent très faible,
-     * Intervalle de fusion 667-709°C,
+     * Bande de brasure en Argent trÃ¨s faible,
+     * Intervalle de fusion 667-709Â°C,
      * Dimensions : 400 x 3 x 0,45 mm,
-
---
-   Réf.: ASF 0008
-   [av_300_png2.png]
-
-   Grenaille, Argent fin. Argent fin inférieur à 999,8o/oo. Intervalle de
-   fusion : 960°C. Densité : 10,5. Dureté recuit : 40 Dureté Ecroui : 70.
-   Grenaille : calibré < à 10 mm. Utilisation : Nos grenailles et riblons
-   sont des ... Lire plus
---
-   Voir
-
-   N°1 des ventes
-   Fil rectangle Argent 925 recuit, 5,00 x 0,84 mm
-
-   Fil rectangle Argent 925 recuit, 5,00 x 0,84 mm
-
-   Réf.: KSA 522
-   [av_300_png2.png]
-
-     * Argent 925 recuit,
-     * Dimensions : 5,00 x 0,84 mm,
-     * Poids au mètre : 43,63 g,
-
---
-   Réf.: JSI 0008
-   [av_300_png2.png]
-
-     * Argent 950 recuit,
-     * Section : 2,50 mm,
-     * Poids au mètre : 65 g,
-
---
-
-   / kg | TTC
-   Voir
-   Fil rectangle Argent 925 recuit, 3,20 x 1,60 mm
-
-   Fil rectangle Argent 925 recuit, 3,20 x 1,60 mm
-
-   Réf.: KSA 320
-   [av_300_png2.png]
-
-     * Argent 925 recuit,
-     * Dimensions : 3,20 x 1,60 mm,
-     * Poids au mètre : 53,19 g,
-
---
-
-   / kg | TTC
-   Voir
-   Fil demi-jonc Argent 925 recuit, 3,00 x 2,00 mm
-
-   Fil demi-jonc Argent 925 recuit, 3,00 x 2,00 mm
-
-   Réf.: LSA 300
-   [av_300_png2.png]
-
-     * Argent 925 recuit,
-     * Dimensions : 3,00 x 2,00 mm,
-     * Poids au mètre : 48,96 g,
-
---
-   Réf.: JSI 0002
-   [av_300_png2.png]
-
-     * Argent 950 recuit,
-     * Section : 4,00 mm,
-     * Poids au mètre : 166,40 g,
-
---
-
-   / kg | TTC
-   Voir
-   Fil demi-jonc Argent 925 recuit, 2,30 x 1,50 mm
-
-   Fil demi-jonc Argent 925 recuit, 2,30 x 1,50 mm
-
-   Réf.: LSA 230
-   [av_300_png2.png]
-
-     * Argent 925 recuit,
-     * Dimensions : 2,30 x 1,50 mm,
-     * Poids au mètre : 32,50 g,
-
---
-
-   / kg | TTC
-   Voir
-   Fil rond Argent 950 recuit, 0,30 mm
-
-   Fil rond Argent 950 recuit, 0,30 mm
-
-   Réf.: HSI 0018
-   [av_300_png2.png]
-
-     * Argent 950 recuit,
-     * Diamètre : 0,30 mm,
-     * Poids au mètre : 0,73 g,
-
---
-
-   / kg | TTC
-   Voir
-   Plaque Argent 950 recuit, 0,90 mm
-
-   Plaque Argent 950 recuit, 0,90 mm
-
-   Réf.: CSI 017
-   [av_300_png2.png]
-
-     * Argent 950 recuit,
-     * Épaisseur : 0,90 mm,
-     * Poids au cm² : 0,93 g,
-
---
-
-   / g | TTC
-   Voir
-   Fil rond Argent 925 recuit, 3,00 mm
-
-   Fil rond Argent 925 recuit, 3,00 mm
-
-   Réf.: HSA 300Z
-   [av_300_png2.png]
-
-     * Argent 925 recuit,
-     * Diamètre : 3,00 mm,
-     * Poids au mètre : 73,44 g,
-
---
-
-   / kg | TTC
-   Voir
-   Fil rond Argent 950 recuit, 0,40 mm
-
-   Fil rond Argent 950 recuit, 0,40 mm
-
-   Réf.: HSI 0003
-   [av_300_png2.png]
-
-     * Argent 950 recuit,
-     * Diamètre : 0,40 mm,
-     * Poids au mètre : 1,30 g,
-
---
-   Réf.: JSI 0003
-   [av_300_png2.png]
-
-     * Argent 950 recuit,
-     * Section : 1,00 mm,
-     * Poids au mètre : 10,40 g,
-
---
-
-   / g | TTC
-   Voir
-   Plaque Argent 925 recuit, 3 mm
-
-   Plaque Argent 925 recuit, 3 mm
-
-   Réf.: CSA 300
-   [av_300_png2.png]
-
-     * Argent 925 recuit,
-     * Epaisseur : 3 mm,
-     * Poids au cm² : 3,11 g,
-
---
-
-   / g | TTC
-   Voir
-   Fil rond Argent 925 recuit, 0,90 mm
-
-   Fil rond Argent 925 recuit, 0,90 mm
-
-   Réf.: HSA 090
-   [av_300_png2.png]
-
-     * Argent 925 recuit,
-     * Diamètre : 0,90 mm,
-     * Poids au mètre : 6,60 g,
-
---
-
-   / kg | TTC
-   Voir
-   Fil rond Argent 950 recuit, 3,50 mm
-
-   Fil rond Argent 950 recuit, 3,50 mm
-
-   Réf.: HSI 0009
-   [av_300_png2.png]
-
-     * Argent 950 recuit,
-     * Diamètre : 3,50 mm,
-     * Poids au mètre : 100,05 g,
-
---
-
-   / kg | TTC
-   Voir
-   Fil rectangle Argent 925 recuit, 6,00 x 2,00 mm
-
-   Fil rectangle Argent 925 recuit, 6,00 x 2,00 mm
-
-   Réf.: KSA 524
-   [av_300_png2.png]
-
-     * Argent 925 recuit,
-     * Dimensions : 6,00 x 2,00 mm,
-     * Poids au mètre : 124,68 g,
-
---
-   Voir
-
-   N°1 des ventes
-   Fil ovale Argent 925 recuit, 2,50 x 1,70 mm
-
-   Fil ovale Argent 925 recuit, 2,50 x 1,70 mm
-
-   Réf.: ISA 250
-   [av_300_png2.png]
-
-     * Argent 925 recuit,
-     * Dimensions : 2,50 x 1,70 mm,
-     * Poids au mètre : 38,80 g,
-
---
-
-   / kg | TTC
-   Voir
-   Fil rond Argent 925 recuit, 2,50 mm
-
-   Fil rond Argent 925 recuit, 2,50 mm
-
-   Réf.: HSA 250Z
-   [av_300_png2.png]
-
-     * Argent 925 recuit,
-     * Diamètre : 2,50 mm,
-     * Poids au mètre : 51 g,
-
---
-
-   / kg | TTC
-   Voir
-   Plaque Argent 950 recuit, 2,50 mm
-
-   Plaque Argent 950 recuit, 2,50 mm
-
-   Réf.: CSI 004
-   [av_300_png2.png]
-
-     * Argent 950 recuit,
-     * Épaisseur : 2,50 mm,
-     * Poids au cm² : 2,60 g,
-
---
-
-   / kg | TTC
-   Voir
-   Fil rectangle Argent 925 recuit, 3,00 x 2,00 mm
-
-   Fil rectangle Argent 925 recuit, 3,00 x 2,00 mm
-
-   Réf.: KSA 302
-
-     * Argent 925 recuit,
-     * Dimensions : 3,00 x 2,00 mm,
-     * Poids au mètre : 62,34 g,
-
---
-
-   Réf.: NVZ 100
-
-     * Argent 925 demi-dur,
-     * Diamètre : 1 mm,
-     * Poids au mètre : 7,75 g,
-
---
-
-   / kg | TTC
-   Voir
-   Fil demi-jonc Argent 925 recuit, 3,00 x 1,20 mm
-
-   Fil demi-jonc Argent 925 recuit, 3,00 x 1,20 mm
-
-   Réf.: LSA 0005
-   [av_300_png2.png]
-
-     * Argent 925 recuit,
-     * Dimensions : 3,00 x 1,20 mm,
-     * Poids au mètre : 29,38 g,
-
---
-
-   / kg | TTC
-   Voir
-   Fil demi-jonc Argent 950 recuit, 5,00 x 2,50 mm
-
-   Fil demi-jonc Argent 950 recuit, 5,00 x 2,50 mm
-
-   Réf.: LSI 005
-   [av_300_png2.png]
-
-     * Argent 950 recuit,
-     * Dimensions : 5,00 x 2,50 mm,
-     * Poids au mètre : 102,10 g,
-
---
-
-   / g | TTC
-   Voir
-   Fil rond Argent 925 écroui, 1 mm
-
-   Fil rond Argent 925 écroui, 1 mm
-
-   Réf.: HSA 100I
-   [av_300_png2.png]
-
-     * Argent 925 écroui,
-     * Diamètre : 1,00 mm,
-     * Poids au mètre : 8,16 g,
-
---
-   Voir
-
-   N°1 des ventes
-   Fil rectangle Argent fin recuit, 1,00 x 0,20 mm, longueur de 3 mètres
-
-   Fil rectangle Argent fin recuit, 1,00 x 0,20 mm, longueur de 3 mètres
-
-   Réf.: KSFP 0100
-   [av_300_png2.png]
-
-     * Argent fin recuit,
-     * Dimensions : 1,00 x 0,20 mm,
-     * Couronne de 3 mètres.
 
 --
 
    TTC
    ____________________ Ajouter au panier
-   Fil rond Argent 925 écroui, 0,80 mm, couronne de 6 mètres
+   Brasure en pÃ¢te Argent CF667 65, pour Argent 1er titre, Seringue de 10
+   gr
 
-   Fil rond Argent 925 écroui, 0,80 mm, couronne de 6 mètres
+   Brasure en pÃ¢te Argent CF667 65%, pour Argent 1er titre, Seringue de 10
+   gr
 
-   Réf.: HSA 408
+   RÃ©f.: PAT 021
    [av_300_png2.png]
 
-     * Argent 925 écroui,
-     * Diamètre : 0,80 mm,
+     * Brasure Argent en pÃ¢te - 10g,
+     * Intervalle de fusion : 705Â°C - 723Â°C,
+     * ComposÃ©e de flux de brasage.
+
+--
+
+   TTC
+   ____________________ Ajouter au panier
+   Fil rond Argent 925 recuit, 1,00 mm
+
+   Fil rond Argent 925 recuit, 1,00 mm
+
+   RÃ©f.: HSA 100S
+   [av_300_png2.png]
+
+     * Argent 925 recuit,
+     * DiamÃ¨tre : 1,00 mm,
+     * Poids au mÃ¨tre : 8,16 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil rond Argent 950 recuit, 4,00 mm
+
+   Fil rond Argent 950 recuit, 4,00 mm
+
+   RÃ©f.: HSI 0002
+   [av_300_png2.png]
+
+     * Argent 950 recuit,
+     * DiamÃ¨tre : 4,00 mm,
+     * Poids au mÃ¨tre : 130,69 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Grenaille calibre Ã  10 mm, Argent fin
+
+   Grenaille calibre < Ã  10 mm, Argent fin
+
+   RÃ©f.: ASF 0008
+   [av_300_png2.png]
+
+   Grenaille, Argent fin. Argent fin infÃ©rieur Ã  999,8o/oo. Intervalle de
+   fusion : 960Â°C. DensitÃ© : 10,5. DuretÃ© recuit : 40 DuretÃ© Ecroui : 70.
+   Grenaille : calibrÃ© < Ã  10 mm. Utilisation : Nos grenailles et riblons
+   sont des ... Lire plus
+--
+   Voir
+
+   NÂ°1 des ventes
+   Fil rectangle Argent 925 recuit, 5,00 x 0,84 mm
+
+   Fil rectangle Argent 925 recuit, 5,00 x 0,84 mm
+
+   RÃ©f.: KSA 522
+   [av_300_png2.png]
+
+     * Argent 925 recuit,
+     * Dimensions : 5,00 x 0,84 mm,
+     * Poids au mÃ¨tre : 43,63 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil carrÃ© Argent 950 recuit, 2,50 mm
+
+   Fil carrÃ© Argent 950 recuit, 2,50 mm
+
+   RÃ©f.: JSI 0008
+   [av_300_png2.png]
+
+     * Argent 950 recuit,
+     * Section : 2,50 mm,
+     * Poids au mÃ¨tre : 65 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil rectangle Argent 925 recuit, 3,20 x 1,60 mm
+
+   Fil rectangle Argent 925 recuit, 3,20 x 1,60 mm
+
+   RÃ©f.: KSA 320
+   [av_300_png2.png]
+
+     * Argent 925 recuit,
+     * Dimensions : 3,20 x 1,60 mm,
+     * Poids au mÃ¨tre : 53,19 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil demi-jonc Argent 925 recuit, 3,00 x 2,00 mm
+
+   Fil demi-jonc Argent 925 recuit, 3,00 x 2,00 mm
+
+   RÃ©f.: LSA 300
+   [av_300_png2.png]
+
+     * Argent 925 recuit,
+     * Dimensions : 3,00 x 2,00 mm,
+     * Poids au mÃ¨tre : 48,96 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil carrÃ© Argent 950 recuit, 4,00 mm
+
+   Fil carrÃ© Argent 950 recuit, 4,00 mm
+
+   RÃ©f.: JSI 0002
+   [av_300_png2.png]
+
+     * Argent 950 recuit,
+     * Section : 4,00 mm,
+     * Poids au mÃ¨tre : 166,40 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Plaque Argent 950 recuit, 0,90 mm
+
+   Plaque Argent 950 recuit, 0,90 mm
+
+   RÃ©f.: CSI 017
+   [av_300_png2.png]
+
+     * Argent 950 recuit,
+     * Ã‰paisseur : 0,90 mm,
+     * Poids au cmÂ² : 0,93 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil demi-jonc Argent 925 recuit, 2,30 x 1,50 mm
+
+   Fil demi-jonc Argent 925 recuit, 2,30 x 1,50 mm
+
+   RÃ©f.: LSA 230
+   [av_300_png2.png]
+
+     * Argent 925 recuit,
+     * Dimensions : 2,30 x 1,50 mm,
+     * Poids au mÃ¨tre : 32,50 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil rond Argent 950 recuit, 0,30 mm
+
+   Fil rond Argent 950 recuit, 0,30 mm
+
+   RÃ©f.: HSI 0018
+   [av_300_png2.png]
+
+     * Argent 950 recuit,
+     * DiamÃ¨tre : 0,30 mm,
+     * Poids au mÃ¨tre : 0,73 g,
+
+--
+   Voir
+
+   NÂ°1 des ventes
+   Tube CharniÃ¨re 1,60 x 1,00 mm, Argent 925
+
+   Tube CharniÃ¨re 1,60 x 1,00 mm, Argent 925
+
+   RÃ©f.: RSA 012
+   [av_300_png2.png]
+--
+
+   / g | TTC
+   Voir
+   Fil rond Argent 925 recuit, 3,00 mm
+
+   Fil rond Argent 925 recuit, 3,00 mm
+
+   RÃ©f.: HSA 300Z
+   [av_300_png2.png]
+
+     * Argent 925 recuit,
+     * DiamÃ¨tre : 3,00 mm,
+     * Poids au mÃ¨tre : 73,44 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil rond Argent 950 recuit, 0,40 mm
+
+   Fil rond Argent 950 recuit, 0,40 mm
+
+   RÃ©f.: HSI 0003
+   [av_300_png2.png]
+
+     * Argent 950 recuit,
+     * DiamÃ¨tre : 0,40 mm,
+     * Poids au mÃ¨tre : 1,30 g,
+
+--
+   Voir
+
+   NÂ°1 des ventes
+   Tube CharniÃ¨re 2,00 x 1,30 mm, Argent 925
+
+   Tube CharniÃ¨re 2,00 x 1,30 mm, Argent 925
+
+   RÃ©f.: RSA 010
+   [av_300_png2.png]
+--
+
+   / g | TTC
+   Voir
+   Fil carrÃ© Argent 950 recuit, 1,00 mm
+
+   Fil carrÃ© Argent 950 recuit, 1,00 mm
+
+   RÃ©f.: JSI 0003
+   [av_300_png2.png]
+
+     * Argent 950 recuit,
+     * Section : 1,00 mm,
+     * Poids au mÃ¨tre : 10,40 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Plaque Argent 925 recuit, 3 mm
+
+   Plaque Argent 925 recuit, 3 mm
+
+   RÃ©f.: CSA 300
+   [av_300_png2.png]
+
+     * Argent 925 recuit,
+     * Epaisseur : 3 mm,
+     * Poids au cmÂ² : 3,11 g,
+
+--
+   Voir
+
+   NÂ°1 des ventes
+   Fil diamantÃ© 1,50 mm, Argent 925 demi-dur
+
+   Fil diamantÃ© 1,50 mm, Argent 925 demi-dur
+
+   RÃ©f.: NVZ 003
+   [av_300_png2.png]
+
+   DiamÃ¨tre : 1,5 mm, Poids : 15,7 g/mÃ¨tre, Argent 925, Le fil est coupÃ©
+   selon vos dimensions avec une longueur minimum de 100 mm (pas de coupe
+   infÃ©rieure), Ce fil perlÃ© est idÃ©al pour crÃ©er des anneaux, des boucles
+   ... Lire plus
+--
+
+   / kg | TTC
+   Voir
+   Fil rond Argent 925 recuit, 0,90 mm
+
+   Fil rond Argent 925 recuit, 0,90 mm
+
+   RÃ©f.: HSA 090
+   [av_300_png2.png]
+
+     * Argent 925 recuit,
+     * DiamÃ¨tre : 0,90 mm,
+     * Poids au mÃ¨tre : 6,60 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Tube CharniÃ¨re 2,80 x 2,00 mm, Argent 925
+
+   Tube CharniÃ¨re 2,80 x 2,00 mm, Argent 925
+
+   RÃ©f.: RSA 006
+
+--
+
+   / g | TTC
+   Voir
+   Fil rond Argent 950 recuit, 3,50 mm
+
+   Fil rond Argent 950 recuit, 3,50 mm
+
+   RÃ©f.: HSI 0009
+   [av_300_png2.png]
+
+     * Argent 950 recuit,
+     * DiamÃ¨tre : 3,50 mm,
+     * Poids au mÃ¨tre : 100,05 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil rond Argent 925 recuit, 2,50 mm
+
+   Fil rond Argent 925 recuit, 2,50 mm
+
+   RÃ©f.: HSA 250Z
+   [av_300_png2.png]
+
+     * Argent 925 recuit,
+     * DiamÃ¨tre : 2,50 mm,
+     * Poids au mÃ¨tre : 51 g,
+
+--
+   Voir
+
+   NÂ°1 des ventes
+   Fil ovale Argent 925 recuit, 2,50 x 1,70 mm
+
+   Fil ovale Argent 925 recuit, 2,50 x 1,70 mm
+
+   RÃ©f.: ISA 250
+   [av_300_png2.png]
+
+     * Argent 925 recuit,
+     * Dimensions : 2,50 x 1,70 mm,
+     * Poids au mÃ¨tre : 38,80 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil rectangle Argent 925 recuit, 6,00 x 2,00 mm
+
+   Fil rectangle Argent 925 recuit, 6,00 x 2,00 mm
+
+   RÃ©f.: KSA 524
+   [av_300_png2.png]
+
+     * Argent 925 recuit,
+     * Dimensions : 6,00 x 2,00 mm,
+     * Poids au mÃ¨tre : 124,68 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Bande Galerie Coeurs inversÃ©s, 0,60 x 4,00 mm, Argent 925 demi-dur
+
+   Bande Galerie Coeurs inversÃ©s, 0,60 x 4,00 mm, Argent 925 demi-dur
+
+   RÃ©f.: NVZ 029
+
+   Cette bande Galerie dÃ©corative Coeurs inversÃ©s en Argent 925 est
+   parfaite pour les embellissements ou autres Ã©lÃ©ments dÃ©coratifs ou
+   sertissage, et mÃªme des bagues. Elle mesure environ 4,00 mm de large et
+   0,60 mm ... Lire plus
+--
+
+   / kg | TTC
+   Voir
+   Plaque Argent 950 recuit, 2,50 mm
+
+   Plaque Argent 950 recuit, 2,50 mm
+
+   RÃ©f.: CSI 004
+   [av_300_png2.png]
+
+     * Argent 950 recuit,
+     * Ã‰paisseur : 2,50 mm,
+     * Poids au cmÂ² : 2,60 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil perlÃ© 1,00 mm, Argent 925 demi-dur
+
+   Fil perlÃ© 1,00 mm, Argent 925 demi-dur
+
+   RÃ©f.: NVZ 100
+
+     * Argent 925 demi-dur,
+     * DiamÃ¨tre : 1 mm,
+     * Poids au mÃ¨tre : 7,75 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil rectangle Argent 925 recuit, 3,00 x 2,00 mm
+
+   Fil rectangle Argent 925 recuit, 3,00 x 2,00 mm
+
+   RÃ©f.: KSA 302
+
+     * Argent 925 recuit,
+     * Dimensions : 3,00 x 2,00 mm,
+     * Poids au mÃ¨tre : 62,34 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil demi-jonc Argent 925 recuit, 3,00 x 1,20 mm
+
+   Fil demi-jonc Argent 925 recuit, 3,00 x 1,20 mm
+
+   RÃ©f.: LSA 0005
+   [av_300_png2.png]
+
+     * Argent 925 recuit,
+     * Dimensions : 3,00 x 1,20 mm,
+     * Poids au mÃ¨tre : 29,38 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil demi-jonc Argent 950 recuit, 5,00 x 2,50 mm
+
+   Fil demi-jonc Argent 950 recuit, 5,00 x 2,50 mm
+
+   RÃ©f.: LSI 005
+   [av_300_png2.png]
+
+     * Argent 950 recuit,
+     * Dimensions : 5,00 x 2,50 mm,
+     * Poids au mÃ¨tre : 102,10 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Tube CharniÃ¨re 4,00 x 3,00 mm, Argent 925
+
+   Tube CharniÃ¨re 4,00 x 3,00 mm, Argent 925
+
+   RÃ©f.: RSA 003
+   [av_300_png2.png]
+--
+   Voir
+
+   NÂ°1 des ventes
+   Fil rectangle Argent fin recuit, 1,00 x 0,20 mm, longueur de 3 mÃ¨tres
+
+   Fil rectangle Argent fin recuit, 1,00 x 0,20 mm, longueur de 3 mÃ¨tres
+
+   RÃ©f.: KSFP 0100
+   [av_300_png2.png]
+
+     * Argent fin recuit,
+     * Dimensions : 1,00 x 0,20 mm,
+     * Couronne de 3 mÃ¨tres.
+
+--
+
+   TTC
+   ____________________ Ajouter au panier
+   Fil demi-jonc Argent 950 recuit, 3,50 x 1,30 mm
+
+   Fil demi-jonc Argent 950 recuit, 3,50 x 1,30 mm
+
+   RÃ©f.: LSI 0001
+   [av_300_png2.png]
+
+     * Argent 950 recuit,
+     * Dimensions : 3,50 x 1,30 mm,
+     * Poids au mÃ¨tre : 37,17 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil rond Argent 925 Ã©croui, 1 mm
+
+   Fil rond Argent 925 Ã©croui, 1 mm
+
+   RÃ©f.: HSA 100I
+   [av_300_png2.png]
+
+     * Argent 925 Ã©croui,
+     * DiamÃ¨tre : 1,00 mm,
+     * Poids au mÃ¨tre : 8,16 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil demi-jonc Argent 950 recuit, 1,50 x 0,75 mm
+
+   Fil demi-jonc Argent 950 recuit, 1,50 x 0,75 mm
+
+   RÃ©f.: LSI 0003
+   [av_300_png2.png]
+
+     * Argent 950 recuit,
+     * Dimensions : 1,50 x 0,75 mm,
+     * Poids au mÃ¨tre : 9,19 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Fil rond Argent 925 Ã©croui, 0,80 mm, couronne de 6 mÃ¨tres
+
+   Fil rond Argent 925 Ã©croui, 0,80 mm, couronne de 6 mÃ¨tres
+
+   RÃ©f.: HSA 408
+   [av_300_png2.png]
+
+     * Argent 925 Ã©croui,
+     * DiamÃ¨tre : 0,80 mm,
      * Couronne de 30 g.
 
 --
 
    TTC
    ____________________ Ajouter au panier
-   Fil demi-jonc Argent 950 recuit, 1,50 x 0,75 mm
-
-   Fil demi-jonc Argent 950 recuit, 1,50 x 0,75 mm
-
-   Réf.: LSI 0003
-   [av_300_png2.png]
-
-     * Argent 950 recuit,
-     * Dimensions : 1,50 x 0,75 mm,
-     * Poids au mètre : 9,19 g,
-
---
-
-   / kg | TTC
-   Voir
-   Fil demi-jonc Argent 950 recuit, 3,50 x 1,30 mm
-
-   Fil demi-jonc Argent 950 recuit, 3,50 x 1,30 mm
-
-   Réf.: LSI 0001
-   [av_300_png2.png]
-
-     * Argent 950 recuit,
-     * Dimensions : 3,50 x 1,30 mm,
-     * Poids au mètre : 37,17 g,
-
---
-
-   / kg | TTC
-   Voir
    Fil rond Argent 925 recuit, 1,80 mm
 
    Fil rond Argent 925 recuit, 1,80 mm
 
-   Réf.: HSA 180
+   RÃ©f.: HSA 180
    [av_300_png2.png]
 
      * Argent 925 recuit,
-     * Diamètre : 1,80 mm,
-     * Poids au mètre : 26,43 g,
+     * DiamÃ¨tre : 1,80 mm,
+     * Poids au mÃ¨tre : 26,43 g,
 
 --
 
@@ -1136,27 +1356,22 @@ Métaux Argent
 
    Fil rond Argent 925 recuit, 1,30 mm
 
-   Réf.: HSA 130
+   RÃ©f.: HSA 130
    [av_300_png2.png]
 
      * Argent 925 recuit,
-     * Diamètre : 1,30 mm,
-     * Poids au mètre : 13,79 g,
+     * DiamÃ¨tre : 1,30 mm,
+     * Poids au mÃ¨tre : 13,79 g,
 
 --
 
    / kg | TTC
    Voir
-   Fil rectangle Argent 925 recuit, 5,00 x 1,70 mm
+   Tube CharniÃ¨re 3,50 x 2,60 mm, Argent 925
 
-   Fil rectangle Argent 925 recuit, 5,00 x 1,70 mm
+   Tube CharniÃ¨re 3,50 x 2,60 mm, Argent 925
 
-   Réf.: KSA 550
-   [av_300_png2.png]
-
-     * Argent 925 recuit,
-     * Dimensions : 5,00 x 1,70 mm,
-     * Poids au mètre : 88,31 g,
+   RÃ©f.: RSA 004
 
 --
 
@@ -1166,50 +1381,57 @@ Métaux Argent
 
    Fil demi-jonc Argent 925 recuit, 6,00 x 2,00 mm
 
-   Réf.: LSA 600
+   RÃ©f.: LSA 600
    [av_300_png2.png]
 
      * Argent 925 recuit,
      * Dimensions : 6,00 x 2,00 mm,
-     * Poids au mètre : 97,92 g,
+     * Poids au mÃ¨tre : 97,92 g,
 
 --
 
-   Réf.: NVZ 013
+   / kg | TTC
+   Voir
+   Fil rectangle Argent 925 recuit, 5,00 x 1,70 mm
 
-   Cette bande Galerie Vagues en Argent 925 est parfaite pour les
-   embellissements ou autres éléments décoratifs ou sertissage. Elle
-   mesure environ 2,50 mm de large et 0,60 mm d'épaisseur. Cette jolie
-   bande comporte des perles ... Lire plus
+   Fil rectangle Argent 925 recuit, 5,00 x 1,70 mm
+
+   RÃ©f.: KSA 550
+   [av_300_png2.png]
+
+     * Argent 925 recuit,
+     * Dimensions : 5,00 x 1,70 mm,
+     * Poids au mÃ¨tre : 88,31 g,
+
 --
    Voir
 
-   N°1 des ventes
-   Fil rond Argent fin recuit 0,50 mm, longueur de 3 mètres
+   NÂ°1 des ventes
+   Fil rond Argent fin recuit 0,50 mm, longueur de 3 mÃ¨tres
 
-   Fil rond Argent fin recuit 0,50 mm, longueur de 3 mètres
+   Fil rond Argent fin recuit 0,50 mm, longueur de 3 mÃ¨tres
 
-   Réf.: HSFP 0050
+   RÃ©f.: HSFP 0050
    [av_300_png2.png]
 
      * Argent fin recuit,
-     * Diamètre : 0,50 mm,
-     * Couronne de 3 mètres.
+     * DiamÃ¨tre : 0,50 mm,
+     * Couronne de 3 mÃ¨tres.
 
 --
 
    TTC
    ____________________ Ajouter au panier
-   Fil demi-jonc Argent 925 recuit, 4,00 x 1,40 mm
+   Bande Galerie Vague perlÃ©e, 0,60 x 2,50 mm, Argent 925 demi-dur
 
-   Fil demi-jonc Argent 925 recuit, 4,00 x 1,40 mm
+   Bande Galerie Vague perlÃ©e, 0,60 x 2,50 mm, Argent 925 demi-dur
 
-   Réf.: LSA 404
+   RÃ©f.: NVZ 013
 
-     * Argent 925 recuit,
-     * Dimensions : 4,00 x 1,40 mm,
-     * Poids au mètre : 45,70 g,
-
+   Cette bande Galerie Vagues en Argent 925 est parfaite pour les
+   embellissements ou autres Ã©lÃ©ments dÃ©coratifs ou sertissage. Elle
+   mesure environ 2,50 mm de large et 0,60 mm d'Ã©paisseur. Cette jolie
+   bande comporte des perles ... Lire plus
 --
 
    / kg | TTC
@@ -1218,81 +1440,121 @@ Métaux Argent
 
    Riblons 3,6 x 10 mm, Argent 950/Cu
 
-   Réf.: ASI 003H
+   RÃ©f.: ASI 003H
    [av_300_png2.png]
 
    Riblons, Argent 950/cu. Pour faconner votre bijou sur-mesure, optez
-   pour la grenaille Argent 950/cu qui s'adaptera parfaitement à tous vos
-   travaux de fonte. Intervalle de fusion : 865 - 920 °C. Utilisation :
+   pour la grenaille Argent 950/cu qui s'adaptera parfaitement Ã  tous vos
+   travaux de fonte. Intervalle de fusion : 865 - 920 Â°C. Utilisation :
    Nos grenailles ... Lire plus
 
 --
 
    / kg | TTC
    Voir
-   Fil demi-jonc Argent 950 recuit, 5,00 x 1,50 mm
+   Fil demi-jonc Argent 925 recuit, 4,00 x 1,40 mm
 
-   Fil demi-jonc Argent 950 recuit, 5,00 x 1,50 mm
+   Fil demi-jonc Argent 925 recuit, 4,00 x 1,40 mm
 
-   Réf.: LSI 150
+   RÃ©f.: LSA 404
+
+     * Argent 925 recuit,
+     * Dimensions : 4,00 x 1,40 mm,
+     * Poids au mÃ¨tre : 45,70 g,
+
+--
+
+   / kg | TTC
+   Voir
+   Brasure extra faible, bande de 5 g, 0,45 x 400 mm, Argent
+
+   Brasure extra faible, bande de 5 g, 0,45 x 400 mm, Argent
+
+   RÃ©f.: DTT E665
    [av_300_png2.png]
 
-     * Argent 950 recuit,
-     * Dimensions : 5,00 x 1,50 mm,
-     * Poids au mètre : 61,26 g,
+     * Bande de brasure en Argent trÃ¨s faible,
+     * Intervalle de fusion 665-710Â°C,
+     * Dimensions : 400 x 3 x 0,45 mm,
 
 --
-
-   Réf.: NVZ 130
-
-     * Argent 925 demi-dur,
-     * Diamètre : 1,30 mm,
-     * Poids au mètre : 10,75 g,
-
---
-   Voir
+   ____________________ Ajouter au panier
 
    Nouveau
    Brasure faible, fil rond 0,50 mm, bobine de 30 g, Argent
 
    Brasure faible, fil rond 0,50 mm, bobine de 30 g, Argent
 
-   Réf.: HTB 050
+   RÃ©f.: HTB 050
 
      * Brasure en fil rond d'Argent faible,
-     * Intervalle de fusion 705-723°C,
+     * Intervalle de fusion 705-723Â°C,
      * Fil rond 0,50 mm - Bobine de 30 g,
 
 --
 
    TTC
    ____________________ Ajouter au panier
-   Brasure extra faible, bande de 5 g, 0,45 x 400 mm, Argent
+   Tube CharniÃ¨re 6,00 x 4,60 mm, Argent 925
 
-   Brasure extra faible, bande de 5 g, 0,45 x 400 mm, Argent
+   Tube CharniÃ¨re 6,00 x 4,60 mm, Argent 925
 
-   Réf.: DTT E665
-   [av_300_png2.png]
-
-     * Bande de brasure en Argent très faible,
-     * Intervalle de fusion 665-710°C,
-     * Dimensions : 400 x 3 x 0,45 mm,
+   RÃ©f.: RSA 020
 
 --
-   ____________________ Ajouter au panier
 
-   N°1 des ventes
-   Fil rond Argent fin recuit 0,30 mm, longueur de 3 mètres
+   / g | TTC
+   Voir
+   Fil demi-jonc Argent 950 recuit, 5,00 x 1,50 mm
 
-   Fil rond Argent fin recuit 0,30 mm, longueur de 3 mètres
+   Fil demi-jonc Argent 950 recuit, 5,00 x 1,50 mm
 
-   Réf.: HSFP 0030
+   RÃ©f.: LSI 150
+   [av_300_png2.png]
+
+     * Argent 950 recuit,
+     * Dimensions : 5,00 x 1,50 mm,
+     * Poids au mÃ¨tre : 61,26 g,
+
+--
+   Voir
+
+   NÂ°1 des ventes
+   Fil rond Argent fin recuit 0,30 mm, longueur de 3 mÃ¨tres
+
+   Fil rond Argent fin recuit 0,30 mm, longueur de 3 mÃ¨tres
+
+   RÃ©f.: HSFP 0030
    [av_300_png2.png]
 
      * Argent fin recuit,
-     * Diamètre : 0,30 mm,
-     * Couronne de 3 mètres.
+     * DiamÃ¨tre : 0,30 mm,
+     * Couronne de 3 mÃ¨tres.
 
+--
+
+   TTC
+   ____________________ Ajouter au panier
+   Fil perlÃ© 1,30 mm, Argent 925 demi-dur
+
+   Fil perlÃ© 1,30 mm, Argent 925 demi-dur
+
+   RÃ©f.: NVZ 130
+
+     * Argent 925 demi-dur,
+     * DiamÃ¨tre : 1,30 mm,
+     * Poids au mÃ¨tre : 10,75 g,
+
+--
+   Voir
+
+   NÂ°1 des ventes
+   Tube CharniÃ¨re 1,80 x 1,20 mm, Argent 925
+
+   Tube CharniÃ¨re 1,80 x 1,20 mm, Argent 925
+
+   RÃ©f.: RSA 011
+   [av_300_png2.png]
 --
 
    / g | TTC
@@ -1301,9 +1563,34 @@ Métaux Argent
 
    Bande Galerie Couronne, 0,50 x 5,10 mm, Argent 925 demi-dur
 
-   Réf.: NVZ 014
+   RÃ©f.: NVZ 014
 
    Cette bande Galerie Couronne n Argent 925 est parfaite pour les
-   embellissements ou autres éléments décoratifs ou sertissage. Elle
-   mesure environ 5,10 mm de large et 0,50 mm d'épaisseur. Cette banhde
-   représente des arches ... Lire plus
+   embellissements ou autres Ã©lÃ©ments dÃ©coratifs ou sertissage. Elle
+   mesure environ 5,10 mm de large et 0,50 mm d'Ã©paisseur. Cette banhde
+   reprÃ©sente des arches ... Lire plus
+--
+
+   / kg | TTC
+   Voir
+   Fil perlÃ© alternÃ©, Ovale et Rondelle 1,55 mm, Argent 925 demi-dur
+
+   Fil perlÃ© alternÃ©, Ovale et Rondelle 1,55 mm, Argent 925 demi-dur
+
+   RÃ©f.: NVZ 026
+
+--
+
+   / kg | TTC
+   Voir
+   Bande Galerie Feuilles Baies, 0,60 x 6,40 mm, Argent 925 demi-dur
+
+   Bande Galerie Feuilles & Baies, 0,60 x 6,40 mm, Argent 925 demi-dur
+
+   RÃ©f.: NVZ 018
+   [av_300_png2.png]
+
+   Cette bande dÃ©corative Feuilles & Baies en Argent 925 est parfaite pour
+   les embellissements ou autres Ã©lÃ©ments dÃ©coratifs ou sertissage. Elle
+   mesure environ 6,40 mm de large et 0,60 mm d'Ã©paisseur. Elle prÃ©sente
+   des ... Lire plus

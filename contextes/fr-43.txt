@@ -1,10 +1,10 @@
    [en-flag.png] [de-flag.png]
 
    (BUTTON)
-     * La magie des mines d'argent et des minéraux
-     * Toutes les expériences à vivre
+     * La magie des mines d'argent et des minÃ©raux
+     * Toutes les expÃ©riences Ã  vivre
      * Dormir au coeur de l'Alsace
-     * Manger local c'est l'idéal
+     * Manger local c'est l'idÃ©al
 --
    au coeur
    de la terre
@@ -13,14 +13,6 @@
 
    Billetterie
 
---
-   Close
-   ____________________
-
-L'Office de Tourisme du Val d'Argent sera fermé du Samedi 23 au Mardi 26
-Décembre 2023 inclus. Joyeux Noël à vous !
-
-   (BUTTON) ×
 --
    (BUTTON)
 
@@ -31,14 +23,22 @@ Les incontournables
 
    Val d'Argent - Office de tourisme
 
-   Notre belle vallée, plus communément appelée le Val d'Argent, est
-   idéalement située au centre de l'Alsace, à mi-chemin entre Strasbourg
-   et Colmar, au coeur du Parc Régional Naturel du Ballon des Vosges.
-   Véritable havre de paix verdoyant à l'abri du tourisme de masse, le Val
-   d'Argent est pourtant tout proche de nombreux sites touristiques
-   alsaciens phares tels que le château du Haut-Koenigsbourg, la montagne
+   Notre belle vallÃ©e, plus communÃ©ment appelÃ©e le Val dâ€™Argent, est
+   idÃ©alement situÃ©e au centre de lâ€™Alsace, Ã  mi-chemin entre Strasbourg
+   et Colmar, au cÅ“ur du Parc RÃ©gional Naturel du Ballon des Vosges.
+   VÃ©ritable havre de paix verdoyant Ã  lâ€™abri du tourisme de masse, le Val
+   dâ€™Argent est pourtant tout proche de nombreux sites touristiques
+   alsaciens phares tels que le chÃ¢teau du Haut-Koenigsbourg, la montagne
    des singes ou la volerie des aigles.
 
+--
+
+Parc minier Tellure
+
+   Site emblÃ©matique du Val dâ€™Argent
+   [capitale_de_la_mineralogie.jpg?v=1]
+
+Capitale de la minÃ©ralogie
 --
 
 Les Instagrammables
@@ -46,12 +46,12 @@ Les Instagrammables
    En Val d'Argent
    [incontournable_territoire.jpg?v=2]
 
-Un territoire chargé d'histoire
+Un territoire chargÃ© d'histoire
 --
 
 Le textile fait son show
 
-   en Val d'Argent
+   en Val dâ€™Argent
 
    [map_bg.jpg]
    [visit-alsace.svg]
@@ -80,7 +80,15 @@ OFFICE DE TOURISME DU VAL D'ARGENT
 
    Chez nos voisins
 
-La magie des mines d'argent et des minéraux
+La magie des mines d'argent et des minÃ©raux
 
 Dormir au coeur de l'Alsace
 
+--
+
+Billetterie
+
+   Art histoire Tellure Visit alsace Carte HÃ´tes Val d'argent Massif des
+   vosges ClÃ©vacances
+   mentions lÃ©gales donnÃ©es personnelles
+   Agence de communication Alsace Greencub

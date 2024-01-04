@@ -1,1 +1,591 @@
+     * Aller à la navigation
+     * Aller au contenu principal
+     * Aller à la recherche
 
+   logo Banque de France eurosystème
+
+Le portail d'information sur les questions d'argent
+
+   logo Mes questions d'argent
+   (BUTTON) Menu logo white
+     * logo white
+     * Budget
+
+       illustration budget
+          + Comment faire des économies ?
+          + Comment faire ses comptes ?
+          + Comprendre mes impôts
+          + Mon budget étudiant
+          + L'argent dans le couple
+          + Budget enfant
+          + Budget vacances
+          + Comment réduire ses dettes ?
+          + Être locataire
+          + Recourir aux aides financières et sociales
+          + Être propriétaire
+          + La séparation
+          + L'argent et les enfants
+          + Se faire aider
+     * Comptes-Moyens de paiement
+       comptes et moyens de paiement
+          + Choisir une banque
+          + Choisir un type de compte
+          + Ouvrir un compte
+          + Comprendre mes relevés bancaires
+          + Comprendre les frais bancaires
+          + Changer de banque
+          + Acheter en ligne
+          + Connaître les autres moyens de paiement
+          + Gérer un litige avec ma banque
+          + Être fiché
+          + Gérer un litige sur un produit financier
+          + Fermer un compte
+          + La sécurité de mon compte
+          + Payer et transférer à l'étranger
+          + Utiliser ma carte bancaire
+          + Utiliser mon chéquier
+     * Assurance
+       illustration assurances
+          + Ce qu'il faut savoir sur l'assurance
+          + Assurance responsabilité civile du particulier
+          + Assurance santé
+          + Assurance habitation
+          + Assurance automobile
+          + Assurance scolaire
+          + Assurance décès et assurance obsèques
+          + Assurance dépendance et assurance prévoyance
+          + Assurance emprunteur
+          + Assurance liée à l'achat d'un bien ou service
+          + Assurance vie
+          + Emprunter avec un problème de santé
+          + Gérer un litige avec mon assureur
+          + Résiliation assurance
+     * Épargne et placements
+       épargne placement
+          + Pourquoi épargner ?
+          + Quelques notions d’épargne avant d’investir
+          + S’informer avant d’investir sur un produit d’épargne
+          + Comment organiser son épargne ?
+          + Les différents types de placements d'épargne
+          + Épargner dans les produits financiers
+          + Les arnaques à l'épargne et aux crédits
+          + Litige avec un placement
+     * Retraite
+       Illustration de deux 2 séniors avec leurs chiens
+          + Estimer mes droits à la retraite
+          + M'informer sur la retraite
+          + Les placements financiers pour améliorer ma retraite
+          + Anticiper mon budget de retraité
+          + Transmettre son patrimoine
+          + Prévoir le manque d'autonomie
+          + Dépendance, comment anticiper ses besoins ?
+     * Financer un projet
+       financer un projet crédit
+          + Comment financer une voiture ?
+          + Transmettre mon patrimoine
+          + Faire un crédit à la consommation
+          + Devenir propriétaire
+          + Financer un projet sans passer par les banques
+          + Créer son entreprise
+          + Le microcrédit
+          + Préparer les études et l'avenir de ses enfants
+          + Prévoir le manque d'autonomie
+     * Faire face aux difficultés
+       faire face aux difficultés
+          + Perte d'emploi
+          + Gérer un litige avec ma banque
+          + Perte d'un proche
+          + Prévoir le manque d'autonomie
+          + Être malade
+          + Avoir un accident
+          + Gérer un litige sur un produit financier
+          + Comment réduire ses dettes ?
+          + Être en situation de surendettement
+          + Recourir aux aides financières et sociales
+          + Être victime d'une arnaque
+          + Gérer un incident de paiement
+          + Gérer un litige avec mon assureur
+          + Tutelle ou curatelle
+          + La séparation
+     * Arnaques
+       Arnaques
+          + Reconnaître les arnaques
+          + Comment se protéger des arnaques ?
+          + Les fraudes aux moyens de paiement
+          + Les arnaques à l'épargne et aux crédits
+          + L'usurpation d'identité
+     * Perte d'autonomie
+       Dépendance
+          + Qu'est-ce que la perte d'autonomie ?
+          + Dépendance, comment anticiper ses besoins ?
+          + Comment se faire aider ?
+          + Comment aider les aidants ?
+     * Jeunes
+       jeunes étudiants
+          + Parlez argent à vos enfants
+          + Ados, mes premières questions d'argent
+          + Les étudiants et l'argent
+          + Websérie La Minute Cash !
+     * Intervenants sociaux et PCB
+       personnages ampoule travailleurs sociaux
+          + Point conseil budget
+          + Difficultés budgétaires : la maitrise des dépenses
+          + Difficultés budgétaires : les aides à solliciter
+          + Maitrise de l'endettement et surendettement
+          + Inclusion financière
+          + Réclamations
+          + Sessions de sensibilisation et supports
+          + ADMIRABLE : (re)découvrez une sélection de ressources utiles
+            pour accompagner les personnes en fragilité financière
+     * Enseignants
+       école élèves enseignant
+          + Qu'est-ce que l'EDUCFI ?
+          + Pour les cycles 2 et 3
+          + Pour le lycée
+          + Pour le cycle 4
+
+     * logo white
+     * Budget
+
+       illustration budget
+          + Comment faire des économies ?
+          + Comment faire ses comptes ?
+          + Comprendre mes impôts
+          + Mon budget étudiant
+          + L'argent dans le couple
+          + Budget enfant
+          + Budget vacances
+          + Comment réduire ses dettes ?
+          + Être locataire
+          + Recourir aux aides financières et sociales
+          + Être propriétaire
+          + La séparation
+          + L'argent et les enfants
+          + Se faire aider
+     * Comptes-Moyens de paiement
+       comptes et moyens de paiement
+          + Choisir une banque
+          + Choisir un type de compte
+          + Ouvrir un compte
+          + Comprendre mes relevés bancaires
+          + Comprendre les frais bancaires
+          + Changer de banque
+          + Acheter en ligne
+          + Connaître les autres moyens de paiement
+          + Gérer un litige avec ma banque
+          + Être fiché
+          + Gérer un litige sur un produit financier
+          + Fermer un compte
+          + La sécurité de mon compte
+          + Payer et transférer à l'étranger
+          + Utiliser ma carte bancaire
+          + Utiliser mon chéquier
+     * Assurance
+       illustration assurances
+          + Ce qu'il faut savoir sur l'assurance
+          + Assurance responsabilité civile du particulier
+          + Assurance santé
+          + Assurance habitation
+          + Assurance automobile
+          + Assurance scolaire
+          + Assurance décès et assurance obsèques
+          + Assurance dépendance et assurance prévoyance
+          + Assurance emprunteur
+          + Assurance liée à l'achat d'un bien ou service
+          + Assurance vie
+          + Emprunter avec un problème de santé
+          + Gérer un litige avec mon assureur
+          + Résiliation assurance
+     * Épargne et placements
+       épargne placement
+          + Pourquoi épargner ?
+          + Quelques notions d’épargne avant d’investir
+          + S’informer avant d’investir sur un produit d’épargne
+          + Comment organiser son épargne ?
+          + Les différents types de placements d'épargne
+          + Épargner dans les produits financiers
+          + Les arnaques à l'épargne et aux crédits
+          + Litige avec un placement
+     * Retraite
+       Illustration de deux 2 séniors avec leurs chiens
+          + Estimer mes droits à la retraite
+          + M'informer sur la retraite
+          + Les placements financiers pour améliorer ma retraite
+          + Anticiper mon budget de retraité
+          + Transmettre son patrimoine
+          + Prévoir le manque d'autonomie
+          + Dépendance, comment anticiper ses besoins ?
+     * Financer un projet
+       financer un projet crédit
+          + Comment financer une voiture ?
+          + Transmettre mon patrimoine
+          + Faire un crédit à la consommation
+          + Devenir propriétaire
+          + Financer un projet sans passer par les banques
+          + Créer son entreprise
+          + Le microcrédit
+          + Préparer les études et l'avenir de ses enfants
+          + Prévoir le manque d'autonomie
+     * Faire face aux difficultés
+       faire face aux difficultés
+          + Perte d'emploi
+          + Gérer un litige avec ma banque
+          + Perte d'un proche
+          + Prévoir le manque d'autonomie
+          + Être malade
+          + Avoir un accident
+          + Gérer un litige sur un produit financier
+          + Comment réduire ses dettes ?
+          + Être en situation de surendettement
+          + Recourir aux aides financières et sociales
+          + Être victime d'une arnaque
+          + Gérer un incident de paiement
+          + Gérer un litige avec mon assureur
+          + Tutelle ou curatelle
+          + La séparation
+     * Arnaques
+       Arnaques
+          + Reconnaître les arnaques
+          + Comment se protéger des arnaques ?
+          + Les fraudes aux moyens de paiement
+          + Les arnaques à l'épargne et aux crédits
+          + L'usurpation d'identité
+     * Perte d'autonomie
+       Dépendance
+          + Qu'est-ce que la perte d'autonomie ?
+          + Dépendance, comment anticiper ses besoins ?
+          + Comment se faire aider ?
+          + Comment aider les aidants ?
+     * Jeunes
+       jeunes étudiants
+          + Parlez argent à vos enfants
+          + Ados, mes premières questions d'argent
+          + Les étudiants et l'argent
+          + Websérie La Minute Cash !
+     * Intervenants sociaux et PCB
+       personnages ampoule travailleurs sociaux
+          + Point conseil budget
+          + Difficultés budgétaires : la maitrise des dépenses
+          + Difficultés budgétaires : les aides à solliciter
+          + Maitrise de l'endettement et surendettement
+          + Inclusion financière
+          + Réclamations
+          + Sessions de sensibilisation et supports
+          + ADMIRABLE : (re)découvrez une sélection de ressources utiles
+            pour accompagner les personnes en fragilité financière
+     * Enseignants
+       école élèves enseignant
+          + Qu'est-ce que l'EDUCFI ?
+          + Pour les cycles 2 et 3
+          + Pour le lycée
+          + Pour le cycle 4
+
+   Votre recherche
+   ______________________________
+   Rechercher
+   Une tirelire sur une calculatrice
+
+Résultats de l’enquête sur la culture financière du grand public
+
+   Une enquête sur l’éducation financière du grand public a été menée
+   auprès plus de 2 000 Français âgés de 18 ans et plus, du 1^er juin au
+   20 juin 2023. Retrouvez les résultats détaillés dans cet article.
+   En savoir plus
+   Le défi EDUCFI
+
+Économisez 1001€ en 1 an, le défi EDUCFI
+
+   Vous cherchez un moyen efficace d’économiser de l’argent semaine après
+   semaine ? Tentez le défi EDUCFI pour économiser 1001€ en un an ! Ce
+   défi vous aidera à mettre de l’argent de côté tout en développant des
+   habitudes d’épargne.
+   En savoir plus
+   Deux personnes skiant dans les montagnes
+
+Vous partez au ski, êtes-vous bien assuré ?
+
+   Que cela soit pour réserver votre logement, louer votre matériel,
+   acheter votre forfait ou prendre des cours de ski, des assurances vous
+   sont proposées pour vous garantir contre différents risques. Celles-ci
+   sont-elles utiles ? Quand devez-vous les souscrire ?
+   En savoir plus
+   Soldes
+
+Comment bien préparer les soldes ?
+
+   Pour que les achats pendant les soldes se passent bien, il est
+   important de s’organiser, d’identifier ses besoins, d’éviter les achats
+   compulsifs et de faire attention aux fausses réductions. Retrouvez des
+   astuces pour vous aider à bien préparer les soldes.
+   En savoir plus
+   Formation
+
+L'offre EDUCFI pour les intervenants sociaux
+
+   Découvrez le catalogue dédié aux intervenants sociaux et bénéficiez de
+   ressources et de sessions de sensibilisation gratuites, neutres et
+   fiables.
+   En savoir plus
+   Scènes d'argent
+
+"Scènes d'argent", le jeu narratif de la Banque de France !
+
+   Incarnez un personnage de sa vie étudiante jusqu'à son entrée dans le
+   monde du travail, en passant par l'installation en couple, l'arrivée
+   d'un enfant et l'achat d'un bien immobilier.
+   En savoir plus
+   visuel MQDE
+
+Vous êtes entrepreneur ?
+
+   Financement, analyse financière, moyens de paiement, assurance, besoin
+   d'aide ? Découvrez notre portail « Mes questions d’entrepreneur »
+   En savoir plus
+   visuel du cahier et du jeu mqda
+
+Découvrez nos outils ludiques
+
+   Mes questions d'argent : le jeu et Mon cahier financier vous proposent
+   d'aborder l'éducation financière de manière ludique !
+   En savoir plus
+
+A la une
+
+   Une tirelire sur une calculatrice
+
+Résultats de l'enquête sur la culture financière du grand public - 2023
+
+   Source : Mes questions d'argent
+   Article
+   Défi EDUCFI
+
+Économisez 1001€ en 1 an, le défi EDUCFI
+
+   Source : Mes questions d'argent
+   Article
+   + d'actualités
+     * Lexique
+     * Simulateurs
+     * FAQ
+     * Lettres types
+     * Guides & Vidéos
+     * Jeux et Quiz
+
+Un contact près de chez vous
+
+   (BUTTON) Métropole (BUTTON) DOM-COM
+   COLLECTIVITÉS D'OUTRE-MER
+   DEPARTEMENTS D'OUTRE-MER
+   Département
+   [- Choisir une valeur -]
+   Ou
+   Votre code postal
+   ______________________________
+   Rechercher
+
+Événements
+
+   2oct2023
+
+Concours Lycéen Génération €uro 2023-2024
+
+   La France participe cette année pour la quatrième fois au Concours...
+   2oct2023
+
+MOOC de l'AMF et de l'INC : "Comment gérer efficacement son épargne et ses
+placements ?"
+
+   Apprenez à placer votre épargne et mieux gérer vos placements...
+   8sep2023
+
+Journées Nationales d'Action contre l'Illettrisme (JNAI) 2023
+
+   Du 8 au 15 septembre 2023 a eu lieu la 10^ème édition...
+   4sep2023
+
+Prix de l'Excellence Économique en STMG 2023-2024
+
+   Les inscriptions sont ouvertes du 4 septembre au 13 octobre 2023...
+   + d'événements
+
+A la une
+
+   Une tirelire sur une calculatrice
+
+Résultats de l'enquête sur la culture financière du grand public - 2023
+
+   Source : Mes questions d'argent
+   Article
+   Défi EDUCFI
+
+Économisez 1001€ en 1 an, le défi EDUCFI
+
+   Source : Mes questions d'argent
+   Article
+   + d'actualités
+
+Nos partenaires
+
+   Ministère de l’Économie, des Finances et de la Souveraineté
+   industrielle et numérique
+
+Ministère de l’Économie, des Finances et de la Souveraineté industrielle et
+numérique
+
+   Logo partenaire
+
+OCDE
+
+   logo Croix Rouge
+
+La Croix-Rouge française
+
+   Logo Finances & Pédagogie
+
+Finances & Pédagogie
+
+   Logo CLCV
+
+CLCV
+
+   Institut pour l'Education financière du public
+
+Institut pour l'Education Financière du Public
+
+   logo Autorité des marchés financiers (AMF)
+
+Autorité des marchés financiers (AMF)
+
+   Logo Ministère des Solidarités, de l'Autonomie et des Personnes
+   handicapées
+
+Ministère des Solidarités, de l'Autonomie et des Personnes handicapées
+
+   Logo Banque de France
+
+Banque de France
+
+   Logo France ESF
+
+France ESF
+
+   logo UNAF
+
+UNAF
+
+   Logo partenaire
+
+Fédération Bancaire Française
+
+   Logo Anacofi
+
+Anacofi
+
+   Logo partenaire
+
+Familles rurales
+
+   60 millions de consommateurs
+
+Institut National de la Consommation
+
+   Logo Familles rurales
+
+Familles rurales - Itinérant
+
+   Crésus Île-de-France
+
+Crésus Île-de-France
+
+   logo ASF
+
+Association française des sociétés financières (ASF)
+
+   + de partenaires
+
+Dernière vidéo publiée
+
+Quelles sont les aides sociales auxquelles vous avez droit, en cas de
+difficultés ?
+
+   Source : INC
+   (BUTTON) Afficher la version textuelle de la vidéo
+
+   [Musique] Bonjour, je traverse des difficultés financières et je
+   voudrais savoir si je peux bénéficier d'aide. Comment puis-je me
+   renseigner ?
+
+   Logement, santé, famille, transport, emploi, vieillesse... des aides
+   existent, que vous soyez sans activité, salarié, indépendant, à la
+   retraite ou encore étudiant. Elles sont calculées en fonction de vos
+   revenus et de votre situation personnelle et familiale. [Musique]
+
+   On distingue deux grandes catégories d'aide sociales :
+     * celles qui apportent un revenu comme le RSA, la prime d'activité ou
+       la bourse scolaire ;
+     * celles qui sont destinées à procurer un service en nature comme le
+       logement social ou l'aide à domicile.
+
+   Pour savoir si vous êtes éligible aux aides, vous pouvez consulter le
+   site mesdroitssociaux.gouv.fr. Celui-ci vous permet, grâce à un
+   simulateur, d'identifier les aides auxquelles vous pouvez avoir droit.
+   Il vous donne également les montants auxquels vous pouvez prétendre et
+   vous indique comment faire les démarches. N'hésitez pas à faire valoir
+   vos droits et à vous faire aider par le point conseil budget le plus
+   proche de chez vous.
+
+   Parmi toutes les aides, les plus connues concernent le logement, la
+   santé et la famille :
+     * Pour le logement, les aides proposées ne se réduisent pas
+       uniquement à l'APL, l'aide personnalisée au logement. Il existe des
+       aides pour accéder ou se maintenir dans un logement, pour faire
+       face aux factures d'énergie mais aussi pour devenir propriétaire.
+     * Pour la santé, l'Assurance Maladie vous permet d'accéder à des
+       dispositifs particuliers : protection universelle maladie,
+       complémentaire santé solidaire ou encore aide médicale de l'État.
+     * Et pour la famille, vous pouvez bénéficier de différentes
+       allocations proposées par la caisse d'allocation familiale de votre
+       département : prestation d'accueil du jeune enfant, allocation
+       familiale, aide à la cantine scolaire, la scolarité ou encore les
+       vacances.
+
+   Des aides spécifiques existent également selon votre niveau de
+   ressources et pour chaque période de la vie. N'hésitez pas à faire
+   valoir vos droits et à consulter la rubrique "Recourir aux aides
+   financières et sociales" du portail mesquestionsdargent.fr. Voilà, vous
+   savez tout ou presque tout. À très bientôt pour un nouveau Consomag et
+   retrouvez toutes les informations sur le site inc-conso.fr
+
+Mes questions d’économie
+
+   Comprendre les notions économiques d’actualité
+     * Livre ouvert signe euro
+       Citéco - Les clés de l'éco
+     * Outils
+       Outils des économistes
+
+   Un contact près
+   de chez vous Abonnez-vous
+   à la newsletter
+   logo Mes questions d'argent
+   Retrouvez-nous sur :
+     * youtube_channel
+     * Facebook
+     * Twitter
+     * RSS
+
+     * Pourquoi ce site ?
+     * Point conseil budget
+     * Tous nos partenaires
+     * Label EDUCFI
+     * Newsletter
+
+     * La Banque de France
+     * Mentions légales
+     * Protection des données personnelles
+     * Gestion des cookies
+     * Centre de confidentialité
+     * Plan du site
+     * Accessibilité
+
+   arrow thin white

@@ -4,10 +4,10 @@
 
    (BUTTON)
 
-     * Accédez aux réservations des 4 lieux emblématiques de la Tour
+     * AccÃ©dez aux rÃ©servations des 4 lieux emblÃ©matiques de la Tour
        d'Argent.
-       (BUTTON) Réserver
-     * Offrez une expérience unique ou découvrez l'épicerie et sa cave.
+       (BUTTON) RÃ©server
+     * Offrez une expÃ©rience unique ou dÃ©couvrez l'Ã©picerie et sa cave.
        (BUTTON) Offrir
 
    Nous contacter
@@ -17,11 +17,11 @@
    Offrir
    (BUTTON)
 
-Offrez La Tour
+Offrezâ€¨La Tour
 
    BONS CADEAUX
 
-OFFREZ L' épicerie fine
+OFFREZ Lâ€™â€¨Ã©picerie fine
 
    BOUTIQUE
 
@@ -31,53 +31,53 @@ OFFREZ La Cave
 
    (BUTTON)
 
-   Réserver
+   RÃ©server
    (BUTTON)
 
 Le Restaurant
 
-     * Réserver
+     * RÃ©server
      * La Carte
 
-   Découvrir Réserver
+   DÃ©couvrir RÃ©server
 
 Le Bar
 
-     * Réserver
+     * RÃ©server
      * La carte
 
-   Découvrir Réserver
+   DÃ©couvrir RÃ©server
 
 Le Toit
 
-     * Réserver
+     * RÃ©server
      * La Carte
 
-   Découvrir Réserver
+   DÃ©couvrir RÃ©server
 
 L'Appartement
 
-     * Réserver
+     * RÃ©server
      *
 
-   Découvrir Réserver
+   DÃ©couvrir RÃ©server
 
    (BUTTON) (BUTTON)
 
-     * (BUTTON) Réserver
+     * (BUTTON) RÃ©server
      * (BUTTON) Offrir
 
    fr
      * fr
      * en
 
-     * Restaurant La Tour D'Argent
-     * Bar des Maillets d'Argent
+     * Restaurant La Tour Dâ€™Argent
+     * Bar des Maillets dâ€™Argent
      * Toit de la Tour
-     * L'Appartement
+     * Lâ€™Appartement
      * Magazine
 
-     * Héritage
+     * HÃ©ritage
      * Le Chef
      * La Cave
      * La Tour Verte
@@ -85,104 +85,105 @@ L'Appartement
      * Offrez la Tour
      * Votre Personal Wine Shopper
      * Le Boulanger de la Tour
-     * La Rôtisserie d'Argent
-     * L'Epicerie de la Tour
+     * La RÃ´tisserie dâ€™Argent
+     * Lâ€™Epicerie de la Tour
      *
      * Nous rejoindre
      * Nous contacter
-     * Questions fréquentes
-     * Français
+     * Questions frÃ©quentes
+     * FranÃ§ais
        English
 
      *
 
      *
 
-Plongez à la découverte de cette maison,
+Plongez Ã  la dÃ©couverte de cette maison,
 quatre fois centenaire !
-De notre riche héritage naît l'histoire d'aujourd'hui, vibrante et résolument
-contemporaine...
-Quatre lieux d'exception ayant pour ambition de vous divertir et de vous
-enchanter, quelque soit l'heure du jour ou de la nuit.
+De notre riche hÃ©ritage naÃ®t lâ€™histoire dâ€™aujourdâ€™hui, vibrante et rÃ©solument
+contemporaineâ€¦
+Quatre lieux dâ€™exception ayant pour ambition de vous divertir et de vous
+enchanter, quelle que soit lâ€™heure du jour ou de la nuit.
 
 Le Restaurant
 
-     * Réserver
+     * RÃ©server
      * La Carte
 
-   Réserver
+   RÃ©server
 
-   Découvrir Réserver
+   DÃ©couvrir RÃ©server
 
 Le Bar
 
-     * Réserver
+     * RÃ©server
      * La carte
 
-   Réserver
+   RÃ©server
 
-   Découvrir Réserver
+   DÃ©couvrir RÃ©server
 
 Le Toit
 
-     * Réserver
+     * RÃ©server
      * La Carte
 
-   Réserver
+   RÃ©server
 
-   Découvrir Réserver
+   DÃ©couvrir RÃ©server
 
 L'Appartement
 
-     * Réserver
+     * RÃ©server
      *
 
-   Réserver
+   RÃ©server
 
-   Découvrir Réserver
+   DÃ©couvrir RÃ©server
 
    Magazine
-     * Création
-     * Découverte
-     * Expérience
+     * CrÃ©ation
+     * DÃ©couverte
+     * ExpÃ©rience
 
 Le monde de la
-Tour d'Argent
+Tour dâ€™Argent
 
-Création
+CrÃ©ation
 
 Homard bleu de casier par le Chef Yannick Franques
 
-Vivez une expérience gustative exquise avec notre Homard bleu de casier.
+Vivez une expÃ©rience gustative exquise avec notre Homard bleu de casier.
 
-Expérience
+CrÃ©ation
 
-L'expérience Tour d'Argent hors ses murs à bord de DS9
+Lâ€™Epiphanie du Boulanger de la Tour
 
-Quand deux grands noms du savoir-faire français se rencontrent, l'art du
-voyage prend une nouvelle dimension. Une collaboration inédite entre la Tour
-d'Argent et DS Automobiles ouvre de nouvelles perspectives. L'expérience se
-vit désormais au-delà du 15, quai de la Tournelle, dans Paris et en France.
+En hommage Ã  la Tour dâ€™Argent, le Boulanger de La Tour crÃ©e une galette des
+rois Ã  son effigie.
 
-Création
+ExpÃ©rience
 
-Les bûches de Noël par le Boulanger de la Tour !
+Lâ€™expÃ©rience Tour dâ€™Argent hors ses murs Ã  bord de DS9
 
-À l'occasion des fêtes de fin d'année, Le Boulanger de La Tour imagine deux
-bûches à l'équilibre parfait. Entre esthétisme et gourmandise, ces créations
-sont le supplément d'âme « Tour d'Argent » pour sublimer les tables de fêtes.
+Quand deux grands noms du savoir-faire franÃ§ais se rencontrent, lâ€™art du
+voyage prend une nouvelle dimension. Une collaboration inÃ©dite entre la Tour
+dâ€™Argent et DS Automobiles ouvre de nouvelles perspectives. Lâ€™expÃ©rience se
+vit dÃ©sormais au-delÃ  du 15, quai de la Tournelle, dans Paris et en France.
 
-Création
+CrÃ©ation
+
+Les bÃ»ches de NoÃ«l par le Boulanger de la Tour !
+
+Ã€ lâ€™occasion des fÃªtes de fin dâ€™annÃ©e, Le Boulanger de La Tour imagine deux
+bÃ»ches Ã  lâ€™Ã©quilibre parfait. Entre esthÃ©tisme et gourmandise, ces crÃ©ations
+sont le supplÃ©ment dâ€™Ã¢me Â« Tour dâ€™Argent Â» pour sublimer les tables de fÃªtes.
+
+CrÃ©ation
 
 Le Chocolat Noir 72%
 
-Création de notre Chef Pâtissier
-
-Expérience
-
-Réveillon du 31 décembre !
-
-A réouverture exceptionnelle réveillon d'exception !
+CrÃ©ation de notre Chef PÃ¢tissier
 
    Voir plus d'articles
 
@@ -192,11 +193,11 @@ A réouverture exceptionnelle réveillon d'exception !
    ____________________
    [ ]
 
-   Je comprends et accepte la politique de confidentialité
-     * l'épicerie de la tour
-     * la rôtisserie d'argent
+   Je comprends et accepte la politique de confidentialitÃ©
+     * lâ€™Ã©picerie de la tour
+     * la rÃ´tisserie dâ€™argent
      * le boulanger de la tour
-     * la tour d'argent tokyo
+     * la tour dâ€™argent tokyo
 
    Notre Newsletter
    ____________________
@@ -204,16 +205,16 @@ A réouverture exceptionnelle réveillon d'exception !
    ____________________
    [ ]
 
-   Je comprends et accepte la politique de confidentialité
+   Je comprends et accepte la politique de confidentialitÃ©
      * La Tour Verte
      * Rejoignez-nous
      * Contactez-nous
-     * Questions Fréquentes
+     * Questions FrÃ©quentes
 
      * Instagram
      * Facebook
      * LinkedIn
 
-     * Mentions légales
+     * Mentions lÃ©gales
 
-   © la tour d'argent
+   Â© la tour dâ€™argent

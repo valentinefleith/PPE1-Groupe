@@ -2,8 +2,8 @@
    Water Treatment Solutions
 
      * Home
-     * Projets clé en main
-     * Unités containerisées et mobiles
+     * Projets clÃ© en main
+     * UnitÃ©s containerisÃ©es et mobiles
      * A propos de Lenntech
      * Applications
           + Home
@@ -13,83 +13,83 @@
           + Process waste water reuse
           + Eau d'irrigation
           + Eau de process
-          + Unité d'urgence pour un approvisionement en eau
+          + UnitÃ© d'urgence pour un approvisionement en eau
           + Ecosorb Technology
           + Tours de refroidissement
           +
             Demandez un devis
-          + Tél: +31 152 755 715 info@lenntech.com
+          + TÃ©l: +31 152 755 715 info@lenntech.com
      * Procedes
           + Home
           + Procedes
-          + Déminéralisation par osmose inverse
+          + DÃ©minÃ©ralisation par osmose inverse
           + Dessalement
           + Traitement eau de surface
           + Adoucissement
-          + Désinfection
-          + Reminéralisation
-          + Traitement des eaux usées - Lenntech
+          + DÃ©sinfection
+          + ReminÃ©ralisation
+          + Traitement des eaux usÃ©es - Lenntech
           + Traitement de saumure
-          + Procédés électro-membranaires
+          + ProcÃ©dÃ©s Ã©lectro-membranaires
           + Traitement pesticides
-          + Traitement fer-manganèse
-          + Traitement métaux lourds
+          + Traitement fer-manganÃ¨se
+          + Traitement mÃ©taux lourds
           + Traitement nitrates
           + Degasser calculation sheet
-          + échange d'ions - demi plants
+          + Ã©change d'ions - demi plants
           + PFAS
           +
             Demandez un devis
-          + Tél: +31 152 755 715 info@lenntech.com
+          + TÃ©l: +31 152 755 715 info@lenntech.com
      * Systemes
           + Home
           + Systemes
           + Filtration sur couches
           + Osmose Inverse
-          + Vannes à Fleck
+          + Vannes Ã  Fleck
           + Ultrafiltration
           + Echangeurs d'ions
-          + Désinfection ozone
-          + Désinfection UV
-          + Désinfection ClO2
-          + Filtres à sédiments
+          + DÃ©sinfection ozone
+          + DÃ©sinfection UV
+          + DÃ©sinfection ClO2
+          + Filtres Ã  sÃ©diments
           + Clarificateurs
           + LennRO mini Osmose inverse
-          + Systèmes d'électro-déionisation
+          + SystÃ¨mes dâ€™Ã©lectro-dÃ©ionisation
           + Osmose inverse industrielle LennRO
           + Microfiltration industrielle
-          + Générateurs de peroxyde HPNow
+          + GÃ©nÃ©rateurs de peroxyde HPNow
           +
             Demandez un devis
-          + Tél: +31 152 755 715 info@lenntech.com
+          + TÃ©l: +31 152 755 715 info@lenntech.com
      * Produits
           + Home
           + Produits
-          + Filtres à sédiments
+          + Filtres Ã  sÃ©diments
           + Media de filtration
           + Membranes OI
           + Modules UF
           + Produits chimiques
-          + Résines
+          + RÃ©sines
           + Instrumentation et capteurs
-          + Pièces pour systèmes de traitement de l'eau
+          + PiÃ¨ces pour systÃ¨mes de traitement de l'eau
           + Pompe
           + Tours de refroidissement
-          + Modules d'électrodéionisation (EDI)
-          + pièces de rechange dessalinisateur
+          + Modules d'Ã©lectrodÃ©ionisation (EDI)
+          + piÃ¨ces de rechange dessalinisateur
           + Soupapes de commande
-          + ATG UV Lampes / systèmes
+          + ATG UV Lampes / systÃ¨mes
           + Charbon actif
-          + pièces de rechange
-          + Générateur d'ozone
-          + Mélangeurs statiques Statiflo
-          + Échangeurs de chaleur Alfa Laval
-          + Essais des unités pilotes
+          + piÃ¨ces de rechange
+          + GÃ©nÃ©rateur d'ozone
+          + MÃ©langeurs statiques Statiflo
+          + Ã‰changeurs de chaleur Alfa Laval
+          + Essais des unitÃ©s pilotes
           + Instrumentation
-          + Convertisseurs de fréquence
+          + Convertisseurs de frÃ©quence
           +
             Demandez un devis
-          + Tél: +31 152 755 715 info@lenntech.com
+          + TÃ©l: +31 152 755 715 info@lenntech.com
      * Industries
           + Home
           + Industries
@@ -97,37 +97,37 @@
           + Produits chimiques et pharmaceutiques
           + Agro-alimentaire et tabac
           + Eaux industrielles
-          + Micro-électronique
+          + Micro-Ã©lectronique
           + INDUSTRIE MINIERE
-          + l'industrie pétrolière
-          + Génération de puissance
-          + Papèterie
-          + Hôtels Tourisme et (golf) stations
+          + lâ€™industrie pÃ©troliÃ¨re
+          + GÃ©nÃ©ration de puissance
+          + PapÃ¨terie
+          + HÃ´tels Tourisme et (golf) stations
           +
             Demandez un devis
-          + Tél: +31 152 755 715 info@lenntech.com
+          + TÃ©l: +31 152 755 715 info@lenntech.com
      * Services
           + Home
           + Services
           + Tests de laboratoire
-          + Unités pilotes
+          + UnitÃ©s pilotes
           + Entretien
-          + Systèmes de location
-          + dépannage
+          + SystÃ¨mes de location
+          + dÃ©pannage
           + Usine Inspection & Processus Optimalisation
-          + Requêtes pour Séparation et Purification par Concentration
-            effectuées par Lenntech
+          + RequÃªtes pour SÃ©paration et Purification par Concentration
+            effectuÃ©es par Lenntech
           + Molecular weight cutoff (MWCO)
-          + Évaluation de la faisabilité du processus
+          + Ã‰valuation de la faisabilitÃ© du processus
           +
             Demandez un devis
-          + Tél: +31 152 755 715 info@lenntech.com
-     * Tableau périodique
+          + TÃ©l: +31 152 755 715 info@lenntech.com
+     * Tableau pÃ©riodique
      * Bibliotheque
      * Calculatrices
      *
        Demandez un devis
-     * Tél: +31 152 755 715 info@lenntech.com
+     * TÃ©l: +31 152 755 715 info@lenntech.com
 
    Contactez-nous +31 152 755 715
 
@@ -146,107 +146,107 @@
      * Industries
      * Services
      * plus
-          + Tableau périodique
+          + Tableau pÃ©riodique
           + Bibliotheque
           + Calculatrices
-          + Projets de référence
+          + Projets de rÃ©fÃ©rence
      * Choose your language Languages
           + [deflag.gif] Deutsch
           + [flaguk.gif] English
-          + [esflag.gif] Español
-          + [frflag.gif] Français
+          + [esflag.gif] EspaÃ±ol
+          + [frflag.gif] FranÃ§ais
           + [itflag.gif] Italiano
           + [nlflag.gif] Nederlands
           + [plflag.gif] Polski
-          + [ptflag.gif] Português
+          + [ptflag.gif] PortuguÃªs
           + [flagtr.jpg] Turkish
-          + [flagsarab2.gif] a+l+e+r+b+y+tm
+          + [flagsarab2.gif] Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©
 
      * Choose your language Languages
           + [deflag.gif] Deutsch
           + [flaguk.gif] English
-          + [esflag.gif] Español
-          + [frflag.gif] Français
+          + [esflag.gif] EspaÃ±ol
+          + [frflag.gif] FranÃ§ais
           + [itflag.gif] Italiano
           + [nlflag.gif] Nederlands
           + [plflag.gif] Polski
-          + [ptflag.gif] Português
+          + [ptflag.gif] PortuguÃªs
           + [flagtr.jpg] Turkish
-          + [flagsarab2.gif] a+l+e+r+b+y+tm
+          + [flagsarab2.gif] Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©
 
     1. Accueil
-    2. Tableau périodique
+    2. Tableau pÃ©riodique
     3. Elements
     4. Argent
 
 Argent - Ag
 
- Propriétés chimiques - Effets de l'argent sur la santé - Impact de l'argent
+PropriÃ©tÃ©s chimiques - Effets de l'argent sur la santÃ© - Impact de l'argent
                              sur l'environnement
 
-   Numéro atomique 47 [Ag.htm12.jpg]
+   NumÃ©ro atomique 47 [Ag.htm12.jpg]
 
    [Ag-en.1.jpg]
    Masse atomique 107,87 g.mol^ -1
-   Electronégativité de Pauling 1,9
-   Masse volumique 10,5 g.cm^-3 à 20°C
-   Température de Fusion 962 °C
-   Température d' ébullition 2212 °C
+   ElectronÃ©gativitÃ© de Pauling 1,9
+   Masse volumique 10,5 g.cm^-3 Ã  20Â°C
+   TempÃ©rature de Fusion 962 Â°C
+   TempÃ©rature d' Ã©bullition 2212 Â°C
    Rayon atomique (Van der Waals) 0,144 nm
    Rayon ionique 0,126 nm
    Isotopes
-   Configuration électronique [ Kr ] 4d^10 5s^1
-   Energie de première ionisation 758 kJ.mol^ -1
-   Energie de deuxième ionisation 2061 kJ.mol^ -1
+   Configuration Ã©lectronique [ Kr ] 4d^10 5s^1
+   Energie de premiÃ¨re ionisation 758 kJ.mol^ -1
+   Energie de deuxiÃ¨me ionisation 2061 kJ.mol^ -1
    Potentiel standard 0,779 V (Ag^+ / Ag )
-   Découverte : Dès l' antiquité il était connu
+   DÃ©couverte : DÃ¨s l' antiquitÃ© il Ã©tait connu
 
-Effets de l'argent sur la santé
+Effets de l'argent sur la santÃ©
 
-   Les sels argentés solubles, particulièrement AgNO [3 ], sont mortels
-   avec des concentrations allant jusqu'à 2g (0,070 onces). Les composés
-   d'argent peuvent être lentement absorbés par les tissus de corps, avec
-   comme conséquence une pigmentation bleuâtre ou noirâtre de la peau
+   Les sels argentÃ©s solubles, particuliÃ¨rement AgNO [3 ], sont mortels
+   avec des concentrations allant jusqu'Ã  2g (0,070 onces). Les composÃ©s
+   d'argent peuvent Ãªtre lentement absorbÃ©s par les tissus de corps, avec
+   comme consÃ©quence une pigmentation bleuÃ¢tre ou noirÃ¢tre de la peau
    (argiria).
 
-   Contact avec l'oeil: peut causer des dommages cornéens graves si le
+   Contact avec l'Å“il: peut causer des dommages cornÃ©ens graves si le
    liquide rentre en contact avec les yeux. Contact avec la peau: peut
-   causer l'irritation de peau. Le contact répété et prolongé avec la peau
+   causer l'irritation de peau. Le contact rÃ©pÃ©tÃ© et prolongÃ© avec la peau
    peut causer la dermatite allergique. Risques d'inhalation: l'exposition
-   aux concentrations élevées des vapeurs peut causer le vertige, la
-   difficulté de respiration, les maux de tête ou l'irritation
-   respiratoire. Les concentrations extrêmement élevées peuvent causer la
+   aux concentrations Ã©levÃ©es des vapeurs peut causer le vertige, la
+   difficultÃ© de respiration, les maux de tÃªte ou l'irritation
+   respiratoire. Les concentrations extrÃªmement Ã©levÃ©es peuvent causer la
    somnolence, confusion, la perte de connaissance, le coma ou la mort.
 
-   Le liquide ou la vapeur peut être irritante pour les yeux, la gorge, ou
+   Le liquide ou la vapeur peut Ãªtre irritante pour les yeux, la gorge, ou
    les poumons. L'abus intentionnel de concentrer et d'inhaler le contenu
-   de ce produit peut être nocif ou mortel.
+   de ce produit peut Ãªtre nocif ou mortel.
 
-   Risques d'ingestion: modérément toxique. Peut causer des malaises
-   d'estomac, des nausées, des vomissement et des diarrhées. L'aspiration
-   de matériel dans les poumons si avalé ou si le vomissement se produit
-   peut causer la pneumonite chimique qui peut être mortelle.
+   Risques d'ingestion: modÃ©rÃ©ment toxique. Peut causer des malaises
+   d'estomac, des nausÃ©es, des vomissement et des diarrhÃ©es. L'aspiration
+   de matÃ©riel dans les poumons si avalÃ© ou si le vomissement se produit
+   peut causer la pneumonite chimique qui peut Ãªtre mortelle.
 
-   Organe de cible: la surexposition chronique à un composant ou à des
-   composants de ce matériel s'est avérée causer les effets suivants chez
+   Organe de cible: la surexposition chronique Ã  un composant ou Ã  des
+   composants de ce matÃ©riel s'est avÃ©rÃ©e causer les effets suivants chez
    les animaux de laboratoire:
 
    - dommages de rein
-   - dommages d'oeil
+   - dommages d'Å“il
    - dommages de poumon
    - dommages de foie
-   - anémie
+   - anÃ©mie
    - dommages de cerveau
 
-   La surexposition chronique à un composant ou à des composants dans ce
-   produit a été suggérée comme cause des effets suivants chez l'homme:
+   La surexposition chronique Ã  un composant ou Ã  des composants dans ce
+   produit a Ã©tÃ© suggÃ©rÃ©e comme cause des effets suivants chez l'homme:
 
    - anomalies cardiaques
-   - la surexposition répétée et prolongée aux dissolvants endommage de
-   manière permanente le cerveau et le système nerveux.
-   - le contact répété par inhalation ou par la peau de la cétone
-   éthylique méthylique peut augmenter le pouvoir des neurotoxines telles
-   que l'hexane si les expositions se produisent en même temps.
+   - la surexposition rÃ©pÃ©tÃ©e et prolongÃ©e aux dissolvants endommage de
+   maniÃ¨re permanente le cerveau et le systÃ¨me nerveux.
+   - le contact rÃ©pÃ©tÃ© par inhalation ou par la peau de la cÃ©tone
+   Ã©thylique mÃ©thylique peut augmenter le pouvoir des neurotoxines telles
+   que l'hexane si les expositions se produisent en mÃªme temps.
 
    Effets de l'argent sur l'environnement
 
@@ -254,14 +254,14 @@ Effets de l'argent sur la santé
 
    Niveaux environnementaux
    - Effets des organismes dans le laboratoire et le domaine
-   - Environnement aquatique: Toxicité des composés d'argent aux espèces
+   - Environnement aquatique: ToxicitÃ© des composÃ©s d'argent aux espÃ¨ces
    aquatiques
    - Environnement terrestre
-   - Évaluation des effets
+   - Ã‰valuation des effets
 
    Voir le lien externe suivant:
    http://www.inchem.org/documents/cicads/cicads/cicad44.htm#6.0
-   Retour à la table périodique des éléments
+   Retour Ã  la table pÃ©riodique des Ã©lÃ©ments
 
    plus de 'Elements'
 
@@ -311,7 +311,7 @@ Effets de l'argent sur la santé
 
    Chrome
 
-   Césium
+   CÃ©sium
 
    Cuivre
 
@@ -341,9 +341,9 @@ Effets de l'argent sur la santé
 
    Germanium
 
-   Hydrogène
+   HydrogÃ¨ne
 
-   Hélium
+   HÃ©lium
 
    Hafnium
 
@@ -373,11 +373,11 @@ Effets de l'argent sur la santé
 
    Mendelevium
 
-   Magnésium
+   MagnÃ©sium
 
-   Manganèse
+   ManganÃ¨se
 
-   Molybdène
+   MolybdÃ¨ne
 
    Meitnerium
 
@@ -389,7 +389,7 @@ Effets de l'argent sur la santé
 
    Neodym
 
-   Néon
+   NÃ©on
 
    Nickel
 
@@ -397,7 +397,7 @@ Effets de l'argent sur la santé
 
    Neptunium
 
-   Oxygène
+   OxygÃ¨ne
 
    Osmium
 
@@ -413,7 +413,7 @@ Effets de l'argent sur la santé
 
    Polonium
 
-   Praséodyme
+   PrasÃ©odyme
 
    Platine
 
@@ -441,7 +441,7 @@ Effets de l'argent sur la santé
 
    Scandium
 
-   Sélénium
+   SÃ©lÃ©nium
 
    Seaborgium
 
@@ -474,7 +474,7 @@ Lenntech (European Head Office)
    fax: +31 152 616 289
    e-mail: info@lenntech.com
 
-Lenntech USA LLC (Amériques)
+Lenntech USA LLC (AmÃ©riques)
 
    5975 Sunset Drive
    South Miami, FL 33143
@@ -491,9 +491,9 @@ Lenntech DMCC (Moyen-Orient)
    e-mail: info@lenntech.com
    [VCA2017-C80A.png] [OHSAS45001-C80A.png] [ISO4001-C80A.png]
    [ISO9001-C80A.png]
-   Conditions générales de livraison
-   Politique de confidentialité
+   Conditions gÃ©nÃ©rales de livraison
+   Politique de confidentialitÃ©
 
-   Copyright © 1998-2023 Lenntech B.V. All rights reserved
+   Copyright Â© 1998-2023 Lenntech B.V. All rights reserved
 
    Haut de page

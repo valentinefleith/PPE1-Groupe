@@ -1,54 +1,63 @@
-          + Pièces d'or modernes
+   #PiÃ¨ces Argent FranÃ§aises
+
+   IFRAME:
+   https://www.googletagmanager.com/ns.html?id=GTM-WHD9PSF&nojscript=true
+--
+          + PiÃ¨ces d'or modernes
           + COURS DE L'OR
           + Or
      * Argent
           + Lingots / Lingotins
-          + Pièces Argent Françaises
-          + Pièces Argent Modernes
+          + PiÃ¨ces Argent FranÃ§aises
+          + PiÃ¨ces Argent Modernes
           + Gros Volumes Argent
           + Argent
      * Platine
           + Lingots / Lingotins en Platine
-          + Pièces en Platine Modernes
+          + PiÃ¨ces en Platine Modernes
 --
      01 40 28 11 11
 
      >
-    1. Argent>Pièces Argent Françaises
+    1. Argent>PiÃ¨ces Argent FranÃ§aises
 
-Pièces Argent Françaises
+PiÃ¨ces Argent FranÃ§aises
 
+     * DÃ©nomination
+     * Poids et titre
 --
-       21,20 EUR
-       10__________________ = 212,00 EUR
+       20,20 â‚¬
+       10__________________ = 202,00 â‚¬
        Ajouter au panier
      * 100 Francs Argent
-       11,70 EUR
+       11,20 â‚¬
        100 Francs Argent
-       La quantité minimale d'achat est de 30
-   Pureté/titre : 900 0/00
+       La quantitÃ© minimale d'achat est de 30
+   PuretÃ©/titre : 900â€°
        Poids : 15g
 --
+
+   VOIR AUSSI ...
      * Lingots / Lingotins
-     * Pièces Argent Françaises
-     * Pièces Argent Modernes
+     * PiÃ¨ces Argent FranÃ§aises
+     * PiÃ¨ces Argent Modernes
      * Gros Volumes Argent
 
    COMMENT ACHETER
      * Suivez le guide
 --
-     * Découvrir nos services de rachat
+     * DÃ©couvrir nos services de rachat
 
      * OR
      * ARGENT
 
    OR
 
-   59,93 EUR/g
+   60,06 â‚¬/g
 
    ARGENT
 
-   0,71 EUR/g
+   0,67 â‚¬/g
 
 --
      * Lingots / Lingotins
@@ -59,9 +68,9 @@ Pièces Argent Françaises
      * Pieces francaises
      * Lingots / Lingotins
 --
-     * Fiscalité
+     * FiscalitÃ©
      * Service aux professionnels
-     * Législation
+     * LÃ©gislation
      * Lutte contre le blanchiment d'argent et le financement du
        terrorisme (LAB-FT)
      * Gardiennage

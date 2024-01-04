@@ -1,40 +1,72 @@
    (BUTTON)
 
-     * Acc�dez aux r�servations des 4 lieux embl�matiques de la Tour
+     * Accédez aux réservations des 4 lieux emblématiques de la Tour
        d'Argent.
-       (BUTTON) R�server
-     * Offrez une exp�rience unique ou d�couvrez l'�picerie et sa cave.
+       (BUTTON) Réserver
+     * Offrez une expérience unique ou découvrez l'épicerie et sa cave.
        (BUTTON) Offrir
 --
      * fr
      * en
 
-     * Restaurant La Tour D'Argent
-     * Bar des Maillets d'Argent
+     * Restaurant La Tour D’Argent
+     * Bar des Maillets d’Argent
      * Toit de la Tour
-     * L'Appartement
+     * L’Appartement
      * Magazine
 --
-     * Exp�rience
+     * Offrez la Tour
+     * Votre Personal Wine Shopper
+     * Le Boulanger de la Tour
+     * La Rôtisserie d’Argent
+     * L’Epicerie de la Tour
+     *
+     * Nous rejoindre
+--
+     * Expérience
 
 Le monde de la
-Tour d'Argent
+Tour d’Argent
 
-Cr�ation
+Création
 
 --
 
-Quand deux grands noms du savoir-faire fran�ais se rencontrent, l'art du
-voyage prend une nouvelle dimension. Une collaboration in�dite entre la Tour
-d'Argent et DS Automobiles ouvre de nouvelles perspectives. L'exp�rience se
-vit d�sormais au-del� du 15, quai de la Tournelle, dans Paris et en France.
+L’Epiphanie du Boulanger de la Tour
 
-Cr�ation
+En hommage à la Tour d’Argent, le Boulanger de La Tour crée une galette des
+rois à son effigie.
+
+Expérience
+
+L’expérience Tour d’Argent hors ses murs à bord de DS9
+
+Quand deux grands noms du savoir-faire français se rencontrent, l’art du
+voyage prend une nouvelle dimension. Une collaboration inédite entre la Tour
+d’Argent et DS Automobiles ouvre de nouvelles perspectives. L’expérience se
+vit désormais au-delà du 15, quai de la Tournelle, dans Paris et en France.
+
+Création
 --
-     * l'�picerie de la tour
-     * la r�tisserie d'argent
+
+À l’occasion des fêtes de fin d’année, Le Boulanger de La Tour imagine deux
+bûches à l’équilibre parfait. Entre esthétisme et gourmandise, ces créations
+sont le supplément d’âme « Tour d’Argent » pour sublimer les tables de fêtes.
+
+Création
+
+--
+
+   Je comprends et accepte la politique de confidentialité
+     * l’épicerie de la tour
+     * la rôtisserie d’argent
      * le boulanger de la tour
-     * la tour d'argent tokyo
+     * la tour d’argent tokyo
 
    Notre Newsletter
    ____________________
+--
+
+     * Mentions légales
+
+   © la tour d’argent

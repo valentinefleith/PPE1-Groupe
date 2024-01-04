@@ -6,15 +6,15 @@
    ____________________
      * Forum
      * Login
-     * Français
+     * FranÃ§ais
           + Deutsch
           + English
 
      * Assurances
-          + Santé & vie
+          + SantÃ© & vie
                o Assurance maladie
-               o Assurance maladie complémentaire
-               o Assurance complémentaire d'hospitalisation
+               o Assurance maladie complÃ©mentaire
+               o Assurance complÃ©mentaire dâ€™hospitalisation
                o Assurance vie
           + Divers
                o Protection juridique
@@ -22,7 +22,7 @@
                o Assurances garantie de loyer
                o Assurance animaux
           + Services
-               o Actualités des assurances
+               o ActualitÃ©s des assurances
                o Forum Assurances
                o Magazine assurances
                o Calculateurs d'assurances
@@ -34,84 +34,84 @@
        Assurance vie Comparez maintenant
      * Comptes & cartes
           + Comptes
-               o Compte épargne
-               o Compte privé
+               o Compte Ã©pargne
+               o Compte privÃ©
                o Paquets bancaires
                o Compte entreprise
           + Cartes
-               o Cartes de crédit
-               o Cartes de crédit d'entreprise
-               o Cartes prépayées
+               o Cartes de crÃ©dit
+               o Cartes de crÃ©dit dâ€™entreprise
+               o Cartes prÃ©payÃ©es
           + Services
-               o Actualités bancaires
+               o ActualitÃ©s bancaires
                o Forum bancaire
                o Magazine bancaire
-               o Calculateurs intérêts et épargne
+               o Calculateurs intÃ©rÃªts et Ã©pargne
        >
-       Cartes de crédit Comparez maintenant
+       Cartes de crÃ©dit Comparez maintenant
        >
-       Compte d'épargne Comparez maintenant
+       Compte d'Ã©pargne Comparez maintenant
        >
-       Compte privé Comparez maintenant
-     * Crédits & hypothèques
-          + Hypothèques
-               o Hypothèques
-               o Assistant d'intérêt hypothécaire
-               o Calculateurs hypothécaires
-          + Crédits
-               o Crédit privé
-               o Crédit aux entreprises
+       Compte privÃ© Comparez maintenant
+     * CrÃ©dits & hypothÃ¨ques
+          + HypothÃ¨ques
+               o HypothÃ¨ques
+               o Assistant dâ€™intÃ©rÃªt hypothÃ©caire
+               o Calculateurs hypothÃ©caires
+          + CrÃ©dits
+               o CrÃ©dit privÃ©
+               o CrÃ©dit aux entreprises
                o Leasing
-               o Calculateurs de crédit
+               o Calculateurs de crÃ©dit
           + Services
-               o Actualités bancaires
-               o Forum crédits & hypothèques
+               o ActualitÃ©s bancaires
+               o Forum crÃ©dits & hypothÃ¨ques
                o Magazine bancaire
                o Notations des banques
        >
-       Crédit privé Comparez maintenant
+       CrÃ©dit privÃ© Comparez maintenant
        >
-       Hypothèques Comparez maintenant
+       HypothÃ¨ques Comparez maintenant
        >
-       Crédit aux entreprises Comparez maintenant
-     * Investir & prévoyance
+       CrÃ©dit aux entreprises Comparez maintenant
+     * Investir & prÃ©voyance
           + Investir
                o Trading
                o Forex trading
                o CFD trading
                o Gestion de fortune
                o Obligations de caisse
-          + Prévoyance
+          + PrÃ©voyance
                o Compte pilier 3a
-               o Fonds de prévoyance (3a & libre passage)
+               o Fonds de prÃ©voyance (3a & libre passage)
                o Compte de libre passage
-               o Calculateurs de prévoyance
+               o Calculateurs de prÃ©voyance
           + Services
-               o Actualités bancaires
-               o Forum investir & prévoyance
-               o Magazine investir & prévoyance
+               o ActualitÃ©s bancaires
+               o Forum investir & prÃ©voyance
+               o Magazine investir & prÃ©voyance
                o Calculateurs boursiers
        >
        Trading Comparez maintenant
        >
        Gestion de fortune Comparez maintenant
        Pilier 3a Comparez maintenant
-     * Télécoms
+     * TÃ©lÃ©coms
           + Mobile
                o Abonnement mobile
-               o Itinérance
+               o ItinÃ©rance
           + Fixe
                o Abonnement Internet
-               o Abonnement de télévision
-               o Téléphonie fixe
-               o Abonnement combiné
+               o Abonnement de tÃ©lÃ©vision
+               o TÃ©lÃ©phonie fixe
+               o Abonnement combinÃ©
           + Divers
-               o Vidéo en streaming
+               o VidÃ©o en streaming
                o Musique en streaming
-               o Actualités des télécoms
-               o Forum télécoms
-               o Magazine télécoms
-               o Calculateurs télécoms
+               o ActualitÃ©s des tÃ©lÃ©coms
+               o Forum tÃ©lÃ©coms
+               o Magazine tÃ©lÃ©coms
+               o Calculateurs tÃ©lÃ©coms
        >
        Abonnement mobile Comparez maintenant
        >
@@ -122,52 +122,52 @@
           + Conseils
                o Comptes & cartes
                o Assurances
-               o Télécoms
+               o TÃ©lÃ©coms
                o Tous les articles
-          + Actualités
+          + ActualitÃ©s
                o Banques
                o Assurances
-               o Télécoms
-               o Actualités générales
+               o TÃ©lÃ©coms
+               o ActualitÃ©s gÃ©nÃ©rales
           + Divers
                o Glossaire
                o Recherche
                o Newsletter
-               o Arrivée en Suisse
+               o ArrivÃ©e en Suisse
        Magazine Continuer
-       Actualités Continuer
+       ActualitÃ©s Continuer
        Glossaire Continuer
      * Services
-          + Société
+          + SociÃ©tÃ©
                o Au sujet de moneyland.ch
-               o Indépendance
-               o Médias
+               o IndÃ©pendance
+               o MÃ©dias
                o Jobs
-               o Publicité
+               o PublicitÃ©
                o Moneyland Analytics
           + Utilisateurs
                o Login
                o Forum
                o Newsletter
                o Recherche
-               o Protection des données
+               o Protection des donnÃ©es
                o Contact
-          + Catégories
+          + CatÃ©gories
                o Tous les comparatifs
                o Tous les calculateurs
-               o Arrivée en Suisse
+               o ArrivÃ©e en Suisse
                o Jeunes
-               o Étudiants
-               o Troisième âge
+               o Ã‰tudiants
+               o TroisiÃ¨me Ã¢ge
        Newsletter S'inscrire
        Tous les calculateurs Vers les calculateurs
        Tous les comparatifs Vers les comparatifs
 
      * Assurances
-          + Santé & vie
+          + SantÃ© & vie
                o Assurance maladie
-               o Assurance maladie complémentaire
-               o Assurance complémentaire d'hospitalisation
+               o Assurance maladie complÃ©mentaire
+               o Assurance complÃ©mentaire dâ€™hospitalisation
                o Assurance vie
           + Divers
                o Protection juridique
@@ -175,186 +175,186 @@
                o Assurances garantie de loyer
                o Assurance animaux
           + Services
-               o Actualités des assurances
+               o ActualitÃ©s des assurances
                o Forum Assurances
                o Magazine assurances
                o Calculateurs d'assurances
      * Comptes & cartes
           + Comptes
-               o Compte épargne
-               o Compte privé
+               o Compte Ã©pargne
+               o Compte privÃ©
                o Paquets bancaires
                o Compte entreprise
           + Cartes
-               o Cartes de crédit
-               o Cartes de crédit d'entreprise
-               o Cartes prépayées
+               o Cartes de crÃ©dit
+               o Cartes de crÃ©dit dâ€™entreprise
+               o Cartes prÃ©payÃ©es
           + Services
-               o Actualités bancaires
+               o ActualitÃ©s bancaires
                o Forum bancaire
                o Magazine bancaire
-               o Calculateurs intérêts et épargne
-     * Crédits & hypothèques
-          + Hypothèques
-               o Hypothèques
-               o Assistant d'intérêt hypothécaire
-               o Calculateurs hypothécaires
-          + Crédits
-               o Crédit privé
-               o Crédit aux entreprises
+               o Calculateurs intÃ©rÃªts et Ã©pargne
+     * CrÃ©dits & hypothÃ¨ques
+          + HypothÃ¨ques
+               o HypothÃ¨ques
+               o Assistant dâ€™intÃ©rÃªt hypothÃ©caire
+               o Calculateurs hypothÃ©caires
+          + CrÃ©dits
+               o CrÃ©dit privÃ©
+               o CrÃ©dit aux entreprises
                o Leasing
-               o Calculateurs de crédit
+               o Calculateurs de crÃ©dit
           + Services
-               o Actualités bancaires
-               o Forum crédits & hypothèques
+               o ActualitÃ©s bancaires
+               o Forum crÃ©dits & hypothÃ¨ques
                o Magazine bancaire
                o Notations des banques
-     * Investir & prévoyance
+     * Investir & prÃ©voyance
           + Investir
                o Trading
                o Forex trading
                o CFD trading
                o Gestion de fortune
                o Obligations de caisse
-          + Prévoyance
+          + PrÃ©voyance
                o Compte pilier 3a
-               o Fonds de prévoyance (3a & libre passage)
+               o Fonds de prÃ©voyance (3a & libre passage)
                o Compte de libre passage
-               o Calculateurs de prévoyance
+               o Calculateurs de prÃ©voyance
           + Services
-               o Actualités bancaires
-               o Forum investir & prévoyance
-               o Magazine investir & prévoyance
+               o ActualitÃ©s bancaires
+               o Forum investir & prÃ©voyance
+               o Magazine investir & prÃ©voyance
                o Calculateurs boursiers
-     * Télécoms
+     * TÃ©lÃ©coms
           + Mobile
                o Abonnement mobile
-               o Itinérance
+               o ItinÃ©rance
           + Fixe
                o Abonnement Internet
-               o Abonnement de télévision
-               o Téléphonie fixe
-               o Abonnement combiné
+               o Abonnement de tÃ©lÃ©vision
+               o TÃ©lÃ©phonie fixe
+               o Abonnement combinÃ©
           + Divers
-               o Vidéo en streaming
+               o VidÃ©o en streaming
                o Musique en streaming
-               o Actualités des télécoms
-               o Forum télécoms
-               o Magazine télécoms
-               o Calculateurs télécoms
+               o ActualitÃ©s des tÃ©lÃ©coms
+               o Forum tÃ©lÃ©coms
+               o Magazine tÃ©lÃ©coms
+               o Calculateurs tÃ©lÃ©coms
      * Magazine
           + Conseils
                o Comptes & cartes
                o Assurances
-               o Télécoms
+               o TÃ©lÃ©coms
                o Tous les articles
-          + Actualités
+          + ActualitÃ©s
                o Banques
                o Assurances
-               o Télécoms
-               o Actualités générales
+               o TÃ©lÃ©coms
+               o ActualitÃ©s gÃ©nÃ©rales
           + Divers
                o Glossaire
                o Recherche
                o Newsletter
-               o Arrivée en Suisse
+               o ArrivÃ©e en Suisse
      * Services
-          + Société
+          + SociÃ©tÃ©
                o Au sujet de moneyland.ch
-               o Indépendance
-               o Médias
+               o IndÃ©pendance
+               o MÃ©dias
                o Jobs
-               o Publicité
+               o PublicitÃ©
                o Moneyland Analytics
           + Utilisateurs
                o Login
                o Forum
                o Newsletter
                o Recherche
-               o Protection des données
+               o Protection des donnÃ©es
                o Contact
-          + Catégories
+          + CatÃ©gories
                o Tous les comparatifs
                o Tous les calculateurs
-               o Arrivée en Suisse
+               o ArrivÃ©e en Suisse
                o Jeunes
-               o Étudiants
-               o Troisième âge
+               o Ã‰tudiants
+               o TroisiÃ¨me Ã¢ge
 
      * Home
      * Forum
      * Login
 
-   Français
+   FranÃ§ais
      * Deutsch
      * English
 
 Forum Moneyland
 
-   Le forum de moneyland.ch couvre un large spectre de thèmes ayant trait
-   à la finance dans les domaines des assurances, des banques, des
-   télécoms et de la bourse. Echangez avec d'autres utilisateurs du forum
-   ainsi que des experts et trouvez la réponse appropriée à vos questions.
+   Le forum de moneyland.ch couvre un large spectre de thÃ¨mes ayant trait
+   Ã  la finance dans les domaines des assurances, des banques, des
+   tÃ©lÃ©coms et de la bourse. Echangez avec dâ€™autres utilisateurs du forum
+   ainsi que des experts et trouvez la rÃ©ponse appropriÃ©e Ã  vos questions.
    Your web browser does not support JavaScript, or you have temporarily
    disabled scripting. This site needs JavaScript to function correctly.
 
-   Publicité
+   PublicitÃ©
 
 Au sujet du forum Moneyland
 
-   Dans le forum de moneyland.ch, vous pouvez échanger à tout moment et
-   gratuitement sur une multiplicité de thèmes ayant trait à la finance et
-   y trouver les réponses appropriées. Discutez avec des utilisateurs du
-   forum ainsi que des experts sur des thèmes actuels dans les catégories
-   banques, assurances, bourse, prévoyance, télécoms et argent au
+   Dans le forum de moneyland.ch, vous pouvez Ã©changer Ã  tout moment et
+   gratuitement sur une multiplicitÃ© de thÃ¨mes ayant trait Ã  la finance et
+   y trouver les rÃ©ponses appropriÃ©es. Discutez avec des utilisateurs du
+   forum ainsi que des experts sur des thÃ¨mes actuels dans les catÃ©gories
+   banques, assurances, bourse, prÃ©voyance, tÃ©lÃ©coms et argent au
    quotidien.
 
-   Publicité
+   PublicitÃ©
 
-   Afficher catégories
+   Afficher catÃ©gories
 
    Forum
 
-Catégories
+CatÃ©gories
 
      * Vue synoptique
      * Forum sur les banques
-     * Forum sur les télécoms
+     * Forum sur les tÃ©lÃ©coms
      * Forum sur les assurances
-     * Forum sur la prévoyance
+     * Forum sur la prÃ©voyance
      * Forum sur la bourse
-     * L'argent au quotidien: forum
-     * Règles du forum
+     * Lâ€™argent au quotidien: forum
+     * RÃ¨gles du forum
      * Anmeldung
 
    (BUTTON) Fermer
 
-   Publicité
-   Veuillez vous connecter pour pouvoir échanger au sein du forum.
+   PublicitÃ©
+   Veuillez vous connecter pour pouvoir Ã©changer au sein du forum.
 
 Forum sur les banques
 
    Posts
    Sujets
-   Comptes et taux d'intérêt
+   Comptes et taux dâ€™intÃ©rÃªt
    29
    0
    Moneyguru von moneyland.ch
    (last)
-   4 février 2020
-   Cartes de crédit
+   4 fÃ©vrier 2020
+   Cartes de crÃ©dit
    32
    0
    Moneyguru de moneyland.ch
    (last)
    26 mai 2023
-   Crédits & leasing
+   CrÃ©dits & leasing
    32
    0
    Mister Banks
    (last)
    7 novembre 2022
-   Hypothèques
+   HypothÃ¨ques
    20
    0
    noa
@@ -365,7 +365,7 @@ Forum sur les banques
    0
    Moneyguru von moneyland.ch
    (last)
-   30 août 2019
+   30 aoÃ»t 2019
    Banques: prestataires
    7
    0
@@ -379,53 +379,53 @@ Forum sur les banques
    (last)
    21 avril 2023
 
-Forum sur les télécoms
+Forum sur les tÃ©lÃ©coms
 
    Posts
    Sujets
-   Abonnements pour téléphones mobiles
+   Abonnements pour tÃ©lÃ©phones mobiles
    26
    5
    manurabema23
    (last)
    23 mai 2023
-   Itinérance
+   ItinÃ©rance
    7
    2
    Ralf Beyeler
    (last)
    13 mai 2019
-   Abonnements à Internet
+   Abonnements Ã  Internet
    15
    2
    Ralf Beyeler
    (last)
    15 juin 2022
-   Vidéo & musique en streaming
+   VidÃ©o & musique en streaming
    4
    2
    Moneyguru von moneyland.ch
    (last)
    13 mai 2019
-   Abonnements de télévision
+   Abonnements de tÃ©lÃ©vision
    17
    6
    erictmfc
    (last)
-   27 août 2020
-   Réseau fixe
+   27 aoÃ»t 2020
+   RÃ©seau fixe
    4
    2
    Moneyguru von moneyland.ch
    (last)
    13 mai 2019
-   Opérateurs télécoms
+   OpÃ©rateurs tÃ©lÃ©coms
    11
    1
    Olivier Robert
    (last)
-   13 décembre 2021
-   Télécoms: divers sujets
+   13 dÃ©cembre 2021
+   TÃ©lÃ©coms: divers sujets
    4
    0
    Usager
@@ -448,7 +448,7 @@ Forum sur les assurances
    Moneyguru de moneyland.ch
    (last)
    28 septembre 2018
-   Assurance ménage et responsabilité civile
+   Assurance mÃ©nage et responsabilitÃ© civile
    10
    1
    karlweber
@@ -491,22 +491,22 @@ Forum sur les assurances
    (last)
    26 janvier 2020
 
-Forum sur la prévoyance
+Forum sur la prÃ©voyance
 
    Posts
    Sujets
-   Troisième pilier
+   TroisiÃ¨me pilier
    8
    0
    karlweber
    (last)
    27 octobre 2022
-   Deuxième pilier
+   DeuxiÃ¨me pilier
    9
    4
    Moneyguru von moneyland.ch
    (last)
-   30 août 2019
+   30 aoÃ»t 2019
    Caisses de pension
    0
    0
@@ -517,12 +517,12 @@ Forum sur la prévoyance
    Moneyguru von moneyland.ch
    (last)
    26 janvier 2020
-   Prévoyance: divers sujets
+   PrÃ©voyance: divers sujets
    2
    0
    Moneyguru von moneyland.ch
    (last)
-   30 août 2019
+   30 aoÃ»t 2019
 
 Forum sur la bourse
 
@@ -545,14 +545,14 @@ Forum sur la bourse
    3
    Usager
    (last)
-   4 février 2020
+   4 fÃ©vrier 2020
    Devises
    2
    0
    Moneyguru de moneyland.ch
    (last)
    18 novembre 2019
-   Produits structurés
+   Produits structurÃ©s
    3
    1
    Usager
@@ -564,7 +564,7 @@ Forum sur la bourse
    Moneyguru de moneyland.ch
    (last)
    18 novembre 2019
-   Stratégies de trading et charts
+   StratÃ©gies de trading et charts
    2
    1
    Moneyguru de moneyland.ch
@@ -583,7 +583,7 @@ Forum sur la bourse
    (last)
    4 novembre 2020
 
-L'argent au quotidien: forum
+Lâ€™argent au quotidien: forum
 
    Posts
    Sujets
@@ -592,14 +592,14 @@ L'argent au quotidien: forum
    7
    Moneyguru de moneyland.ch
    (last)
-   23 décembre 2017
+   23 dÃ©cembre 2017
    Voyages
    2
    0
    Moneyguru de moneyland.ch
    (last)
    18 novembre 2019
-   Véhicules
+   VÃ©hicules
    2
    0
    Moneyguru de moneyland.ch
@@ -611,13 +611,13 @@ L'argent au quotidien: forum
    Usager
    (last)
    18 novembre 2019
-   Impôts
+   ImpÃ´ts
    13
    5
    Moneyguru de moneyland.ch
    (last)
    18 novembre 2019
-   Electricité
+   ElectricitÃ©
    0
    0
    No posts
@@ -638,26 +638,26 @@ L'argent au quotidien: forum
    97989910010110310410516616716816917017117217317487888990919293949596129
    13013113213313411912012112212312412512612712813513613713813914014114314
    4145
-   Société
+   SociÃ©tÃ©
      * Au sujet de moneyland.ch
-     * Experts et rédaction
+     * Experts et rÃ©daction
      * Fondateurs
-     * Indépendance
-     * Médias
+     * IndÃ©pendance
+     * MÃ©dias
      * Jobs
-     * Publicité
+     * PublicitÃ©
      * Recherche
      * Partenaires
      * Moneyland Analytics
-     * Mentions légales
-     * Protection des données
+     * Mentions lÃ©gales
+     * Protection des donnÃ©es
      * Informations juridiques
 
    Internautes
      * Contact
      * Login
      * Rechercher
-     * Actualités
+     * ActualitÃ©s
      * Newsletter
      * Magazine
      * FAQ
@@ -665,44 +665,44 @@ L'argent au quotidien: forum
      * Calculateurs
      * Jeunes
      * Etudiants
-     * Troisième âge
-     * Arrivée en Suisse
+     * TroisiÃ¨me Ã¢ge
+     * ArrivÃ©e en Suisse
 
-   Banques & télécoms
+   Banques & tÃ©lÃ©coms
      * Paquets bancaires
-     * Compte privé
-     * Cartes de crédit
-     * Compte d'épargne
-     * Crédit privé
-     * Hypothèques
+     * Compte privÃ©
+     * Cartes de crÃ©dit
+     * Compte d'Ã©pargne
+     * CrÃ©dit privÃ©
+     * HypothÃ¨ques
      * Bourse en ligne
      * Private banking
-     * Dépôt à terme
+     * DÃ©pÃ´t Ã  terme
      * Abonnement mobile
      * Abonnement Internet
      * Abonnement TV
-     * Offre combinée télécoms
+     * Offre combinÃ©e tÃ©lÃ©coms
 
-   Assurances & prévoyance
+   Assurances & prÃ©voyance
      * Assurance maladie
-     * Assurance complémentaire
-     * Assurance hospitalière
+     * Assurance complÃ©mentaire
+     * Assurance hospitaliÃ¨re
      * Assurance voyage
      * Protection juridique
      * Assurance animaux
      * Assurance vie
      * Assurance guarantie de loyer
      * Compte pilier 3a
-     * Fonds de prévoyance
+     * Fonds de prÃ©voyance
      * Compte de libre passage
-     * Calculateurs de prévoyance
+     * Calculateurs de prÃ©voyance
 
    SSL
    Swiss Made Logo
-   Lettre d'information
+   Lettre dâ€™information
 
-   moneyland.ch est le service comparitif en ligne indépendant pour les
-   banques, les assurances et les télécoms. Contactez nous.
+   moneyland.ch est le service comparitif en ligne indÃ©pendant pour les
+   banques, les assurances et les tÃ©lÃ©coms. Contactez nous.
 
    (BUTTON)
    (BUTTON) Fermer (BUTTON)

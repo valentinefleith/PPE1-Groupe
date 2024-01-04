@@ -1,34 +1,37 @@
-               o Millésime 2020
-               o Monnaies 2EUR
+               o MillÃ©sime 2020
+               o Monnaies 2â‚¬
                o Monnaies d'investissement or
                o Euros Or et Argent
                o Monnaies de collection classiques
-               o Découvrir toutes les monnaies
-          + Mini-Médailles
+               o DÃ©couvrir toutes les monnaies
+          + Mini-MÃ©dailles
 --
                o Accessoires Rangement
           + Bronzes d'art
        [Mascottes_V2_Header_250x265.jpg]
-       Paris 2024 Monnaies euros or et argent Découvrir
-       [Nouveau-header_offre_noel-2023_250x265.jpg]
-       Nos offres de fin d'année Découvrir
+       Paris 2024 Monnaies euros or et argent DÃ©couvrir
      * Le lieu culturel
+          + PrÃ©parer sa visite
+               o Horaires & accÃ¨s
 --
-               o Millésime 2020
-               o Monnaies 2EUR
+               o MillÃ©sime 2020
+               o Monnaies 2â‚¬
                o Monnaies d'investissement or
                o Euros Or et Argent
                o Monnaies de collection classiques
-          + Médailles
-          + Mini-Médailles
+          + MÃ©dailles
+          + Mini-MÃ©dailles
 --
-               o Légion d'honneur
-                    # Médaille Légion d'Honneur
-                      Médaille Légion d'Honneur Ordonnance Chevalier  -
+               o LÃ©gion d'honneur
+                    # MÃ©daille LÃ©gion d'Honneur
+                      MÃ©daille LÃ©gion d'Honneur Ordonnance Chevalier  -
                       Argent 950/1000 (46938) Ajouter au panier
-                      340,00 EUR
-               o Médaille Légion d'Honneur
-                 Médaille Légion d'Honneur Ordonnance Officier  -  Argent
+                      340,00 â‚¬
+               o MÃ©daille LÃ©gion d'Honneur
+                 MÃ©daille LÃ©gion d'Honneur Ordonnance Officier  -  Argent
+                 950/1000 (46939) Ajouter au panier
+                 430,00 â‚¬
+               o MÃ©daille LÃ©gion d'Honneur
 --
      * Accueil
      * Boutique en ligne
@@ -41,12 +44,20 @@ Euros Or et Argent
 
 --
    Affiner la recherche
-   Matière
+   MatiÃ¨re
     1. Or 33 articles (*)
     2. Argent 115 articles ( )
-    3. Métal Courant 3 articles ( )
+    3. MÃ©tal Courant 3 articles ( )
 
-   Qualité
+   QualitÃ©
+--
+    1. 10 ans du mariage pour tous 1 article (*)
+    2. 20 ans de l'Euro 5 articles ( )
+    3. 24 Heures du Mans 1 article ( )
+    4. AstÃ©rix - Euros or et argent 11 articles ( )
+    5. AstÃ©rix - monnaies de collection 27 articles ( )
+    6. BICENTENAIRE LOUIS PASTEUR 1 article ( )
+    7. Coupe du Monde de Rugby 2023 3 articles ( )
 --
    20. Smiley 1 article ( )
 
@@ -56,73 +67,74 @@ Euros Or et Argent
 
    Prix
 --
-   14. 10000EUR 3 articles ( )
+   14. 10000â‚¬ 3 articles ( )
 
    Coupure
-    1. 10EUR Argent 83 articles (*)
-    2. 100EUR Argent 11 articles ( )
-    3. 1000EUR Or BU 4 articles ( )
-    4. 10000EUR Or BE 3 articles ( )
-    5. 20EUR Argent 5 articles ( )
-    6. 20EUR Argent BE 3 articles ( )
-    7. 250EUR Or BU 14 articles ( )
-    8. 2500EUR Or BU 4 articles ( )
-    9. 50EUR Argent 14 articles ( )
-   10. 500EUR Or BU 4 articles ( )
-   11. 5000EUR Or BE 4 articles ( )
-   12. Séries euros 2 articles ( )
+    1. 10â‚¬ Argent 83 articles (*)
+    2. 100â‚¬ Argent 11 articles ( )
+    3. 1000â‚¬ Or BU 4 articles ( )
+    4. 10000â‚¬ Or BE 3 articles ( )
+    5. 20â‚¬ Argent 5 articles ( )
+    6. 20â‚¬ Argent BE 3 articles ( )
+    7. 250â‚¬ Or BU 14 articles ( )
+    8. 2500â‚¬ Or BU 4 articles ( )
+    9. 50â‚¬ Argent 14 articles ( )
+   10. 500â‚¬ Or BU 4 articles ( )
+   11. 5000â‚¬ Or BE 4 articles ( )
+   12. SÃ©ries euros 2 articles ( )
 --
    152 produits
-   Trier par [Date lancement__] Par ordre croissant
-    1. Bientôt disponible
-       face 10EUR argent hercule paris 2024
-       Jeux Olympiques de Paris 2024 Monnaie 10EUR Argent - Hexagonale
-       Hercule  -  Qualité courante Millésime 2024
-       15,00 EUR
-    2. Bientôt disponible
+   Trier par [Date lancement___] Par ordre croissant
+    1. BientÃ´t disponible
+       face 10â‚¬ argent hercule paris 2024
+       Jeux Olympiques de Paris 2024 Monnaie 10â‚¬ Argent - Hexagonale
+       Hercule  -  QualitÃ© courante MillÃ©sime 2024
+       15,00 â‚¬
+    2. BientÃ´t disponible
 --
-       Hercule  -  Qualité BU Millésime 2024
-       270,00 EUR
-    3. Eiffel, 100 ans Eiffel, Gustave Eiffel, tour Eiffel, rivet, métal,
-       portrait, 100EUR argent, 2023
-       Gustave Eiffel - 100 ans de sa disparition Monnaie de 100EUR argent
-        -  Qualité courante millésime 2023
-       100,00 EUR
-    4. Eiffel, 100 ans Eiffel, Gustave Eiffel, tour Eiffel, rivet, métal,
-       portrait, 10EUR argent, 2023
-       Gustave Eiffel - 100 ans de sa disparition Monnaie de 10EUR argent
-        -  Qualité courante millésime 2023
-       12,00 EUR
+        -  QualitÃ© BU MillÃ©sime 2024
+       270,00 â‚¬
+    3. Eiffel, 100 ans Eiffel, Gustave Eiffel, tour Eiffel, rivet, mÃ©tal,
+       portrait, 100â‚¬ argent, 2023
+       Gustave Eiffel - 100 ans de sa disparition Monnaie de 100â‚¬ argent
+       -  QualitÃ© courante millÃ©sime 2023
+       100,00 â‚¬
+    4. Eiffel, 100 ans Eiffel, Gustave Eiffel, tour Eiffel, rivet, mÃ©tal,
+       portrait, 10â‚¬ argent, 2023
+       Gustave Eiffel - 100 ans de sa disparition Monnaie de 10â‚¬ argent
+       -  QualitÃ© courante millÃ©sime 2023
+       12,00 â‚¬
     5. Ors de France face Or
 --
-       BU Millésime 2023
-       2500,00 EUR
+       MillÃ©sime 2023
+       2â€¯500,00 â‚¬
     7. Indisponible
-       Disney 100 10EUR Argent face
-       Disney - 100ème anniversaire Monnaie de 10EUR Argent  -  Qualité
-       courante Millésime 2023
-       14,00 EUR
+       Disney 100 10â‚¬ Argent face
+       Disney - 100Ã¨me anniversaire Monnaie de 10â‚¬ Argent  -  QualitÃ©
+       courante MillÃ©sime 2023
+       14,00 â‚¬
+    8. NouveautÃ©
+       Disney 100 100â‚¬ argent face
+       Disney - 100Ã¨me anniversaire Monnaie de 100â‚¬ argent  -  QualitÃ©
+       courante millÃ©sime 2023
+       110,00 â‚¬
+    9. Indisponible
 --
-       Qualité courante Millésime 2023
-       73,00 EUR
-    9. Nouveauté
-       Disney 100 100EUR argent face
-       Disney - 100ème anniversaire Monnaie de 100EUR argent  -  Qualité
-       courante millésime 2023
-       110,00 EUR
+       courante MillÃ©sime 2023
+       73,00 â‚¬
    10. Mascotte, Jeux Olympiques, Mascotte des JO, sports, Volleyball,
-       Paris 2024, 10EUR, Argent, Monnaie argent
-       Mascotte - Volleyball Monnaie de 10EUR Argent  -  Qualité courante
-       millésime 2023
-       12,00 EUR
+       Paris 2024, 10â‚¬, Argent, Monnaie argent
+       Mascotte - Volleyball Monnaie de 10â‚¬ Argent  -  QualitÃ© courante
+       millÃ©sime 2023
+       12,00 â‚¬
    11. Mascotte, Jeux Olympiques, Mascotte des JO, sports, Judo, Paris
-       2024, 10EUR, Argent, Monnaie argent
-       Mascotte - Judo Monnaie de 10EUR argent  -  Qualité courante
-       millésime 2023
-       12,00 EUR
+       2024, 10â‚¬, Argent, Monnaie argent
+       Mascotte - Judo Monnaie de 10â‚¬ argent  -  QualitÃ© courante
+       millÃ©sime 2023
+       12,00 â‚¬
    12. Mascotte, Jeux Olympiques, Mascotte des JO, sports, Saut
-       d'obstacles, Paris 2024, 10EUR, Argent, Monnaie argent
-       Mascotte - Saut d'obstacles Monnaie de 10EUR Argent  -  Qualité
-       courante millésime 2023
-       12,00 EUR
+       dâ€™obstacles, Paris 2024, 10â‚¬, Argent, Monnaie argent
+       Mascotte - Saut d'obstacles Monnaie de 10â‚¬ Argent  -  QualitÃ©
+       courante millÃ©sime 2023
+       12,00 â‚¬
 
