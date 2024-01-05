@@ -7,16 +7,18 @@ body {
 }
 
 .myContainer {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 60px;
+    margin-right: 60px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
 .scriptContainer {
     background-color: rgba(255, 255, 255, 0.626);
+    font-family: 'Montserrat', sans-serif;
     padding: 20px;
     border-radius: 20px;
+    margin-bottom: 20px;
 }
 
 .scriptTitleText {
@@ -30,5 +32,12 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
     color: black;
+    align-items: center;
+}
+
+.imageContainer {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
