@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(216, 164, 96);
+    background-color: #BB6464;
 }
 
 .navbar {
@@ -7,8 +7,8 @@ body {
 }
 
 .myContainer {
-    margin-left: 60px;
-    margin-right: 60px;
+    margin-left: 350px;
+    margin-right: 350px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
