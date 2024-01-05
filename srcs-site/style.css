@@ -30,6 +30,12 @@ body {
   padding-bottom: 30px;
 }
 
+.wordContainer:hover{
+    cursor:pointer;
+  transform:scale(1.08);
+
+}
+
 .authorText1, .authorText2, .authorText3{
   color: white;
   font-size: 0.9rem;
