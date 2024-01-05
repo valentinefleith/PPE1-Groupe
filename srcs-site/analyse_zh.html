@@ -3,7 +3,7 @@
 <head>
 	<!--Métadonnées-->
 	<meta charset="UTF-8"/>
-	<title>Analyse - 中文</title>
+	<title>Analyse - 中文 </title>
     <meta name = "author" content = "valentinefleith, ashleyratier, lidanzhang"/>
     <meta name = "keywords" content = "Argent"/>
     <meta name = "description" content = "Projet groupe PPE1"/>
@@ -48,7 +48,7 @@
                     </a>
                     <ul class="dropdown-menu">
                       <li><a class="dropdown-item" href="script_tableau.html">Tableaux</a></li>
-                      <li><hr class="dropdown-divider"></li>
+                      <li><hr class="dropdown-divider"></li                                                               >
                       <li><a class="dropdown-item" href="script_concordancier.html">Concordanciers</a></li>
                       <li><hr class="dropdown-divider"></li>
                       <li><a class="dropdown-item" href="script_itrameur.html">iTrameur</a></li>
@@ -88,11 +88,32 @@
 <div class="myContainer">
     <!--Choix du mot-->
     <div class="scriptContainer">
-        <p class="scriptTitleText">Analyse du chinois</p>
-            <p class="script">
-                Analyse
+        <p class="scriptTitleText">Tokenization du chinois</p>
+            <div class="script">
+              Le chinois doit être tokenisé car il n'utilise pas d'espaces pour séparer les mots. La tokenisation identifie les unités significatives (mots ou phrases), ce qui est crucial pour l'analyse du texte sur iTrameur.
+              <br/><br/>
+              Nous avons utilisé l'outil <a href="https://github.com/thunlp/THULAC-Python">THULAC</a>（THU Lexical Analyzer for Chinese）fourni par les profs en courspour tokeniser le corpus. THULAC est un outil d'analyseur lexical chinois développé par le laboratoire d'intelligence artificielle de l'Université de Tsinghua. 
+              Il est basé sur un modèle de segmentation de mots et de marquage de parties du discours entraîné sur un grand corpus annoté. 
+              <br/><br/>
+              Voici notre script Python pour procéder à la tokenization du corpus chinois:
+              <div class="imageContainer">
+                <img src="img/tokenization.jpg" width="70%" height="auto"/>
+              </div>          
             </div>
-        </div>
+    </div>
+
+    <div class="scriptContainer">
+        <p class="scriptTitleText">Analyse du chinois</p>
+            <div class="script">
+              Pour la deuxième partie, nous avons fait des analyses de textometrie du chinois sur iTrameur à partir des fichiers "dumps" tokénisés par THULAC.
+              <br/><br/>
+              Voici les images générées par iTrameur:
+            <div class="imageContainer">
+              <img src="img/itrameur-zh2.jpg" width="70%" height="auto"/>
+              <br/><br/>
+              <img src="img/itrameur-zh1.jpg" width="30%" height="auto"/>
+            </div>
+            </div>
     </div>
 
 </div>  

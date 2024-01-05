@@ -17,6 +17,7 @@ body {
     background-color: rgba(255, 255, 255, 0.626);
     padding: 20px;
     border-radius: 20px;
+    margin-bottom: 30px;
 }
 
 .scriptTitleText {
@@ -31,4 +32,13 @@ body {
     font-size: 1rem;
     color: black;
 }
+
+.imageContainer {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
 
