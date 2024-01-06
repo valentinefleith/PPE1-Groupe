@@ -23,7 +23,7 @@
 <body>
     <div class="Bigcontainer">
         <!--Navbar-->
-        <nav class="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme="dark" id="navbar">
+        <nav class="navbar navbar-expand-lg bg-body-tertiary" id="navbar" >
             <div class="container-fluid">
                 <a class="navbar-brand" href="../index.html">
                     <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-piggy-bank" viewBox="0 0 16 16">
@@ -92,7 +92,7 @@
             <div class="script">
               Le chinois doit être tokenisé car il n'utilise pas d'espaces pour séparer les mots. La tokenisation identifie les unités significatives (mots ou phrases), ce qui est crucial pour l'analyse du texte sur iTrameur.
               <br/><br/>
-              Nous avons utilisé l'outil <a href="https://github.com/thunlp/THULAC-Python">THULAC</a>（THU Lexical Analyzer for Chinese）fourni par les profs en courspour tokeniser le corpus. THULAC est un outil d'analyseur lexical chinois développé par le laboratoire d'intelligence artificielle de l'Université de Tsinghua. 
+              Nous avons utilisé l'outil <a href="https://github.com/thunlp/THULAC-Python">THULAC</a>（THU Lexical Analyzer for Chinese）fourni par les profs en cours pour tokeniser le corpus. THULAC est un outil d'analyseur lexical chinois développé par le laboratoire d'intelligence artificielle de l'Université de Tsinghua. 
               Il est basé sur un modèle de segmentation de mots et de marquage de parties du discours entraîné sur un grand corpus annoté. 
               <br/><br/>
               Voici notre script Python pour procéder à la tokenization du corpus chinois:
@@ -103,7 +103,7 @@
     </div>
 
     <div class="scriptContainer">
-        <p class="scriptTitleText">Analyse du chinois</p>
+        <p class="scriptTitleText">Résultat d'iTrameur</p>
             <div class="script">
               Pour la deuxième partie, nous avons fait des analyses de textometrie du chinois sur iTrameur à partir des fichiers "dumps" tokénisés par THULAC.
               <br/><br/>
@@ -115,6 +115,22 @@
             </div>
             </div>
     </div>
+    <div class="scriptContainer">
+      <p class="scriptTitleText">Analyse du résultat</p>
+          <div class="script">
+            Comme nous pouvons constater, les trois mots qui apparaissent le plus souvent sont 财富 (cáifù), 转 (zhuǎn), et 抢 (qiǎng).
+            Qui signifient respectivement "richesse", "transférer" et "voler".
+            <br/><br/>
+            Il est logique que 财富(la richesse) apparaisse fréquemment car il englobe tous les aspects des ressources monétaires et économiques, des investissements personnels aux grands thèmes économiques. 
+            C'est un mot-clé dans les sites traitant de l'économie, de la finance personnelle, de l'investissement et de l'épargne.
+            <br/><br/>
+            转 (zhuǎn) se traduit par "transférer" ou "convertir", souvent utilisé dans les contextes de transactions financières.
+            <br/><br/>
+            抢 (qiǎng) signifie "voler" ou "s'emparer de". Cela peut sembler surprenant, mais cela pourrait refléter l'intérêt pour la sécurité financière, les fraudes, ou les contextes compétitifs où les actifs sont rapidement acquis ou "arrachés" dans un marché volatile. Son apparition fréquente peut aussi indiquer des discussions sur l'urgence ou la compétition dans l'acquisition de richesses.
+            <br/><br/>
+            La présence de ces termes sur des sites traitant de l'argent montre un intérêt pour l'ensemble du spectre financier - de la macroéconomie (les discussions sur la richesse et les finances en général) à la microéconomie (les décisions financières individuelles). Cela inclut également les aspects pratiques de l'argent comme les transactions quotidiennes, la budgétisation et la planification financière.
+          </div>
+  </div>
 
 </div>  
 </body>
