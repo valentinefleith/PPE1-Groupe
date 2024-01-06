@@ -86,15 +86,28 @@
             </div>
           </nav>    
 <div class="myContainer">
-    <!--Choix du mot-->
+    <!--Présentation-->
     <div class="scriptContainer">
-        <p class="scriptTitleText">Nuages des mots générés par <a href="https://wordart.com/">Word Art</a></p>
+      <p class="scriptTitleText">Nuages des mots générés par <a href="https://wordart.com/">Word Art</a></p>
+          <div class="script">
+            Nous avons utilisé le site wordart.com pour créer des nuages de mots en anglais, français et chinois.
+            Il est un site qui nous a permis de visualiser de manière créative la fréquence des mots dans différents langages en pouvant changeant la forme, la couleur et la taille des mots qui sont potentiellement plus adaptés à notre sujet,
+            ce qui nous a permis de voir les mots les plus fréquents dans les corpus et de les comparer entre les langues d'une manière plus visuelle. Dans notre cas, nous avons choisi les signes de l'argent: le dollar, l'euro et le yuan selon les différentes langues.
+            <br/><br/>
+            Pour commencer, nous avons rassemblé des textes en anglais et français dans le terminal qui copie le contenu des fichiers dans le presse-papier. 
+            Ensuite, nous avons collé ces textes dans wordart.com pour générer les nuages de mots. 
+            Pour le chinois, nous avons récupéré les corpus tokénisés pendant l'utilisation d'iTrameur.
+          </div>
+    </div>
+
+    <div class="scriptContainer">
+      <p class="scriptTitleText">Nuages des mots en anglais</p>
             <div class="row row-cols-1 row-cols-md-3 g-4">
               <div class="col">
                 <div class="card h-100">
-                  <img src="img/nuage-zh1.png" class="card-img-top" alt="nuage1">
+                  <img src="../wordcloud/image_zh_dump.png" class="card-img-top" alt="nuage1">
                   <div class="card-body">
-                    <h5 class="card-title">Nuage 1</h5>
+                    <h5 class="card-title">Nuage des mots chinois (dump)</h5>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                   </div>
                   <div class="card-footer">
@@ -128,7 +141,91 @@
               </div>
             </div>
         </div>
-    </div>
+
+        <div class="scriptContainer">
+          <p class="scriptTitleText">Nuages des mots en français</p>
+                <div class="row row-cols-1 row-cols-md-3 g-4">
+                  <div class="col">
+                    <div class="card h-100">
+                      <img src="../wordcloud/image_zh_dump.png" class="card-img-top" alt="nuage1">
+                      <div class="card-body">
+                        <h5 class="card-title">Nuage des mots chinois (dump)</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                      </div>
+                      <div class="card-footer">
+                        <small class="text-body-secondary">Last updated 3 mins ago</small>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col">
+                    <div class="card h-100">
+                      <img src="img/nuage-en1.png" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Nuage 2</h5>
+                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                      </div>
+                      <div class="card-footer">
+                        <small class="text-body-secondary">Last updated 3 mins ago</small>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col">
+                    <div class="card h-100">
+                      <img src="..." class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                      </div>
+                      <div class="card-footer">
+                        <small class="text-body-secondary">Last updated 3 mins ago</small>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+
+            <div class="scriptContainer">
+              <p class="scriptTitleText">Nuages des mots en chinois</p>
+                    <div class="row row-cols-1 row-cols-md-3 g-4">
+                      <div class="col">
+                        <div class="card h-100">
+                          <img src="../wordcloud/image_zh_dump.png" class="card-img-top" alt="nuage1-zh">
+                          <div class="card-body">
+                            <h5 class="card-title">Nuage 1(dump)</h5>
+                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                          </div>
+                          <div class="card-footer">
+                            <small class="text-body-secondary">Last updated 3 mins ago</small>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col">
+                        <div class="card h-100">
+                          <img src="../wordcloud/image_zh_dump2.png" class="card-img-top" alt="nuage2-zh">
+                          <div class="card-body">
+                            <h5 class="card-title">Nuage 2 (dump)</h5>
+                            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                          </div>
+                          <div class="card-footer">
+                            <small class="text-body-secondary">Last updated 3 mins ago</small>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col">
+                        <div class="card h-100">
+                          <img src="..." class="card-img-top" alt="nuage3-zh">
+                          <div class="card-body">
+                            <h5 class="card-title">Nuage 3 (contexte)</h5>
+                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                          </div>
+                          <div class="card-footer">
+                            <small class="text-body-secondary">Last updated 3 mins ago</small>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+
 
 </div>  
 </body>
