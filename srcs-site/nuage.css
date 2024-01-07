@@ -38,5 +38,14 @@ body {
 
 .card {
     height: auto;
-    width: 90%;
+    width: 70%;
+}
+
+.row {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 80px;
 }
