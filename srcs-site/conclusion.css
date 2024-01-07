@@ -9,7 +9,7 @@ body {
 .myContainer {
     margin-left: 18%;
     margin-right: 18%;
-    margin-top: 100px;
+    margin-top: 20px;
     margin-bottom: 20px;
 }
 
@@ -17,6 +17,7 @@ body {
     background-color: rgba(255, 255, 255, 0.626);
     padding: 20px;
     border-radius: 20px;
+	margin-bottom: 20px;
 }
 
 .scriptTitleText {
