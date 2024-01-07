@@ -90,6 +90,11 @@
     <!--Choix du mot-->
     <div class="scriptContainer">
         <p class="scriptTitleText">Script de creation des concordanciers</p>
+					<p class="script">Le script de création des concordanciers est appelé dans le script de création des tableaux. Il prend 4 arguments, que sont : le mot, le numéro de ligne, le fichier contexte et la langue étudiée. Nous aurions pu enlever le mot comme argument et mettre les mêmes conditions que dans le script de création tableau pour trouver le mot, mais il nous a paru plus simple de le donner simplement en argument.<br><br>
+						Ce script, à l'aide d'une expression régulière, a vocation a trier les concordances gauches et droites dans deux colonnes séparées d'un tableau, dont la colonne centrale contient le mot. Il aide donc à visualiser rapidement de quoi est entouré notre mot sur les différentes pages web recueillies.
+						<br><br>
+							Nous avons eu beaucoup de difficultés à faire fonctionner ce script, en particulier en chinois puisque l'expression régulière n'accepte pas \w pour les caractères chinois, mais {Han}. Nous avons laissé en commentaire dans notre script les différents essais d'expressions régulières que nous avons fait avant de tomber sur la bonne, dans le but d'y revenir si nous souhaitions faire un changement plus tard. De plus, nous avons eu quelques difficultés concernant la portabilité de "grep", qui fonctionne avec "ggrep" sur Macos. Il a donc fallu régulièrement changer l'expression régulière en fonction du système sur lequel nous lançions le script.<br>
+					</p>
 					<script src="codef/prism.js"></script>
 					<pre>
 						<code class="language-bash">
