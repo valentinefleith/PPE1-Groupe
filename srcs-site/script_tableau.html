@@ -18,6 +18,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">
+		<link href="prism.css" rel="stylesheet"
 </head>
 
 <body>
@@ -89,100 +90,120 @@
     <!--Choix du mot-->
     <div class="scriptContainer">
         <p class="scriptTitleText">Script de creation des tableaux</p>
-            <p class="script">
+					<script src="prism.js"></script>
 					<pre>
-	<code>
+	<code class="language-bash">
 #!/usr/bin/env bash
 
-<span style="color: #5470A4;">if</span> [[ <span style="color: #BF792A;">$#</span> -ne <span style="color: #B35050;">1</span> ]]; <span style="color: #5470A4;">then</span>
-    <span style="color: #5470A4;">echo</span> <span style="color: #808080;">"Usage : ./creation_tableaux.sh /chemin/vers/urls.txt"</span>
-    <span style="color: #5470A4;">exit</span>
-<span style="color: fi"></span>
+if [[ $# -ne 1 ]]; then
+	echo &quot;Usage : ./creation_tableaux.sh /chemin/vers/urls.txt&quot;
+    exit
+fi
 
-<span style="color: #BF792A;">URLS=$1</span>
+URLS=$1
 
-<span style="color: #5470A4;">if</span> [ ! -f "<span style="color: #BF792A;">$URLS</span>" ]; <span style="color: #5470A4;">then</span>
-    <span style="color: #5470A4;">echo</span> <span style="color: #808080;">"On attend un fichier, pas un dossier."</span>
-    <span style="color: #5470A4;">exit</span>
-<span style="color: fi"></span>
+if [ ! -f &quot;$URLS&quot; ]; then
+    echo &quot;On attend un fichier, pas un dossier.&quot;
+    exit
+fi
 
-<span style="color: #BF792A;">LANGUE=$(basename -s .txt <span style="color: #BF792A;">$URLS</span>)</span>
+LANGUE=$(basename -s .txt $URLS)
 
-<span style="color: #5470A4;">if</span> [ <span style="color: #BF792A;">$LANGUE</span> = <span style="color: #808080;">"fr"</span> ]; <span style="color: #5470A4;">then</span>
-    <span style="color: #B35050;">MOT="argent"</span>
-<span style="color: fi"></span>
+if [ $LANGUE = &quot;fr&quot; ]; then
+		MOT=&quot;argent&quot;
+fi
+ 
+if [ $LANGUE = &quot;en&quot; ]; then
+		MOT=&quot;money&quot;
+fi
 
-<span style="color: #5470A4;">if</span> [ <span style="color: #BF792A;">$LANGUE</span> = <span style="color: #808080;">"en"</span> ]; <span style="color: #5470A4;">then</span>
-    <span style="color: #B35050;">MOT="money"</span>
-<span style="color: fi"></span>
+if [ $LANGUE = &quot;zh&quot; ]; then
+		MOT=&quot;钱&quot;
+fi
 
-<span style="color: #5470A4;">if</span> [ <span style="color: #BF792A;">$LANGUE</span> = <span style="color: #808080;">"zh"</span> ]; <span style="color: #5470A4;">then</span>
-    <span style="color: #B35050;">MOT="钱"</span>
-<span style="color: fi"></span>
+OUTPUT_FILE=&quot;../tableaux/tableau_${LANGUE}.html&quot;
 
-<span style="color: #BF792A;">OUTPUT_FILE="</span>../tableaux/tableau_<span style="color: #BF792A;">$LANGUE</span>.html<span style="color: #BF792A;">"</span>
+echo &quot;&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;fr&quot;&gt;
+&lt;head&gt;
+	&lt;!--Métadonnées--&gt;
+	&lt;meta charset=&quot;UTF-8&quot;/&gt;
+	&lt;title&gt;Tableaux- PPE1 Projet Groupe&lt;/title&gt;
+    &lt;meta name = &quot;author&quot; content = &quot;valentinefleith, ashleyratier, lidanzhang&quot;/&gt;
+    &lt;meta name = &quot;keywords&quot; content = &quot;Argent&quot;/&gt;
+    &lt;meta name = &quot;description&quot; content = &quot;Projet Groupe PPE1&quot;/&gt;
 
-<span style="color: #5470A4;">echo</span> "<!DOCTYPE html>
-<html lang=<span style="color: #808080;">\"fr\"</span>>
-<head>
-    <!--Métadonnées-->
-    <meta charset=<span style="color: #808080;">\"UTF-8\"</span>>
-    <title>Tableaux- PPE1 Projet Groupe</title>
-    <!-- ... (autres métadonnées) ... -->
-    <link href=<span style="color: #808080;">\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css\"</span> rel=<span style="color: #808080;">\"stylesheet\"</span> integrity=<span style="color: #808080;">\"sha384-...\"</span>>
-    <script src=<span style="color: #808080;">\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js\"</span> integrity=<span style="color: #808080;">\"sha384-...\"</span>></script>
-    <link rel=<span style="color: #808080;">\"stylesheet\"</span> type=<span style="color: #808080;">\"text/css\"</span> href=<span style="color: #808080;">\"methode.css\"</span>>
-</head>
-<body>
-    <table class=<span style="color: #808080;">\"table table-striped-columns\"</span>>
-        <thead>
-            <tr>
-                <!-- ... (autres en-têtes de colonnes) ... -->
-            </tr>
-        </thead>" > <span style="color: #BF792A;">$OUTPUT_FILE</span>
+	&lt;!--Bootstrap--&gt;
+    &lt;link href=&quot;https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css&quot; rel=&quot;stylesheet&quot; integrity=&quot;sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN&quot; crossorigin=&quot;anonymous&quot;&gt;
+    &lt;script src=&quot;https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js&quot; integrity=&quot;sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;methode.css&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;table class=\&quot;table table-striped-columns\&quot;&gt;
+		&lt;thead&gt;
+		  &lt;tr&gt;
+			&lt;th scope=&quot;col&quot;&gt;Nº ligne&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Aspiration&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Dump&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Contexte&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Concordancier&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Code HTTP&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Encodage&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Compte&lt;/th&gt;
+		  &lt;/tr&gt;
+		&lt;/thead&gt;&quot; &gt; $OUTPUT_FILE
+lineno=1
+while read -r URL; do
+	FICHIER_ASPIRATION=&quot;../aspirations/${LANGUE}-${lineno}.html&quot;
 
-<span style="color: #BF792A;">lineno=1</span>
-<span style="color: #5470A4;">while</span> read -r <span style="color: #BF792A;">URL</span>; <span style="color: #5470A4;">do</span>
-    <span style="color: #BF792A;">FICHIER_ASPIRATION="</span>../aspirations/<span style="color: #BF792A;">$LANGUE</span>-<span style="color: #BF792A;">$lineno</span>.html<span style="color: #BF792A;">"</span>
+    response=$(curl -s -L -w &quot;%{http_code}&quot; -o &quot;$FICHIER_ASPIRATION&quot; &quot;$URL&quot;)
+    encoding=$(curl -s -I -L -w &quot;%{content_type}&quot; -o /dev/null &quot;$URL&quot; | egrep -o &quot;charset=\S+&quot; | cut -d&quot;=&quot; -f2 | tail -n 1 | tr &apos;[:lower]&apos; &apos;[:upper&quot;]&apos;)
+	COMPTE=0
+	FICHIER_DUMP=&quot;NA&quot;
+	FICHIER_CONTEXTE=&quot;NA&quot;
+	CONCORDANCIER=&quot;NA&quot;
+if [ $response -eq 200 ];then
+	#creation du dump text
+	if [[ ! $encoding == &quot;UTF-8&quot; ]]
+	then
+		iconv -f &quot;$encoding&quot; -t &quot;UTF-8&quot; &quot;$FICHIER_ASPIRATION&quot; &gt; &quot;temp.html&quot;
+		mv &quot;temp.html&quot; &quot;$FICHIER_ASPIRATION&quot;
+		encoding=&quot;UTF-8&quot;
+	fi
+		FICHIER_DUMP=&quot;../dump-texts/${LANGUE}-${lineno}.txt&quot;
+		lynx -assume_charset=&quot;UTF-8&quot; -dump -nolist &quot;$FICHIER_ASPIRATION&quot; &gt; &quot;$FICHIER_DUMP&quot;
 
-    response=$(curl -s -L -w="<span style="color: #BF792A;">%{http_code}</span>" -o="<span style="color: #BF792A;">$FICHIER_ASPIRATION</span>" "<span style="color: #BF792A;">$URL</span>")
-    encoding=$(curl -s -I -L -w="<span style="color: #BF792A;">%{content_type}</span>" -o /dev/null "<span style="color: #BF792A;">$URL</span>" | egrep -o="<span style="color: #808080;">charset=\S+</span>" | cut -d\" -f2 | tail -n 1 | tr '<span style="color: #808080;">[:lower:]</span>' '<span style="color: #808080;">[:upper:]</span>')
-    COMPTE=<span style="color: #BF792A;">0</span>
-    FICHIER_DUMP="<span style="color: #BF792A;">NA</span>"
-    FICHIER_CONTEXTE="<span style="color: #BF792A;">NA</span>"
-    CONCORDANCIER="<span style="color: #BF792A;">NA</span>"
-    <span style="color: #5470A4;">if</span> [ <span style="color: #BF792A;">$response</span> -eq <span style="color: #BF792A;">200</span> ];<span style="color: #5470A4;">then</span>
-        <span style="color: #5470A4;">if</span> [[ ! <span style="color: #BF792A;">$encoding</span> == <span style="color: #808080;">"UTF-8"</span> ]]<span style="color: #5470A4;">then</span>
-            iconv -f "<span style="color: #BF792A;">$encoding</span>" -t "<span style="color: #808080;">UTF-8</span>" "<span style="color: #BF792A;">$FICHIER_ASPIRATION</span>" > "<span style="color: #BF792A;">temp.html</span>"
-            mv "<span style="color: #BF792A;">temp.html</span>" "<span style="color: #BF792A;">$FICHIER_ASPIRATION</span>"
-        <span style="color: fi"></span>
-        FICHIER_DUMP="../dump-texts/${LANGUE}-${lineno}.txt"
-        lynx -assume_charset="UTF-8" -dump -nolist "<span style="color: #BF792A;">$FICHIER_ASPIRATION</span>" > "<span style="color: #BF792A;">$FICHIER_DUMP</span>"
+		COMPTE=$(egrep -i -o &quot;$MOT&quot; $FICHIER_DUMP | wc -l)
 
-        COMPTE=$(egrep -i -o "<span style="color: #B35050;">$MOT</span>" "<span style="color: #BF792A;">$FICHIER_DUMP</span>" | wc -l)
+		#CONTEXTE=$(egrep -i -C 3 &quot;$MOT&quot; $FICHIER_DUMP)
+		FICHIER_CONTEXTE=&quot;../contextes/${LANGUE}-${lineno}.txt&quot;
+		egrep -i -C 3 &quot;$MOT&quot; $FICHIER_DUMP &gt; $FICHIER_CONTEXTE
 
-        FICHIER_CONTEXTE="../contextes/${LANGUE}-${lineno}.txt"
-        egrep -i -C 3 "<span style="color: #B35050;">$MOT</span>" "<span style="color: #BF792A;">$FICHIER_DUMP</span>" > <span style="color: #BF792A;">$FICHIER_CONTEXTE</span>
+		./concordancier.sh $MOT $lineno $FICHIER_CONTEXTE $LANGUE
+		CONCORDANCIER=&quot;../concordances/${LANGUE}-${lineno}.html&quot;
+    echo &quot;&lt;tbody&gt;
+		&lt;tr&gt;
+				&lt;th&gt;$lineno&lt;/th&gt;&lt;td&gt;$URL&lt;/td&gt;&lt;td&gt;&lt;a href=&apos;$FICHIER_ASPIRATION&apos;&gt;Aspiration&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&apos;$FICHIER_DUMP&apos;&gt;Dump&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&apos;$FICHIER_CONTEXTE&apos;&gt;Contexte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&apos;$CONCORDANCIER&apos;&gt;Concordancier&lt;/a&gt;&lt;/td&gt;&lt;td&gt;$response&lt;/td&gt;&lt;td&gt;$encoding&lt;/td&gt;&lt;td&gt;$COMPTE&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;/tbody&gt;&quot; &gt;&gt; $OUTPUT_FILE
 
-        ./concordancier.sh "<span style="color: #B35050;">$MOT</span>" <span style="color: #BF792A;">$lineno</span> "<span style="color: #BF792A;">$FICHIER_CONTEXTE</span>" "<span style="color: #BF792A;">$LANGUE</span>"
-        CONCORDANCIER="../concordances/${LANGUE}-${lineno}.html"
-        <span style="color: #5470A4;">echo</span> "<tbody>
-            <tr>
-                <th><span style="color: #BF792A;">$lineno</span></th><td><span style="color: #BF792A;">$URL</span></td><td><a href='<span style="color: #BF792A;">$FICHIER_ASPIRATION</span>'>Aspiration</a></td><td><a href='<span style="color: #BF792A;">$FICHIER_DUMP</span>'>Dump</a></td><td><a href='<span style="color: #BF792A;">$FICHIER_CONTEXTE</span>'>Contexte</a></td><td><a href='<span style="color: #BF792A;">$CONCORDANCIER</span>'>Concordancier</a></td><td><span style="color: #BF792A;">$response</span></td><td><span style="color: #BF792A;">$encoding</span></td><td><span style="color: #BF792A;">$COMPTE</span></td>
-            </tr>
-        </tbody>" >> "<span style="color: #BF792A;">$OUTPUT_FILE</span>"
-    <span style="color: else"></span>
-        FICHIER_ASPIRATION="<span style="color: #808080;">NA</span>"
-<span style="color: #5470A4;">echo</span> "<xmp><tbody>
-            <tr>
-<th>$lineno</th><td>$URL</td><td>$FICHIER_ASPIRATION</td><td>$FICHIER_DUMP</td><td>$FICHIER_CONTEXTE</td><td>$CONCORDANCIER</td><td>$response</td><td>$encoding</td><td>$COMPTE</td>
-            </tr>
-</tbody></xmp>" >> "<span style="color: #BF792A;">$OUTPUT_FILE</span>"
-<span style="color: fi"></span>
-    lineno=$(expr <span style="color: #BF792A;">$lineno</span> + <span style="color: #B35050;">1</span>)
-    <span style="color: #5470A4;">echo</span> "<span style="color: #808080;">OK</span>"
-<span style="color: done"></span>
-<span style="color: #5470A4;">echo</span> "<span style="color: #808
+	else
+		FICHIER_ASPIRATION=&quot;NA&quot;
+		echo &quot;&lt;tbody&gt;
+			&lt;tr&gt;
+				&lt;th&gt;$lineno&lt;/th&gt;&lt;td&gt;$URL&lt;/td&gt;&lt;td&gt;$FICHIER_ASPIRATION&lt;/td&gt;&lt;td&gt;$FICHIER_DUMP&lt;/td&gt;&lt;td&gt;$FICHIER_CONTEXTE&lt;/td&gt;&lt;td&gt;$CONCORDANCIER&lt;/td&gt;&lt;td&gt;$response&lt;/td&gt;&lt;td&gt;$encoding&lt;/td&gt;&lt;td&gt;$COMPTE&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;/tbody&gt;&quot; &gt;&gt; $OUTPUT_FILE
+fi
+    lineno=$(expr $lineno + 1)
+	echo &quot;OK&quot;
+done &lt; &quot;$URLS&quot;
+echo &quot;         &lt;/table&gt;
+        &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;&quot; &gt;&gt; $OUTPUT_FILE
+
 
 </code>
 					</pre>
