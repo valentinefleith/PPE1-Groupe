@@ -5,8 +5,8 @@ def escape_html(code):
                 .replace('"', "&quot;")
                 .replace("'", "&apos;"))
 
-with open("../programmes/concordancier.sh", "r") as code:
+with open("../programmes/make_itrameur_corpus.sh", "r") as code:
     programme = code.read()
 script_bash_echappe = escape_html(programme)
-with open("script_echappe_concordancier.sh", "w") as echappe:
+with open("script_echappe_itrameur.sh", "w") as echappe:
     echappe.write(script_bash_echappe)
