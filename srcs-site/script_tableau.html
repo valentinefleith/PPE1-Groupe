@@ -91,7 +91,13 @@
     <div class="scriptContainer">
         <p class="scriptTitleText">Script de creation des tableaux</p>
 
-					<p class="script">Blabla ici explication de notre script</p>
+					<p class="script">Pour lancer le script, il faut donner en argument le chemin vers le fichier d'urls. Comme le fichier d'URLS contient la langue dans son nom, le script détecte automatiquement quelle langue nous sommes en train de traiter : cela nous a donc évité de devoir écrire 3 scripts différents pour chaque langue, nous avons seulement dû hardcoder le mot à l'intérieur du script. <br><br>
+						Ensuite, le script crée un fichier html qui contient le tableau pour la langue donnée. Pour ce faire, il va imprimer le numéro de ligne, l'URL, le lien vers le fichier aspiration, le lien vers le fichier dump, le lien vers le fichier contexte, le lien vers le concordancier, le code de réponse HTTP, l'encodage et le compte du nombre de mots qui se trouvent dans la page.
+						<br><br>
+							Nous avons fait en sorte que lorsque le code de réponse HTTP n'est pas le code attendu (200), alors l'URL reste dans le tableau mais le traitement n'est pas effectué. Toute la ligne contient alors l'information "NA" pour indiquer que le traitement n'était pas faisable sur la page. Lorsque le script tourne sur notre terminal, nous avons choisi d'imprimer le mot "OK" sur la sortie standard afin que nous soyions informées de l'avancement du script pendant qu'il tournait, et que nous soyions sûres de ne pas être tombées dans une boucle infinie ou dans un problème au niveau d'un URL en particulier.
+						<br><br>
+							Comme pistes d'amélioration pour le script, nous aurions pu envisager peut-être de séparer davantage les responsabilités de ce programme-ci. En effet, nous avons remarqué qu'à chaque changement, par exemple au niveau du concordancier, l'intégralité du script était à relancer : les dumps, aspirations, contextes etc. étaient regénérés alors qu'ils étaient parfaitement corrects et qu'il n'y avait que le concordancier à refaire. En effet, bien que nous avions un script "concordancier" indépendant, ce dernier prenait en argument le numéro de la ligne et ne pouvait donc pas automatiquement refaire tous les concordanciers. Cela a drastiquement rallongé le temps de lancement du script principal, et le nombre de fois où nous avons dû le lancer.
+					</p>
                 Script de création des concordanciers
 					<script src="codef/prism.js"></script>
 					<pre>
